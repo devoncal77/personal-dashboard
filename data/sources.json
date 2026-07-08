@@ -1,0 +1,59 @@
+{
+  "markets": ["SPY", "DIA", "QQQ", "AAPL", "MSFT", "TSLA"],
+  "sections": [
+    {
+      "id": "news",
+      "title": "Top News",
+      "kicker": "General",
+      "sourceUrl": "https://www.npr.org/sections/news/",
+      "feeds": [
+        "https://feeds.npr.org/1001/rss.xml"
+      ]
+    },
+    {
+      "id": "army",
+      "title": "U.S. Army",
+      "kicker": "Military",
+      "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
+      "feeds": [
+        "https://news.google.com/rss/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en"
+      ]
+    },
+    {
+      "id": "usma",
+      "title": "USMA",
+      "kicker": "West Point",
+      "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
+      "feeds": [
+        "https://news.google.com/rss/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en"
+      ]
+    },
+    {
+      "id": "army-sports",
+      "title": "Army Sports",
+      "kicker": "Black Knights",
+      "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
+      "feeds": [
+        "https://news.google.com/rss/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en"
+      ]
+    },
+    {
+      "id": "steelers",
+      "title": "Steelers",
+      "kicker": "NFL",
+      "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
+      "feeds": [
+        "https://news.google.com/rss/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en"
+      ]
+    },
+    {
+      "id": "country",
+      "title": "Country Music",
+      "kicker": "Music",
+      "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
+      "feeds": [
+        "https://news.google.com/rss/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en"
+      ]
+    }
+  ]
+}

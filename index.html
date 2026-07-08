@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Daily Briefing Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Personal daily briefing</p>
+        <h1>Dashboard</h1>
+      </div>
+      <div class="header-actions">
+        <button class="icon-button" id="refreshButton" type="button" title="Refresh data" aria-label="Refresh data">
+          <span aria-hidden="true">↻</span>
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <section class="briefing-strip" aria-label="Today summary">
+        <div>
+          <span class="label">Updated</span>
+          <strong id="updatedAt">Loading</strong>
+        </div>
+        <div>
+          <span class="label">Focus</span>
+          <strong>Army, USMA, Steelers, markets, country</strong>
+        </div>
+        <div>
+          <span class="label">Mode</span>
+          <strong id="dataMode">Live when available</strong>
+        </div>
+      </section>
+
+      <section class="market-panel" aria-labelledby="markets-heading">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Watchlist</p>
+            <h2 id="markets-heading">Markets</h2>
+          </div>
+          <span class="source-note">Delayed public data</span>
+        </div>
+        <div class="ticker-grid" id="tickerGrid"></div>
+      </section>
+
+      <section class="dashboard-grid" id="dashboardGrid" aria-label="Dashboard sections"></section>
+    </main>
+
+    <template id="sectionTemplate">
+      <article class="content-section">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow section-kicker"></p>
+            <h2></h2>
+          </div>
+          <a class="section-link" target="_blank" rel="noreferrer">Source</a>
+        </div>
+        <div class="item-list"></div>
+      </article>
+    </template>
+
+    <template id="itemTemplate">
+      <a class="briefing-item" target="_blank" rel="noreferrer">
+        <span class="item-source"></span>
+        <strong></strong>
+        <span class="item-meta"></span>
+      </a>
+    </template>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
