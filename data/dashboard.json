@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T20:55:00.780Z",
+  "generatedAt": "2026-07-08T21:13:24.540Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
@@ -53,6 +53,12 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
+          "title": "A new proposal for organ donation sparks concern",
+          "source": "Top News",
+          "url": "https://www.npr.org/2026/07/08/nx-s1-5883714/organ-transplant-death-donation",
+          "publishedAt": "2026-07-08T21:00:19.000Z"
+        },
+        {
           "title": "Should you sign your kids up for Trump Accounts? Four things to consider",
           "source": "Top News",
           "url": "https://www.npr.org/2026/07/08/nx-s1-5884855/trump-accounts-what-to-know",
@@ -75,12 +81,6 @@
           "source": "Top News",
           "url": "https://www.npr.org/2026/07/08/nx-s1-5886099/appeals-court-denies-president-trumps-request-to-halt-removing-his-name-from-the-kennedy-center",
           "publishedAt": "2026-07-08T17:21:06.000Z"
-        },
-        {
-          "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy",
-          "source": "Top News",
-          "url": "https://www.npr.org/2026/07/08/nx-s1-5885946/iran-trump-oil-stock-inflation-gas-federal-reserve",
-          "publishedAt": "2026-07-08T17:07:22.000Z"
         }
       ]
     },
@@ -135,28 +135,28 @@
           "publishedAt": "2026-07-05T14:48:00.000Z"
         },
         {
+          "title": "🇺🇸 Future Military Leaders: Join us July 14 - Congressman Zach Nunn (.gov)",
+          "source": "Congressman Zach Nunn (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0x6SkRwM0RsQW1DaDdraDJ5Szl0WG1icUtZSmxkZ3dyZ05GZ0s5Z3l0SEtZMnQzRUZTRmFsMDJJWklrSFJqUHhpRFdUY01pT0EwN2dUZk1XUHhodlA2cFVKcTQ1dlJ3Q3dqbU5RTVVLb24ySTh5ME9QdGNDZ0xRVFU5LXJ4ejhzT3habUNlYjRMeEo2YnhqWEtCNF9yZXFl?oc=5",
+          "publishedAt": "2026-07-08T20:57:19.000Z"
+        },
+        {
           "title": "Fireworks, music and patriotism fill West Point’s July 4 celebration - Times Herald-Record",
           "source": "Times Herald-Record",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV2JzYk1WS2E5eXVnOWYxSjZqVzNVeU5ubE56eDhBN3hMSUhtUHI2ZXVnYkplU1o2bnJPSm5oT3R1QWhNd05EU09kR2pQdEEtVjJuVDJVLVVpbHJ0eEpaa19Kcjd3NHRDLUh1TDZQUzV5NmRmajhMVDUtdXFPZGlkbThpZ3p2SUlab1JlWVBVZndMR1hEYVBWSThDM0RYX2NtcVM1N3JXREdtcFVXazJrTzhTV2pvVzdHWkNLZ1V4cENHem9nQmhjVlBqMTNzSXF2UmRzQQ?oc=5",
           "publishedAt": "2026-07-05T15:33:00.000Z"
         },
         {
+          "title": "U.S. launches more strikes against Iran - The Center Square",
+          "source": "The Center Square",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVhhd3k1YkNETl9MSnNMSmNLWlhJb3RXSkswbWRGUTFSSllYd1pIQlBaRTFsNVdUMURkcmZ0ay13N0tkTEt2Y2pQaXE3dkhPRm40S2FzNi0tNk05cW5kdXVqTktURk1UREpSMUllUWRvQVNaam9nMUNIbjUxWVB1dTQtbVV3UUNhVDEtb0xiNmJyZXhx0gGaAUFVX3lxTE9QS1FlQ2RmVl91WlhNRDlYYlV3VmxnVHM4aXhxT1cycm5zQnZkVTZtbnNJN2NJcUNDMmh2ZXdoa0xHU1hEdU9WVzFGV2pCb3pRUUhLT1I1ZGdueEtzLVZMcU5DdTI0V3djdXJMUDJjZldXUnNEc1F5NUF5OERrSkI1dmtTcVF6WUZZSDdkUElmVjJUaWhlRTJvMHc?oc=5",
+          "publishedAt": "2026-07-08T20:29:00.000Z"
+        },
+        {
           "title": "The Age of Energy Warfare: Lessons from the Ukraine and Iran Wars - Modern War Institute -",
           "source": "Modern War Institute -",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOENLbmY4c2tIQWR2N1NCekd6RzhuUFFDZ05TMk5lbElWakFpREtjcFI1eFd2UVA1S2JuWFhqdm1SUlcwUVdCZUtCYy0ybFN0eVFPZ2FFTFNRTUlxTER5RDB6VDNQTlI1TkJHbEgxTkxmWmhlQU5GSjBPS1NEdlRpd1h0QWMtNjJuaFMtX05EaWYwWDNwaUE?oc=5",
           "publishedAt": "2026-07-08T08:17:03.000Z"
-        },
-        {
-          "title": "On This Day: West Point admits women for first time - upi.com",
-          "source": "upi.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU0tWeEw2Tnd6US05V3VMcU9xdGpfbEZtRmZObVFBSHZfbUw5NUdPZGFFUXg5TThOOERJZ3lxc2JCa3Vtd21WbHpLTmViUUtQbHpOdlU0ckNzSkZ1WXdMQmZXa0lDMktENG5qRVB4WWw5dnJaNUxIcWdMUDZuRmZaYmZzblQ1OEpnMkVCZ28zTDB2RVpwQzVoT3lSVjkxamhnMWk2V19odlTSAa4BQVVfeXFMUDB1Zm1QTzJ4dnNubFRxRWxqeGczc0FhZmZkT3pzcDlBd1lwVmlXeXEwWmY2SmN6cHEyaG1YZG4yU3Eyb3ZWYnZBNjRpdUp3VjBTZmd6akFCM1BVWTBzU0dCU1A5VzV0N1gtMzlwNEc3eHlxVGZnYnZURDhycXlmck1CMHl1bkdweFVCS19xZWZZR1Uzd0xsZHdZTVlDd0ZOMGp0ejlPbmRRd0d0d05n?oc=5",
-          "publishedAt": "2026-07-07T07:00:07.000Z"
-        },
-        {
-          "title": "West Point instructor highlights the academy’s founding - Spectrum News",
-          "source": "Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0tMRFRjVTBRQjY3cGI0Rm5vZU5PenJQT05NWDkxNElROHlmMUg3WWJGNDhaYkRockFYa2huYTZMYjNjQ2F2aGRnY2MwSmxVQ1JQcWtjSUN3MUEzek8wMXp2b3hUdkRPckJNNUlSMlN2NEt6bjRiNHRFMmlCZGVEYjdNaklGTTQtY3B4U01SeVRPR1pNcUszZWNMc3dEeDR1RHhfM1E4RWt6MENOSENCNlRkWlNmLTFQdFp1VA?oc=5",
-          "publishedAt": "2026-06-28T14:30:00.000Z"
         }
       ]
     },
@@ -205,16 +205,16 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Ray Fittipaldo's Steelers chat transcript: 07.08.26 - Pittsburgh Post-Gazette",
-          "source": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWW93MjYzRE1uM2p6NHV3eFI4aS00bjBTOWZwS2FzQkxISTVCZzhZa25RR1dCQzBuR0J5YW14RW9CMzlRajFEdVZUcXJhWmFqUDMtS3dIQnJ2bFQtWFdKTTZFRHEtZTNXTjdEWEd6ZFRvdFJaQkZuRjktSnJVWlBfLUdISkJRSE8xTy1RZkxPSVB3cEctUUpERzR1MTJzYVltb1JFUTVCaDY3b05mQUs4Z21HeTlKQzl0QkhKaGU5RGp5SEg3aGN6QkpHSQ?oc=5",
-          "publishedAt": "2026-07-08T20:17:30.000Z"
-        },
-        {
           "title": "Steelers newcomer already looks like a waste of money - FanSided",
           "source": "FanSided",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWZ2NXRmTm4tWXp0b1h4Wmlzb0pXdWo4b214b2h1ZU5uYnFtYlNsNC1hajl2LTRRMFEtVmI5UWpXOENfS2ptY0llaU03aG0wVjU4UW8wTTAxWGJIRnk0aEdKYm9fVTNvMTRfSkFZQW9kYzVKNWZ4dllXSmlmNGJWT3pYVXM?oc=5",
           "publishedAt": "2026-07-08T12:00:00.000Z"
+        },
+        {
+          "title": "Ray Fittipaldo's Steelers chat transcript: 07.08.26 - Pittsburgh Post-Gazette",
+          "source": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWW93MjYzRE1uM2p6NHV3eFI4aS00bjBTOWZwS2FzQkxISTVCZzhZa25RR1dCQzBuR0J5YW14RW9CMzlRajFEdVZUcXJhWmFqUDMtS3dIQnJ2bFQtWFdKTTZFRHEtZTNXTjdEWEd6ZFRvdFJaQkZuRjktSnJVWlBfLUdISkJRSE8xTy1RZkxPSVB3cEctUUpERzR1MTJzYVltb1JFUTVCaDY3b05mQUs4Z21HeTlKQzl0QkhKaGU5RGp5SEg3aGN6QkpHSQ?oc=5",
+          "publishedAt": "2026-07-08T21:02:58.000Z"
         },
         {
           "title": "T.J. Watt tumbles in ESPN edge rusher rankings - Behind the Steel Curtain",
