@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-07-10T12:38:00.893Z",
+  "generatedAt": "2026-07-11T11:19:43.679Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$751.71",
-      "change": "+6.31 (+0.85%)",
+      "price": "$754.95",
+      "change": "+3.24 (+0.43%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$524.19",
-      "change": "+1.42 (+0.27%)",
+      "price": "$525.78",
+      "change": "+1.59 (+0.30%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$723.28",
-      "change": "+11.84 (+1.66%)",
+      "price": "$725.51",
+      "change": "+2.28 (+0.32%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$316.22",
-      "change": "+2.83 (+0.90%)",
+      "price": "$315.32",
+      "change": "-0.90 (-0.28%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$384.36",
-      "change": "+1.02 (+0.27%)",
+      "price": "$385.10",
+      "change": "+0.74 (+0.19%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$406.55",
-      "change": "+12.62 (+3.20%)",
+      "price": "$407.76",
+      "change": "+1.21 (+0.30%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "U.S.-Iran fighting appears to pause. And, life inside Israel&apos;s military zones in Gaza",
+          "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
-          "publishedAt": "2026-07-10T11:43:38.000Z"
+          "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota",
+          "publishedAt": "2026-07-11T10:00:00.000Z"
         },
         {
-          "title": "Taliban declares war on smartphones",
+          "title": "Shy on the dance floor? Virtual reality &apos;partners&apos; aim to help you find your groove",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/10/g-s1-132396/smartphones-taliban-afghanistan-ban",
-          "publishedAt": "2026-07-10T11:12:39.000Z"
+          "url": "https://www.npr.org/2026/07/11/nx-s1-5882228/dance-virtual-reality-vr-app-augmented-world-expo-weddings",
+          "publishedAt": "2026-07-11T09:00:00.000Z"
         },
         {
-          "title": "Shelling at night, gunfire by day in Israel&apos;s expanding zone of control in Gaza",
+          "title": "With the white nationalist group Patriot Front, what you see is not what you get",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-          "publishedAt": "2026-07-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/07/11/nx-s1-5888571/patriot-front-washington-dc",
+          "publishedAt": "2026-07-11T09:00:00.000Z"
         },
         {
-          "title": "Waymo called the cops on teen riders, raising privacy concerns",
+          "title": "Spain edges Belgium and will face France in World Cup semifinal",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/10/nx-s1-5886113/waymo-police-privacy-driverless-autonomous-vehicles",
-          "publishedAt": "2026-07-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal",
+          "publishedAt": "2026-07-11T06:58:56.000Z"
         },
         {
-          "title": "No internet, no screen time? FCC weighs cutting subsidy that lowers school internet bills",
+          "title": "Trump threatens Iran after Ayatollah Ali Khamenei&apos;s funeral saw calls for his killing",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/10/nx-s1-5878405/fcc-erate-schools-internet-discount",
-          "publishedAt": "2026-07-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
+          "publishedAt": "2026-07-11T06:34:09.000Z"
         }
       ]
     },
@@ -91,16 +91,16 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "US Army orders tighter social media presence - stripes.com",
+          "source": "stripes.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjVDOWI4UVd2UkpBYXhfN09kLWlwb3drZ0hjQzZrcnFla1JNakhMV0VzSGhBcVhETGdRWXA3OXRsMFlUQ3dSRmFfYVN4MC1KTW0tWjlMRFJFNF9CeUl5TkdrTkZDRVJCX21laG9BV19vTzdLVWZsd0lDMGo1dXFYRHoyRXpWSnBkV3EwRm5TbUViNUZKSjZuY2VBMA?oc=5",
+          "publishedAt": "2026-07-10T16:55:02.000Z"
+        },
+        {
           "title": "Army orders mass shutdown of official social media accounts - Army Times",
           "source": "Army Times",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXh5UDhPNWpacG9VSTIyWVNCT2lwRkpZVHZtSnZrX3FlT04yNmxJTDNDY2Q0UDJpcmVoMUJHMEFPZlMtQ1htZkdYVFNoWDNOaXJMOHVJOWNQNDJtWFA1T0lJcFB2Z1pnQ0pUMHRZT1hZX0JjYjVPVmtlV1BhUFFZMUJxWE85S0lqOG5nV3BTR2Y0RElMTDhxTDlhMXhIcGpqT08tUnRwYWlkSkc2N0JMV1pR?oc=5",
           "publishedAt": "2026-07-09T19:45:46.000Z"
-        },
-        {
-          "title": "Army review of Iran conflict's deadliest attack on U.S. soldiers to be shared with families - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVB0c01aMHE3MVdYWFZtYzB2SXFiM1NvSmFJY1g2dUVRM1NCVGJsNS1RTnYxamJJOVpIdW9FSVFXYTQ2aEdDZEpjUkx4dmpvOFV0cXJ0SWMwM0FDVDNXMWYwZmIycXM2MUwwSF82OU9tMEczdUlTWm1lOHh0anFzckhPNTZHRG9lOEUtYllBbzNkWF81?oc=5",
-          "publishedAt": "2026-07-09T15:07:00.000Z"
         },
         {
           "title": "US Army will mothball 10,000 sets of clunky IVAS goggles, report reveals - Military Times",
@@ -109,16 +109,16 @@
           "publishedAt": "2026-07-08T13:20:46.000Z"
         },
         {
-          "title": "L3Harris awarded $84 million to make new radios for US Army - WHEC.com",
-          "source": "WHEC.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZjBIeHBBQjU3YmNYYVR2WXJYbGVsdjdoRmpkUXlTZjBqVFoyUGZqQ2F5bE1ZZTlzZ1NPa3A4Um9rMmpNWG5vd0Q4dko4QVpzODJEUTVVQndOUE9kTDlBMEZLV2RhNmpudnZha19pRkhlTU5MaWhJeWRtbXJVTlZoQzJMbDB3QWotSi1haXozNFhxUXM?oc=5",
-          "publishedAt": "2026-07-09T16:53:25.000Z"
+          "title": "Army review of Iran conflict's deadliest attack on U.S. soldiers to be shared with families - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQVB0c01aMHE3MVdYWFZtYzB2SXFiM1NvSmFJY1g2dUVRM1NCVGJsNS1RTnYxamJJOVpIdW9FSVFXYTQ2aEdDZEpjUkx4dmpvOFV0cXJ0SWMwM0FDVDNXMWYwZmIycXM2MUwwSF82OU9tMEczdUlTWm1lOHh0anFzckhPNTZHRG9lOEUtYllBbzNkWF81?oc=5",
+          "publishedAt": "2026-07-09T15:07:00.000Z"
         },
         {
-          "title": "Army Scrambles to Remove Trump Insults on Hacked Military Sites - The Daily Beast",
-          "source": "The Daily Beast",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUUZCcHZSZFpFR2ZDRXNOdlJGeW5VTWlwZXlLNzRYRXV4aDNkZ2RQN3FveXpQSy1mRkhtcnZMU3FXUnFsZ3dnelZ2U1FsN1NKWE0xVXJGVVNNYWh2V01vbmozSld6d0lPQmNwb3NwYjhYMTZFaTlaUDFMUXp4Q0Z5djNQdlBYOFFTZ3hKZUdzZWZBXzdwN2FxTmFkZUo1Mk5NeTNDVkpyRHJkQS1ySlg0cWdzYlVpakxaV1BwaEF1R21EWUJVSFN5Wk5mT0pmRXQ0WHc?oc=5",
-          "publishedAt": "2026-07-08T22:24:00.000Z"
+          "title": "Iran says it hits U.S. military targets in Gulf, buries slain leader Khamenei - Reuters",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0l1cEJNcjlUQjVYcXFjUVViTThKdnVqSGJMTUpEM2Jqem5HUGJyN1VvcEtyQUdrUnFBYWFhNXB3aEFUX2RmRHhCbXJxQ1JhX1Y1RXVyZUp3TXFlY1RFRXpLMWxHQnlQa3Q2OU1wekRWOEY4dGVzNVhQMnhYd1gyVEM0c080bUdGY01KNGJ2RW05MnlQMER1Q21EeUNfME1TVTh2aFk3TFZqMnpnOFowUzhmMWpXdUVHTmJtaXE1VkU?oc=5",
+          "publishedAt": "2026-07-09T10:13:00.000Z"
         }
       ]
     },
@@ -129,34 +129,34 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "From NEPA to service academies: Local students begin military careers - Wilkes-Barre Citizens' Voice",
+          "source": "Wilkes-Barre Citizens' Voice",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSGZVMkJ5UUlCZWxwUmRRVkhpdjN3RzhzQjBYWEFsNzRnNTFmd3Fnems1bXdhWVNLYkJfMHN4cGktZXBXcEI0bXlyS25FejBDc1NjLXZ1VGRlRWk3VndicTJ5YjJJVWNtM2FVX3IwYVRNdlpvVmxGVjRXMEgtVHhrZlpxaTBTZHJDemlHaF9JM1c5blNlVHRfeFBUTWRvU0hWSTRfZDRrVFYydTFjdzBZ?oc=5",
+          "publishedAt": "2026-07-10T21:50:39.000Z"
+        },
+        {
           "title": "I visited West Point, the elite military academy dating back to the Revolutionary War. Take a look inside. - Business Insider",
           "source": "Business Insider",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTa3VIeFFLdG9pZ3R2NUozdk5ieENfTXY4ZUFsakxmMnk5ZkxyMWNUTl9MdENVaGhGWFltZnRHaHF6RC04VzlPSXViR0M4OVFHaHV2RWpvRkYyUEdXR0RNOG9qanFzRzZBWTZtVnBnSGlmM0pPX2lUZWxrZHM?oc=5",
           "publishedAt": "2026-07-05T14:48:00.000Z"
         },
         {
-          "title": "Fireworks, music and patriotism fill West Point’s July 4 celebration - Times Herald-Record",
-          "source": "Times Herald-Record",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV2JzYk1WS2E5eXVnOWYxSjZqVzNVeU5ubE56eDhBN3hMSUhtUHI2ZXVnYkplU1o2bnJPSm5oT3R1QWhNd05EU09kR2pQdEEtVjJuVDJVLVVpbHJ0eEpaa19Kcjd3NHRDLUh1TDZQUzV5NmRmajhMVDUtdXFPZGlkbThpZ3p2SUlab1JlWVBVZndMR1hEYVBWSThDM0RYX2NtcVM1N3JXREdtcFVXazJrTzhTV2pvVzdHWkNLZ1V4cENHem9nQmhjVlBqMTNzSXF2UmRzQQ?oc=5",
-          "publishedAt": "2026-07-05T15:33:00.000Z"
+          "title": "2024 Yankton High School Graduate Is Accepted To West Point Military Academy - yankton.net",
+          "source": "yankton.net",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd3JZaXdHWXAzU1dYR0ppVm1VY1V1TVhTYTZvUXN2ZEZOcGhMTF82S0xScHZaZmxvQnAwUkFXUUw5dlF1UlY0VzVlZ2lwa0VSZ2tFUUZzY0pQZDc5R0xJdFpXQXpjVWNGZm45S1AxOUFMSS1hYm1nMlNERTVIMnlrLWtIdk9MQnhFMGdB?oc=5",
+          "publishedAt": "2026-07-11T03:00:00.000Z"
         },
         {
-          "title": "High school seniors catch glimpse of West Point possibilities - army.mil",
-          "source": "army.mil",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeHp2T0E4b1BxV29tdENrQTlRTGhmMDk4SG1Jdi1ULTZIcFVwX3F3bzQyTUZHS21RVDJuX2RxMXJKUXNmTXRvOHUwa3cyQU1ZUnFYM1BUM0Uyci1weFl1ODdrSWtJM1k4akxoNXQ3RFJaaC1vTnhITy1jbnIzMENrcm5ZYlFkLU9EeHJIMDZUWjRQQlQ4Z1BUb0NsdHBzdHhTNnBNbGQ5TXREdXZPR1dCMnppR3RYLXR1MHFpVzM2SUs1YjZsVk5pUHhlSEZjOS01MFRPeU4wONIB1wFBVV95cUxNeHp2T0E4b1BxV29tdENrQTlRTGhmMDk4SG1Jdi1ULTZIcFVwX3F3bzQyTUZHS21RVDJuX2RxMXJKUXNmTXRvOHUwa3cyQU1ZUnFYM1BUM0Uyci1weFl1ODdrSWtJM1k4akxoNXQ3RFJaaC1vTnhITy1jbnIzMENrcm5ZYlFkLU9EeHJIMDZUWjRQQlQ4Z1BUb0NsdHBzdHhTNnBNbGQ5TXREdXZPR1dCMnppR3RYLXR1MHFpVzM2SUs1YjZsVk5pUHhlSEZjOS01MFRPeU4wOA?oc=5",
-          "publishedAt": "2026-06-26T22:33:31.000Z"
+          "title": "Graduates Virtually Toast to 50 Years of Women at West Point - West Point Association of Graduates",
+          "source": "West Point Association of Graduates",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUHd1QUMwUDl4NjZkZGdkdHJtNmp1QXVXaVNLaldJZk4tUE5LbElSSTFUMEREX0JYSHByc09VT29DdGxhbzFybEdLSjQwWl8xcURVa1ozdzE3VGY1a28wMW03TWhyN09FMHRKN2cxdkV6WGp1RnZ6blUtVGswY0lSOF85MXpvRVJySTdJSnFlcmFic1k4MVJiMjJTYw?oc=5",
+          "publishedAt": "2026-07-08T19:28:28.000Z"
         },
         {
-          "title": "Secretary of the Army, Hon. Dan Driscoll, meets with U.S. President Donald Trump during the 2025 Army-Navy Game. - DVIDS",
-          "source": "DVIDS",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN1oxTTB5VEQ1OFRsNmZHQjdvWW83bE9pbUxOMnIyZTRTSnpTODVycGlLc3NpUG1zUHVtZnNnU3FoTzF3ZklnZGRSRUVPM1RTT1piVUpfVGtGNm1WYTBQdXEyMFZVd05NYV9zMU1CT19pdkFDcXc0cElSeHZzaF9PbWVmX3c1YWNMU3VCcjRRWWdxM3VuaGxfcmtRcWVSZjJ1NTFvMkZneEVIQXZWOFFCMHZON2xfbFBQbXV1Z2Y5SWtUeXVmeDdCLXhadFZ5S2hEZjlzNlZIZUhxcFJKQXc?oc=5",
-          "publishedAt": "2026-07-08T15:24:00.000Z"
-        },
-        {
-          "title": "West Point instructor highlights the academy’s founding - Spectrum News",
-          "source": "Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0tMRFRjVTBRQjY3cGI0Rm5vZU5PenJQT05NWDkxNElROHlmMUg3WWJGNDhaYkRockFYa2huYTZMYjNjQ2F2aGRnY2MwSmxVQ1JQcWtjSUN3MUEzek8wMXp2b3hUdkRPckJNNUlSMlN2NEt6bjRiNHRFMmlCZGVEYjdNaklGTTQtY3B4U01SeVRPR1pNcUszZWNMc3dEeDR1RHhfM1E4RWt6MENOSENCNlRkWlNmLTFQdFp1VA?oc=5",
-          "publishedAt": "2026-06-28T07:00:00.000Z"
+          "title": "The ICJ Advisory Opinion on Climate Change and Cyber Operations – Part II: Jus in Bello - Lieber Institute West Point",
+          "source": "Lieber Institute West Point",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVExUHlxYjgxaU5HTDVmTXRWQVlobEp6Y0dha3VidGxPUVZ5SURqQ3dZOVVxQncyRHVCZzdzOHVxWFl1YU5COVFwbE5CVGY2aDI1OEhuOTZtc3hldnNFSjVTeHY5ZkE5YWRaLUx5OEtTdzRTaklkdGlUMUFxMUF4eFZXRHJrWjhvUHNvUXhhOElUeEJReDhqUE1rYURfVEZsaURqbE5B?oc=5",
+          "publishedAt": "2026-07-10T19:51:51.000Z"
         }
       ]
     },
@@ -173,12 +173,6 @@
           "publishedAt": "2026-06-11T07:00:00.000Z"
         },
         {
-          "title": "2026 Patriot League Men's Lacrosse Championship Game Preview: No. 1 Army West Point Meets No. 2 Loyola Maryland in League Title - Patriot League",
-          "source": "Patriot League",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ19wNG0wRjhKMWZvTnR5aWk0eTRoSnR6OW1JdkduVGJjM1dFUEs1YURLS2ZOcjg0YUxsUGl1QzFhOHFCWXFfSExUeVV2SkJWYjRQY2xyZmFIalJZelJqN1BwVzZwYXNUYWxoYUYtelNLVlpiUWJxM3NuNTFyYzRWcHVCR2RTdWNKMHNxZnphc3BMUHFJS0h4b3Q0RGQwWnFRVF9qLUtsV0NtUG5OdEd4dlRacU1wNnZhcU9TMTdldXJkOTZzdjlmcVIxT3ZUUy1tZ011NzBjM3RMdVRKaDg3RGhob3ZaN0hOQ2tla0hjZnd2QzdqX1BKc1Z0R0I?oc=5",
-          "publishedAt": "2026-05-02T07:00:00.000Z"
-        },
-        {
           "title": "Army West Point athletics finishes 79th in Learfield Director’s Cup - My Hudson Valley",
           "source": "My Hudson Valley",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnVUT1JrdnhvYXpZWmpWNWo0TnVKcklWZEpnSnR0ZWNxZEY3XzY5XzItTm5DN0lJZEVHZFZHcUxDd2ptT3k0SHB3OTg4MFQ1b2xfU0Y1am5zeFFseTdqaGh2Um1FYzE5anZJbDkxcmpOYVlsTWdRUm43aXJRSnZFQW9qTlg2amE3T2kxT0w0RUJUdnJxMVZacEpIWDJONzF6Yk9lTl80Rk4wVmFLQTdUX0NXcEg?oc=5",
@@ -191,10 +185,16 @@
           "publishedAt": "2026-07-01T07:00:00.000Z"
         },
         {
-          "title": "Softball falls to Army West Point in season finale - Holy Cross Athletics",
-          "source": "Holy Cross Athletics",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGpDanNXTmxXeF9Tb1FEbl9Ycnpmb1UwY0pzQ0hnNFhoMUQ4S3dfT1hBVzY5NFZfaTRLbFVSQXp4ajNtbjJNeE1mTUZtU01BdkVndnpTMmZiWkE1SFRYbk9JNlYtTEljN0J0Q0hUX09OTDV4M1N2emducmxSbFlLMTY0aU9IeVVWLWdnaS1mX2RvR29TNnVPOQ?oc=5",
-          "publishedAt": "2026-05-03T07:00:00.000Z"
+          "title": "Army sports - Newest Black Knight athlete recruits report on R-Day - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc19lWDNTY1MtY04ybGpGLXFtWnhSaHM3Z3ljQnR5eUoxd0ZLTnhtQkYxQ01hdDBqRlMxQW56V0NmQUxZaW8wWjFDbHFLa1lZTE0wSGZuUk9sTzV5eEk3WnFyLWIxYlRVVlRYNDdUdWxMSzdUYk41T2h3NkxPVmNITUMtX3duQXM?oc=5",
+          "publishedAt": "2026-06-29T07:00:00.000Z"
+        },
+        {
+          "title": "Noah Dolbin, Army West Point Black Knights, WR - News, Stats, Bio - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93ZmRWRWFwWFB2Z3lmZ2NCbHBwbkQ4Q2pGeXBsRUl5Y1RESGRzOThyMVVuQWo4bnBxZjlwWVgtOXFCRzNobkVVcFBTbGpzM081YnR4Yndpb1Jzc1FmS24xZWFrX2FWQjI5cGljOGNoWWNFaTdtYmdOZ1M0Rlc?oc=5",
+          "publishedAt": "2026-07-06T19:49:36.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Pre-camp position previews: Running back - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qWVBiZzVWSVhrbURObUFhZUtRekRQTDVxTmtZS3JIaGZmbFN3NUoteVQtSHoxOUVCcW05NGdJdG9hUERrLXk3cFZtdmZlNmRpYTc1cmxSQkdMU2UwUEVlUUM0RlMzSlRhcl96SFI0Y1g0T0xraF95Mg?oc=5",
-          "publishedAt": "2026-07-09T12:05:03.000Z"
-        },
-        {
-          "title": "Former Steelers safety throws shade at Teryl Austin - Behind the Steel Curtain",
-          "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNXI3bU12MUlpb2ZlTEVReDc0NU5XWkpUSm02endSOXphQ2NDajg2SnFLOHl2TjExU0dkS3JrVkpvWGJESVlxNkdrdVNfcndpZG8tODR3R2VZUHJNbk53UUt1VWxBM2dUa3czWktLQkR6NEpmejBCQnNjYU8ybFBVeHlVTWpCMWJmZDhRUE8yZzZhZUNGU0tKcHlhc2FkclN3TTdubFBMaGZtbHg2SDVXTDB3NkgxX0sxc3dUZTRXRl9nVGVlQktSTHF5ak5PZDVaRWZYUnBRbVNWaDJDRk9pcUNB?oc=5",
-          "publishedAt": "2026-07-08T21:15:09.000Z"
-        },
-        {
           "title": "NFL offseason power rankings: No. 20 Pittsburgh Steelers welcome back Aaron Rodgers, hope Mike McCarthy changes their arc - Yahoo Sports",
           "source": "Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWkN6cjg4STFaVVpoOEdNaGFfRDRxTy1lTDJXZURFOHBoR1NxWHVxMVE5ZjZUejBTNXZPdGFyZU9GWkV0dU4zZWdEa0w4YWpoQlZQWjkxMWp5THI4VVc0MUVVRy02V3VKM01iMXFlellNNjBjVEZuVHlGeWstLXBXU29lU3dzNy1oQ2R2M2FKbjlpUzBRWjcwWXdqNUVOQjhNMVFrOS1kZElya290TG4zdDBEWkNjR0xXdlVWVG5QR3hZYWRxOWUwdG1BbTlTclFfVkl4R1dNWDlzY2JDTUlRS1pSSHhNM25hOWVtZHBzOFpNWXJWYWU3WjVsTkI3SHc?oc=5",
           "publishedAt": "2026-07-09T13:38:19.000Z"
         },
         {
-          "title": "Christopher Carter's Steelers chat transcript: 07.09.26 - Pittsburgh Post-Gazette",
-          "source": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcDZrQk1EdUU1eDluYUFoMVdaN0Y1Q21BVC1pQ0hWcWtNTk8yZHl3cmNqalRCQVBic3NGdGUxU2k0ampkTGg0YmNiTUxXVkoxYUVvQ1hqNGlpT3FTSmkzR0hlRlpoQnAwa0FJVEQ2NFpDT1lkYUE3Z1FFQnlfdS10dG9kWklsNGpMY2swd21XQ05KNS1vQUxhQXUxQ2FMTlNRSVVCTXJmUHhBUWFWSEEzUURpc3g3VjV4WFBkNVNqZkFYQm41Y0RHUUwtMzA?oc=5",
-          "publishedAt": "2026-07-09T13:00:04.000Z"
+          "title": "Carolina Panthers veteran slams ‘uninteresting’ Steelers in 2026 predictions - Behind the Steel Curtain",
+          "source": "Behind the Steel Curtain",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdXJQS1VGRDR0b0pQb0VwMXFtVlZlanduOThaU0FVNzUwRGpubmh4QWc3YUNRWFFGR0Rwd3djUXVHdlhIR00zVlhRc3lObUVPRWMyRkl3UzZEVnNJa2JHWEhObm55bjZ2UlZORlVRV1ZUZ3FlUVNnX2hTSC1pV1hwLXhObGo0WHJCUlc5RFN6bVdSZWkxZzZKc3E1MFVtYTFKTl9QN3RqeVRWNVpBdm9objh5SFdSMEJTLTM4N3hLOVE5QkVOUTVyclhSRTBCQXdWRlJEVjJhdmxNVmxEX2RJVTFqc0I3aU5DX1FYdFJHQnhmU2VKbHNJYTlTODVOeVBHODkwQmxGSzhnTEw1aEc0?oc=5",
+          "publishedAt": "2026-07-10T16:07:18.000Z"
         },
         {
-          "title": "Terrible Situation Could Force Steelers Trade - Sports Illustrated",
+          "title": "Steelers Benching Aaron Rodgers for Will Howard? Pressure Could Force Change - Sports Illustrated",
           "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUVEMlZkVHlybHJaQXB2RGRXSUo0ZEhXTnN4dzFNWXEyUnJlTHJXclRjNFJIdm93aHp4Zmo2TXRmcDI4aVJmeS1Nem5RVS1kQjJmQlFyVWtYeFEtaG1GREY4YlEyRmJDQmJja2FWbUNDMXhLbEQ0VnBybGJpX3NoeDdxZnozNTBYVjRmWGhFT3U5RDJCSTMtN2hKQkU2bS1v?oc=5",
-          "publishedAt": "2026-07-09T15:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzBqN3FRbm93TkVIQkNMYnlyZk42aUpia0JUbWR2eXRhbmpQMl8zME9uZW5qYlhLYko4S0FFRlVXeDdPczdOaHpIN0hEdnVfdGxzZ3kxVE1WbmUxTWx5WnFzbXpGa0JMMGhqQldzaW9IdFZHQWFHcFBJVlM0VjhzZ0ptdnlvcGZaMnZIQ3ZDeU0xUklYRnVTaHJENzdlNjdUZ2xVMVVQVnRLM3BjbjNuTjlHaw?oc=5",
+          "publishedAt": "2026-07-09T18:00:02.000Z"
+        },
+        {
+          "title": "Joey Porter Jr. is looking to cash in on a booming market. How much are the Steelers willing to pay? - Pittsburgh Post-Gazette",
+          "source": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbnpnNThwM3ZqQkhHVmdqcTdvNUp6YnN2azlNYk94dXBvLUIxQUI3Rll2ejAxY1JyeUtTa1pVRkpONFZ3QS1VaEZOOVBXck1KSEllQ0N6YzJsZS1YMVlHLTVwT3h4bUhQYzRXWGJFTDNSakJHMGg0TnhaUm5LRUVUZkNjWXNNcDNZaEdodnRyWmpDbWJvWWlWaHluU1pQUmxLNmpWRWNXeWxaWXNFVkd3SEVnem4way1HZ1diM0xmbXFCdXF4aG1OQ0xBU1JPTXNLOXVFTnB3bmVhRGMwZEZ1Rkhn?oc=5",
+          "publishedAt": "2026-07-11T05:18:20.000Z"
+        },
+        {
+          "title": "Steelers must capitalize on massive schedule advantage - Behind the Steel Curtain",
+          "source": "Behind the Steel Curtain",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeXp1TGRSMzdQNEhZY1g2WHdVc3dQZHJ1UWdwVXhiUGlJSzB0am02eWMzWDZuWTkxemZlWFFPOFZmbmhaUHdxTWtOcmppRU52U1lucEZ1TF9yVk1yc25ETk1yVm1WVHFnZ2FiTkR4RERuWlB0RFQ5WVRQN2JxelBMbjNkdXhMNkJQVUFLcXE2X0gwUVFpWGhYcHJqNHpDblFpdVpEd3Y1UzJ1c1E1UkhkQ1J3N25lSElTYV9qRWVhbkpldjNydFhjY3hJNWxPNUJqcTFMaU94VHFmOTN0Y1d2SnJzNVJ6eEFtRndRaDI2V29laGRNTmNERy1TTE1uQQ?oc=5",
+          "publishedAt": "2026-07-09T20:30:03.000Z"
         }
       ]
     },
@@ -243,34 +243,34 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Ne-Yo taps into country roots with new album 'Highway 79' - The Tennessean",
-          "source": "The Tennessean",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYS01ZWdnampKMC11bXAzczhhWmNfaDlzWHR6Wm5FZGpmeWlrclRxMDM5QmQ2c25EV1NWQTRmLVpDVW1oS3VXZGFaTWpWR1N1X01nOXJfd0lmQnJ1Q1RKekgtLW1nMWlfRm9nWmtMRUJBZ2xyUGNNTnRlLUY1OHQ1V2tUdThibG41NmZSbGFpaE52OWRRUUIydDJGUUxTb285NV9Sc3YxQjBvd28?oc=5",
-          "publishedAt": "2026-07-10T10:03:00.000Z"
+          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country Music",
+          "source": "Holler Country Music",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
+          "publishedAt": "2026-07-08T10:42:00.000Z"
         },
         {
-          "title": "’80s Country Music Star to Release Original Music for the First Time in 18 Years - parade.com",
-          "source": "parade.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0JXTm9tM1FfSVYxTUVQSXNCVHFDNmIwbGl1WnJZM0dnS3hiZHhlNTVBdmZDYW9vampubHlCUlA3c2trVEo3dGtpaEd4TGtSOU4wNHFLNmRNQU56QUo1Q3FGUWJ4T3ZaUFlobkZFQlZneXpnMzNrYTZEMGhFOVNfN0xSNUhrNWhFR1NUcmpzREdKaENONV9iag?oc=5",
-          "publishedAt": "2026-07-09T20:03:14.000Z"
+          "title": "Kameron Marlowe Shares New Song \"Makin’ Me A Liar\" - Country Swag",
+          "source": "Country Swag",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XenI4cGtLREZuM2xvdlh5NUNmVWlJLVM2d01MandZOUhZWGE2UUQtUXk5dmY2Y1BWZmhMNXJKcDh6OVpUV3ZmUFJDNlRpMlJxWktraktvWmgtZlZhZ2VHX0doS3JldDc0ODJtcVJMcUV5V0k?oc=5",
+          "publishedAt": "2026-07-11T01:27:16.000Z"
         },
         {
-          "title": "Randy Travis Announces First Album of Original Songs Since 2013 Stroke - Taste of Country",
-          "source": "Taste of Country",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZQXZBMjNyallOb2JRUm43clY0ampoUExjb2d2djY3RnNMSXE1aU4ycW4tN2tpM1VGNXA3LU1zYy1RYWRZeklrOFNxZ2d3akFoUlRMWkxKQ2JxcFljQ0M5XzBIUkpfZ0FHaEE?oc=5",
-          "publishedAt": "2026-07-08T17:16:48.000Z"
-        },
-        {
-          "title": "Alan Jackson’s Not Done Releasing New Albums Just Yet - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPenRPbVNLVm5vTVZzQnJ3TDBnUHQ4aE5hOWhtMlRndFVYWURXX0c5ZWJtV0lSQzRsWWJtWGQySE1kMDFzV1B5cm9mYU1ZRnNWY0d2clpON3llRGU4M2FKNFpTTnI0akZuaU5FNHZZaGgwTkp5MDdhb3dMLWVxbHBKcFFPd0w4MHltOHV3LQ?oc=5",
-          "publishedAt": "2026-07-03T19:28:59.000Z"
-        },
-        {
-          "title": "Riley Green drops new single 'Go Again' with Hannah McFarland ahead of September album - Fox News",
+          "title": "Riley Green's new 'Think As You Drunk' music video is winning over country music fans - Fox News",
           "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEVLN2xndDc5ZEdGUWt2VU42Y1pYY0YwNmVjQ0FSU2RNa21ocEh5YVAzaW9lSGJaZm1mRkk1QVRaZm80MmxOcGVxSDVCNV9ZM1N4UmdZNjdaVmVCZFJ4WlJ6UU80VkVnRTl1YzdfaTdVYlgtVlFTcENGeFpRa1lETWpWTmhuekdJYTFhTEZfNlBma1p1OS1vbFdSSGJTTVFFOGNJdTZIby0weTdwU19vZld6S1ZMbzA?oc=5",
-          "publishedAt": "2026-07-03T13:57:46.000Z"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcmJDUUlrQndSNE1MeU5sUkdWWEgzSGVWTmVxODRjWWM3Q0hEWW1uaEIwVnFqeGlqSk1oMXBnZG5TQ2F6YmJIZlpyandvRkg1TmcyYno5X2Q2b2tKMjcxTDRMWTB0WkZFSDRISjRHUEtFa1Zua0l3Ulo2VEJPTnRJQzhMaDBiZlJuVTZaODYwRFhRdWJTRk5kdEk2V2FYcTctQVBGSUVDTVJfR1FpTlE?oc=5",
+          "publishedAt": "2026-07-10T13:41:18.000Z"
+        },
+        {
+          "title": "ANDREW FARRISS RELEASES NEW COUNTRY/AMERICANA ALBUM ‘THE PROSPECTOR,’ AVAILABLE NOW - Hollywood Times",
+          "source": "Hollywood Times",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDdWdzNKYk4xeHZVcXNDMjZjdTU0QnNRSV9sSWFWVTZNWWs5N24wc0NpbllYVThiZlYwYXBzZUxuc2JvbDhYMzc1aXZjUVhNanFjOXNTT0NCd05Ic0YyMjdSbnBraEluWmJXWXRlbUR6ajc3a29FR3MwWHdKR0EyY2Q1SW1FNEZwOVJVLVRVVUxLNUo3b09MMXZ6X09XbFZsRTAyeHlvU3ZqRHdL?oc=5",
+          "publishedAt": "2026-07-10T19:56:56.000Z"
+        },
+        {
+          "title": "‘American Idol’ Winner and Country Music Rising Star Releases An Impactful New Song - parade.com",
+          "source": "parade.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0xUTGpmc3VQbEVpNjlneTFLZGJvY2NnUjZ5OGdpOFpBU3RxNWlwSGhOZWpETXNqcl9wMHNhdTdQODd2NF9IdW1FaVNZdHBobkx0SjJpTUItMl9FaF9vNkl3MlR0WS05cTdEWDhEQnZKZmNTZ24yLVJMdmdxM1U2dUhZa2VsWF9DTE5HSFl6Nmt2Z0F0N3dKejNtSHdUMGxsQS1pY0pSSy0?oc=5",
+          "publishedAt": "2026-07-10T19:23:13.000Z"
         }
       ]
     }
