@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-07-16T11:54:32.736Z",
+  "generatedAt": "2026-07-17T11:41:43.974Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$754.81",
-      "change": "+2.98 (+0.40%)",
+      "price": "$750.72",
+      "change": "-4.09 (-0.54%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$525.95",
-      "change": "+1.26 (+0.24%)",
+      "price": "$524.83",
+      "change": "-1.12 (-0.21%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$717.74",
-      "change": "-1.97 (-0.27%)",
+      "price": "$705.94",
+      "change": "-11.80 (-1.64%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$327.50",
-      "change": "+12.64 (+4.01%)",
+      "price": "$333.26",
+      "change": "+5.76 (+1.76%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$395.63",
-      "change": "+10.70 (+2.78%)",
+      "price": "$401.10",
+      "change": "+5.47 (+1.38%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$394.46",
-      "change": "-1.72 (-0.43%)",
+      "price": "$391.06",
+      "change": "-3.40 (-0.86%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Zelenskyy fires Ukraine&apos;s tech-savvy defense minister in government reshuffle",
+          "title": "Takeaways from Trump&apos;s primetime speech. And, at least 2 dead in major Texas flooding",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
-          "publishedAt": "2026-07-16T11:33:11.000Z"
+          "url": "https://www.npr.org/2026/07/17/g-s1-134162/up-first-newsletter-trump-speech-illegal-voting-texas-flooding-wildfires-air-quality",
+          "publishedAt": "2026-07-17T11:27:01.000Z"
         },
         {
-          "title": "The political risks from war in Iran. And, ICE&apos;s use of force is rising, report finds",
+          "title": "Photos: When the World Cup came to town",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force",
-          "publishedAt": "2026-07-16T11:29:01.000Z"
+          "url": "https://www.npr.org/sections/the-picture-show/2026/07/17/g-s1-133556/world-cup-watch-party-photos",
+          "publishedAt": "2026-07-17T11:17:24.000Z"
         },
         {
-          "title": "Oil companies are making billions. In the U.S., calls to tax their windfall are growing",
+          "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war",
-          "publishedAt": "2026-07-16T09:01:00.000Z"
+          "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+          "publishedAt": "2026-07-17T11:13:58.000Z"
         },
         {
-          "title": "DHS pledged body cams for all immigration agents. Months later, that hasn&apos;t happened",
+          "title": "&apos;Superworms&apos; help scientists with a vexing task: Cleaning animal specimens",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/16/nx-s1-5894825/body-cams-ice-shootings",
-          "publishedAt": "2026-07-16T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/07/17/nx-s1-5896494/superworms-clean-animal-specimens-skeleton-research",
+          "publishedAt": "2026-07-17T11:00:00.000Z"
         },
         {
-          "title": "Bike lanes and speed cameras disappear from the DOT&apos;s list of proven safety measures",
+          "title": "Trump&apos;s team says &apos;no children&apos; died from USAID cuts. Consider these 3 cases",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/16/nx-s1-5893672/dot-bike-lanes-speed-cameras-safety-measures",
-          "publishedAt": "2026-07-16T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths",
+          "publishedAt": "2026-07-17T10:37:02.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "News - U.S. Army, allied forces strengthen bonds with Estonia's next generation - DVIDS",
+          "title": "U.S. Army's only full-time artist in residence captures military history one painting at a time - WTVR.com",
+          "source": "WTVR.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlFlOUM3dERiMGRWWjM3OTVMRy14enc0Q1hzT1hTYnBWWFZCNHctUDFHQUItZU1zMF9seFBMOUYxYXJtRk5YU2xqVjFBT0oxRE5FOU9XVVZpTDFHaW1zQWR4b2YxX0tQQXUtaFdUY1oyazVJb2w4YTdLZFFhMFEzSENrbXY3WDZjRW14ODYzR3JHUQ?oc=5",
+          "publishedAt": "2026-07-17T04:06:34.000Z"
+        },
+        {
+          "title": "Trump Announces $10B Investment in Defense Industry - U.S. Department of War (.gov)",
+          "source": "U.S. Department of War (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNU14X3lQeTJuMWFVdHIydzcwcl96VXR6MmFhNTFqSkpKT3A3VG4wanVncjNnb0ZYNjNNRkNpN1JSa056UWhKYXQ0NS1BeEhVUHRRblgxTlY5NTMtODRaTTJpSHgtSEtEaC1DOFdDb3QyaUotcGUxREFla2wyMW5abFlMMUJ1NHRJMnVvZk1FU1pRZXEwS0phQXZIY0tHNlpEOUxmbDhJVk5vMWtPQ24zYklHUQ?oc=5",
+          "publishedAt": "2026-07-16T13:48:29.000Z"
+        },
+        {
+          "title": "News - Brooke Army Medical Center’s award-winning care honors its namesake - DVIDS",
           "source": "DVIDS",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeDBZVXRwOGpYc0xJNGM3UUlMeWpUcmd2cGh6WUthLXJ3ZFNrTmt1a3pOWXJWMHZMMnNOU3MxNGZ6WjE3eHBYU25RQ3ZGc0t4Zy1GWk96TDN6U05VVGJlOXkwTHpDRlNMUkMzWngyVFlhOVYwdGhSZzB5Z1RDaWRHUmN6MHdiX25RNUxZSkZFTkM5T3piSzRlOUdFUzRtZG54LTY5Zi1ac0I?oc=5",
-          "publishedAt": "2026-07-16T11:49:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakZrRU11MVZ6SHlWRndSMVh3Y2VWaENLamw1Vm1fZnh0V2pWbW1sZjQyNVVpRm5zazRWTXQ2eHB0eEtxZ0lXRUd2NWJqc015aWdINmtQOHRsS2dCbXdrelcyaENhQ2I1Uzk2aVZsQl9SdHJNa21KdGJ3R1Nabml3eUJkNnNnRWVPVmJ4VUpQTy1TdXgycU01d2ZHMF9kX2xld2l4NURR?oc=5",
+          "publishedAt": "2026-07-16T18:24:00.000Z"
+        },
+        {
+          "title": "Call for water conservation on central and north Oahu military bases continues - Spectrum News",
+          "source": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM2lnd2swTHRiVG1CLXV3d0lZVjlHVDFXX1JxdWdQNE1hdU5TRmRzQUhKTDJxY0loUUNxRGNuT0tmQ1VDTlB4QUZOejllWE8xOTBibFhJZ01Nc21mZ0NJNkJRc0VFVHRMVWRDNTNkTF9lM29sRER1LWE5OWZWZ3hZcGcyeW1FWHFyTnkxcGFacGN2Z1NmalVsTlg0ZUhxN0hCSGtkODBJTFRDQ2Vnclc2a1U3VDVlRXRfWUZ5elg2SHptV09FejZXdWxYQlBONGM?oc=5",
+          "publishedAt": "2026-07-16T18:37:00.000Z"
         },
         {
           "title": "Pete Hegseth says US military to start testosterone screening for over 30s - Al Jazeera",
           "source": "Al Jazeera",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZG5TY1N3bTB5ZFo2czZuZE9VSWlVZEtTN21ZbGhYZldTVTY0YUdhRzd1R05QZkZDbmN1VjBfM1UxSWFmQmVZdlFSYXM2Nl93VlQ0TUVFbzQwNkZ3cnpGZXFWQkg2eWFPWkZzUnY5T0NiR2szWldVM3pVN0QxMnhJajE2RktTNzJxNnpvbk5uS2RHYnVsRXZkNWhGZlliMU96c09EU2hKMkdDdmFQZ2pHUDlrejhpUdIBuwFBVV95cUxQOUFiam5Tb05UcjhMSHVvbzIyRUNfWThuSEQ4YlZ5Y1duQ2ZDZWU3RGNOX21FWkZyVnBLYjN1YkFyMVVOaUVWaC0tVDJiVVI3WE10NFB3azBRZ0NRX0w1dEtqQktvbVIzdjlocE5FSWpXdXRpN3NVZ3ZYS2p1NUdZR0drVHVoNXI3Z2tlWmdYaEV3VHI4NjdNdTh6dVNSTGRZSE45TVhvUlg4WDhMcGRWRWcxUDZrdXRnZTFJ?oc=5",
           "publishedAt": "2026-07-16T08:19:59.000Z"
-        },
-        {
-          "title": "Hegseth touts a high-testosterone military, as doctors question his claims - The Washington Post",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjktSjdHNURXeWNOWEJHUDVlU1JWMU1GRGhFc0pDTVdZUzNOeHo4a3ViYVg5Zktyei1fS1ZvNzAtS0tsc2RSTnZWQUJwb095WGx0dTlLSk1uQ0gzdWk0Yl9NWC03SlhJMTBJVDhkeUViYXo5cVBjM2pnaS1GY2VrWmJPLWloOFRlQmlrNTBld2ZQRWxaNUp2Z1dWRzAzcW1YZHlXWXU5UUd4T3YyUVFHOThoTFU3bmxsNGc?oc=5",
-          "publishedAt": "2026-07-16T11:35:42.000Z"
-        },
-        {
-          "title": "\"High-T Department\": Hegseth approves testosterone screening in military - BBC",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwS3lnZ0J2Z3k3NHg4eS1ncHF5QkM2T3ZpeThpWkw4OTJqVVhPQUdndWhxQ0ZhaWV4a2c3b3g1Q3hLSTlNX3JXUkloRW5JTlhRakktV2x2LXpPdw?oc=5",
-          "publishedAt": "2026-07-16T09:10:38.000Z"
-        },
-        {
-          "title": "WATCH: Trump speaks at defense summit at Army War College in Pennsylvania - PBS",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdTJCdy1tN0xTX3daMm8wNkx6Q1VqR3pJNmVFaFNzMnBSQUIxQUZoZ2RzX1FZeHpEX2FmYnFjSmJDUzhaMGhOaUR1RVE4YTJ5VUpHdzBpV29tbGVQX180MnhiYTUyVXJGZ3BDR2oteGMtM21mZzQzTkNTbXZkamFpTWl1TDhXeENZY0V0V0JybDVUTGh4amxoSms1ME9qNzlJSDQ2cWdVcnF2eFI5ZnF0VFQ2Nk5aMEZaOUtCVG5GSHhOa2RrS0hrb1ZLMNIB0AFBVV95cUxQWjNmQmI5eGdJV3JMSzNLUEJ3b2Rmc3plRmw4WFlaMUdEUWE1LXZESm40N282M3FBVUtlc2UtR0xHUVBicnFuMWdKdTZEUW44MGE5THhoSmN6czVlMGJIV21lTWE5SE9hSTJIUFE0UTk2VF9TUV9vQ1pCTkRpbnJZNzg3YjNFQVFrbjhKTFNtai1hbmpEemUwU1EwMWdUWHREdlp1aGlTMVY3WTlHLXM3NWhDYlJGbDFKQUJSZUJzU3ltV2ZpVE5SMWpQbnF5YWY3?oc=5",
-          "publishedAt": "2026-07-15T16:44:29.000Z"
         }
       ]
     },
@@ -135,22 +135,22 @@
           "publishedAt": "2026-07-05T07:00:00.000Z"
         },
         {
-          "title": "Lieber Studies Armed Conflict in the Indo-Pacific Region Volume Series – Introduction - Lieber Institute West Point",
+          "title": "Dual-Purpose Objects - Lieber Institute West Point",
           "source": "Lieber Institute West Point",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd0NxanBwSFpCZlZTYURfdVd4MmJtSEVObWoyZk9RMnFRUm8zME5HOXpKdGh6bU1iRFlJeTdITGZCZGpiTjRjb1VGTnc0bDg5U1FzbFBsV0o5RlZUUmJBWWtHNXMzRUxfOEJQUWtLQkJuLVRxQmFUOEJkcFg4REFIOEd1N2RoSThfNllvaVJ3V1NFbVdHd2h3?oc=5",
-          "publishedAt": "2026-07-15T17:45:06.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YV200emJpRVU4d0pZRVVETXBlZFpLZVYtWnNicnJaMjR1YWtWNmVIT0FzUFBhMWRPcHp5THV0RTVOVUltT3Axam5fVjJsbHZRMWhTQ0ZyczlZTzQ0ZC1R?oc=5",
+          "publishedAt": "2026-07-13T14:35:08.000Z"
+        },
+        {
+          "title": "'Woke' military academies targeted in new blueprint for sweeping warfighting overhaul - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVJsUUFvYWotSHFwQnRJQWJxUkFZenoyYVdNZmRtcWVDMXctU2VrMUhwOFVOV2lHYnd4OFpxQkRpWE41cnc5Q0lYRkZKRU1CMHUwV0pqUU5uR3FENG5VZ3lqZWdtNlBodHpMd3hCU24xRDJHS0xjY3hBVnVENUJMU1JvTWRIdjZPenlwN3VkUzlSNURONVpEUjd6eGVDc3BvaEpwbjZ4SFFkVVQxVlHSAbMBQVVfeXFMT1NueXR0RWNEMU1nRG4zdFhNYy1zTkxYb01iamdNeGhhdVdvaUt3RXlra3RSTGVDM2N0bk95eXJvOUZGdTU0Zi1QR2dtMUg4U3N5WHBVNjNDaGlnQnRtbnc5cXpUSlZnRG5HWWxSNHVta3diVUFTbG5pdDZ0Q3V4bFBhaHNJVlAwS2phYTRFYUpvNXpIUWEwOTNrRU9JLVB0Z1VTM2NhTlItb3NuMmNrNmR2YWs?oc=5",
+          "publishedAt": "2026-07-16T19:39:01.000Z"
         },
         {
           "title": "US Rep. Tokuda announces applications for US military service academies - Maui Now",
           "source": "Maui Now",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTNRZVJGR200cmU2bUdTYWNlSlFXSXZQYU5PdUh0bUZaa1pObTJIUWhHeDhMQ1hKdW8tSFFmU3RIZjVWUldWaWFWOXpkSzJfMWpNTy10ODBXT3NHQklEVkg5dkJHeE1LLV9lX1ZSRHJZbTVWZFpPazFYZmlCcmxLV3lLVG1Ec2NKUWduWVdDSXhwOWhxSWhJVjdYVkVKZkIxUW4zeA?oc=5",
           "publishedAt": "2026-07-15T19:00:00.000Z"
-        },
-        {
-          "title": "From NEPA to service academies: Local students begin military careers - Wilkes-Barre Citizens' Voice",
-          "source": "Wilkes-Barre Citizens' Voice",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSGZVMkJ5UUlCZWxwUmRRVkhpdjN3RzhzQjBYWEFsNzRnNTFmd3Fnems1bXdhWVNLYkJfMHN4cGktZXBXcEI0bXlyS25FejBDc1NjLXZ1VGRlRWk3VndicTJ5YjJJVWNtM2FVX3IwYVRNdlpvVmxGVjRXMEgtVHhrZlpxaTBTZHJDemlHaF9JM1c5blNlVHRfeFBUTWRvU0hWSTRfZDRrVFYydTFjdzBZ?oc=5",
-          "publishedAt": "2026-07-10T21:50:39.000Z"
         },
         {
           "title": "High school seniors catch glimpse of West Point possibilities - army.mil",
@@ -179,22 +179,22 @@
           "publishedAt": "2026-07-15T16:11:00.000Z"
         },
         {
-          "title": "2026 Patriot League Men's Lacrosse Championship Game Preview: No. 1 Army West Point Meets No. 2 Loyola Maryland in League Title - Patriot League",
-          "source": "Patriot League",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ19wNG0wRjhKMWZvTnR5aWk0eTRoSnR6OW1JdkduVGJjM1dFUEs1YURLS2ZOcjg0YUxsUGl1QzFhOHFCWXFfSExUeVV2SkJWYjRQY2xyZmFIalJZelJqN1BwVzZwYXNUYWxoYUYtelNLVlpiUWJxM3NuNTFyYzRWcHVCR2RTdWNKMHNxZnphc3BMUHFJS0h4b3Q0RGQwWnFRVF9qLUtsV0NtUG5OdEd4dlRacU1wNnZhcU9TMTdldXJkOTZzdjlmcVIxT3ZUUy1tZ011NzBjM3RMdVRKaDg3RGhob3ZaN0hOQ2tla0hjZnd2QzdqX1BKc1Z0R0I?oc=5",
-          "publishedAt": "2026-05-02T07:00:00.000Z"
+          "title": "David Green, Army West Point Black Knights, RB - News, Stats, Bio - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUUlFLaGJGdGJHdVlSeW1XOHRyNnh4V21SMElSYmRPeVJBLTlQaC1Da09aQlg0RmQ0b0d0WnVSN3NaeklvYXJGMGl5X2FYQzZ2YUtfZlkyVEV5S3JSQXd6NFhoV1lzZE1MQ3pvY0pjYmNabEZ6NHlhVUdWaUw?oc=5",
+          "publishedAt": "2026-07-12T10:46:50.000Z"
         },
         {
-          "title": "Patriot League Women’s Lacrosse Championship Game Preview: No. 1 Navy Meets No. 2 Army West Point (5.1.26) - Patriot League",
-          "source": "Patriot League",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUk2OUV4VTc1ek5mMFI5S2FMQ0hoSFY2cElrYXZMblFVM3RwYlg5Q3ZIaUZFRkRaR1c1OE9qVXhiOEMwdHhyTzk3QlNoNDNPLTJ2NkJCUFVsYVZOTWczdi1sTXZiM1NxRHpSQURtSDBTaDBFdzJGQUZtbWUzZG5xLXJ1X3JZQ21PQjB6OERIT2tEbVN1X3JFVlRDN0hqV25fbE42NUN2WlNjbG5ZMU16ZU5pWWUxbGlrbmV2UG9aRDQ2Um1QWE5LNl8tRDRUYS1LLU1ha0Y3NVdQT0FWVXc?oc=5",
-          "publishedAt": "2026-05-01T07:00:00.000Z"
+          "title": "Santiago Fernandez, Army West Point Black Knights, QB - News, Stats, Bio - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMXBTR3JBUG91dDIwOGhrenNXb2hXblhER2JpLXBjMHdLd3NVejdWakV1UEQtaG9CNlB1bC1aSXdUbDJ1NXJYR0F1Yk5wVUZkSXdFZVE3S0FrNm84TWM4cXN2TXY5bTdZT3lKbHJncUtCY0lnZmVadE02VS1XdVVtbWRVVkFjdw?oc=5",
+          "publishedAt": "2026-07-12T11:46:32.000Z"
         },
         {
-          "title": "Army West Point Athletics Joins Forces with Firehawk Aerospace in a Multi-Year Partnership - Learfield",
-          "source": "Learfield",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2FEdTVWLUNwSF9tQWMxRHFhcEFwVExCU29Oa2dDNnNBT1NacUEtbXVmS0JFLW9oVUVIQjU3T1djQ3dWd01HUV9YTDlkUjkzdENEcDRsMWlCVjdKWUtOUFpvVk9jMVE5amRZZnJKaEVnNG92YlU5UWk0S1BQQ0ZzMXBEb0FQcW8tZl8xWWtZU3VLQzdlWGd5T0lNejdTUFJJZWZ1TWcteDI1LVhIRzN0bC0zUHh6R1owNUxfX2t3ajZhRms?oc=5",
-          "publishedAt": "2026-03-18T07:00:00.000Z"
+          "title": "Christian Cherilus, Army West Point Black Knights, WR - News, Stats, Bio - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOE5fZVllQWxyUUVZYnY2SzIwb2kwX1FuY01sVU5IOVpHZGZXU0w4MkdxamVSVC1RT3hrNUlscjA1SldkOHpjQ1c1eE82UWRTTDR0VXJOY2Y5Y3U5NGNscTNxZFpzX2sxdDlUZ0VvSDdzNEdqbU5jOUdlTHRFN2x4TjFsMzlpQQ?oc=5",
+          "publishedAt": "2026-07-12T11:39:42.000Z"
         }
       ]
     },
@@ -205,16 +205,16 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "George Pickens Joining Steelers Biggest Rival? - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1NYeUxNcTBKX2lwdkVlLW5vT0hpeXhlWWtJblJWa1c0b202X2Vvbl9tOHhRaE9QN0dOUXRGaUt3Vm4yeFJsZnBJR1hxZUo2NGtJRV9ZN05oSEdKMFlfUHN0WF96TDIwc3FMeEgzR1ZVREthSFFDc2x0WEhFTXRoTWptVS1JMFY0bzRmdTNRdnVJQm10a2E2SQ?oc=5",
-          "publishedAt": "2026-07-14T12:00:07.000Z"
+          "title": "Joe Flacco calls out Steelers’ T.J. Watt for big hit - Behind the Steel Curtain",
+          "source": "Behind the Steel Curtain",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRF83dE5zMVdndjhnc3B4NlJfZ1pjZ044c2Nad3JSYkM5Q29fc3dCd1lQR01ScGlySTFaeWotVVBsenZSbzVaM3BDZ1dLWWtacjBkdm1WaktBYnNGM2QyLWxxNE05NU1kOUhLcjBOV2tyQUtjd2VNNm5idm53c0FVZFNGZldPQlBBU2Z2MFplU0hXZ0dXYVhvem5ORDJ5b21PbXlTdFBjaDJXc3kxaEQzWFEwMVJPQkZfV05GNm1tZUJYZ2pXcFdfSWx3b05VQVVkWEF6Nkp5dw?oc=5",
+          "publishedAt": "2026-07-16T13:03:09.000Z"
         },
         {
-          "title": "Steelers And Rams Making A Trade During Training Camp Is A Big Possibility - Steeler Nation",
-          "source": "Steeler Nation",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VaXFUU0cxUlRkRXpGZnFxdmtyNXpSLXVuOWtfSWlSaDc5SWw5Mk43R0tuY0tiUm5hTEhoMWZ6WUYtY3NaVklMckM4VlZCakdFalFQVVhtSTMtbnY0M1hmckRfalJWSzU5cGpWM2dtVmFqelNvQkNBcHEyN2U?oc=5",
-          "publishedAt": "2026-07-15T01:16:43.000Z"
+          "title": "ESPN Names Six Steelers With First-Round Trade Value In Roster Review - Steelers Depot",
+          "source": "Steelers Depot",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjdpNDZZT0dlSGR0aXlaekdHVzBQaXFxc3hlZU1BOWJfUmhrUTJCQlJjUXJaR3lsUUxLdGZ5LVBNUm1lRUxOVUpTUFBWRVNvNlFTTFA4VmtZbUdVM3g4VjJ4YmN5NTVaM1pSNmVNSDhFZGo4bWtSVnd2Ym9hSmpDMXc1N2hJMVpVc1dXQXR6SHhKVXY1TlVyQmlySzAxZGtIMXB0UVNLTQ?oc=5",
+          "publishedAt": "2026-07-16T13:20:58.000Z"
         },
         {
           "title": "Steelers revamp WR unit: 'Not short-handed on pass catchers' - ESPN",
@@ -223,16 +223,16 @@
           "publishedAt": "2026-07-15T10:00:00.000Z"
         },
         {
+          "title": "Five Fast Facts: Germie Bernard - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VTTN5aWF3eGpnQTc5SmFkR3hjS2s0UjNxbzlrcmM1RFFtQmF6dFV3Y19BYlEteExqTG9pNV82TU53QlNnYnA1NFBaV1lnbG45ZzJMX0ozbllndXh5RDdOTWxELXUwSGw3QjFJSg?oc=5",
+          "publishedAt": "2026-07-16T19:58:54.000Z"
+        },
+        {
           "title": "Steelers training camp countdown: Why rookie WR Germie Bernard is going to be a key player for the offense - Pittsburgh Post-Gazette",
           "source": "Pittsburgh Post-Gazette",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa2RUTHpHVjNON2xDR0l6cmVCZ2NOaWpmYnlNYlpMTkVNNzg1NVo0NnJyNUhxdmhEN19kMk5GSU5UaS1BV2thQkdtM0lFTVVtQUZKcElHQ1NGUGJrSHcwdmk0ZXQ4SWlKV3FWOF9VM0lncmNQVFhfMUs2YWJkRXAxYzJhSjVQc2NxcWtVQWs4UXZsclVZeXRuNVhVeVI0MXhXMmlDSWRIYXF0OHB6U2NnSUtKQkRwbHVOc2QzdVo3bFRkTjgzVTZHakZFQ09ITURucEJYY2FBZ3dzZw?oc=5",
           "publishedAt": "2026-07-15T08:00:00.000Z"
-        },
-        {
-          "title": "Get to Know: Domata Peko - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LQnZFeGxWNTliQzlORUhEeU9GeHMyVUp6bnNsZ1psWVJDWDREYVhsYnlCWjlSRV90UV81OWl0bW1wbl9VR1VMMUVWaVNIUTNNZEF5OUVVVmZaM1hSY3BfS1ZwMA?oc=5",
-          "publishedAt": "2026-07-15T13:03:30.000Z"
         }
       ]
     },
@@ -243,34 +243,34 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Five Essential Dark Gothic Country and Roots Albums - - Saving Country Music",
+          "source": "- Saving Country Music",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOFlBLW8xQmp5R0RRcVN0MWlNNE5jYm1PZjVBeUlKc3A1bDNRdnVDVGV4WmdmbE05cTRzRi1nOGRKRFVKdGJZR1k2TFFnUEhXUy1LQnJhZWlJei1LeVo2WThjWTY2V1RXZVBSZDdyX2YxcUJLRjZoQzZaaVFBaGRnOWdna2VmSTFDampB?oc=5",
+          "publishedAt": "2026-07-16T19:28:59.000Z"
+        },
+        {
+          "title": "We Didn't See This Coming: Wyatt McCubbin Just Released One of the Year's Best Country Songs - All Country News",
+          "source": "All Country News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMjNZem10Uk1SOGdJTHFYd21DcFhLUWFRZ1JsQnEtemJkaFJvdlRTS0lDY2NiWGFFbU9UQi10anVTZG5zNnBfXzlyTEQ2dDFld2Z1RXRtUXJueXYtd0hpTFUyUUpOODJKQXBLb0ZzU2FSTzVXNnltY1FLZHM5czl0bWgzY2k5R21Oc3c5a0FRY2FxZlgyRVh0Q3ZfQ2RmVG83MXhRbTM4ZnUzbFpDSlNaMV82TXVScTJSWk5aclRIZDdVT0EtTUE?oc=5",
+          "publishedAt": "2026-07-17T11:28:09.000Z"
+        },
+        {
+          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country Music",
+          "source": "Holler Country Music",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
+          "publishedAt": "2026-07-08T07:00:00.000Z"
+        },
+        {
           "title": "Kassi Ashton Releases ‘Bratmobile’ as Follow-Up to Viral Hit - Backstage Country",
           "source": "Backstage Country",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjd1Rm42NVRDaUVlWEpFSi1ZZ1JvcXRoUDlEUWJKcHpMYWpyYy1HRjA2TVBSQXpHeW92S1l0Vmp5NGxzOFNCVDVPZXhsaC1UbXZqWFJoLVZCMUIyMkppeFBKTlRxbG83dl9KT1pqUDJiaEN0bXAycjA1SURBaGRManJwNVR1Szg0QzkwTnlaWjBFTE9odGllLUdrWVVxeExa?oc=5",
           "publishedAt": "2026-07-15T19:30:26.000Z"
         },
         {
-          "title": "Casey Barnes Releases ‘She Does’ Ahead Of New Album And National Tour - Noise11.com",
-          "source": "Noise11.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0liTE5YeGdxWDhrLVl2VTM5MVlCVFd0b2dpeE93R050d0cxVjZrcFVobFBjLTZ3djQ2RzRZOEEzTHZyWVNXRzEyY015cEJIajZCdDZDZEN5QVROSGlwTmtfdjF1dGZMb08wb2tBNWpXelM5aHlQT0VGdVRYcGtIMzRSSzhtYS1aS3R5WHR2VEJSWDQ?oc=5",
-          "publishedAt": "2026-07-16T02:45:51.000Z"
-        },
-        {
           "title": "Florida Georgia Line back together and the latest news from the world of country music - The Irish News",
           "source": "The Irish News",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNXdtcjlWOUVYSWJZbFFSWjRiWWRoLXNyYnJ5NkIzcW9hLThOY01tS01feGdwbVNhS1ZVRm9YcUR1VHI2OGNJOFdPdTByRkIwaUtTc0VYTjFLN0pPalI3Q2ZFXzM1emxYY0NrUVRmbGJKTm9CSFlTaDl2dEtZQXYtV1hsbVZkNGFFcko3cndMNVJCd3ZXZzRlTUN4OUZRQVA5SXZKcE0tMUozekFwQnJRdjlQeERQVG9OQjN5aVh3eGhZZ0NYZnVWX0NEc0VMaWYtalBHbGNWajRwTGhBNENPeVh0ZlZCbW1XT1E?oc=5",
           "publishedAt": "2026-07-16T10:45:38.000Z"
-        },
-        {
-          "title": "Lee Brice Releases ‘Dogs Are Barking’ Ahead of Deluxe Album - 102.7 Coyote Country",
-          "source": "102.7 Coyote Country",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGxBZnNTblc5cGNJMHdNdEExM0RHZE91bW4tU3dxNlkyZHE1MkxWM0R5TGJ0RlZ3d2xDS3M1MFZjc1M2UjNqdnRNLVFxSmJOTGdMNm5lcnZSX2VKU1lDWlV4dHNjdEE1bEtyS2NRak9pWHNDaVNYcmFBR25sOUZQejV6Tkczc3NCRm04aGZqZmg4dWZXbXRPOW5TVlh3Zw?oc=5",
-          "publishedAt": "2026-07-14T16:25:27.000Z"
-        },
-        {
-          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country Music",
-          "source": "Holler Country Music",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
-          "publishedAt": "2026-07-08T10:42:00.000Z"
         }
       ]
     }
