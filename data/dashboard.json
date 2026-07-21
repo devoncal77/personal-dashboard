@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-07-20T12:26:33.152Z",
+  "generatedAt": "2026-07-21T12:01:32.852Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
-      "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$743.29",
-      "change": "-7.43 (-0.99%)",
+      "name": "SPY",
+      "price": "Unavailable",
+      "change": "Refresh failed",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$520.81",
-      "change": "-3.87 (-0.74%)",
+      "price": "$517.94",
+      "change": "-2.87 (-0.55%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$695.33",
-      "change": "-10.61 (-1.50%)",
+      "price": "$696.06",
+      "change": "+0.73 (+0.10%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$333.74",
-      "change": "+0.48 (+0.14%)",
+      "price": "$326.59",
+      "change": "-7.15 (-2.14%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$393.82",
-      "change": "-7.28 (-1.82%)",
+      "price": "$402.29",
+      "change": "+8.47 (+2.15%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$380.84",
-      "change": "-10.22 (-2.61%)",
+      "price": "$369.57",
+      "change": "-11.27 (-2.96%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+          "title": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
-          "publishedAt": "2026-07-20T11:40:28.000Z"
+          "url": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora",
+          "publishedAt": "2026-07-21T11:12:41.000Z"
         },
         {
-          "title": "At least 930 people have died in Congo&apos;s Ebola outbreak",
+          "title": "Trump imposes 50% tariffs on Canadian goods",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
-          "publishedAt": "2026-07-20T10:36:08.000Z"
+          "url": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods",
+          "publishedAt": "2026-07-21T10:31:34.000Z"
         },
         {
-          "title": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
+          "title": "The best economic ideas from around the world — Planet Money Summer School is back",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates",
-          "publishedAt": "2026-07-20T10:04:56.000Z"
+          "url": "https://www.npr.org/sections/planet-money/2026/07/21/g-s1-134281/the-best-economic-ideas-from-around-the-world-planet-money-summer-school-is-back",
+          "publishedAt": "2026-07-21T10:30:00.000Z"
         },
         {
-          "title": "So distressed you can&apos;t think straight? Lower the intensity with these 4 skills",
+          "title": "How soccer brings a Bhutanese community together in Harrisburg, Pa.",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/20/nx-s1-5894845/so-distressed-you-cant-think-straight-lower-the-intensity-with-these-4-skills",
-          "publishedAt": "2026-07-20T09:00:00.000Z"
+          "url": "https://www.npr.org/sections/the-picture-show/2026/07/21/nx-s1-5897423/soccer-in-us-nepali-bhutanese-community",
+          "publishedAt": "2026-07-21T10:30:00.000Z"
         },
         {
-          "title": "&apos;I just wanted to give up&apos;: Disabled patients face Medicaid denials from IT errors",
+          "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/20/nx-s1-5896359/medicaid-disabled-patients-denied-deloitte-michigan",
-          "publishedAt": "2026-07-20T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
+          "publishedAt": "2026-07-21T10:21:43.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "U.S. military identifies 2 soldiers killed in Iranian attack in Jordan - NBC News",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXNJYmdvY0pfYnlkVm5aV1RZV2JrMl9FbkE4cElqZnJXR05ocDd0RERIVEFnMHRncEI1RUhaR2pxbGV6U1VEalNPM3dzTnZjcVduclhwNnNRZzR5cnIxMkZzaDJzV21zdHY4ZVhRTmVsRk4wNDY2MTFQX05zM21GVDNZaUY3b0tUckIzUTF3?oc=5",
+          "publishedAt": "2026-07-21T06:56:00.000Z"
+        },
+        {
+          "title": "Nearly 100 U.S. troops injured in last two weeks of Iran war, Pentagon says - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZFJMZEJZcVVXSEt3ZE1Dek9HTFpvNkZEZWdESTg1ZW8tWjFuZFZUeUlQTjFoOWlUamVMcTNNc3JpZVhxa0x1dFctOVVEc2FEWmJiT2gtS09DMDZkSkZPTUF4cHNUTzZab2dTSi1kc2VSVXhPSkxGRDAwQ1VkU3RCU1NHYXY4TkpQakVEOXFvaTFPVWtLX3pWNmhhLVo1OGRkR2JwdU1iVQ?oc=5",
+          "publishedAt": "2026-07-21T04:31:00.000Z"
+        },
+        {
+          "title": "U.S. military identifies 2 soldiers killed in Iranian attack on Jordan - PBS",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdS1aNXVKUGoyZ20wX3FpVnFKdmRxbDlTOEpiczFCdUR4emZlcUlqSE0xd2ctemozdXdqT3M0cTY2VFJpY2hJR0JVX2xpN2lYYmRpNXpaYXRZRjRTeVEwRjhxVXFka2JvTmtDSElidEZ2MFRsWHNxOEVqX1B3Wm03eXNWTUdaeE9pNkVUVHRwRVQwNWNPZ0RVOVlZQ0VySEhSVGxUUlRBUFJGbjDSAbABQVVfeXFMTnV4V3R6S194bnRCZ09pemlCNktCUmx0MVZFRUdncnJCdG9iTVlfZjFicHI4SkhmMWxmRVkwQkFUN1dSVzlKeUZLdVJiTnhDOEQ4dzZScXVsOGtRb2Z5ck92eXhLaGp1WEVaNG9PUzJrby1WdlRpM1ZWWEVNalpvME92Y1Y3RWlmSXZxUUZWS3N4VnJsRzBESm83UGc5X2tlbm5fUXVEZVV3Q0JhY256S2E?oc=5",
+          "publishedAt": "2026-07-20T12:55:06.000Z"
+        },
+        {
           "title": "News - U.S. Army, allied military police officers strengthen community ties in Estonia - DVIDS",
           "source": "DVIDS",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDAwUVB5ZzhQaEtUcVg5cG55c2NzczdZQzhOVTlfdnpWYWczdDg2NmI3Z2lUdUNDRkdiTzdwN3I5b3hwbHdQRjBDaGFaa3otUTdocTg2QlpxOXd0OGtoX0FBS3FEUWNuUzVuT2lSeXExUkVUSWFyOGRhbW1XRVk4MW1fX0tDajBCaGQtbF9EZzU5bEpDd1lJREJkS3RSbkFYeGxoUmdCYi1PMFNDQk1n?oc=5",
           "publishedAt": "2026-07-20T11:36:00.000Z"
         },
         {
-          "title": "2 U.S. soldiers killed, 1 missing after Iran strike on Jordan, military says - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14TjVrN1ZtOW1JOUExS0dfN2xxaHZneW1lN3g0dGp4Ql9MRUx3dVBzTlVkbVNvOVFnb19GR1hXNTFDSG5PbHBZdmJFdnd5NHpKTHpnV0JyUXBWeHVlOWNSel85LW9GdWt0eXFHM2doT2FfXzQ?oc=5",
-          "publishedAt": "2026-07-20T11:28:03.000Z"
-        },
-        {
-          "title": "U.S. and Iran trade strikes after two U.S. service members killed in Jordan - NBC News",
-          "source": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVZJNzRoQ2hxRHpadVl0X21Na205RFRoZ1dfcnFPUnV2LXVLQUkxNl9NTzZhMFlKSUd3cF8zTHd0OXpMS1htRU85QTF6QXFRU3ZnQ3lxZzRrVWg5MWdKNWRZdGlnLW5Wd1JsMG5mYzFTS1UyWWZIUDhDYlptVFBmbkw5WG5EN2EwM0RGUHhQNTljcTRTZ3VNLUM0ZUE3VmJUMy1sRm1CQmlwVHBkd3NFU2x1MWQxcjFT?oc=5",
-          "publishedAt": "2026-07-19T15:48:00.000Z"
-        },
-        {
-          "title": "U.S. Army, allied military police officers strengthen community ties in Estonia [Image 6 of 6] - DVIDS",
-          "source": "DVIDS",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcFplRzFYQUhTZnJyRGdnWDlDa2NaZmJlRWdwYjNPNjR4d3ZHWjhhZkVlTFMtVUZpOTdzNmxuQlVoaTN5YW1uVU1iYk5kWUFvdk5saWVZMHpZT0E2S2xVRGZlTnhuQUZfREZ5VXVZWXFfWEtLWUtmNFJBajQ1VkVXc1Q0WUwwUjJGY3BqSEhvcVVZWDAxMXNYZTlwZGQ5aTJnQlVyVG0wUXA5WFJRdGJSRFd3?oc=5",
-          "publishedAt": "2026-07-20T11:33:00.000Z"
-        },
-        {
-          "title": "Two US troops killed, one missing in Iranian attack on Jordan - Task & Purpose",
-          "source": "Task & Purpose",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jWm9vajlDVTJXd2p0TVpoWlpVb0ZxUEUtQVh0a0NKUWZkb1htTWVqVXlxODlVS1lwMVVCZEk5WklzSWE0SXpzZ2Vaelc4dDU4U09zLUNUbkhRWlhwNFF0QURwNG9pcEF4SzIyVEYxQQ?oc=5",
-          "publishedAt": "2026-07-18T17:59:18.000Z"
+          "title": "Iranian Army Launches Drone Strikes on Three U.S. Military Bases in Kuwait - WANA News Agency",
+          "source": "WANA News Agency",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNODVPSmR3T1Q5NjNWb1lidU10eGpMQXhnUGg5SDlheU1uWEJ5c2RVbXNFeTl2blJpcUVZeXlBN20zdlNyUTl1QnlfZUxwN2xOWWRuTjUtOHZqOFl1R21zZlBYbkNNMWQ5M1pZVTlBYlRvOUI3ejVEUnAyUHQzc21qbVZ3T1JYcXdoYVJCWnRiblBGa0tKd0t3Ug?oc=5",
+          "publishedAt": "2026-07-21T06:59:40.000Z"
         }
       ]
     },
@@ -129,34 +129,34 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Know about the academic program of the U.S. Military Academy at West Point - Encyclopedia Britannica",
-          "source": "Encyclopedia Britannica",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
-          "publishedAt": "2026-07-15T05:00:00.000Z"
-        },
-        {
           "title": "I visited West Point, the elite military academy dating back to the Revolutionary War. Take a look inside. - Business Insider",
           "source": "Business Insider",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTa3VIeFFLdG9pZ3R2NUozdk5ieENfTXY4ZUFsakxmMnk5ZkxyMWNUTl9MdENVaGhGWFltZnRHaHF6RC04VzlPSXViR0M4OVFHaHV2RWpvRkYyUEdXR0RNOG9qanFzRzZBWTZtVnBnSGlmM0pPX2lUZWxrZHM?oc=5",
           "publishedAt": "2026-07-05T07:00:00.000Z"
         },
         {
+          "title": "Jus ad Bellum and Jus in Bello Targeting - Lieber Institute West Point",
+          "source": "Lieber Institute West Point",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pdFNCeWpTbm8zbzZlczlUUlJDam5hRzhucTZMdG5hQ2FhWEk3YldxVVgtaENWVmN0NS1KZUZ3SWotWHo5bzdQN3pKWW5PdmdTcWZ6X0FuLVdLWVB0V290QUgyNFBjMzQwWkU5V1k0bWltZXlo?oc=5",
+          "publishedAt": "2026-07-20T17:32:04.000Z"
+        },
+        {
+          "title": "Know about the academic program of the U.S. Military Academy at West Point - Encyclopedia Britannica",
+          "source": "Encyclopedia Britannica",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
+          "publishedAt": "2026-07-15T05:00:00.000Z"
+        },
+        {
           "title": "High school seniors catch glimpse of West Point possibilities - army.mil",
           "source": "army.mil",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaXZVeXEtd2NtRjh4cWN4UmVYcnZ2bjFwZlUybzZrSUlHSmtta1E0Z2s2LUE0UTRwckJsWDRHd1ZScTN6VEJiY0NGeVNnemlvbFZ3Sm1PU1FvMGtRbnRKNURyQ2dVbWZGakY2ZmJMTFJqR3BfZk04a21IeGZ4dWFLMExIa0RDTlRNZlNLbGMzbXRERUJBaE10WVZNMDZUN1c0ZkhPUHBSRm5oZDl5RGhSNWxsbUF0VkRYZkdHTTdIdTNhY29DSnRMM2tJWU9JckxaalHSAdcBQVVfeXFMTXh6dk9BOG9QcVdvbXRDa0E5UUxoZjA5OEhtSXYtVC02SHBVcF9xd280Mk1GR0ttUVQybl9kcTFySlFzZk10bzh1MGt3MkFNWVJxWDNQVDNFMnItcHhZdTg3a0lrSTNZOGpMaDV0N0RSWmgtb054SE8tY25yMzBDa3JuWWJRZC1PRHhySDA2VFo0UEJUOGdQVG9DbHRwc3R4UzZwTWxkOU10RHV2T0dXQjJ6aUd0WC10dTBxaVczNklLNWI2bFZOaVB4ZUhGYzktNTBUT3lOMDg?oc=5",
-          "publishedAt": "2026-06-26T21:02:58.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGFrSDkybFFlVjJoMDJ4bThyNUVORUFydl8yak00N3pfMXZrVV84bk9sdmQzV2tOU3o3V0JYUkFXcFQ0S0tOZnZ0VUltMGE2X0NmakY0SzFOcHFlWUhuYkw0UzdOUWZCVEY0S3hIN0RsOGtrYk8wdWNMTUtYWTE4NzRpcnYzUUxFUG9nbVEtQzNUdVlmZjBpSzRqbVR5VlVkVVZz0gGjAUFVX3lxTE5EYWtIOTJsUWVWMmgwMnhtOHI1RU5FQXJ2XzJqTTQ3el8xdmtVXzhuT2x2ZDNXa05TejdXQlhSQVdwVDRLS05mdnRVSW0wYTZfQ2ZqRjRLMU5wcWVZSG5iTDRTN05RZkJURjRLeEg3RGw4a2tiTzB1Y0xNS1hZMTg3NGlydjNRTEVQb2dtUS1DM1R1WWZmMGlLNGptVHlWVWRVVnM?oc=5",
+          "publishedAt": "2026-06-26T07:00:00.000Z"
         },
         {
-          "title": "Dual-Purpose Objects - Lieber Institute West Point",
-          "source": "Lieber Institute West Point",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YV200emJpRVU4d0pZRVVETXBlZFpLZVYtWnNicnJaMjR1YWtWNmVIT0FzUFBhMWRPcHp5THV0RTVOVUltT3Axam5fVjJsbHZRMWhTQ0ZyczlZTzQ0ZC1R?oc=5",
-          "publishedAt": "2026-07-13T14:35:08.000Z"
-        },
-        {
-          "title": "'Woke' military academies targeted in new blueprint for sweeping warfighting overhaul - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVJsUUFvYWotSHFwQnRJQWJxUkFZenoyYVdNZmRtcWVDMXctU2VrMUhwOFVOV2lHYnd4OFpxQkRpWE41cnc5Q0lYRkZKRU1CMHUwV0pqUU5uR3FENG5VZ3lqZWdtNlBodHpMd3hCU24xRDJHS0xjY3hBVnVENUJMU1JvTWRIdjZPenlwN3VkUzlSNURONVpEUjd6eGVDc3BvaEpwbjZ4SFFkVVQxVlHSAbMBQVVfeXFMT1NueXR0RWNEMU1nRG4zdFhNYy1zTkxYb01iamdNeGhhdVdvaUt3RXlra3RSTGVDM2N0bk95eXJvOUZGdTU0Zi1QR2dtMUg4U3N5WHBVNjNDaGlnQnRtbnc5cXpUSlZnRG5HWWxSNHVta3diVUFTbG5pdDZ0Q3V4bFBhaHNJVlAwS2phYTRFYUpvNXpIUWEwOTNrRU9JLVB0Z1VTM2NhTlItb3NuMmNrNmR2YWs?oc=5",
-          "publishedAt": "2026-07-16T19:39:01.000Z"
+          "title": "Carole Montgomery Paolino - Sarasota Herald-Tribune",
+          "source": "Sarasota Herald-Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Nbzl3WUxSSG1qRDI3QmZuVi0tNnY4b01CTHowdU0wTjRQUUJVVVJEeXZqYTlEOEVtYjk4bV9Dcm9nWUdXeDhZMHRURVNQRXpjcnhaRDE1VDdyNmp4eUpVdEh3?oc=5",
+          "publishedAt": "2026-07-20T18:04:26.000Z"
         }
       ]
     },
@@ -179,6 +179,12 @@
           "publishedAt": "2026-05-01T07:00:00.000Z"
         },
         {
+          "title": "Sam Sartin, Army West Point Black Knights, TE - News, Stats, Bio - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52UXhscUpaNF9idk1GNU5WQ1RQN0FkYU9vMjdILVhURkpsM05pRHV3eUtpenpIQnd2ZGVQWktQOTMwWi1oemFBZUY3VURRdTJGT09VVXN6cU15OTM3ajdRVTFkckFqaUxObmltY2hDLUlDUnVNOEhDN2tHSQ?oc=5",
+          "publishedAt": "2026-07-19T18:44:34.000Z"
+        },
+        {
           "title": "Softball falls to Army West Point in season finale - Holy Cross Athletics",
           "source": "Holy Cross Athletics",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGpDanNXTmxXeF9Tb1FEbl9Ycnpmb1UwY0pzQ0hnNFhoMUQ4S3dfT1hBVzY5NFZfaTRLbFVSQXp4ajNtbjJNeE1mTUZtU01BdkVndnpTMmZiWkE1SFRYbk9JNlYtTEljN0J0Q0hUX09OTDV4M1N2emducmxSbFlLMTY0aU9IeVVWLWdnaS1mX2RvR29TNnVPOQ?oc=5",
@@ -189,12 +195,6 @@
           "source": "The Pennsylvania State University",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0lnb0liclYwb0FWN05uQ1MzV3RKZ2lOWFJseWdNMUdkTkh1UjBmQTNEMXJubERCMVctR09KRDg3ei1RUnY4b0t0Q1k1MXdBckdFQm5FSFIxelhMTG1GajUtZGtlTkFROUQtNTBqM09Mc1ZwTWZwa2daMmU3STkwYWFycUVSVzNMUzJfaWlWX19mR0NzTXdHY0E2Q0FsY0VId1NRV3hwSjFRVFhOcThpbUhHU294Y3E2ZWt5Zg?oc=5",
           "publishedAt": "2026-05-10T07:00:00.000Z"
-        },
-        {
-          "title": "PHOTOS: Army football Black/Gold scrimmage - Times Herald-Record",
-          "source": "Times Herald-Record",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMzV5Qk9VRGV6SlNxWUNDSnFfTGpQTUwtSUEwcnFtMWhTWjd1WnFfQUVncjQwYllnc01nZVV5V0dfZGlmN2FSMGNJbHlqMUlyN21FendkYWI5clR3RS1HdlcyTWc4MEtLdkUzdGY0S1E4R2lLVUtVZUpSNWZvUWU2RGdrME4xTU9hbHoyOTQ0SHY2UTRpZzl4aGxaWjRtN1RqQkM0QnhiX0VIUHZzVVlRQnNKdnowT1lsN2dJQTlwanE4QQ?oc=5",
-          "publishedAt": "2026-04-18T07:00:00.000Z"
         }
       ]
     },
@@ -205,22 +205,22 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Steelers Get Mike Tomlin Trade Price Fans Will Love - Sports Illustrated",
+          "title": "Former Steelers RB Le'Veon Bell Arrested - Sports Illustrated",
           "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVnQ5aWhaaC00QmVJQWQxRDhHakR4TUhCYXJ1SThFUDJYT3hIMXM3bmtiVGQ5NzI3NDdOZ1BYcmh4MnZOX2dpYWdBbDVZTzlSVjBWSzNuMzlJc1M3VEFHelJxdzVrZzdUV2t6a0pCRHVMNDJEVzZveTYySlNiemNMOWRxb0ZaMUNmOHZ1VFJwclRJRDVI?oc=5",
-          "publishedAt": "2026-07-18T14:00:04.000Z"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNGdjbjZnMnp1SHdCTTN3TFZZSVlfaHhjQVhoSGx4NzBMX0NHbkIwUHJsMmt6Y1RSWUpicHFBYnZ4R1NWckJCRkRydlNCMVMxbFBjYUtqVlA1amYtRF9mam9PNG5VSEYwajBISjZETkNGSlRVbDZCNnNoTVdTVDVjWE5vMWM0YjZJWV93VQ?oc=5",
+          "publishedAt": "2026-07-20T11:24:51.000Z"
         },
         {
-          "title": "The Alarming Trend Hurting The Pittsburgh Steelers Defense - Steelers Depot",
-          "source": "Steelers Depot",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUJVTi1ndDFuOHlZa2N5bjJrSjNBS0VwUVNhYXhuNmwtcTQ1UWtsU3Y1OFJrZjl4QWs3d1BpMnNYWEFPWEhLMHFsemk0VkhldlhKZWd4aXA5bXN2SzVtNExYdUpGR19yWHJoUjc1OHJTYXNvWjdkYXNaeGF0cDFCYUNVQkZvWlFQSERqMV82RFlobHNxNVl2Qw?oc=5",
-          "publishedAt": "2026-07-18T04:05:27.000Z"
+          "title": "Betting on the Pittsburgh Steelers in 2026: What to know - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlkwNXlCMGJmeU96ZDFqMUdRaXlNaExKZ21HZjZBVWNKNWktUTRGdTN5cUtJcXdycm40OU1BQnYwdWl6N0Z5dXNlTWotdkg0d0NHQThLR21VX21lVGpFWk1wZ0pmQXdQSDdvU1gtMDRJbVNCOFBfUkFzenI4U1NpQU90dUhFN0tFUzBrV0VrUWRja1V6TjM3blpB?oc=5",
+          "publishedAt": "2026-07-21T10:51:00.000Z"
         },
         {
-          "title": "Pre-camp position previews: Inside linebacker - Steelers.com",
+          "title": "Get to Know: Danny Crossman - Steelers.com",
           "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vOUdMSnE0OVk1Tm9HRXdPZUUzY00wT3RGR3luMWdJdHpTb3l5UFd3WmZJWnVVOXhTTjJvNFhudGw3S0JsSW1WbXFsTHI0eEtzbmRVLUxPR2g5Y2pkeW9jaDdLenZFZHRKOFBsR19HUi11X1JFdG1mLVJjQUZIRE0?oc=5",
-          "publishedAt": "2026-07-19T13:05:10.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OYnd5SDhoRlBINXpIeDJVMjZMWE5XbW13RHRON1QxUGh6YmFOYXhrSzd3dnpwMS14dDhoQUsydkRvbDNISjVXREFoM3ROVWZNbUVkNVRXTzFEMnl0U0FtVWJTTk5Oa1U?oc=5",
+          "publishedAt": "2026-07-20T13:04:26.000Z"
         },
         {
           "title": "Jon Gruden urges Steelers to put their faith in Mike McCarthy - Behind the Steel Curtain",
@@ -229,10 +229,10 @@
           "publishedAt": "2026-07-19T13:00:00.000Z"
         },
         {
-          "title": "Steelers training camp countdown: Derrick Harmon’s untapped potential as a pass rusher could mean a big increase in his sack production - Pittsburgh Post-Gazette",
-          "source": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcVVOZ2hxaFZVWm5EeEFqdzg1Yjh5bXlaX0VwMEoycEVZMERSS2pwN19nRHZHYl9FMW5FUWN1ZlV2WTM4RVpVYWFodmpVYVYwMmVETmx2cWZRSVJJa25HMnltb2dIaWx5cHY4a2pRbGlqbExFTTRMdnBHMkV3cWhGQ2ktY1p1Y1ZIczdvZEJRbTZrRkxROGVsV00tWjJfbG5TeE1pc0lTQVFxTWtZRi1zaU1Zb2NmRTZqQ3p2WFRGQnFCczhFT3ppU3U3cnF3UQ?oc=5",
-          "publishedAt": "2026-07-19T08:00:00.000Z"
+          "title": "ESPN reportedly cuts ties with Pittsburgh Steelers legend - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1B5OFp4TWlJbUtXRHNPM1Y4RHRIbUtPLUpwUlViaXNHUmVtYUs1ZXVpcExQOUEzVW1tOV9xcndZZ1NrSkNEWmRjNDA3VWk3X1hXTXFaVnJ2clBmN3dNYlcxYXNUZVRkQ2ZJZERYMFFXQlV4Uk5RVXYzZlc3aDhXUGFBYy1PdTFPLVJGTXhrcGxJclUxMHhOajZGeGNiOGsyaU9vYjdOQdIBuwFBVV95cUxNT1J1aHhMU2ZjYWhnZG5DNTB2RFpQN1Y3dXNwY3VfZUFRV1ZUM1ZSZnJSV3U0aUZlb2R0R2F6WmhSeHpJZ0gyVFk3aXNqaXp3SjFvR2MxaG1YZ3VIcExEeVN6amFibzV3QUp1TDVFRm9UWFhRajY4Ri01UjlTSjM1dk90eER3WVpjZXIzbHhVMDZrc2llU2VXT3BIZzdHMHBaNTVKT2ZVVEhxd0g4ci1uX045SUh1QjZ3ZHpJ?oc=5",
+          "publishedAt": "2026-07-20T21:41:00.000Z"
         }
       ]
     },
