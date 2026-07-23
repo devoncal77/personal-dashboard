@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-07-22T12:04:03.043Z",
+  "generatedAt": "2026-07-23T12:03:09.401Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$748.28",
-      "change": "+6.19 (+0.83%)",
+      "price": "$747.41",
+      "change": "-0.87 (-0.12%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$521.51",
-      "change": "+3.57 (+0.69%)",
+      "price": "$521.47",
+      "change": "-0.04 (-0.01%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$708.97",
-      "change": "+12.91 (+1.85%)",
+      "price": "$705.35",
+      "change": "-3.62 (-0.51%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$327.74",
-      "change": "+1.15 (+0.35%)",
+      "price": "$325.89",
+      "change": "-1.85 (-0.56%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$397.75",
-      "change": "-4.54 (-1.13%)",
+      "price": "$390.34",
+      "change": "-7.41 (-1.86%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$378.93",
-      "change": "+9.36 (+2.53%)",
+      "price": "$374.01",
+      "change": "-4.92 (-1.30%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran",
+          "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells&apos; independent autopsy results",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
-          "publishedAt": "2026-07-22T11:24:22.000Z"
+          "url": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
+          "publishedAt": "2026-07-23T11:39:57.000Z"
         },
         {
-          "title": "Her son was killed by ICE at a traffic stop. She says she&apos;s still waiting for justice",
+          "title": "This AI tool promises a &apos;second sight of eyes&apos; to clinicians. Did patients benefit?",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/22/nx-s1-5900933/ruben-ray-martinez-ice-shooting-texas-maine",
-          "publishedAt": "2026-07-22T11:20:01.000Z"
+          "url": "https://www.npr.org/2026/07/23/g-s1-134929/this-ai-tool-promises-a-second-sight-of-eyes-to-clinicians-did-patients-benefit",
+          "publishedAt": "2026-07-23T11:36:52.000Z"
         },
         {
-          "title": "U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea",
+          "title": "Why health officials do not have a good handle on the current Ebola outbreak",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
-          "publishedAt": "2026-07-22T10:46:01.000Z"
+          "url": "https://www.npr.org/2026/07/23/g-s1-134959/ebola-outbreak-democratic-republic-congo",
+          "publishedAt": "2026-07-23T11:23:43.000Z"
         },
         {
-          "title": "Tropical Storm Bertha moves along the Gulf Coast but damage is expected to be limited",
+          "title": "U.S. nuclear power deal with Saudi Arabia faces criticism in Israel",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/22/nx-s1-5902142/tropical-storm-bertha-makes-landfall-but-damage-appears-limited",
-          "publishedAt": "2026-07-22T09:15:35.000Z"
+          "url": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
+          "publishedAt": "2026-07-23T10:55:44.000Z"
         },
         {
-          "title": "Peptides get their regulatory closeup",
+          "title": "After deadly shootings, police experts question how well ICE officers are vetted",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/22/nx-s1-5902329/peptides-fda-compounding",
-          "publishedAt": "2026-07-22T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/07/23/nx-s1-5903173/police-experts-question-ice-officer-vetting",
+          "publishedAt": "2026-07-23T09:00:00.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Pentagon identifies 4th service member killed in recent days as U.S. carries out more strikes - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnl2blBxN3hkcHpRclhTUVh1aEtCSDRKcTBPQXV3UmZFTExfVnExVEcxTW5uZlVRcEQyZDg1MXJ4SXNVUTl6cEdjR2Fla1pRQ1dzSWhoa1dJSlVtell4TXZ2YXNGbFRYRXFsc3hReHJDS0d6V0Q4Yk9KdkRMTEJWVk1OTWR4QWJRVVEtTldRZjBkRGM?oc=5",
-          "publishedAt": "2026-07-22T07:30:00.000Z"
+          "title": "U.S. Army Deploys Hypersonic Missiles in Range of China During Exercise - USNI News",
+          "source": "USNI News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekhVZHU1UE01aWk0Y1pISndBVlV4RkpZLXpvV2xxUV9JcksydHRkMGtGSnpjc3JPbzJ2SzBaWVNTalE0V3VBN09HWm9aeUM0T1JEc1JHQXhYQW94OVRyNHVJbXhnU2QySTZma2MxTzVUVmZLX2g4MTZWTHF4MVhqQm1zRFYzSThFdExVQ01xSFFxYUhxaVBLRXoyV2RKWV9mVVFLSVRR?oc=5",
+          "publishedAt": "2026-07-22T18:22:00.000Z"
         },
         {
-          "title": "US military identifies third service member believed to have been killed in Iranian attack - AP News",
-          "source": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeklzVlNQYy1nZjVzaUtYa0tNamVrTVNyWHZfS2JmUmYwQmtZLWxPVkMyeTB1ZElBNkhiZ0M0MkdzWHQtbmRLRGo5Z1ZleXVtZzdNYXdQTlB0TUVGMDQ0M2tXMjFvbzU0WkVseGVwRFhaYndPUDhaWWF3SFU3b29sQ2pVREdHUEJqZmZ2dk1qRnRILVY5LXE0cl9sS3BobFVTaEE?oc=5",
-          "publishedAt": "2026-07-22T05:18:00.000Z"
+          "title": "Trump pays respects to 4 US service members killed in the Middle East - MilitaryNews.com",
+          "source": "MilitaryNews.com",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN2xGMUdpNDkyeEVkbVhzRFVEQlMyV0s2clRfWVlxNXVnVWdRQXVvZ0dmd2tyUVRTNzNybVFYdndhZmtkNTZqTGw3amRPMUFTT0hVMkV1UTVCRUtDdExaQlYwSWpjNnJtUzZXMnBFOE8zazgyRTBUV0RNY3diakZfY1U4VFhkNnRMN0laM0htZlpNOVlxTUNsb2I2YzFCS0xjd2xENHJWYVJ6YlZoR2JhVTJvUXppeGNyOTJlZFNwb29xYjNUTFdHRjQzNmM4MHd0TUwwUEwwTmZreUJhUm14ZGFPMVZzVDFmTUFja2dyQXR6d0FQ?oc=5",
+          "publishedAt": "2026-07-22T20:24:56.000Z"
         },
         {
-          "title": "U.S. military identifies 2 soldiers killed in Iranian attack in Jordan - NBC News",
+          "title": "U.S. identifies 3rd service member killed in Iranian attack - NBC News",
           "source": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXNJYmdvY0pfYnlkVm5aV1RZV2JrMl9FbkE4cElqZnJXR05ocDd0RERIVEFnMHRncEI1RUhaR2pxbGV6U1VEalNPM3dzTnZjcVduclhwNnNRZzR5cnIxMkZzaDJzV21zdHY4ZVhRTmVsRk4wNDY2MTFQX05zM21GVDNZaUY3b0tUckIzUTF3?oc=5",
-          "publishedAt": "2026-07-22T02:02:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3dEY08zMVhyUGt3S3pwaTU2NzltZjFuNkNQRFNoNVB2WGpfYXQwQW1JR0RmUWdiRnEwTkhXWW9QMmkxMFVoa3lRcGRWQjEtMUV5bGs3VWkyVmhCak1QTGFfOXlGbW1uajZEd0VJbDRSeFpMLVEzMnpoSEZHS3JUTzRnMGxiYkZrcTJYWGQ3bTFGM3NHYlA3UHJqNHJ0WWtYRnJBcWxLaldGR0NWNUE?oc=5",
+          "publishedAt": "2026-07-22T16:21:04.000Z"
         },
         {
-          "title": "Who were the 4 US soldiers killed in Iranian attacks over the weekend? - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcHFiUmhRMVJxem9QNnNldzk4SVp1ZkJzbmNOZTBZOEJjcHpzX1E3dnNnUXNpdWFWb3lyMkZDcldzZ1lRZExMNXU5a2R0cHFiTUJidTZFWGRYbjlHTGpUeEpKQW9mbkZaXzk3eVI1Qk9qdGduXzBLN3Jsak9EU1pNcm16bFhKRkVKYXhnOHBQWGZzUWZCN1JJ0gGcAUFVX3lxTE1KSlo3TUMxREF2cXFPMXBPNG9GNGNhOWtIM1VmMlpBQi1qem9pRjV0YzdTeXFRMTAzTkt1SEJqM2RLeTJsZXRwUXg0TVBXNUotSDMxRU1GMThaRTlweDVJWm5YeGxJcDh3SklfaVViWW5waGVOZHg3ZWp3MWFGbUR4cFRtY1Bpb180MllabDB1NkZsSnJsYzE0akhzdA?oc=5",
-          "publishedAt": "2026-07-22T11:29:33.000Z"
+          "title": "4 US soldiers killed in Iran war return to American soil - Military Times",
+          "source": "Military Times",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODJZQlJUc3VCSE14Ullld3FGVU5GcDdHZEJhTVVzb3UwRkF2c0hPVUlnNzZhaFVTYTNnd3VMUTlJUVRfRWRrNXRBb0lSclgzekJoR0FTUXU0aXp0YmlYdndyY2RJUTVudnZReTZBa0xfUG1xQi1XZWEzSWQ0clV4bk4zQW0tVGxkdF9kcUhwcTdaZHJ2WXo0dEZFdmZZVkg0c2VXWkNaN1JiQXNTNllrbXVjcmE2WkdM?oc=5",
+          "publishedAt": "2026-07-22T16:20:22.000Z"
         },
         {
-          "title": "US attacks Iran for 11th consecutive night - Al Jazeera",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVG9iYmRIcFFxcEZhd1dOd1VXdFlmRFozbWFuMWR1YVptOG03UUk2VkdhcEdLN29PUENuSUZMeDNNNVdHb1FEcGF6RVFPU1NabWx2QWRWcEFqQm5FQ2t4YUhlODAtOFo4dVhUUGZnZW1RNWRtUGVTNE5PTkZjTGNlbWJqejJCajV6VWl3NXV2SdIBlAFBVV95cUxOX1J5QUlCV1Y1aXAycjhJT3gtMFVQZDAtdE1JT0FpSlEtNlJzN2JfaTFCMDR6UGZMcEk0bVdFZ2VsejlhRlhiWnpsdVQ3WTVmOHZOSllmY192Z1VvSzgwWUlDOWY2MGhZbkF6Q2lhemFnRXU4dUNBdUFfdWNVc2dPVmhmckJDM1BIbVR2eVFrejQ2NWZF?oc=5",
-          "publishedAt": "2026-07-22T08:06:51.000Z"
+          "title": "US soldiers killed by Iran were from Texas and Hawaii, military says - Houston Public Media",
+          "source": "Houston Public Media",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORlVHdWpJNVFMeS1VcW53Mjd6WGFFXzhQUzB1NXRQMmY0YV9sSk9vNVBNQ19BaGwwamdvNUM1eFN4MzFOOTlxX1NfeDgzUmUwSjJnTC1iT1U5eC1ueV9ydks3X09ONVNYMWdlak1namlFMDNnWERDUWU3N2l6TVVxU3BTRG93UXktNkJrUkRpcExHMDRZRkliRFNxa0xMQmU2TWxpbjRCcVpjQmhQN19NYW45VjdFUFhNcTZ2UEVXcURoNWZGVS1xYXJVWmYtLWM0Z0Q5dHlFQS3SAeABQVVfeXFMTjcxVzBTQXAtSnZ2MzRyRGJwR1YxSkdGY0NmelBBMWlRNWNsTkJWUWtPUmM1RFFKaTVjRENQMFVKYTVhaEhPeTU2VzNtRi1qYm9pNzR2V3hHeUt5VkdjUWtLVDhOVUdhOW81NlpxeU1nS0wxWTRfYlN3bE5wMGtFQTFicjRKT25ncmcyNGNYeE1QOTB4eDZnd1BNRS1BbXdiU0poVWRpV3JmQnRuVHRyVzZQWjdCcWZJcUxKYjRhc0F1bXREWUVLZEJtQ3c0SHlmaFFMTUtXaWM3VTl4UFNoR3Y?oc=5",
+          "publishedAt": "2026-07-20T21:44:45.000Z"
         }
       ]
     },
@@ -129,28 +129,28 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Riverhead graduate Kaleb Gatto accepted to West Point after NJROTC success - Riverhead News Review",
+          "source": "Riverhead News Review",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcFBUTUhuaGdVYW01cUFiUThtSHdLUWxPWlFaYWlpTmZGd3NONExpaGd5TFFIT1dEZ20wbXh4ZlJBSTdrQWJxZnJ3bVpoZ2RmTGtLbFVVR2xKemFWZDJqb0lBaW10SHJJeUF2Y0hsSUEyUEJIcFNDYlkxaHJabFhoaTNUMlhabVR1bUFrY1poVEEyWWtidmdKYTFuNVd0V3lKeUYzLUh1THQ3YkRGNHRFZENWU0hHVzhad09WVTlPcU9jRjFieFBrQVpDSVRSTkU?oc=5",
+          "publishedAt": "2026-07-23T10:00:18.000Z"
+        },
+        {
+          "title": "Lieber Studies Indo-Pacific Volume – LOAC and Information Warfare in the Indo-Pacific - Lieber Institute West Point",
+          "source": "Lieber Institute West Point",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rZUd2M0EzS204b3FnWmZ5TDJFTUE2dHBRLXQyck9RUXVhMmtndmxrc0g5bHIyS0ZUUXpURUFWSm1zOUlrZzlXTDhYTGtoRXBOZkp0RmRHQklwbFcxNjhGVTZ3aU5SRkRyWTNiU215am5oeGFUbGc?oc=5",
+          "publishedAt": "2026-07-22T17:37:07.000Z"
+        },
+        {
           "title": "I visited West Point, the elite military academy dating back to the Revolutionary War. Take a look inside. - Business Insider",
           "source": "Business Insider",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTa3VIeFFLdG9pZ3R2NUozdk5ieENfTXY4ZUFsakxmMnk5ZkxyMWNUTl9MdENVaGhGWFltZnRHaHF6RC04VzlPSXViR0M4OVFHaHV2RWpvRkYyUEdXR0RNOG9qanFzRzZBWTZtVnBnSGlmM0pPX2lUZWxrZHM?oc=5",
           "publishedAt": "2026-07-05T07:00:00.000Z"
         },
         {
-          "title": "Bridges Texas History explores impact of WWII general William O. Darby - Lubbock Avalanche-Journal",
-          "source": "Lubbock Avalanche-Journal",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRVoxUEFldXFhdjM1Nk9tV2ZiZVdmLUE1S3ZReEhIY3NSNXNYZy1vY3hJMHFVNzdFeHg2Zm9wWG9xcV9GNTdMSG1kb2R6MS1YUlpVOXMxRFdzRndXTHNZMlZ5a1ltNlZXZVVTMHBvdmpHTDI1ejN2QjF2SVUxb3J6bC15N1pWbkp0T0V3aVZiWVJBYm1XZGUzNzc5T00yU1BPU3hBaGJPUXZnekFMQ1JyRkpZMThRV3VwT1loc2RrZEJmQ29jbVI3ZVdfU254OHk3dHc?oc=5",
-          "publishedAt": "2026-07-22T09:41:00.000Z"
-        },
-        {
           "title": "Know about the academic program of the U.S. Military Academy at West Point - Encyclopedia Britannica",
           "source": "Encyclopedia Britannica",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
-          "publishedAt": "2026-07-15T05:00:00.000Z"
-        },
-        {
-          "title": "Jus ad Bellum and Jus in Bello Targeting - Lieber Institute West Point",
-          "source": "Lieber Institute West Point",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pdFNCeWpTbm8zbzZlczlUUlJDam5hRzhucTZMdG5hQ2FhWEk3YldxVVgtaENWVmN0NS1KZUZ3SWotWHo5bzdQN3pKWW5PdmdTcWZ6X0FuLVdLWVB0V290QUgyNFBjMzQwWkU5V1k0bWltZXlo?oc=5",
-          "publishedAt": "2026-07-20T17:32:04.000Z"
+          "publishedAt": "2026-07-15T07:00:00.000Z"
         },
         {
           "title": "High school seniors catch glimpse of West Point possibilities - army.mil",
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Aaron Rodgers shares photos with family after yearslong estrangement - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZW44MGlFSnlSVXRhdkpzOWZhVGxVQVlpOWVDcy12THVPZmFweTNsQ0F3VFVBOHpGdE9Ub0NjMjNIM0V0dEM1OEU5N0JYSFZucTFreEpaYjRCb1B3dWZWRkJqdzVNX1h2WUs2NlJqUVNjc3ltWUw0b2xReDZjMVRPcF9iOVlPOHg4cW5PYmgtRlRXQTMyNnNpQjBaamNObURiLW1RTTYyUlM0Z1FvOWR1WA?oc=5",
-          "publishedAt": "2026-07-21T17:00:00.000Z"
-        },
-        {
           "title": "Asked and Answered: July 22 - Steelers.com",
           "source": "Steelers.com",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hRm14ZXptcWpJb1dTQ01VTjV6TDhRQzdNc1h3cmdlbThtbnNOVDlhLWxWa1g2YmxtSWRTblQ5TjlHVTZYMWRzT3FGMTBpX3N3YjRNUEg0TllPMnh6Uzd0dk9iRExyVllzVFFuVTNfMA?oc=5",
           "publishedAt": "2026-07-21T16:29:53.000Z"
         },
         {
-          "title": "2026 Pittsburgh Steelers Fantasy Preview: Aaron Rodgers saddles up for one last ride - NBC Sports",
-          "source": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQzhNb1Z3dzdVYXV2blFJR08xQmF1S1Y3RmNvaU9MbFhfX0tnNFdwWExIeGtIdjdjNG1CMWlxLUVCZ3B5N3ppQ3l3bVlpczhiaWZoTGYzd3lmel8yMnhQMUxMWG12TWM0dlY1WjZ4UG9NSFBhcWRKZEgycjFnOXFXTzNrVEZRcGVmYVJTLTlvelU4VTR3RjZEdlJBQ29odnM4bXUzSDM5amt4Z182eWNjS3JCTF9iQVoybDg4dDIyMEV5Y1NlMV93WDctTQ?oc=5",
-          "publishedAt": "2026-07-21T14:36:42.000Z"
+          "title": "Steelers’ Kenny Pickett Trade Looks Even Better After New Story - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLUxfazZFVi1QQmFfOW0tVXR3OXJveXVqdFMyNE5yNm5RdXBLVi0zdThpOF85eEtVd0hJY3lFR2NZOVVNdnprTWgybjJ4cTJNM2ZfWHZmMUJKS3RjS3FrTWZybk9EWjFER0NRam1ONEJtSXpoUGNOWFp2STJFVU1SZ1FkdFAtNm92LWFBUUFEUURzckpuaExrNldQSlNodEZsZ2hiclIxaw?oc=5",
+          "publishedAt": "2026-07-21T23:00:01.000Z"
+        },
+        {
+          "title": "2026 Pittsburgh Steelers training camp preview - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXNORndsc2MwYlpJNlhKdm9yUk9Db09oMWVWbGN2M3BIQXZBY2Y2ZmlWVVVSb29OcnZoVElMLWtNc1dveDFnZVNzTENNTGdBSnFPaHMxcnp2RE4wbWtrVzh1SlZRb0xpX3l6Szl1a09kTENONllWRUJ2cFRsbHE3VWJzbHZOR1lEb1FSZV9ZT0d5ckh6OUE?oc=5",
+          "publishedAt": "2026-07-23T10:00:00.000Z"
+        },
+        {
+          "title": "Steelers training camp countdown: Alex Highsmith has quietly become a dominant defender - Pittsburgh Post-Gazette",
+          "source": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYmY1bVo1dUR1NXUyNWpLVW1BTC02YmM3ajZUNHlwRjJMUzRobHRCSWVYc1pveWtZYXVrTkZPdE5wY3dETXYtSElnVEdkSmRGaUlLdzFJcjd3aE8xMDVjVXpQeVZ0REV3VXZQZzktZGhfbnFDZ2xRZ180MVI5MFBvaWkyS0dHUDFZTzd0T1VhYzZrckxGbEgzNHY2MkVYNHNWNGpzQk9HOV9maVY2QnBXdHBCalFNWEF0ampnTm42eXVxcGN2?oc=5",
+          "publishedAt": "2026-07-23T11:01:04.000Z"
         },
         {
           "title": "Former Steelers RB Le’Veon Bell arrested in Ohio - Behind the Steel Curtain",
           "source": "Behind the Steel Curtain",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeDFQN0d1by13cE5YM3ZvcTFYYzhwMmRaZDFaa21COVRJcjRCUTlBWjVwMGJ0dUdGdjJ5akxwMXBDQ2FxbUJjQi1vRGVPTl9WWTJBMTJ3Z1lVS0p4YlpEX1V0WjBHanlsWFlLcDc4b3UtcnNGT0RBS3FnVWFWZUNIVkNFd3ZucG5SemY0bERFVDVqYUluWG82MEpHdzFuNWNvakpDZEpEVklydVVDU0s5N05oZ05hQnV0bXIzZXdB?oc=5",
           "publishedAt": "2026-07-20T14:33:19.000Z"
-        },
-        {
-          "title": "Former Pittsburgh Steelers running back Le’Veon Bell arrested in Ohio - TribLIVE.com",
-          "source": "TribLIVE.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSVlscXZCcmFaNF9tc1RRcHJ3STh4TGthYXRCQ1hQbldRNHpYV2dZY3QwYzRLM0FtS01qb0VjMmlXUmszbm0yR0VKQmxfbXQ0ZTk4N3A2bFI0Tnl4RHQteG5FMktHWWYzTHgyU1BkWkxqOG95QkVWRUNfSmVpb2l3RWhFTldXalRMMlIwOTBZRnB5MXJmdDl2MGZibEgyQQ?oc=5",
-          "publishedAt": "2026-07-20T20:44:49.000Z"
         }
       ]
     },
@@ -243,28 +243,28 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Country artist Christopher James releases new single - CW33.com",
-          "source": "CW33.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkxaWFc0aEZJSVBjcmc0STJJUDZZbThjSUx3VXg4SnJVRlhITlozNnRXMjhuVXlnNlV6N2RXTHZFS2M0Ukh5UFNsbVRSZk1mYXVxdlphVm1pMmdGNjRIQkNrN2l1VW5rNzhWR2hSZkpHbm82MzVoMVZ2YklwcEdrWVZBMEVmbENiZXNDMlE2WWJ6V3fSAZgBQVVfeXFMUE4tbjQxYU9fQmk5OWQ4R2ZGS2YtSnhqQzhXM0FqYndUOGNDQWZTWS15ek01N3Btb1E0TzVISXdQOTNMNTM4bEc3blBwQ2FxOElrOUJ6RVdxVVBVaHUteGFDQTdzX3RCMlY5Wi1VR0RnaHlLMWMtOWVjbTVEZC1zdkVnUW9taXVsd2NWTktRWjVES0NnVXdOQkk?oc=5",
-          "publishedAt": "2026-07-21T16:45:00.000Z"
-        },
-        {
           "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country Music",
           "source": "Holler Country Music",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
           "publishedAt": "2026-07-08T07:00:00.000Z"
         },
         {
-          "title": "June 26th, 2026 is a BIG Day for New Albums. Here’s Your Guide - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0luVkFfWmZsRGgwSm85NVBVNVVSU2YtMUVBUDNPR0RfRmhJQzk2NU1zcFhqQTBPY3NKbXdQM0J1MVJsVENrN1g5OTF6aWw4T1p0WS1LeEdIZktKQlJDVW5wLVRHdEgwRGJBOGxiVUpPTHZiel8xOUZScnc3Uk1iSDduMzZjbTZMR2E0TUQ4MFhpUGU5Nmc?oc=5",
-          "publishedAt": "2026-06-24T07:00:00.000Z"
+          "title": "Country artist Christopher James releases new single - CW33.com",
+          "source": "CW33.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkxaWFc0aEZJSVBjcmc0STJJUDZZbThjSUx3VXg4SnJVRlhITlozNnRXMjhuVXlnNlV6N2RXTHZFS2M0Ukh5UFNsbVRSZk1mYXVxdlphVm1pMmdGNjRIQkNrN2l1VW5rNzhWR2hSZkpHbm82MzVoMVZ2YklwcEdrWVZBMEVmbENiZXNDMlE2WWJ6V3fSAZgBQVVfeXFMUE4tbjQxYU9fQmk5OWQ4R2ZGS2YtSnhqQzhXM0FqYndUOGNDQWZTWS15ek01N3Btb1E0TzVISXdQOTNMNTM4bEc3blBwQ2FxOElrOUJ6RVdxVVBVaHUteGFDQTdzX3RCMlY5Wi1VR0RnaHlLMWMtOWVjbTVEZC1zdkVnUW9taXVsd2NWTktRWjVES0NnVXdOQkk?oc=5",
+          "publishedAt": "2026-07-21T16:45:00.000Z"
         },
         {
           "title": "Riley Green's new 'Think As You Drunk' music video is winning over country music fans - Fox News",
           "source": "Fox News",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcmJDUUlrQndSNE1MeU5sUkdWWEgzSGVWTmVxODRjWWM3Q0hEWW1uaEIwVnFqeGlqSk1oMXBnZG5TQ2F6YmJIZlpyandvRkg1TmcyYno5X2Q2b2tKMjcxTDRMWTB0WkZFSDRISjRHUEtFa1Zua0l3Ulo2VEJPTnRJQzhMaDBiZlJuVTZaODYwRFhRdWJTRk5kdEk2V2FYcTctQVBGSUVDTVJfR1FpTlE?oc=5",
           "publishedAt": "2026-07-10T07:00:00.000Z"
+        },
+        {
+          "title": "June 26th, 2026 is a BIG Day for New Albums. Here’s Your Guide - - Saving Country Music",
+          "source": "- Saving Country Music",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0luVkFfWmZsRGgwSm85NVBVNVVSU2YtMUVBUDNPR0RfRmhJQzk2NU1zcFhqQTBPY3NKbXdQM0J1MVJsVENrN1g5OTF6aWw4T1p0WS1LeEdIZktKQlJDVW5wLVRHdEgwRGJBOGxiVUpPTHZiel8xOUZScnc3Uk1iSDduMzZjbTZMR2E0TUQ4MFhpUGU5Nmc?oc=5",
+          "publishedAt": "2026-06-24T07:00:00.000Z"
         },
         {
           "title": "Jelly Roll Surprise-Releases ‘Hands Up,’ His First Song Since Filing for Divorce from Bunnie Xo - Billboard",
