@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-07-24T11:56:09.427Z",
+  "generatedAt": "2026-07-25T11:35:31.700Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$738.18",
-      "change": "-9.23 (-1.23%)",
+      "price": "$738.93",
+      "change": "+0.75 (+0.10%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$516.26",
-      "change": "-5.21 (-1.00%)",
+      "price": "$518.76",
+      "change": "+2.50 (+0.48%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$691.96",
-      "change": "-13.39 (-1.90%)",
+      "price": "$684.23",
+      "change": "-7.73 (-1.12%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$321.66",
-      "change": "-4.23 (-1.30%)",
+      "price": "$333.02",
+      "change": "+11.36 (+3.53%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$381.58",
-      "change": "-8.76 (-2.24%)",
+      "price": "$381.70",
+      "change": "+0.12 (+0.03%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$319.69",
-      "change": "-54.32 (-14.52%)",
+      "price": "$313.03",
+      "change": "-6.66 (-2.08%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+          "title": "Trump is hellbent on tariffs. Here are 5 implications",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
-          "publishedAt": "2026-07-24T11:37:58.000Z"
+          "url": "https://www.npr.org/2026/07/25/nx-s1-5905692/trump-tariffs-economy-inflation",
+          "publishedAt": "2026-07-25T09:00:00.000Z"
         },
         {
-          "title": "Trump threatens Iran escalation as tit-for-tat airstrikes continue",
+          "title": "Democrats in Maine gather to replace Graham Platner in the race against Susan Collins",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
-          "publishedAt": "2026-07-24T11:30:08.000Z"
+          "url": "https://www.npr.org/2026/07/25/nx-s1-5902982/democrats-maine-senate-race",
+          "publishedAt": "2026-07-25T09:00:00.000Z"
         },
         {
-          "title": "US allies hit with new tariffs object to Trump&apos;s forced labor claims",
+          "title": "Trump returns to correspondents&apos; dinner 3 months after shooting",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
-          "publishedAt": "2026-07-24T10:31:08.000Z"
+          "url": "https://www.npr.org/2026/07/25/nx-s1-5907805/white-house-correspondents-dinner",
+          "publishedAt": "2026-07-25T05:04:00.000Z"
         },
         {
-          "title": "What animal is the deformed-but-adorable Jimothy? The quiz knows — do you?",
+          "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/24/g-s1-134821/jimothy-ai-uk-mamdani-strait-iran-news-quiz",
-          "publishedAt": "2026-07-24T09:01:00.000Z"
+          "url": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits",
+          "publishedAt": "2026-07-24T22:26:21.000Z"
         },
         {
-          "title": "Netflix viewers the world over are binge-watching South African series &apos;The Polygamist.&apos; Here&apos;s why",
+          "title": "Democrats approve new primary election calendar, putting South Carolina first",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist",
-          "publishedAt": "2026-07-24T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/07/24/nx-s1-5906834/dnc-primary-election-calendar-south-carolina-2028",
+          "publishedAt": "2026-07-24T21:50:41.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "U.S. carries out more strikes as Trump threatens Iran, Houthis with \"major military punishment\" - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5",
-          "publishedAt": "2026-07-24T10:12:00.000Z"
+          "title": "3 U.S. Army-Baylor grad programs ranked top-10 nationally by U.S. News - Baylor University",
+          "source": "Baylor University",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUZBZDZlazVzenhPQzBEeFY2WnRmUHpOZjJZOG84cFRiZk9SbXo3c1VVNlJqa0d0bXhjSVFlMmlnR0x4bTktaGRBLTZQWFRhUHRDUFM4b0VqaHI1Z0IwYjV3bXl4Z0tqVm9tS2x5X25SRkc2dGFkVlZERGdwbHl6NTZCdURBUTlMUTFOaFZDQmxuQ2pGaEx6aGhUOVljLW05bUNRMGtsNmQ1RHNmU05YV3B0cw?oc=5",
+          "publishedAt": "2026-07-24T17:43:48.000Z"
+        },
+        {
+          "title": "Pentagon nominates Lt. Gen. Admiral to command US Army Europe and Africa - Military Times",
+          "source": "Military Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaXZTWlhibUdiTGN2TnkwTkd3NHBYMEg0M0dmdDRDTDktalRLNWRRSDZ1MURJSm5IVDRPX0tibnpkMzNuUGQxUzRKdWp4RFpDcG5PcVF5bVczQzdwemNybzZENzVNRjFId0drblNUUzJfbkFseDBnNkdOSkQ3VXFDQ3JYQjU2aW9fOUVrcWZ2ZU5XTEtLUTIxM3pJM0xRbmUxSUNiVG84c1VmLV9rQzJFeXpNbnFvQmZsVGdPcWt0d2ZTSC1KcDQtb3l2OA?oc=5",
+          "publishedAt": "2026-07-24T18:09:52.000Z"
         },
         {
           "title": "US military identifies third service member believed to have been killed in Iranian attack - AP News",
           "source": "AP News",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeklzVlNQYy1nZjVzaUtYa0tNamVrTVNyWHZfS2JmUmYwQmtZLWxPVkMyeTB1ZElBNkhiZ0M0MkdzWHQtbmRLRGo5Z1ZleXVtZzdNYXdQTlB0TUVGMDQ0M2tXMjFvbzU0WkVseGVwRFhaYndPUDhaWWF3SFU3b29sQ2pVREdHUEJqZmZ2dk1qRnRILVY5LXE0cl9sS3BobFVTaEE?oc=5",
-          "publishedAt": "2026-07-21T21:04:26.000Z"
-        },
-        {
-          "title": "Iranian army says it launched drone attacks on US military bases in Bahrain, Jordan - Anadolu Ajansı",
-          "source": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNmdyRXZQOUI2SnI0aXNhbHgyOExUT0ZuNkFZRm0yaHdLUkk4NXJCeGM3M0JKWXVWZjhDX2ZEUzZkQVVUSUhIWjVxak5NRHJ1TzFIbjcyc1NhMy1PaGVESVJaY2JSOWJxdnpsWlh6UXI3TmhkQ3VRUTRjYS03Sjc1Q3hZTXk3YWFOT19vTzkzU3hrd1lKOGFOQVk4RTV6OHNDZFJMZ29hMUQ5TFFLaW10bl80T2hrU2EwNklISmFYNmppZ0F4OFpMNzhELUs5MnM?oc=5",
-          "publishedAt": "2026-07-24T05:39:08.000Z"
-        },
-        {
-          "title": "US soldiers killed by Iran were from Texas and Hawaii, military says - Houston Public Media",
-          "source": "Houston Public Media",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORlVHdWpJNVFMeS1VcW53Mjd6WGFFXzhQUzB1NXRQMmY0YV9sSk9vNVBNQ19BaGwwamdvNUM1eFN4MzFOOTlxX1NfeDgzUmUwSjJnTC1iT1U5eC1ueV9ydks3X09ONVNYMWdlak1namlFMDNnWERDUWU3N2l6TVVxU3BTRG93UXktNkJrUkRpcExHMDRZRkliRFNxa0xMQmU2TWxpbjRCcVpjQmhQN19NYW45VjdFUFhNcTZ2UEVXcURoNWZGVS1xYXJVWmYtLWM0Z0Q5dHlFQS3SAeABQVVfeXFMTjcxVzBTQXAtSnZ2MzRyRGJwR1YxSkdGY0NmelBBMWlRNWNsTkJWUWtPUmM1RFFKaTVjRENQMFVKYTVhaEhPeTU2VzNtRi1qYm9pNzR2V3hHeUt5VkdjUWtLVDhOVUdhOW81NlpxeU1nS0wxWTRfYlN3bE5wMGtFQTFicjRKT25ncmcyNGNYeE1QOTB4eDZnd1BNRS1BbXdiU0poVWRpV3JmQnRuVHRyVzZQWjdCcWZJcUxKYjRhc0F1bXREWUVLZEJtQ3c0SHlmaFFMTUtXaWM3VTl4UFNoR3Y?oc=5",
-          "publishedAt": "2026-07-20T21:44:45.000Z"
+          "publishedAt": "2026-07-22T05:18:00.000Z"
         },
         {
           "title": "U.S. Army Deploys Hypersonic Missiles in Range of China During Exercise - USNI News",
           "source": "USNI News",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQekhVZHU1UE01aWk0Y1pISndBVlV4RkpZLXpvV2xxUV9JcksydHRkMGtGSnpjc3JPbzJ2SzBaWVNTalE0V3VBN09HWm9aeUM0T1JEc1JHQXhYQW94OVRyNHVJbXhnU2QySTZma2MxTzVUVmZLX2g4MTZWTHF4MVhqQm1zRFYzSThFdExVQ01xSFFxYUhxaVBLRXoyV2RKWV9mVVFLSVRR?oc=5",
           "publishedAt": "2026-07-22T18:22:00.000Z"
+        },
+        {
+          "title": "U.S. military identifies 2 soldiers killed in Iranian attack on Jordan - PBS",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdS1aNXVKUGoyZ20wX3FpVnFKdmRxbDlTOEpiczFCdUR4emZlcUlqSE0xd2ctemozdXdqT3M0cTY2VFJpY2hJR0JVX2xpN2lYYmRpNXpaYXRZRjRTeVEwRjhxVXFka2JvTmtDSElidEZ2MFRsWHNxOEVqX1B3Wm03eXNWTUdaeE9pNkVUVHRwRVQwNWNPZ0RVOVlZQ0VySEhSVGxUUlRBUFJGbjDSAbABQVVfeXFMTnV4V3R6S194bnRCZ09pemlCNktCUmx0MVZFRUdncnJCdG9iTVlfZjFicHI4SkhmMWxmRVkwQkFUN1dSVzlKeUZLdVJiTnhDOEQ4dzZScXVsOGtRb2Z5ck92eXhLaGp1WEVaNG9PUzJrby1WdlRpM1ZWWEVNalpvME92Y1Y3RWlmSXZxUUZWS3N4VnJsRzBESm83UGc5X2tlbm5fUXVEZVV3Q0JhY256S2E?oc=5",
+          "publishedAt": "2026-07-20T12:55:06.000Z"
         }
       ]
     },
@@ -128,6 +128,12 @@
       "kicker": "West Point",
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "Whose Decision Was It? Drone Swarms and the Accountability Gap in Ukraine - Lieber Institute West Point",
+          "source": "Lieber Institute West Point",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDFBSnRLRWhHSHI4MUNhcVNTUG9rcmFCc1VFZWlEVTY1NlRJSGMwS2dGLUpoZjVUNFBmMzUyXzBWSDAwZC15S3hYajhwU012aWxsOVEwR1MzdGZqbmNpR2ZnbTZFWVV4S2Y5SXgySUxIMU83dWM2UGt4XzI2VDhjNDB0UUFoMHM3YXdfdXVvd1JKSVF1emc?oc=5",
+          "publishedAt": "2026-07-24T21:10:10.000Z"
+        },
         {
           "title": "Riverhead graduate Kaleb Gatto accepted to West Point after NJROTC success - Riverhead News Review",
           "source": "Riverhead News Review",
@@ -151,12 +157,6 @@
           "source": "army.mil",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGFrSDkybFFlVjJoMDJ4bThyNUVORUFydl8yak00N3pfMXZrVV84bk9sdmQzV2tOU3o3V0JYUkFXcFQ0S0tOZnZ0VUltMGE2X0NmakY0SzFOcHFlWUhuYkw0UzdOUWZCVEY0S3hIN0RsOGtrYk8wdWNMTUtYWTE4NzRpcnYzUUxFUG9nbVEtQzNUdVlmZjBpSzRqbVR5VlVkVVZz0gGjAUFVX3lxTE5EYWtIOTJsUWVWMmgwMnhtOHI1RU5FQXJ2XzJqTTQ3el8xdmtVXzhuT2x2ZDNXa05TejdXQlhSQVdwVDRLS05mdnRVSW0wYTZfQ2ZqRjRLMU5wcWVZSG5iTDRTN05RZkJURjRLeEg3RGw4a2tiTzB1Y0xNS1hZMTg3NGlydjNRTEVQb2dtUS1DM1R1WWZmMGlLNGptVHlWVWRVVnM?oc=5",
           "publishedAt": "2026-06-26T07:00:00.000Z"
-        },
-        {
-          "title": "The Bomber Paradox: The B-21, Nuclear Deterrence, and the Risk of Legacy Defense Assumptions - Modern War Institute -",
-          "source": "Modern War Institute -",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ3NKVVVJX0NZUExnSnFlMC1yb1FIb2hKRlMyNC1lS1dIaEdaWlVJbFpVdkMzN0JTZXJnUU1VR09ZWmpuaGpQMDA3aktSakJNeXdTaGlITW9NblQ2c0F5Z0dyX2VaVlNSU2NyMWd0cW5VYW1FTTZNOXlFaVBkcVA3alhhdXZaWlVaU1dxeUFwWVFuSVNtSndpZzJvejZyQnNiS3ZESFduc2oybzBMN3pzQUxkZU5WWjg?oc=5",
-          "publishedAt": "2026-07-22T06:42:11.000Z"
         }
       ]
     },
@@ -185,16 +185,16 @@
           "publishedAt": "2026-05-03T07:00:00.000Z"
         },
         {
-          "title": "Sam Sartin, Army West Point Black Knights, TE - News, Stats, Bio - CBS Sports",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52UXhscUpaNF9idk1GNU5WQ1RQN0FkYU9vMjdILVhURkpsM05pRHV3eUtpenpIQnd2ZGVQWktQOTMwWi1oemFBZUY3VURRdTJGT09VVXN6cU15OTM3ajdRVTFkckFqaUxObmltY2hDLUlDUnVNOEhDN2tHSQ?oc=5",
-          "publishedAt": "2026-07-19T18:44:34.000Z"
-        },
-        {
           "title": "Photo gallery: Lions dominate Army West Point in NCAA tourney first round - The Pennsylvania State University",
           "source": "The Pennsylvania State University",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0lnb0liclYwb0FWN05uQ1MzV3RKZ2lOWFJseWdNMUdkTkh1UjBmQTNEMXJubERCMVctR09KRDg3ei1RUnY4b0t0Q1k1MXdBckdFQm5FSFIxelhMTG1GajUtZGtlTkFROUQtNTBqM09Mc1ZwTWZwa2daMmU3STkwYWFycUVSVzNMUzJfaWlWX19mR0NzTXdHY0E2Q0FsY0VId1NRV3hwSjFRVFhOcThpbUhHU294Y3E2ZWt5Zg?oc=5",
           "publishedAt": "2026-05-10T07:00:00.000Z"
+        },
+        {
+          "title": "PHOTOS: Army football Black/Gold scrimmage - Times Herald-Record",
+          "source": "Times Herald-Record",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMzV5Qk9VRGV6SlNxWUNDSnFfTGpQTUwtSUEwcnFtMWhTWjd1WnFfQUVncjQwYllnc01nZVV5V0dfZGlmN2FSMGNJbHlqMUlyN21FendkYWI5clR3RS1HdlcyTWc4MEtLdkUzdGY0S1E4R2lLVUtVZUpSNWZvUWU2RGdrME4xTU9hbHoyOTQ0SHY2UTRpZzl4aGxaWjRtN1RqQkM0QnhiX0VIUHZzVVlRQnNKdnowT1lsN2dJQTlwanE4QQ?oc=5",
+          "publishedAt": "2026-04-18T07:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Steelers sign Allar - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6Y2FEYnFOTU15ZEhZdXI5REVrVVdMSWZTUGd6Z28tZVBPRlAtQVdjR1NZU2lmbWowRUVhWW1qQWprT2psWlJnUnJFMVFGWGZRbHR4Z0hsd1ozZnhrQ3c?oc=5",
+          "publishedAt": "2026-07-24T17:03:58.000Z"
+        },
+        {
+          "title": "Steelers sign QB Drew Allar to rookie contract - Behind the Steel Curtain",
+          "source": "Behind the Steel Curtain",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNzNMYXpJZXNIYkxnTHdUaEZldmtuR2RoaFpPbV9yX1dtMVlIdEJsa1FrVWpVaHU4Mkt1Zl9zVFVfZHBmRmhsQ0hhbUY0OUZaUE1Xclc4UU5DOTdLYVpiNm5FMVJZSE1JdC03Nlp1TlJGdEFKVktHY0pOYjUyczJoVnZ1aXFVREEzaW1jeUhuVVFxRTh2dXJOaHpvQVhqUlRKWWd4SnV0N3pPZ1BhYjFMenlZU04xU2xDbWhNag?oc=5",
+          "publishedAt": "2026-07-24T17:14:18.000Z"
+        },
+        {
+          "title": "Latest QB signing could be big turning point for Steelers, Drew Allar in contract saga - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVGZXQnhRUk9uSk5vZUo0cUgyTGc2NWdLRU9FakM0WWNpT1E5dXZaZlFzZEI3MkN4UWd5cnppYUJlY01iZHpLTDJmam5lZmxnZVhHZTRwZDhMYXQxdUlWblk4RnRWOWlHdVJQNGk4eWMydWNMcmR2V2FiVjdSNEVyVHNYYlVrT21UOXFPc1VFSDhKT294cTdiRlZfYlk2ejdKaFFKYmI3NXpWMnFRRUExdEZLclhKZjZXZExnT0UtdmNHcERpYWc5UDF1SFM2UmZmLUHSAeYBQVVfeXFMUGhHZVpSLWVMSm9zQklnYU1NYkV5SUt5M2dTLTNCQ0t1ejFYTU43elA2SDh1R3BRdzhaTVEwdUJTMHRQdUlkSmVzUDgxN2VkUUZTd2wxSnNnLXlCdEJrNThRS2xxSGo4aGZ6b2s5N3o0eXV6STRBRU5JbDF5OTdRVE9lU2MxVWw3blNtMHpyTkxtRGJZMFlBRGN4TDZPX0xGNndLMlRQZGVzU25kbkRmMFRXdXlJODU4YXV1UXB2UXZrNnl6TUQwTkhHYmRlMXhOa3JraWFWWllkTVhsbTZzd3R1Vm00bnc?oc=5",
+          "publishedAt": "2026-07-24T02:36:00.000Z"
+        },
+        {
           "title": "2026 Pittsburgh Steelers training camp preview - ESPN",
           "source": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZXNORndsc2MwYlpJNlhKdm9yUk9Db09oMWVWbGN2M3BIQXZBY2Y2ZmlWVVVSb29OcnZoVElMLWtNc1dveDFnZVNzTENNTGdBSnFPaHMxcnp2RE4wbWtrVzh1SlZRb0xpX3l6Szl1a09kTENONllWRUJ2cFRsbHE3VWJzbHZOR1lEb1FSZV9ZT0d5ckh6OUE?oc=5",
           "publishedAt": "2026-07-23T10:00:00.000Z"
         },
         {
-          "title": "Steelers training camp: Offensive position battles, storylines to follow - Behind the Steel Curtain",
+          "title": "Former Steelers LB Bud Dupree shares distaste for training camp in Latrobe - Behind the Steel Curtain",
           "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPbV85LXlST1lyVzAtRTRuTmo3V0JIV1ZOblUxOWdRbkJpSkE4U1ZiRnpMTk1ZdU9sUWhEX21ybC1uNlZMRjlrdkl6ejFKeEtzTFR3eGZHMXFXV01IcDcxanAyNHNUU0tvek9zRkFnajRoNVhuVndRa2tmeDRPNWppTmhiTzV1S2JVOFRHaEZNNmFnRUVJeE5UMG10RTNGRU1KVTI4SFRVbjdwWGl1SDdBdFZSdGNGX3FNNWxHNFVjY3NSRm1hY3pnbkplVThLNzVUYWQtZ1FxVHptdzdQLUVqQmlWRmMwenBOcnhUYmczbFF5bTY4bDJXMkFfam12Qkd1U285X29WbDRTOFV2T2U1YndBVktDbEJTLWhoODk2cWVaclhwa2QyU19sSUpBS1cwSHE4emFSTHpFRzhBMVJfb0pYeHljT3NqY1RkaDVrTWtEdzE1YlVadlkweWdnNzBEMGdGcUVHQ2hNa0RScGtqSmtXdUJqZjJFVjNFTl9ycjBWVHQ2ZjJjVQ?oc=5",
-          "publishedAt": "2026-07-23T13:00:00.000Z"
-        },
-        {
-          "title": "Steelers quietly have one of the NFL's best training camp battles already brewing - Still Curtain",
-          "source": "Still Curtain",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaU1zUUpHaHdiY0tZYTZuSEpmOWxfM3NfX0ZydEZUbGhDWl85S0lCN29IcmFRYzJxbmNJVkpxQTBvbmhtUUExTTg5VzlFMEt6TUYyd05BSnJ3UlQ1anNodmtmbENXb1lXX3VxX0kzM29CZlRUeUp5d0NfZVdKRHdrQ2xNY0R2bEhsUUpUUUR2ZG03T2E2aW1hN3huUHhETmZBM1JwU0V4WllvMkxpdUZGMDBTOXQ5M0JoS2FSNHdyYzJZUnhtRTRrREdn?oc=5",
-          "publishedAt": "2026-07-22T14:00:01.000Z"
-        },
-        {
-          "title": "Here's What Happens if Steelers Don't Sign Drew Allar - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR0p3djk4a0F6eXJWemtlWFFWeW0yRHJkcTg4QThPa3lCZ2JuV3dzQXV3V0ZSZ1RXMGEyLVR3N1B1QmJxR0piTndIY0E0UE4tRlowUzlDX1dhR1JXS0NBeEtCVktfdlVzZFBUeTRhTk14WEJKRUs2bkdkT3Vsdm9xd21jc3Y3V29ZM1JvYTEzdnZaanl3?oc=5",
-          "publishedAt": "2026-07-22T13:00:01.000Z"
-        },
-        {
-          "title": "Steelers training camp countdown: Alex Highsmith has quietly become a dominant defender - Pittsburgh Post-Gazette",
-          "source": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYmY1bVo1dUR1NXUyNWpLVW1BTC02YmM3ajZUNHlwRjJMUzRobHRCSWVYc1pveWtZYXVrTkZPdE5wY3dETXYtSElnVEdkSmRGaUlLdzFJcjd3aE8xMDVjVXpQeVZ0REV3VXZQZzktZGhfbnFDZ2xRZ180MVI5MFBvaWkyS0dHUDFZTzd0T1VhYzZrckxGbEgzNHY2MkVYNHNWNGpzQk9HOV9maVY2QnBXdHBCalFNWEF0ampnTm42eXVxcGN2?oc=5",
-          "publishedAt": "2026-07-23T08:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRkFyQi1oR1dhQ3I5QVAyRFVYRXJPbzhMYTUzdDNLWlRRcWVLNEZCazVGRlktUTA2X1R4c0lkal9MZVJqaEVpUkRiU05GRE0zVlEwR1lnZ0lPUGloMEtqQ1ZoUjlOY19BMGhFY1ZmYmFMUktZU2FxZS1CVEU2em4xanpfenhEQkp3aHFNN09Hb3BGQ3o5RTdUUU1LdnBfbGVuRE51R2VsVHY1enZpdDFPTDl1aVNqRnMxWTBvcTJuZXJFX3k1aTUzWkVwdDd2ZFUwbm5uR2tMMDlZMnpqajhCMWRmeW1tXzNoSHVuS21ST01sT3k1WnJWWElKd09lVVU?oc=5",
+          "publishedAt": "2026-07-23T22:00:29.000Z"
         }
       ]
     },
@@ -242,6 +242,18 @@
       "kicker": "Music",
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "Country music's biggest star Morgan Wallen releases 'Been By Now' as his latest hit song | OutKick - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbkx6VGNYUnI0RDgyQ01rTUwzT012QmJhS25WSlVsSkdkZ1RobVdyVDVVODN1SF8wcUdsYlhVYlBIaEgwTk5LNmtuaTF4RHdzcW5VcnRRbXhSZEZjaW1pZm81MnFwenA1NmFscUo1WGpxVm1yV0djWEVMRW8wNUZtdEUzQi1SbEFNMllnZDc2UkNNaTlqYVNwLXltMC01M1Y0WHVfZUJpRE1pZW4yS3lGbUNiS3R5QmVn?oc=5",
+          "publishedAt": "2026-07-24T16:10:13.000Z"
+        },
+        {
+          "title": "River Shook Releases 'Country Angel' Music Video From Self-Titled Debut Album - BroadwayWorld",
+          "source": "BroadwayWorld",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORTIyaDhkMHdTN3ZZeW9fM2hIeEVLaldpVUJpMG1HbUJOZzhURUhVU3pFVnNLRGpMWklGM2JqT28zQzRjaFNqTHUtSEQxc251VTNSRE1kU1I2bTZPdzNZNDVWUkJNV3B2WDhleXoyRDVlSFFFUUgtc21ubTRTTWxkek44NEFCamlnMzdMZGxZZEhmMGxaWnhPanVPTzhES2xjeFNhOXBZVFltaDUxdFNvd2lvcWJScGs1NTZUanM1REhTcGttODBTdFF4VQ?oc=5",
+          "publishedAt": "2026-07-24T15:47:45.000Z"
+        },
         {
           "title": "Morgan Wallen Shares New Song \"Been By Now\" Out Now - Country Swag",
           "source": "Country Swag",
@@ -255,22 +267,10 @@
           "publishedAt": "2026-07-23T16:08:32.000Z"
         },
         {
-          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country Music",
-          "source": "Holler Country Music",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
-          "publishedAt": "2026-07-08T07:00:00.000Z"
-        },
-        {
-          "title": "Riley Green's new 'Think As You Drunk' music video is winning over country music fans - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcmJDUUlrQndSNE1MeU5sUkdWWEgzSGVWTmVxODRjWWM3Q0hEWW1uaEIwVnFqeGlqSk1oMXBnZG5TQ2F6YmJIZlpyandvRkg1TmcyYno5X2Q2b2tKMjcxTDRMWTB0WkZFSDRISjRHUEtFa1Zua0l3Ulo2VEJPTnRJQzhMaDBiZlJuVTZaODYwRFhRdWJTRk5kdEk2V2FYcTctQVBGSUVDTVJfR1FpTlE?oc=5",
-          "publishedAt": "2026-07-10T07:00:00.000Z"
-        },
-        {
-          "title": "June 26th, 2026 is a BIG Day for New Albums. Here’s Your Guide - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0luVkFfWmZsRGgwSm85NVBVNVVSU2YtMUVBUDNPR0RfRmhJQzk2NU1zcFhqQTBPY3NKbXdQM0J1MVJsVENrN1g5OTF6aWw4T1p0WS1LeEdIZktKQlJDVW5wLVRHdEgwRGJBOGxiVUpPTHZiel8xOUZScnc3Uk1iSDduMzZjbTZMR2E0TUQ4MFhpUGU5Nmc?oc=5",
-          "publishedAt": "2026-06-24T07:00:00.000Z"
+          "title": "Lakelin Lemmings Releases Self-Titled Debut Album Featuring 16 Tracks and Focus Song “Bad Boy Good” - Country Evolution",
+          "source": "Country Evolution",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvanB2bVU2ZEVpQmN0eTdQdUdjRTRNOVZVMGR0ODZZUHVkOXdGdlpWRlJfNW90WWd3V0l0NUVucUJqamZYc3pFd1dPZ3JVX0l2M0dTdHVYR2c2QjA1WTc3UE9xUS1SUWlxbHc?oc=5",
+          "publishedAt": "2026-07-24T15:39:40.000Z"
         }
       ]
     }
