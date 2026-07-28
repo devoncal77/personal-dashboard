@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-07-27T13:22:26.900Z",
+  "generatedAt": "2026-07-28T12:14:59.089Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$738.93",
-      "change": "+0.75 (+0.10%)",
+      "price": "$739.09",
+      "change": "+0.16 (+0.02%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$518.76",
+      "price": "$521.26",
       "change": "+2.50 (+0.48%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$684.23",
-      "change": "-7.73 (-1.12%)",
+      "price": "$682.12",
+      "change": "-2.11 (-0.31%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$333.02",
-      "change": "+11.36 (+3.53%)",
+      "price": "$336.91",
+      "change": "+3.89 (+1.17%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$381.70",
-      "change": "+0.12 (+0.03%)",
+      "price": "$389.10",
+      "change": "+7.40 (+1.94%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$313.03",
-      "change": "-6.66 (-2.08%)",
+      "price": "$309.22",
+      "change": "-3.81 (-1.22%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+          "title": "Trump to meet with Zelenskyy, Netanyahu. And, TPS holders could soon face deportation",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
-          "publishedAt": "2026-07-27T11:45:56.000Z"
+          "url": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption",
+          "publishedAt": "2026-07-28T11:26:09.000Z"
         },
         {
-          "title": "France continues to fight devastating wildfires, while progress is made in Spain",
+          "title": "AI tokens could become the kilowatt-hour of the AI age",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
-          "publishedAt": "2026-07-27T10:50:09.000Z"
+          "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
+          "publishedAt": "2026-07-28T10:30:00.000Z"
         },
         {
-          "title": "Baltimore will turn 911 into more than just an emergency number",
+          "title": "Yes, it&apos;s possible to save money while paying off credit card debt. Here&apos;s how",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
-          "publishedAt": "2026-07-27T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/07/28/nx-s1-5866642/yes-its-possible-to-save-money-while-paying-off-credit-card-debt-heres-how",
+          "publishedAt": "2026-07-28T09:02:00.000Z"
         },
         {
-          "title": "Kalshi attacks a Wisconsin law banning election bets as &apos;voter suppression&apos;",
+          "title": "Trump shattered ethics norms. Will voters trust Democrats to fix them?",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
-          "publishedAt": "2026-07-27T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/07/28/nx-s1-5869808/family-trump-profit-corruption-voters-ethics-democrats",
+          "publishedAt": "2026-07-28T09:00:00.000Z"
         },
         {
-          "title": "In Memphis, an &apos;anti-crime&apos; task force quietly turned into an ICE crackdown",
+          "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force",
-          "publishedAt": "2026-07-27T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
+          "publishedAt": "2026-07-28T07:42:11.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "3 U.S. Army-Baylor grad programs ranked top-10 nationally by U.S. News - Baylor University",
-          "source": "Baylor University",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUZBZDZlazVzenhPQzBEeFY2WnRmUHpOZjJZOG84cFRiZk9SbXo3c1VVNlJqa0d0bXhjSVFlMmlnR0x4bTktaGRBLTZQWFRhUHRDUFM4b0VqaHI1Z0IwYjV3bXl4Z0tqVm9tS2x5X25SRkc2dGFkVlZERGdwbHl6NTZCdURBUTlMUTFOaFZDQmxuQ2pGaEx6aGhUOVljLW05bUNRMGtsNmQ1RHNmU05YV3B0cw?oc=5",
-          "publishedAt": "2026-07-24T17:43:48.000Z"
+          "title": "Exclusive | Ford Motor Joins Race to Build Next U.S. Army Truck - WSJ",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT2hkUjFqLUlCaE84bi1NUGNRNDNXSmNRVTVrM1lnOGpEWE1OUDdjOFFiT1doVUZHSTRhejJlUElkbEZWV2hRaFVZMDV0NzNESzg1Ul9ZLVBfOHozNnhERklyaEk2T2NKOXU1YjFlVUZJMUI0dDlPVVZRYWw0VFV3c0lfNzh1T3licHJvTEIwdlJvTkNIUGlRSFBR?oc=5",
+          "publishedAt": "2026-07-27T17:09:00.000Z"
         },
         {
-          "title": "U.S. pauses Iran strikes for second straight night as talks move in positive direction - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3lNZnhiOVFueGNzd0dnbGM3V0d5emVUZTZhaXRRNmVpXzhVaVNRcVlWQ29XcGZDUnkwM0hhN1BYRmhnWEZhQlhFU1ItX0x6R3k3enA3VC00LVpKQi1xMWJPeXJ3VmQ5WDRhbzIzLWZ3MUgwS25ScHZOOXRnWmxWMzFacTlvRWNC?oc=5",
-          "publishedAt": "2026-07-24T10:42:00.000Z"
+          "title": "News - Military police bring a piece of the U.S. Army to Kaunas - DVIDS",
+          "source": "DVIDS",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEt6RU9mOUVEd18wMGh1bmxJWmdnLTNWR2xfeDRFWk1fY0dJLXg4YmlnVWNjbHdqLVNuazVVWjl2amprY3M3dmdyZkpybzdHdVR2eVZzOXBVMmxNR0NpOVNUZGI5M25fekRMeDI3UVpCRmhRNkVzb0lEOHp3TnI2aXFTLVY0Zw?oc=5",
+          "publishedAt": "2026-07-27T14:31:00.000Z"
         },
         {
-          "title": "Trump pays respects to 4 US service members killed in the Middle East - MilitaryNews.com",
-          "source": "MilitaryNews.com",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN2xGMUdpNDkyeEVkbVhzRFVEQlMyV0s2clRfWVlxNXVnVWdRQXVvZ0dmd2tyUVRTNzNybVFYdndhZmtkNTZqTGw3amRPMUFTT0hVMkV1UTVCRUtDdExaQlYwSWpjNnJtUzZXMnBFOE8zazgyRTBUV0RNY3diakZfY1U4VFhkNnRMN0laM0htZlpNOVlxTUNsb2I2YzFCS0xjd2xENHJWYVJ6YlZoR2JhVTJvUXppeGNyOTJlZFNwb29xYjNUTFdHRjQzNmM4MHd0TUwwUEwwTmZreUJhUm14ZGFPMVZzVDFmTUFja2dyQXR6d0FQ?oc=5",
-          "publishedAt": "2026-07-22T20:24:56.000Z"
+          "title": "Ford enters competition to develop new US Army tactical truck - Fox Business",
+          "source": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc3I1aVlCR2NHSFZFMVU2OERiOHE4ZFExRXhIdGNSZHFMY1FVU1UwV3BacnlIbTBRQmNPREI2TFhoWEJFUFhiaTJIOXI2QXhOeXB2QTdBSlF6V0ZjY2wwUVRzQnNBbGNZdlB2cFJqcURNOGR0RHdoazVOVUhLdGFEZzBOUWVyZF81cUoxeWQzSU1FaW91MTNiOWNB0gGfAUFVX3lxTE5RQ2ppMURUQ0tiWUJ2VFNlM1B3ZTVnRFVhcHlnbDlVZk9EWEpISW5MMlFFTUdtTXlpMHljMzNPdXJzb25felYxRlg2RGdfbGhzZmtvUkhsLWQyYUthcDdJSkxwYi04WnluSTI2cEpuc1pEUjg4VF9wR2oxWnhxNUVLWmJpTzdyak83Wk01d2ZkT3JSN0p3VEhtUm5nOG9Oaw?oc=5",
+          "publishedAt": "2026-07-27T21:24:00.000Z"
         },
         {
-          "title": "Pentagon nominates Lt. Gen. Admiral to command US Army Europe and Africa - Military Times",
-          "source": "Military Times",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaXZTWlhibUdiTGN2TnkwTkd3NHBYMEg0M0dmdDRDTDktalRLNWRRSDZ1MURJSm5IVDRPX0tibnpkMzNuUGQxUzRKdWp4RFpDcG5PcVF5bVczQzdwemNybzZENzVNRjFId0drblNUUzJfbkFseDBnNkdOSkQ3VXFDQ3JYQjU2aW9fOUVrcWZ2ZU5XTEtLUTIxM3pJM0xRbmUxSUNiVG84c1VmLV9rQzJFeXpNbnFvQmZsVGdPcWt0d2ZTSC1KcDQtb3l2OA?oc=5",
-          "publishedAt": "2026-07-24T18:09:52.000Z"
+          "title": "Ford wins a chance at building the U.S. Army's next tactical trucks - Detroit Free Press",
+          "source": "Detroit Free Press",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDZSV0ozc3JGNzRTd3c0bHdkXzRQNVhwVHJLeW5DcHVMT3RpXzdReHUyT05RUUIzQTRaVU1FYkRUVGRZLVVZTlN0cWlMWWE0QzhnbExlWVBLRC11OFZOcDVMNnc0OU5lMFY1N0tmZ2U2Sm9fMWpiYzVoYmlPSG9sYlYtUDNzbW5fWm5ETnNaYlZ3cUNBUFRyc2dMZHNGQ1R3Z2VWbWhaTEFPdzRXNTVqVlk4LS02OGVuTXpOQnAzZTR2NVB3SGZWdA?oc=5",
+          "publishedAt": "2026-07-27T18:49:00.000Z"
         },
         {
-          "title": "US military identifies third service member believed to have been killed in Iranian attack - AP News",
-          "source": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeklzVlNQYy1nZjVzaUtYa0tNamVrTVNyWHZfS2JmUmYwQmtZLWxPVkMyeTB1ZElBNkhiZ0M0MkdzWHQtbmRLRGo5Z1ZleXVtZzdNYXdQTlB0TUVGMDQ0M2tXMjFvbzU0WkVseGVwRFhaYndPUDhaWWF3SFU3b29sQ2pVREdHUEJqZmZ2dk1qRnRILVY5LXE0cl9sS3BobFVTaEE?oc=5",
-          "publishedAt": "2026-07-22T05:18:00.000Z"
+          "title": "Ford joins competition with GM for Army tactical trucks - The Detroit News",
+          "source": "The Detroit News",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaTQ1WjIyS21JaUlRSXVUUWxaU2cyaWV0TlRwRnpRTnp2TWlTMzE2b1ZrenpNbXdIS0hQanFXUVNld290ZDA0cVhNTm5ONWF0OTRQeF8zQzVZaW10c1E4bmdNNHU0T0FYMjFwSFBRc0dGd1pUS3M2M29KOWY5S0pHNXpiNEI5OENHcWhVS1A2RlFDaUptY1ZBamNmNXk5Tk4wZUpPaGR6OHRfaGdlUWJQX01Ib0V6TVZZcjl2MV9KWWxCeV9kZFFvYVZqSWtNQ1FaTlVCMlZBSXl1RjZQM2lBV18zOS1rZXpXcVBTTWl5cWhqR3F4Znk5WXFDdXprMjJrbXcyZg?oc=5",
+          "publishedAt": "2026-07-27T20:29:00.000Z"
         }
       ]
     },
@@ -129,10 +129,10 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "After Trump’s order, West Point curbed faculty speech. One professor said no. - The Washington Post",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTNiWmpRY285dHd2STRrVEVucnRyeDBka0liM3FKMlhIM3pCN0ZqLTdmTC1tYmRfSmJHSTFUTl9Ib19nU0xVZjYxVksxVndRUFVudE9Cd3VCa0dyRTJyVEJtQVlLTTRRaXNURmUtS2tseU9PSGsyMFJMT2haaHVMZ3ZuX1NVYTB6UUg0bHlueklWZUNNbXlDYV9NNlBJTWNhaUhIc1NiRS1TOVdEM0tMTEZjSTNoR0tiTmxZb2gzX2pMZw?oc=5",
-          "publishedAt": "2026-07-26T17:00:00.000Z"
+          "title": "Lieber Studies Indo-Pacific Volume - A Tale of Tenacity, Tensions, and Ambiguity: Mutual Defense Treaties and Defense Groupings in the Indo-Pacific - Lieber Institute West Point",
+          "source": "Lieber Institute West Point",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVkZFWHBBOEZkRk9UNC1mQ0lmc2hYaFo5Q1JESklIVWZyRVNHS0ZKa2hTS1VjZEcwNUtwWURPVm5LREZmOWhsMUEtSmpuTmdxM3V2cDFFNVhUaFoza0JrR3NhR3NyNVphMGtuZ243WEpTWTV1ZDEzUGdfamtJOVFUZDlibWFCeDE2dUdtN2IzVFNKbS1Vc3JVbXRnNENVN3Z5V2VpVEotWktDMW9ZcDl1eXZrU1FMc2VJ?oc=5",
+          "publishedAt": "2026-07-27T17:04:03.000Z"
         },
         {
           "title": "I visited West Point, the elite military academy dating back to the Revolutionary War. Take a look inside. - Business Insider",
@@ -141,10 +141,10 @@
           "publishedAt": "2026-07-05T07:00:00.000Z"
         },
         {
-          "title": "Whose Decision Was It? Drone Swarms and the Accountability Gap in Ukraine - Lieber Institute West Point",
-          "source": "Lieber Institute West Point",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDFBSnRLRWhHSHI4MUNhcVNTUG9rcmFCc1VFZWlEVTY1NlRJSGMwS2dGLUpoZjVUNFBmMzUyXzBWSDAwZC15S3hYajhwU012aWxsOVEwR1MzdGZqbmNpR2ZnbTZFWVV4S2Y5SXgySUxIMU83dWM2UGt4XzI2VDhjNDB0UUFoMHM3YXdfdXVvd1JKSVF1emc?oc=5",
-          "publishedAt": "2026-07-24T21:10:10.000Z"
+          "title": "After Trump’s order, West Point curbed faculty speech. One professor said no. - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZTNiWmpRY285dHd2STRrVEVucnRyeDBka0liM3FKMlhIM3pCN0ZqLTdmTC1tYmRfSmJHSTFUTl9Ib19nU0xVZjYxVksxVndRUFVudE9Cd3VCa0dyRTJyVEJtQVlLTTRRaXNURmUtS2tseU9PSGsyMFJMT2haaHVMZ3ZuX1NVYTB6UUg0bHlueklWZUNNbXlDYV9NNlBJTWNhaUhIc1NiRS1TOVdEM0tMTEZjSTNoR0tiTmxZb2gzX2pMZw?oc=5",
+          "publishedAt": "2026-07-26T17:00:00.000Z"
         },
         {
           "title": "Know about the academic program of the U.S. Military Academy at West Point - Encyclopedia Britannica",
@@ -153,10 +153,10 @@
           "publishedAt": "2026-07-15T07:00:00.000Z"
         },
         {
-          "title": "Southern Prep student better leader after military summer camps - TPI Media Group",
-          "source": "TPI Media Group",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcndiQ1ZoYktRUk1EMmNEdmd3Mm04SWxlaDhoNU83cmNhOWhEUGowdl8yUkxUTjAwTjFacnpfd1R5V0R6dEFFT2pWdXA2LUpDcDR3ZkV4NWNReUUtUkQwTlBBaUJBMm9heXFtMWxTUUxHNFlLX3FCNm8zbGN2R3VZbGhmdFllZ2R3LUczUVZTc3JPT25ZemxtdWlXTU9Sd241RVU4TG9YMmJnNERyOGQ1Mjhla0dicWUtODhnRnBSRDlfTDdwdVotS1pQajJRVTRZTE9fZEhkU0lWY1Ixa04yTmZTWFVSSHFvd2Y2aHV1S25VRjYx?oc=5",
-          "publishedAt": "2026-07-25T22:00:00.000Z"
+          "title": "Tim Bakken challenges West Point speech restrictions as unconstitutional - eciks.org",
+          "source": "eciks.org",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93REJlV1oyVXIwWmNDaXI3ZzZfUXpDaUN5ZkdrNUpMVy0zdzYyRlNTRjMza05VT21vNVFTNEQzWHFjaGpzVVU2eUtJNE1qbFFDY3hfU0R3UnZoVVpMcFNXYjU2SmxMd29GNjVMeXNR?oc=5",
+          "publishedAt": "2026-07-27T12:58:26.000Z"
         }
       ]
     },
@@ -173,28 +173,28 @@
           "publishedAt": "2026-06-11T07:00:00.000Z"
         },
         {
-          "title": "Sam Sartin, Army West Point Black Knights, TE - News, Stats, Bio - CBS Sports",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52UXhscUpaNF9idk1GNU5WQ1RQN0FkYU9vMjdILVhURkpsM05pRHV3eUtpenpIQnd2ZGVQWktQOTMwWi1oemFBZUY3VURRdTJGT09VVXN6cU15OTM3ajdRVTFkckFqaUxObmltY2hDLUlDUnVNOEhDN2tHSQ?oc=5",
-          "publishedAt": "2026-07-24T18:54:00.000Z"
-        },
-        {
           "title": "Patriot League Women’s Lacrosse Championship Game Preview: No. 1 Navy Meets No. 2 Army West Point (5.1.26) - Patriot League",
           "source": "Patriot League",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUk2OUV4VTc1ek5mMFI5S2FMQ0hoSFY2cElrYXZMblFVM3RwYlg5Q3ZIaUZFRkRaR1c1OE9qVXhiOEMwdHhyTzk3QlNoNDNPLTJ2NkJCUFVsYVZOTWczdi1sTXZiM1NxRHpSQURtSDBTaDBFdzJGQUZtbWUzZG5xLXJ1X3JZQ21PQjB6OERIT2tEbVN1X3JFVlRDN0hqV25fbE42NUN2WlNjbG5ZMU16ZU5pWWUxbGlrbmV2UG9aRDQ2Um1QWE5LNl8tRDRUYS1LLU1ha0Y3NVdQT0FWVXc?oc=5",
           "publishedAt": "2026-05-01T07:00:00.000Z"
         },
         {
+          "title": "Michael Goodale, Army West Point Black Knights, OL - News, Stats, Bio - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0xEVUVLenVGSkdqdmd2VjdSOU41cGpYRFlvSkpHaHdPTjgxTF92VDNMcU41OXdxRTlPT1ZSZDZaOFItdy16S05WYmV5ZHZUeUxRRlRGRVQwRDdTcmJSUTlhSWdIaElkQklLX1NfTlg2WHVzcGZKZzVYZjY5N3ZXVmxn?oc=5",
+          "publishedAt": "2026-07-24T18:54:00.000Z"
+        },
+        {
+          "title": "Army sports - Newest Black Knight athlete recruits report on R-Day - Times Herald-Record",
+          "source": "Times Herald-Record",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnNFcklVelVia1BocG82VFZ5eDRhX05mSUpqNmpwRHNCbE0yUzZJeFpLOE5OSEZGNVBzVFhOQ0JVbWZsMDZxVWdycmRLYWMwU2JmS3MyMVNHX09vVDRidGwxVnFOVnJINnpwSXpaYndKU2NVdmJqS1pwS2E3azFBbEE0Tnd0dmo5aEU2RlA5ZUs1Y1o4cFlkS3N1dklpX0ZxZW85dUJPd2tZTVpMTGlZTHV2VHM4TEU4OUtzZlBFNmpJa1pFWUhRMllXZw?oc=5",
+          "publishedAt": "2026-06-29T07:00:00.000Z"
+        },
+        {
           "title": "Photo gallery: Lions dominate Army West Point in NCAA tourney first round - The Pennsylvania State University",
           "source": "The Pennsylvania State University",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0lnb0liclYwb0FWN05uQ1MzV3RKZ2lOWFJseWdNMUdkTkh1UjBmQTNEMXJubERCMVctR09KRDg3ei1RUnY4b0t0Q1k1MXdBckdFQm5FSFIxelhMTG1GajUtZGtlTkFROUQtNTBqM09Mc1ZwTWZwa2daMmU3STkwYWFycUVSVzNMUzJfaWlWX19mR0NzTXdHY0E2Q0FsY0VId1NRV3hwSjFRVFhOcThpbUhHU294Y3E2ZWt5Zg?oc=5",
           "publishedAt": "2026-05-10T07:00:00.000Z"
-        },
-        {
-          "title": "PHOTOS: Army football Black/Gold scrimmage - Times Herald-Record",
-          "source": "Times Herald-Record",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMzV5Qk9VRGV6SlNxWUNDSnFfTGpQTUwtSUEwcnFtMWhTWjd1WnFfQUVncjQwYllnc01nZVV5V0dfZGlmN2FSMGNJbHlqMUlyN21FendkYWI5clR3RS1HdlcyTWc4MEtLdkUzdGY0S1E4R2lLVUtVZUpSNWZvUWU2RGdrME4xTU9hbHoyOTQ0SHY2UTRpZzl4aGxaWjRtN1RqQkM0QnhiX0VIUHZzVVlRQnNKdnowT1lsN2dJQTlwanE4QQ?oc=5",
-          "publishedAt": "2026-04-18T07:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Steelers sign Allar - Steelers.com",
+          "title": "Pre-camp position previews: Quarterback - Steelers.com",
           "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6Y2FEYnFOTU15ZEhZdXI5REVrVVdMSWZTUGd6Z28tZVBPRlAtQVdjR1NZU2lmbWowRUVhWW1qQWprT2psWlJnUnJFMVFGWGZRbHR4Z0hsd1ozZnhrQ3c?oc=5",
-          "publishedAt": "2026-07-24T17:03:58.000Z"
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nREJPbmJmR25xZTVmZm1LdTQyZjRTQlBESVhMNkhkSWpJYlpwcFJGQlczTEVuTDhBOHU4VjhJc0U1aTdKaUVoX0RfZ3lIVkpnSFFLa0ZNN2xpRDRFemRDajlheGdqQjNOaTJwOF8yREptMHFnZVdj?oc=5",
+          "publishedAt": "2026-07-27T10:15:47.000Z"
         },
         {
-          "title": "Steelers’ Will Howard earns support from unlikeliest ally - Steelers Wire",
-          "source": "Steelers Wire",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLUVxWWRfZ0pxczJxam43QUNrSFl1OEFnZmFnNFBXakkySnoxZEhGdVl0bWtVNUVuNV95LWFtTVVUY1hjUUV1a01zZmNYTmhCdzJBTVYxa09Mdzl2TjJ1eTJWcG1CdTlSS0I5NG42ZldqdEN3SmxsTC1PVmkyeVB3Z3RqS2JXcVc2cUh6T01QZTVtWDdJS0lqU28tZVNlenVqOTRxSU52WlU0Rk1WWTRFaU92QXZHWndQaUNYU0ZTT3VWV0Z1am5hM3VNN09yU01YeTdvbS1ERElLVmJRbmVGSA?oc=5",
-          "publishedAt": "2026-07-26T18:33:00.000Z"
+          "title": "Steelers QB Battle Is One-Sided - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORXFlT0g2UUtBUDE2OEpaUEM2S1JFSHkwS0I4VHJ2bEZiLVlJUDFYS05vOF9FSVdNbnVBMDJsWFFma19acnptaWRuWDhSMjBEYXNzTHJzWHhPU24yVjVCdldxSzBzRjl2TllaeThrUWhxd1hXVkMzZy0xTDVoYTR5azRBamU4NkprWG4tcU93?oc=5",
+          "publishedAt": "2026-07-27T17:00:04.000Z"
         },
         {
           "title": "New Steelers coach Mike McCarthy goes to Latrobe with few memories but a profound sense of duty - Pittsburgh Post-Gazette",
           "source": "Pittsburgh Post-Gazette",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaW96UERiS1dBTWRRTVYyMVlDcVRnTE45X3hsR2k5bVhITm40WmRQbmM3M3pKN0FoTVVBZ2p2cDhBUk9sWjNJUGVUMUZWbThMNzVKc0RMaDJaV0dDMFFYdzA4emgyZExOeWhTaFZ1UmlZRWdYZWNWLTVPUFZGemhQV2hFYWdDS05MMm55V0xyblhKR1J6ZUJ4YTdoaDQwdGhJSTFNZElybTJNcG9mM2hnUjVpM043VGxm?oc=5",
-          "publishedAt": "2026-07-27T12:56:43.000Z"
+          "publishedAt": "2026-07-28T10:07:27.000Z"
         },
         {
-          "title": "Patriots’ Christian Gonzalez could make Joey Porter Jr. contract harder for Steelers - Behind the Steel Curtain",
-          "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSkdoOUdYTDFzcHFjZ2VOMTUtS2pLUFdZcmRIUzYtQjlGclZiUFBrcVo4T1RfOHBuWWVMSmJpYzRLaDItUTA5RGxwcXkxU01oQlQ5aGo4eGIwNlFNd0twZkNqdVEyRC1GT2dJcXdmQ0xkeFJVMllTM3lIZlhwSDR1cU90NW9KQ3o3OEFBR2JINzRXczM0S0RaUzJnTUlCTEtLbXppLWxEVnRYVGFZTS1tcUx5Qmc1Ti1vMkJCVTZ4R01xaHhkdG5FeEtEdUgwX3dCdWlfTVZGeFBuLXJYS213c2tBRVE3dmY1S3B4MWE5eDhyZw?oc=5",
-          "publishedAt": "2026-07-25T21:27:41.000Z"
+          "title": "Asked and Answered: July 28 - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOc2FvOWlGTkQtNE5MellpNzFhc3Z4emI4LVVKVHItQ1FCS1NxYmxsUld6Y0s5Ui1SU3hrV2tYOUFTbGttWGhSSXk0OTBhSndfTEltS1lDTl9FT3dnelJQQzlqaFI3Ri1NS0lTVnN3NA?oc=5",
+          "publishedAt": "2026-07-28T10:07:29.000Z"
         },
         {
-          "title": "The Steelers We Wish Never Left - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZDhOcXl4T1JURkx6WmxjYXR6TVpMUmdOZEZPVjJUZkVvLWR4NkpSQ1VGMGxMRE9pREF0b25SaG03aVB1VTd5MENfaHVxeXd2UEN4Y1hCb0JWbzZFcjVhMG0yWDRIX2Q4YXZaQlpxZDVlSXUtVy1IQ0lFTTZlcXdGTg?oc=5",
-          "publishedAt": "2026-07-26T12:00:03.000Z"
+          "title": "Kozora: Most Pressing Questions Of Pittsburgh Steelers 2026 Training Camp - Steelers Depot",
+          "source": "Steelers Depot",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2NFdUdxdVVpS2tYcm5NYlpiNkJLZWFQYzVILXNZM3UwTm1NaHhmZzB0SXBUcWgwUmxYNFg0Q2lfWmowRkR5SndMa1lMZ1Z4eGNPVGJIcjY5ZWY2LU5idjFtRlpDZS1BMzJDbFN4YW9pT3hwZGJSdDFSeGZGX3ZtdkZzbFZhRFUybkhxYzBLWml0b294bUxYejhVN19BaE1Bb1Rxam53WkRpR1U?oc=5",
+          "publishedAt": "2026-07-28T04:02:07.000Z"
         }
       ]
     },
@@ -255,10 +255,10 @@
           "publishedAt": "2026-07-24T16:10:13.000Z"
         },
         {
-          "title": "LISTEN: Zach Top Finally Gives Fans What They've Been Asking For With New Two-Song Release - All Country News",
-          "source": "All Country News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWtUaGdYM29MdmlzMkJKOUllQkFPUzFkZTdURXlTUFFzbjB5Zkp5X19jS25kSDRpb1VyaG5KYnFPZmRrZmFTaV9mbUxzc0NwSENHQzhJUkZmTnVmZWFXWDFmSFhlSmx1WHhPckNkNHdKX2h5M1pqajJNclRacWtFa0szUjZ5LVFpczQ0UnFzNGlHd244bU5VVmpDSS1BTHFhS2dBaGRTaG5qMFNRVm9rOVFvNTI4UWItcFdiVG4yb09jSjA?oc=5",
-          "publishedAt": "2026-07-23T16:08:32.000Z"
+          "title": "Tucker Wetmore Releases Six-Song ‘Sunburn Mixtape’ Next Week - Country 103.7",
+          "source": "Country 103.7",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSmdNUG1hNnpyOHJWR25tQjFGT0ppeVhadWdxWXVKMFR1SDlBUGVEc1VvcEFvVlpwUTFjTVlCZFFMS2t2SUI2MmlEdGl2ekc1b1ZXNU9ocHBSWE82NHFYQ3NSb25PcXVfVHhXS3lqZlBoQWNMT1JQT3JKNHZJSDlYN1VRU2lvaFMxX21wSmU0NWg2TWVaWkpzdTlwaVE?oc=5",
+          "publishedAt": "2026-07-27T13:56:47.000Z"
         },
         {
           "title": "Release Radar, Most Anticipated New Albums for 2nd Half of 2026 - - Saving Country Music",
@@ -267,10 +267,10 @@
           "publishedAt": "2026-05-14T07:00:00.000Z"
         },
         {
-          "title": "Jelly Roll Surprise-Releases ‘Hands Up,’ His First Song Since Filing for Divorce from Bunnie Xo - Billboard",
-          "source": "Billboard",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHpRbEJTY1BfTXQ2UXZRdnNjZENtNURfLW9rcVItalZDV0tGaXBLQVZWNVVNT3h4QTF3dF9XM0o4MnlXYkNubF9YeTFvWUcwc2xxT1RsckFKUVcxdzhKTGMtck9jOHlpamtVdjBYNmdTTFlNdzhxU3VhWjh4clBhWVY5UXlLRXVqM1M2UnVyZFE2Y0k5aUtsem5Oc3drTkRnNmhiaGJRRXVvQkE?oc=5",
-          "publishedAt": "2026-06-24T07:00:00.000Z"
+          "title": "Country Drop: Countrytown's Best New Country Music - 26 June - Countrytown",
+          "source": "Countrytown",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRllLQmpScVJVUFZoalp6eF81akg0ODdzUjNRTWQ5U2Z6bHZrZ0dLVU4yWEh5SF9xeTVTVW02aTQ4WmtsX1AzX0ZhQk1NSjJHcHdsVGFwQ0gwZnUzYkFROHJHY0VPOGhVd1F1b2pVU2M2aDBHNHlqUVlJZkhEeFo5MWRGV1JnWU0yYzBOUUxtb2p0ZTZWcS1ud0hES2ttQVdxeFNmQ0VQbDNYdw?oc=5",
+          "publishedAt": "2026-06-25T07:00:00.000Z"
         }
       ]
     }
