@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T11:35:08.346Z",
+  "generatedAt": "2026-08-02T11:34:50.129Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "They call it &apos;a dream fulfilled&apos; -- new homes designed for (and by) slum residents",
+          "title": "Why is the rate of premature births so high in this community?",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
-          "publishedAt": "2026-08-01T11:14:58.000Z"
+          "url": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
+          "publishedAt": "2026-08-02T11:03:47.000Z"
         },
         {
-          "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
+          "title": "We asked a first grader to interview his hero: A bird scientist",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
-          "publishedAt": "2026-08-01T11:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist",
+          "publishedAt": "2026-08-02T09:00:00.000Z"
         },
         {
-          "title": "Lebanese who fled the Israeli invasion visit to see what&apos;s left",
+          "title": "What Cyclospora does inside the gut and how it gets there",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
-          "publishedAt": "2026-08-01T10:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak",
+          "publishedAt": "2026-08-02T09:00:00.000Z"
         },
         {
-          "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
+          "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration",
-          "publishedAt": "2026-08-01T10:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
+          "publishedAt": "2026-08-02T08:01:27.000Z"
         },
         {
-          "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+          "title": "Trump says he&apos;s cancelling Iran strikes, deal pending",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
-          "publishedAt": "2026-08-01T09:36:05.000Z"
+          "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+          "publishedAt": "2026-08-02T07:34:27.000Z"
         }
       ]
     },
@@ -90,12 +90,6 @@
       "kicker": "Military",
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
-        {
-          "title": "Ford, GM Defense, BC Customs to compete for US Army’s new infantry squad vehicle - Military Times",
-          "source": "Military Times",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0I5T21RYk82Mk9GX1BQaDhIVGkwNjZVR09wM0hBVWtLMUM5MzZFTm1VMGIxakg5MFFxbXpCSmJFUWdOXzdQTW02SjRyUzVWMGpGODJLa05hSDRzVWdWT1VhSDJaVVZDd1RLNllDQVdueUNXbmg4eTlwTEdGZEVuajdjaHRqamlZZXQ2Zk5RWFJQT1pEUXV0NXJBdmg1bjFaY2xUbDhkSGFYQ0VBM19RaXY3eDBjcU9QTzM4ZGk0UUdwUV9TRFYySHFuMXd6eVhQLXg4aw?oc=5",
-          "publishedAt": "2026-07-29T12:54:25.000Z"
-        },
         {
           "title": "Arrival of first US military schoolchildren gives Army site in Poland new growth indicator - stripes.com",
           "source": "stripes.com",
@@ -109,16 +103,22 @@
           "publishedAt": "2026-07-31T11:05:54.000Z"
         },
         {
-          "title": "Army conducts first overseas test of 'Hammer of the Gods' weapon-disrupting system - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWFhZYUpkYU1EUTVDckxEVUkzUkU1NDBfTjBHcUpSLW1ZWHh1YWxjakpWWXpzcGxFTHc3RlZfUm4wa3hNcHBVUXQ4bDZrd3pqN2I3NHdkdy1VWFR3OXE0ZzZ0OE85a21tc1gtaWhxb1RSa2hya21UdUtCZE16Z1BuNEVCSXVRMDVBajdPUnV1a0xMY1REcEE5N2FoeXBrd9IBowFBVV95cUxON1p1OTllVzY1eEI3b3JaN29NNUF4cC1lQlhENXdKa3BPcEF2alF0SzU0dTVaUkt0dExvcG1MM0p4dnBBVkw2S0lsaGc0Q1hBS0Nsck9ITXROTHlVYnNfOVBYT0VBakh1NVc4Q1JVX184elFwdUg1TG4tZWQwVlNVT3pIM2tKU0JEaU9QcUM0SHRqNmJXVER1dlpHc0t1TFVmZXRN?oc=5",
-          "publishedAt": "2026-07-30T02:11:02.000Z"
+          "title": "Soldiers can now wear the Jungle tab Army-wide - Task & Purpose",
+          "source": "Task & Purpose",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KVmgtaUJMNU5WUno5NjhFRXFpTlc2cV9sUVAtdGZqQ0R2MEl0NUdMM0tJd1ZaeC1IZ1JGZ2lzZUdzbTZIaGZ4UmFxOE9ybkw3ckR6WjBMdnVES3ZnZXRlMms0Q216V3NhVVE?oc=5",
+          "publishedAt": "2026-08-01T11:15:00.000Z"
         },
         {
-          "title": "‘Hammer of the Gods’ new secret weapon upgrades US Army power to blast enemy missile attacks - New York Post",
-          "source": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNXdZeXZXbkhfWU5JRVFmYy1ZY21TMi10N200WjlqMzBwSS1kSXNqemJOdmNhWl9ZMGVfSXZXQVl3T1FMcmRoNkxMR2NxZFplQk5pUGYxV3NFNU0tcDRkdXdZaDB0OEdmMjNGdlRpbHo4MDZlcEJwOGNvSmR3VEhpMDVqa1h3VXk1S1pJT2YybnFGU3hDM3FFWUlRWkR3Y1VQRHA2d19OMFE3NDVqMmg5Wlg4Q1prNVZKbUJ4MTVJTE9Wc09GZGpqY1AwMA?oc=5",
-          "publishedAt": "2026-07-30T17:25:35.000Z"
+          "title": "Pentagon identifies 4th service member killed in recent days as U.S. carries out more strikes - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnl2blBxN3hkcHpRclhTUVh1aEtCSDRKcTBPQXV3UmZFTExfVnExVEcxTW5uZlVRcEQyZDg1MXJ4SXNVUTl6cEdjR2Fla1pRQ1dzSWhoa1dJSlVtell4TXZ2YXNGbFRYRXFsc3hReHJDS0d6V0Q4Yk9KdkRMTEJWVk1OTWR4QWJRVVEtTldRZjBkRGM?oc=5",
+          "publishedAt": "2026-07-22T07:00:00.000Z"
+        },
+        {
+          "title": "Navy offering $150,000 retention bonus, Army $200,000: Who is eligible? - AL.com",
+          "source": "AL.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdzhqLVJ3bU9lN1B2bXUxdnFiZFFvbzBtN1R4OGt6eEZDMENSUWkxUldxaXJKZ3FnTFdxYWNXeFppa1VkMnktdzZnYmNiNkx1b2d5b1FTVkJZdmJuVjZDTG8wbDMzendnc29EZUQ3QlRmT1Qzb001SnNlcXlHTXptYVJsOTNGVkw5RG1hWDlLV25LYU8zMGhHODFXTUc0SVFUcDhz0gG3AUFVX3lxTE1pWFg3djgycXN4OUxKRkZ1OHF1NHloTVFZNnFsZWVOTllWRERrNmo3SmYzVEUtTG8xWkpPSDZ6VlZKRjZwQ3BGeVRoWkJjaHZxN2pFR25iYTBjX0IyMXBQYzQ2alFYd0FyUDVRdzhWa3JMS2hXR3AyQ1NTQkF1RXFEakF6eWRhWGtPRTFPb1FHQmRBSEZvdm1TRFFkN1FuTnlIdEJEX253TWdXT1lQV3ktejY2VHZGcw?oc=5",
+          "publishedAt": "2026-07-31T20:42:00.000Z"
         }
       ]
     },
@@ -128,6 +128,12 @@
       "kicker": "West Point",
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "Know about the academic program of the U.S. Military Academy at West Point - britannica.com",
+          "source": "britannica.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
+          "publishedAt": "2026-07-30T05:00:00.000Z"
+        },
         {
           "title": "West Point Declines to Fight Block on Faculty Gag Order - Inside Higher Ed",
           "source": "Inside Higher Ed",
@@ -141,22 +147,16 @@
           "publishedAt": "2026-07-29T18:34:22.000Z"
         },
         {
-          "title": "Chaffin headed to West Point - Davie County Enterprise Record",
-          "source": "Davie County Enterprise Record",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xcFczQXR3TVM0SENRcER5eWp2NGIxT0ZuSmRaSmNMYnBlQUw4RWdoV3lfRkJXSXFOT21Vcl9YVEF4ZGp5XzdnbWhuNU9OVWR6ZnFSUHZjZGprWGU3RE5zaE1VWngzZnVtcVBMT1VB?oc=5",
-          "publishedAt": "2026-07-30T06:02:58.000Z"
+          "title": "From Collection to Decision: Reimagining Tactical Intelligence - Modern War Institute -",
+          "source": "Modern War Institute -",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajhQLTFmaXdlamotalBGSzBKQVhiQWFGYWM2VkNacmh6OU03UGFWQjRfbldJa09rOUsxUVlIOG14Z1dEVmljMmxkbTVaLVp4V2hobmM4eUZXc011N0Nsa2JUOW1LelVTclhReWYzWHk2R0VGWC1uSmdYU05XTHh5cDZ4R3lMWW9mUFlRRnR6UXd3dw?oc=5",
+          "publishedAt": "2026-07-29T11:33:36.000Z"
         },
         {
-          "title": "Lieber Studies Indo-Pacific Volume – Prisoners of War and a Taiwan Conflict - Lieber Institute West Point",
-          "source": "Lieber Institute West Point",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWQ05FVEFoQTNqMHhVczNFclRFX2ZjaXF2bkExSnppRjlRbFowNFZxUlpvZVh5aVhIYmVVMGdtVW10dDVQeUhUUmhLTDRtNzR0RERWMkhNUmdBemV3TUkzOGNON3c4RGJBZTVN?oc=5",
-          "publishedAt": "2026-07-31T15:43:23.000Z"
-        },
-        {
-          "title": "War, Race, and America’s Values - Lawfare",
-          "source": "Lawfare",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0dlBlNHVJRHA0ZlhLWG94djAzYzBlNjg3TUJDdHMwNXZCbWlRTHJQQ3ZUbnJlS2hSOWJUS1NFVExwcEo0cHNhWUxPejZqRXdwWW16NXJzeFhaelZSMkt4Z3Q3c0FDczA0eXJwd2xXUnp4SjZURUVZ?oc=5",
-          "publishedAt": "2026-07-31T17:43:18.000Z"
+          "title": "Pentagon weighs eliminating civilian tenure at military academies and reviewing all curriculum, draft memo says - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yNXFxUDRkVWxFakFjZW5XMFVXT0NYSHEyQ1RQY2lfbnRhZEl6a0VfUDhOUDkzQ01xcjE5X3ktNy0zRWNPYVlYdkM1VjN2ZWVya0JnYVRQN1F6ckhZcVV1VGJabTVqbGttSEdkVFB5VTRPVVJ5bjgyTjNaVlBVdw?oc=5",
+          "publishedAt": "2026-07-31T01:47:00.000Z"
         }
       ]
     },
@@ -167,8 +167,8 @@
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "USAA Named Preservation Partner of Army West Point Athletics - Learfield",
-          "source": "Learfield",
+          "title": "USAA Named Preservation Partner of Army West Point Athletics - learfield.com",
+          "source": "learfield.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUtLWU05RDNRY3hJbVlRM3d5Rm1pWDdKN0RLQTVCVXg2cUhxLUd5andZQXJHRUFhTFB2TWpJN2dYbHhDLWI0VDZhYnlhcVd5RGhxSl94b0NsWGZlb3B5MjE3NEhrWW85YkFFQ3FxcUl4YzVfOXg2SlM3NzZ0bUtYSGR3WUtPVzNHZU40YVdCdE5heGxlMVdyUUVKSQ?oc=5",
           "publishedAt": "2026-06-11T07:00:00.000Z"
         },
@@ -179,22 +179,22 @@
           "publishedAt": "2026-05-01T07:00:00.000Z"
         },
         {
+          "title": "Xzavier Grabher, Army West Point Black Knights, OL - News, Stats, Bio - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRnprV2wzSU5BbG4zLVcxOFc2a2VyQjNBeDhwZ2xzY216czBrRnEySk9YSElGaVR4NFFLODNGc00xNXB5NXhicXFDRi1SWkJLbVVFLWYzWmc0V2cyYmVRVDJ2YlNkbUZ3TFZGTW02a3ltemJtUzBoWWFhS1RuXzAyc2x3?oc=5",
+          "publishedAt": "2026-07-26T00:44:55.000Z"
+        },
+        {
           "title": "Army sports - Newest Black Knight athlete recruits report on R-Day - Times Herald-Record",
           "source": "Times Herald-Record",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnNFcklVelVia1BocG82VFZ5eDRhX05mSUpqNmpwRHNCbE0yUzZJeFpLOE5OSEZGNVBzVFhOQ0JVbWZsMDZxVWdycmRLYWMwU2JmS3MyMVNHX09vVDRidGwxVnFOVnJINnpwSXpaYndKU2NVdmJqS1pwS2E3azFBbEE0Tnd0dmo5aEU2RlA5ZUs1Y1o4cFlkS3N1dklpX0ZxZW85dUJPd2tZTVpMTGlZTHV2VHM4TEU4OUtzZlBFNmpJa1pFWUhRMllXZw?oc=5",
           "publishedAt": "2026-06-29T07:00:00.000Z"
         },
         {
-          "title": "Lehigh Continues League Play At Army West Point On Wednesday - Lehigh University Athletics - Lehigh University Athletics",
-          "source": "Lehigh University Athletics",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1pCSUV3bVhIVHpubEI3eDZUbmY3aXBnY1V1VXBvUmFPY0xUWTBfM1RsQUlBWHVreG5wS3NIUmFtMTNOMlJ1WW9Fa3pVOFZnNGgzNnNVTHRTQUdkTklrTVRyRnJ2U1p6XzNZZkRodjlMQmVHZXhFcWFHSkJvempGWUZ4RjB6MC1FTng3Q3d2RF9ZR2sxUDE4WEVNbVNGazFYcXlaUUh5VVgzRklNNktOSEZuWjQyNEE?oc=5",
-          "publishedAt": "2026-01-27T08:00:00.000Z"
-        },
-        {
-          "title": "Women's Lacrosse Travels to Face #17 Army West Point - Marist University Athletics",
-          "source": "Marist University Athletics",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlNHZkhlZEdiUW9mbHBwOGo5ZVBMRkxvaF9uWjJlNngxdGp2eEpsQlZCM0FzQ1J6ZThwM2RScHAtcGo5OEQ0cUU0aWJsN1U2eFlzVEFFY1pCMmc4cFdwR3NMa0puOC1OZ2h5Q0Z2R0xaZE9RbHlxRmJYdE5PellPNUZkcC1laTlFdEVRSHFoTFFyQmM?oc=5",
-          "publishedAt": "2026-02-09T08:00:00.000Z"
+          "title": "2026 Patriot League Men's Lacrosse Semifinal Recap: Army West Point and Loyola Maryland Advance to Sunday’s Title Game (5.1.26) - Patriot League",
+          "source": "Patriot League",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNWtDZ1JfOUhjWjZtdTFfdGpXZ1MwMm8wa3ZqbzZSYUhZMFIyTWZIMGtwUVdCcVplNnREeWctRWY0UUxqRl9ROGRTdXJHcDkwalVLTjl4Rzg5YU1FNnQzQnlyRTR5N1ZjVTlKemNEamdleldnTlFRUmJDRVI1MFlFT2t0YmE4cmJWM0pCSTVNVllFLUFpdV9uR3ZwQXR5dDkxV1ctTHBmQ2Z2bGxISnhkR1R3MFJEMi1ja2c0Mkd4NWxZZWItbmJSYzk3eEUxSUJWVHhuOXByNFNidEpMNzdJMjRBY2M3WXVWdGhfZEJhcGNDbjc3Zm8ta1hNTQ?oc=5",
+          "publishedAt": "2026-05-01T07:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Alex Highsmith Sends Blunt Message to Steelers - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTZYdzQzcmtGdTd3aXNXWHlBRmZsX0szVENaR196Z0d5QW1sTE1HSzFrYUV1aVNmQjd3QnRBSnRyNm5BZ2FOTExiQXJub0tvWG80T3Zsb2FvRVQtNE80a2JUQ285R1p6VURSX2lwczN0TXYzS0hMNUZPTk1QTDRaaHY0Y3gzRnE2VmJPVXJHS2FlNHJvcUE?oc=5",
-          "publishedAt": "2026-07-31T17:00:00.000Z"
-        },
-        {
-          "title": "What we learned from the third day of Steelers training camp - PennLive.com",
-          "source": "PennLive.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWJCNWRIbVE2TEE5eS1mTjZZQ1NMd2lKNGlFd2xrLV9tcFVCbmRScGFkRGRsN05wWW9QOGZrQ3l4SmJFNHBKYWdELUx1ZTNlUVhMbnBkbDkzNTlzSHRWSVJFMkczTVRiMk1HSU1YcjBIWlIxUXFHRmo3S0xIT2NKMWdZR1RCZWdCNEwzNnVZdFhtQ1N0X2Y1cm1Tc0FTamxDNWFYYlFXeU9vTXPSAb8BQVVfeXFMUERtMnJxeHg4MFczXzhWZEc3bjNMNnNDLVJ1QjR4dmZ4bm82SWRxMnVudDVMX3IxNGd2c0dLak1yS3JSa3p6ZllYYzZWeTBnWlFxY2ZFUThNck5YQ29XRTJWaVhGM3gzUjNpclFndC1ucENpSzBpWjh4UGp3ZkNfM1g5WHJGRDRPd2t2OUIyRHlUNV93MTdPaEhJU0cxOWdrYzRwTjM2QVotZjQ1RHlNZklIUy11OThiamxKRzdBV3M?oc=5",
-          "publishedAt": "2026-07-31T20:15:00.000Z"
-        },
-        {
-          "title": "Three Rivers Report: Steelers host veteran defender, Broderick Jones’ road back - Behind the Steel Curtain",
-          "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTRQVW5YS1VZa0JSdFBzUXV4Q0FzZ1R2ZFFjSkt0eUp4Q29NbGoyVVVPTUh5RUJZODd6bTNieWpDcmVLRFMwWktodndSYVhIREpUcXZ2TmxYdTdfWmc4RjJ3Q2gtd0ZDSFJOT3cyMkI4cFVZcmFjNWswbDJfOHJaT2xFRGZ2V1RuLVNTa0owWXpIOXV5c09kbGZtS1lJU09qQXJ4b3lWa1ZVdG9LaTMxeV9tVWJXQUI1X2R1VEdGTllQZ3dmYVVMWTc4Qmc2RUF1T2tfQ0h4SUpuVzkxal8w?oc=5",
-          "publishedAt": "2026-08-01T11:00:00.000Z"
-        },
-        {
-          "title": "McCarthy impressed with ball skills from receivers, corners - Steelers.com",
+          "title": "Steelers announce 2026 Hall of Honor Class - Steelers.com",
           "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaG9oZy1rUS03bU1XeFNPT0RzZFBpU0RKNGR0T2Vta2dLd2lBRHI1akwyLWdxaXRLeHdLdzlRd1VqRkt0LTlWWUdCVnJWeTV0bGtac3lPd3RuN0dxYnlELWFQZVAyZFlhYW1uOVQ2UVg2Vm84TXBQcVBGcFg4cGF1N1NRTTRMTnFuZm1iUTY3YmdXdw?oc=5",
-          "publishedAt": "2026-07-31T15:50:01.000Z"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14SEptNUZCWXpXTmg3MFc0aEdIYzZiTG5jMGNjY21oZkpEbEsyMTNSVGxGS1gxRTFOdUl1c0ZvMTF6MzJzNHpabDVhZG5DTVhLTXI1UE1Xd2hTclhlOHY1VGlTcmZYeUFiQ3J5MGJHd1BfbzROOGxoSjdpQXU?oc=5",
+          "publishedAt": "2026-08-01T14:09:37.000Z"
         },
         {
-          "title": "Broderick Jones is back on the field. Where does the Steelers' former first-rounder go from here? - Pittsburgh Post-Gazette",
+          "title": "Steelers' Pat Freiermuth saves the day during fan brawl at training camp - steelerswire.usatoday.com",
+          "source": "steelerswire.usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWnJQVVBoS3VFYUdXZFhTU1lhcW1GVkdkaG9WZ1NiV2JzbkNYbHBBQXVqWmdQeVhsS0ZQTlRzZWpZSHA0bGtTZFEzRGZOSXJQNzBLQ1FNVXVXaVJObW5JeWc5NjFoUGRPLVhLUXhBRDgxX25hMERZWUU0YnJtRmluVHN0emFVY0lsNm5yNGJ2R2tldUZQd2NqU2VoYkFKNXhlN1oxb1RyUGg4ZjROQTVaZzg5bWpvdG9NWW9zSkFmSmVhWVRERjdDVU1rY0NHdnRob1NIdHgxWmJMY2s?oc=5",
+          "publishedAt": "2026-08-01T23:36:02.000Z"
+        },
+        {
+          "title": "Steelers stock report after Day Four of training camp - Behind the Steel Curtain",
+          "source": "Behind the Steel Curtain",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcWpjaExhb2RBcEg3RlhKdC1nZXZfaXVYSEVrU2lieWpUTDYxb1JjX1hfRGVWcm8yMFdPcnNwX2pFcU5TMGRXa2U4d0JoU0EzenMxSnFzQkFXbzdhcWZLU0Jjdk91VWJHb2FGcEhWQkdBMFJ0TkFDRmRaMHNUbHpFUW1sQ1RkMXVNeTBhRjJZS2NERHlMM3o2cW9CMndtU204M0NuV1Bzc29KTXA4THF1dUFTZ0lIbVpXT0VaY2tZbTlOOEoxZmVZU3NnOFlOTTU4eF94cTFLV1FXOXdSSzc4c18xQVRqNkJTb0E?oc=5",
+          "publishedAt": "2026-08-01T21:28:42.000Z"
+        },
+        {
+          "title": "Steelers New Safety Instantly Crushes All Doubt - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekphOXJkVTVUR0pfdHJlS2x2M29zS3dWZy1OdDUzbHhFMXNSdEV6U0VndXhLUFoxWWxaRGk4bGtPT0c5eXFzVFU3dHNlWFQ2MEVFZUJsb05lc2VxSEFFbTBvZjJqZEktUVlHajJkVFRYNVFiRmxJQ1JQcHk2TmZ1N1pJSmZIUC1zVER5MHZqd19oOXdOT09ubk54Yw?oc=5",
+          "publishedAt": "2026-07-30T13:00:04.000Z"
+        },
+        {
+          "title": "Former GM Kevin Colbert among the inductees in the Steelers' 2026 Hall of Honor class - Pittsburgh Post-Gazette",
           "source": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZXFwelgwQS03YnYwYlR3X1FkSzRlOEJlMHhRZ3ZaMkplU3RPNE5ScExKNXhubmRENGgwcnZEZUx1ZFBWMzIycmtPNDg0Z2k2emtTYkJRVnR2OXM2WVBEQkFtc3FaaHF1WlpEQjN5cDc2RE9WUGIzaG0yM25pdi1jdlpQQ253S1hxa1p2NkRSY0VvRGhvdjI0NVBaV05wQUFQQWpnNGtGSDRnRnd3aHpJbXo5b1UxTmJjT1hFQldPZWQ3dXRJ?oc=5",
-          "publishedAt": "2026-07-30T20:49:55.000Z"
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN2FrR3NfbWFMYXg1b3ZMRVJhRmFNVDk0djVCV3hGOEFlRmgtRTJlckRjQi1tLWhvQ05LN25pZzV6MzVBRVhrSTgtNi1GVzJUVzh1R1ROUk94T2hFZ1BnLWloQjFpUzBldkNwek8tNmt0ZTVzTl9KYzRNWEI2LUo5ZFFFMkpBUVBfS0I0NTVsMXJYZ0NaSlVLcFpOV3l2b1FTT2dDeDM3Mk00U3plQzFPM0c3M2RTN1dWQTg5Z0VOMnp0eDhqTnVyemdWa2Rtdw?oc=5",
+          "publishedAt": "2026-08-02T04:29:48.000Z"
         }
       ]
     },
@@ -249,10 +249,10 @@
           "publishedAt": "2026-07-31T13:38:46.000Z"
         },
         {
-          "title": "K. Michelle Announces Her First-Ever Country Album “Jesus & Whiskey” + Releases Title Track - YouKnowIGotSoul.com",
-          "source": "YouKnowIGotSoul.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbDNzeXpkeGlwTTVQQTVOWFVvMEFZaXYybFpHTDkxb3NFaUpyb001Z3JZNjhKYktrQkpCSWMyZmlLVVlRM252UWI0M3ZCYThKLUNhX0h6bEN6RjdHRlhvSnZCR0NRQ1RodmlvTWhTTjJtWVltcGRnbC1WekxXLTV6VVlIMkNGb1hpTkExRGppSk1tdG0zRWtKYi05blJIdVlZRjhDcHJ4ZHQyNjdpeGlBN1ZR?oc=5",
-          "publishedAt": "2026-07-31T21:18:21.000Z"
+          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country Music",
+          "source": "Holler Country Music",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
+          "publishedAt": "2026-07-24T07:00:00.000Z"
         },
         {
           "title": "Country Star, With No. 1 Hit, Releases New Song Amid 2026 Tour - parade.com",
@@ -261,16 +261,16 @@
           "publishedAt": "2026-07-31T18:59:18.000Z"
         },
         {
-          "title": "Here Is Tucker Wetmore’s EP ‘Sunburn Mixtape’ - Country Swag",
-          "source": "Country Swag",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95SFFRN3JHaWNrcFVKQUF0ZWdLTEMxOUdUUkxCbm9QODdPaFc4eHVqRFo4dVFuZGZHSzg4dUZ0ZVI5aE50X2hEcGFJRWdpTWpaRTJkeTgzZ0NYT3dkSVNQMU5ERGVSUU5ySFE?oc=5",
-          "publishedAt": "2026-07-31T22:08:06.000Z"
-        },
-        {
           "title": "Wallen Breaks Radio Record - Madison's Country Q106",
           "source": "Madison's Country Q106",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sb05mUVJwRlJ2NUNGbmF1aGgzbEFsbUZCNWRJZk1JcEtzYmNUOW81M2dzYmNXcVRENVh2eTM4a0FLelgzbjlrMTRWVkcwS1Y3UnVJNXREamQzRm1IMEdoQnY3VW5lZmE3QkY4?oc=5",
           "publishedAt": "2026-07-31T14:16:46.000Z"
+        },
+        {
+          "title": "UMG India is Putting New Releases Behind a Paywall for 72 Hours - Digital Music News",
+          "source": "Digital Music News",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMG5GLTdzRGVSVDhmM1N4NWxRaE9vc2FhQzFrQS1acEJtTlA0V1dNZlc5RVZDdU9vVDdwQnk3SmVuazFzRVk0bUhSTlBtekRxZ1NSWXd6WGphLVEwSlZRYURaMFZ6cHlkeFNmb0Z0Zy1nVVFMN2NkVm1Ea0I0Y2U5bg?oc=5",
+          "publishedAt": "2026-07-30T19:49:08.000Z"
         }
       ]
     }
