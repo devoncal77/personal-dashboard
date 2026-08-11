@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-10T11:27:15.878Z",
+  "generatedAt": "2026-08-11T11:05:35.922Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$773.26",
-      "change": "+4.70 (+0.61%)",
+      "price": "$773.03",
+      "change": "-0.23 (-0.03%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$539.62",
-      "change": "+1.43 (+0.27%)",
+      "price": "$538.99",
+      "change": "-0.63 (-0.12%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$723.03",
-      "change": "+8.38 (+1.17%)",
+      "price": "$720.87",
+      "change": "-2.16 (-0.30%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$313.33",
-      "change": "+0.92 (+0.29%)",
+      "price": "$308.26",
+      "change": "-4.80 (-1.53%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$499.99",
-      "change": "+0.13 (+0.03%)",
+      "price": "$506.06",
+      "change": "+6.07 (+1.21%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$328.58",
-      "change": "+9.05 (+2.83%)",
+      "price": "$330.88",
+      "change": "+2.30 (+0.70%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+          "title": "The secret economics inside the new Planet Money board game",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
-          "publishedAt": "2026-08-10T11:00:00.000Z"
+          "url": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
+          "publishedAt": "2026-08-11T10:30:00.000Z"
         },
         {
-          "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
+          "title": "Former Syrian President Assad sentenced to death in absentia",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
-          "publishedAt": "2026-08-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
+          "publishedAt": "2026-08-11T10:07:14.000Z"
         },
         {
-          "title": "Voters are sick of the two-party system. A new poll shows they&apos;re open to big changes",
+          "title": "A midwife crosses &apos;maternity deserts&apos; to make a difference for Black moms and babies",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-          "publishedAt": "2026-08-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
+          "publishedAt": "2026-08-11T10:00:00.000Z"
         },
         {
-          "title": "In a competitive Maine Senate race, women voters could be the deciders",
+          "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
-          "publishedAt": "2026-08-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
+          "publishedAt": "2026-08-11T09:00:00.000Z"
         },
         {
-          "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+          "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-          "publishedAt": "2026-08-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
+          "publishedAt": "2026-08-11T09:00:00.000Z"
         }
       ]
     },
@@ -91,10 +91,16 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "A top US general in Europe abruptly removed from command - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejVlb1d5OGFxaFdDcDEwRDNncmFZQ1hjZmhSVGlqWnJFd0hYXzhSd1pPTWFQNEhSOWdrZ2FqbzFOTXBtaHpqNUZZQ0h5aEo5cUxvN0RKcGdFREI5eGNCaGkyNm5GUmtaZjdUTHFiZVRwOWk4dHUyMXlSTzRZMXNubk1RY191TUpYOXpSUjE3eGhKc01VbnRhUlV30gGfAUFVX3lxTE8tYkdxWk9WVWNYRVZ4REZoWVBMUnhucWJ2TVRJbzRNT2thTXhHdlYzMC05Q19SeVAzOFdhZTFZSndwbW1lazNOUEx6TkdkRy10MmN0dHlmZFJVWWxtY2tYSVdyOHRhUFU3NVhZUWJMbU5BeXp5czFCaDlBNW11OXZlU0l4REE4QnFJLW8zcjJyV3RBaVUzR0pTMmdyVEVPOA?oc=5",
-          "publishedAt": "2026-08-08T00:08:06.000Z"
+          "title": "US Army general in Europe suddenly removed from command - Military Times",
+          "source": "Military Times",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWTVIVkN1T0Fpd1lXb3l2ZDJqd3FGbVhoRXhfZDBpcktQcHlYTnlNSjczTUtZOFkwZVVYT1FTQ0RWdWwxRWJJTjNiM1hpUmJFQ2xxRDVCOFdtdEtHaG5XUHN0aFNwbURyNE1KUml6TjVOcDVsbWNQUTlOZkY1R0ZNSVJYQ0szOXhpYVZDMlhQOUNjZFk5c0czenFCVW1JbnNZTEZNM2xhRV9RQ3JtbGktUjh5YjNxTDQ?oc=5",
+          "publishedAt": "2026-08-10T17:41:42.000Z"
+        },
+        {
+          "title": "Army honors former civilian and military engineer leaders during annual Castle Ball - usace.army.mil",
+          "source": "usace.army.mil",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb1p0MFFaZUpXSmd2ck1MdnQtZUZiVWhnWU1lZUJRZFZoSEhzdkRXTF9BQWxOWjZvVFN4ME5jT25EVWswOGRvOEtqSXdYY0psSTdhNW1uYkNjX3BqOWZ4cUhGbE93dWJzU25pbjZkUVUyZzdERHFTQ3hITDh2UEhtU2xvXzZBYnF6Uy1xM2NTNlFVR0N0OVJPMDNEZGZMQVlQZHk4UUtwYWV0SFBYU1pVQTd1dDlmMTE5N2JrS0RqTDVxRjNCVVNoZEhLNGU2Vi1iMzdOaVo3RkVucktS?oc=5",
+          "publishedAt": "2026-08-10T20:14:07.000Z"
         },
         {
           "title": "The U.S. Army Is Fast-Tracking New Weapons as Trump Denies Shortages - Time Magazine",
@@ -103,22 +109,16 @@
           "publishedAt": "2026-08-08T19:11:28.000Z"
         },
         {
-          "title": "US Army offering defense firms 'concierge access' to test weapons at military ranges - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZS1KQ3JGNE1ibjFheFdBN2pSWjl1S245X05Ib1hJcGxyekVSOFdvX094UmZyOVNOQ0wxc3E1YU1sRFk2eHNIaENyRDV5TW9JQkNPM2sydWlWZXlvc0Fxek1HOHNkb1BERlhiTlg5TjZlVWxMV1V3U1JEam0tS3JtWE5weXBRMVA0YW1BSlBENkhMdXJTUW5laGxaYi1tQW5KS1llV3pqUlJfVjVzSmfSAbMBQVVfeXFMT2Rva3ZfNmhhNWRtRm9FVjBwc1pUOGd0aTFiRWZHYkpsc2lobV9waUphVnNDOG00a2wtRVlMTzRHTE5YSkNGQXJmSkUzaTZPekNFa0x5NW9RcVBBX1pBNWkybWxINFI1QTRtVnNHenRZWEt1OUZnSHJSWGwyVDBTdmQ3eWZrLWx2R3lnLU8tQU1VaHRaTkRPc253M0xrcUswalE3blM1Yl8zeWdSa3N4a0QxUUk?oc=5",
-          "publishedAt": "2026-08-07T18:25:26.000Z"
+          "title": "U.S. Army Opens Test Ranges To Private Companies For Weapons - WHMI",
+          "source": "WHMI",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtUk1xUlJIWmc2Y3VxSzROU0hSbXRpVFI5ZGRHMU44dVRPc0czanB4aEp0TERKVVlCWDNmUVBKN09NbnFfcDc0cnU1eG80bW1aN3dHcXlERzZoMWNQbndDZm5NZzZhYlZRX0ZSTUtn?oc=5",
+          "publishedAt": "2026-08-10T14:03:40.000Z"
         },
         {
-          "title": "Army opens test ranges to small companies to try to get weapons quicker to the battlefield - MilitaryNews.com",
-          "source": "MilitaryNews.com",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZElWU000WTlFTUJSN0ZOd1Azb3NtVG1zZWRMeDAzNmZrY1VyNmN4eXJpU3dQbjBnam1XcUZKcmZDUmRyeDZsdm04MjlYQlZoajZBUjg3QVh3Q2s3OXdLVGFXQXBuRGhCSGJKSWh0V2NBWDQtX1ZjSmJnTmtvRm41enlYQnlXaFNheEQ0VG5xa0VWaFZDOUUtYmVCbUZKVURYNTc4Rm1DWVVXNUVMeHVmdVo5X0Y1dDN4S2djN1h5UFVKMzE5MWNyQlA2eGZ4SXZQQ1BjNVhOY0tQYUYtUXJKQ0RwRXViOVFMdjh3V1hZd0JnS3phT0VSZzV1UVJCeHVM?oc=5",
-          "publishedAt": "2026-08-07T17:15:49.000Z"
-        },
-        {
-          "title": "Saluting legacy and cooperation: The Army Reserve settles into its new Utah home - Deseret News",
-          "source": "Deseret News",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KN2FuRnExMEo1aHRJcm40emF4SDdZU210SWJTaGt6a0JfWVpQZ09uWXdsX0M0SVQ5SUV4T25zUmRwXzRib2MxSTZWeXpiYy1URVotc0lWNVQxNVJ0T2Itc3NOVkVvcjJKM1V6WHdlRWlTNjRKZ3otc2t3OHJrX1k?oc=5",
-          "publishedAt": "2026-08-09T03:39:00.000Z"
+          "title": "US Army swore in 4 tech executives as lieutenant colonels. Here's why - Snopes.com",
+          "source": "Snopes.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDTzFraF9xUmRTQzVybFVCcm5Td0FfWnR4b1NPNmlGaVRUSXFRQWdkU0pqRU9ESjB2V1RVM0I3cXBJMVN4VUlibWM3WE5oakdwY1ZqZWNoczNsc1BiZTBpbnNUdGNkd05VMWlZZGcwdFhLQQ?oc=5",
+          "publishedAt": "2026-08-10T10:04:37.000Z"
         }
       ]
     },
@@ -129,10 +129,22 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "West Point Announces New Dean of Academic Board - August 7, 2026 - United States Military Academy West Point",
+          "title": "West Point Class of 2030 Marches Back - United States Military Academy West Point",
           "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHBNV0NKRUh5WGZKSzdLMzZUM3l5ek9ocHBUdVRGR2RJM1d6OFJNWmpWc2xwMGZWd1lveDBmVExLWjdhbndqRzhkT2k4eVlWalR2dEwzNUhNSHNoaVc5RVNQTHR4UG1ucUc1Q0dxVXp5a3JiQkhDYTRPTkxjOGtIczBKNGNoTHlaT29lOVBkcnlJc2lUWnVvSXd4dGtjT2g2X2lDMHE4aFJpaUE?oc=5",
-          "publishedAt": "2026-08-07T21:36:01.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXpONlFvQnByaUFFUG1jZW8tUWQ2YkpvV1dQOVRMQzNrX2tib0pzZ0FGTmROY1pMMDRFaFlkTE0ySlFMWnJmdXBST3ZqaU1FOFRCbV9udVhMUlhhZlV4S3B0aHowNm1NZDlJNU5FNkdVRUdFTWZIV1BtM3pneF9NRmxNVWR5bU91ckk0?oc=5",
+          "publishedAt": "2026-08-05T18:41:00.000Z"
+        },
+        {
+          "title": "BG Nicholas H. Gist ’94 Named 16th Dean of West Point - West Point Association of Graduates",
+          "source": "West Point Association of Graduates",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT0ZaalJybzZQZHlVallmZkJibTI0N0tPTm5iOUFPQ2F6ZTYybmRQRk5sWHhBZGluYm5PZGZvdnRSQXl0Z1FTZHJaSXlORFJydndFTy1ucUQ1MURXNlg5elJ3SVVNRU9MMUcyR010X1dlTV9DWExlTV9RU3VWQlJET3dsVnpwOFduenE4M3FMRQ?oc=5",
+          "publishedAt": "2026-08-09T23:00:00.000Z"
+        },
+        {
+          "title": "West Point Cadet collaborates with Army engineers to advance UAS defeat algorithms - army.mil",
+          "source": "army.mil",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQm9UT3U3WHVEbDhMYjBiMXlSa25qZEVOeDUtdHVvT2J5SXpIMk55d3JYcE1EbVFpeF9PaHhQQjc4bGd0dlJOS3ZVTlc4MFBGclpTenZLREJndnlkcnFITnVlVkt5MWRVODk1LVhpVGhnMlhZT2JDdHFFSzdTQ2JuXzVkYUw1MS03X0I1M0Z6WHZVOE84V0lQS0dsQll3bHFic19kYlV2NzktWG15b0NZWWRmTXk5MEJMdkE?oc=5",
+          "publishedAt": "2026-08-07T13:24:47.000Z"
         },
         {
           "title": "West Point's Longest Serving Law Professor Gets Legal Victory in Free Speech Case - Military.com",
@@ -141,22 +153,10 @@
           "publishedAt": "2026-08-07T13:53:25.000Z"
         },
         {
-          "title": "4 New York universities rank among top 50 in 2026 U.S. News rankings - lohud.com",
-          "source": "lohud.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUVzOXhrdGhhclhjUjV0bGZ5MlJiYVNzNnI4czNLVDVGU3drdGw5dnlhczVyMHV5cldWOHVmLU1HamN5UGM2bC00U0pEdzBWREhxOFNCSm8yWjdsY3FMMTlrMnFQZ3NIVmhUbUpvWUg0VWRELU1jSGxPdUFxbmNNVi1IVVJyOWZwakJtMWJ6SU1aVDUyZVhmSm1ydlY3V2Rsb0swckc5UTVCRU0?oc=5",
-          "publishedAt": "2026-08-10T08:31:00.000Z"
-        },
-        {
-          "title": "Know about the academic program of the U.S. Military Academy at West Point - britannica.com",
-          "source": "britannica.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
-          "publishedAt": "2026-08-04T05:00:00.000Z"
-        },
-        {
-          "title": "News - West Point Cadet collaborates with Army engineers to advance UAS defeat algorithms - DVIDS",
-          "source": "DVIDS",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZlB6MXhaUTM1d1dpQmNNTExnTFhURlBHMmRlZWxjekNjLVh3aVlkZ1ZrSllhamQ5QzlkYWtqRmEzczhGd3plakFwcVRnVHAySlVFVUJOZ2hBd090RVRDdHdkRDlDeGc2RF9XYVRGdmw0Nl9qeVlRd0lqdTJrTW82SmZzUW40TnFFeUhxYUFveFhWTXZSS29uX1Z5amdxV3hzemtWNzlqQ0tyWFFrQjd3YWRNUFd5a1U?oc=5",
-          "publishedAt": "2026-08-07T12:22:00.000Z"
+          "title": "Illinois students can apply for military academy spots - Rockford Register Star",
+          "source": "Rockford Register Star",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZnVYcjNzVDZpcXhMR1ZVcXFXMTNIM21MbFJBX3NRV1JYRjF0aURST3hUaXZEY2ZsZ1g4TU1tVHpzZTJnMFZmMzA5QWszYmtsVHM1Nm1tRzhkQjk0cVBXbGlVY2NLTWFPMlh0cUVzNlpfUTRSSi15aDJROHhNTFJmcG8tLVFJWG1XSGRTMkhMUWJlOXZ6YThlRDBNX05MS09JNm9TR3g0bFZtSUNJNHNyQjhHaTRvRi1KYVFpWlNTRWltUzd1cjYzQ25LNA?oc=5",
+          "publishedAt": "2026-08-11T08:40:00.000Z"
         }
       ]
     },
@@ -185,10 +185,10 @@
           "publishedAt": "2026-05-03T07:00:00.000Z"
         },
         {
-          "title": "Army sports - Newest Black Knight athlete recruits report on R-Day - Times Herald-Record",
+          "title": "PHOTOS: Army football Black/Gold scrimmage - Times Herald-Record",
           "source": "Times Herald-Record",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnNFcklVelVia1BocG82VFZ5eDRhX05mSUpqNmpwRHNCbE0yUzZJeFpLOE5OSEZGNVBzVFhOQ0JVbWZsMDZxVWdycmRLYWMwU2JmS3MyMVNHX09vVDRidGwxVnFOVnJINnpwSXpaYndKU2NVdmJqS1pwS2E3azFBbEE0Tnd0dmo5aEU2RlA5ZUs1Y1o4cFlkS3N1dklpX0ZxZW85dUJPd2tZTVpMTGlZTHV2VHM4TEU4OUtzZlBFNmpJa1pFWUhRMllXZw?oc=5",
-          "publishedAt": "2026-06-29T07:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMzV5Qk9VRGV6SlNxWUNDSnFfTGpQTUwtSUEwcnFtMWhTWjd1WnFfQUVncjQwYllnc01nZVV5V0dfZGlmN2FSMGNJbHlqMUlyN21FendkYWI5clR3RS1HdlcyTWc4MEtLdkUzdGY0S1E4R2lLVUtVZUpSNWZvUWU2RGdrME4xTU9hbHoyOTQ0SHY2UTRpZzl4aGxaWjRtN1RqQkM0QnhiX0VIUHZzVVlRQnNKdnowT1lsN2dJQTlwanE4QQ?oc=5",
+          "publishedAt": "2026-04-18T07:00:00.000Z"
         },
         {
           "title": "Army Athletics Wins Star Series Presented by USAA over Rival Navy for the First Time Since 2013-14 - United States Military Academy West Point",
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "10 Most Impressive Players at Steelers Training Camp - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS3pIZFhMSDFUQVJCbDJfNkd4Sm5yb3dTTVpQOFVaSXByNWUza2VPUUl4U0VMTTFyeDV1Q3RXek5IcVdFZ0JrbXVnZnU3WlUxLVBucHh2TDlTX1o5OFdKNVRHR1ZPNDdfd3NrX1FhMm56NHhPM3lGTVhUYXlCU2l6OUJSWl9HdElTTm9GV1JZMFlWYVdRdlBRUF9JU1hldw?oc=5",
-          "publishedAt": "2026-08-09T15:00:00.000Z"
-        },
-        {
-          "title": "Mike Tomlin helped highly-regarded ex-Steelers coach land with Baltimore Ravens - PennLive.com",
-          "source": "PennLive.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTlE2LXg0NkhYVXk2SFEzaFJGaWtLUGJLR21ETW5GSzlOamJvd0trakFlUTdsYkxwc1c1MGVfV0M5QUJNcWNhVzBqRnFEMDdGTTlrYUtDbUU1ZHExNUNMWDNEd2lPMmU1OTdVdzYtMjEwRm5CWmt0Y0xqNUZiM212RWwxU3ltYnBEV1hpZlZDN3ItWnRLQVpsNERQbHA1MzFVYWJmX1V1QVA3eHZ4d2xNSW5TOVpta2hPY01GQnpUZUcwdnNH0gHYAUFVX3lxTE1CVmc2anRhZkRoSGFQTHhjS2xLU0hQNWFMQVB5SEN1eFBnYmtOdXN5SkEwdC1KZmt0MjJvakg0S3RocGl4SWlkQy04N1JUNmZqb095Y3R4cTdsMXpYWEJETDdZb2xDZDR5ejREN1dDczQxNVF2eHI4ZXhLaVR6dktVUUs4ZXYtb012enA1YWRfTlItdU01U0FvZ3JVUF9xTzk5bWJiTm5hZWltejZxb0lLZTctQ0U5QVdkbjNISzJsVjhxZ29TXzRVc2xpZHFYeHZVTEE1VmY1dQ?oc=5",
-          "publishedAt": "2026-08-08T18:32:00.000Z"
-        },
-        {
-          "title": "Steelers release recently-signed receiver - Behind the Steel Curtain",
-          "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX0l3UWxHd3FYbVI3UjJhQkJONk84MlFZQ3hpVGp5TkJPTGlHTGFLU0VPV1VlUXA5R3VaekNLUjJrU0FVTkkyaDlKRDAzVENYM0l1NjNQMzZRSnlMazlJVU9iNEdWeG1IWkdZS1B0ZmhPNzVrMV90QkZtTE5ScFZOSWhWejVyVnJtWmhySDl5LVV2MXk0R1RUODZKUUxoX05iT1VYTUQyVTRVbHFSYzlZakNTbXFZSFVtaWdvNHNPcGZBNjUzc0pBdU1HNDBNSXgwd2V0ajJidXZFcC1naGc?oc=5",
-          "publishedAt": "2026-08-10T00:03:00.000Z"
+          "title": "Training Camp Report: Aug. 10 - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNTElHQWpxcTliZk01ZHpEQjZzbDZoWTJHeHp4b05aQ2RYRHpNaVdsQjllS250V1hJMlQ2bVJCcV9iWXYyQmtqMmwyLVlMa2ZFeEktOVI5UmtPQ1JPc0syQUJtVGp6aVNY?oc=5",
+          "publishedAt": "2026-08-10T19:30:14.000Z"
         },
         {
           "title": "Four quarterbacks for the Steelers? Keeping that many signal-callers is a growing possibility - Pittsburgh Post-Gazette",
           "source": "Pittsburgh Post-Gazette",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUm11bC1ZZm9KWEtwQUlkOWZHR3VoSzBMM0VoOUQwY296d21UT3VkeVhIZW5oNFJQcVFiOE5zZEpEVEdoZWlDdFpHRmJQQWNremVJUUxoS0ozc0ROY0l2UEpqQUJTMEFXc3BYVGhUQ1liWk44dVZaRTZXYVVmNDk4ekFtUkpOYjN2dEdzMGV6MUthZXYwZC1MU1htTU9tMWE2dE9PbkhPejdfbDhQOU5jOWJfcU1pUG5TQ1Q5d1c1MUpjcTlnQmEzamQ4QUxBN2JOcUE?oc=5",
-          "publishedAt": "2026-08-10T08:22:19.000Z"
+          "publishedAt": "2026-08-09T19:42:19.000Z"
         },
         {
-          "title": "Training camp report: Aug. 8 - Steelers.com",
+          "title": "Steelers plans for Pat Freiermuth will excite fans - Behind the Steel Curtain",
+          "source": "Behind the Steel Curtain",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXlLM0VNd3ZZc2JXeHhHV3lWY2ViMFp0LUV3OW81T20tT1Z3UGtLcTFjYlVkczNCWnNpdkpRd0dOdllOV1c1LWVZY01vek9NN2E0dzBwRmNINllPRGg4NW92TWIzZThqcmt1X0hDV1NRZWZScVpDV2RndVM0eEwwc0hqck5PZDFtMW4wWDVhWkc0RnlQUktrckxpdTQzWWVMTnIxM2k0c3J2dmFnQTZGby1FMW9lSl9aU3VqSDM0NVdCcU9GUWNpWkNWRFY1LWpNWEhRbFNYZWd3YWs?oc=5",
+          "publishedAt": "2026-08-09T14:35:48.000Z"
+        },
+        {
+          "title": "These 6 Steelers are one bad preseason game away from the chopping block - FanSided",
+          "source": "FanSided",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHhpMzRobkY2eE5pb0lNdHNHTS1hVFRDeXBhZVpOTzA5R0JxaFpVRkRnWGpvVlQ2SGJPSEJ0N29jOFRDTGRiY1RidTg1ZGw3RUtHTWJQSUZuRGswWHQ1YWpJYXM4WkJIU1E2QVByMnZZTGo2a21BZjFQU2tyT1ZjOEZERVI0WkJ0NDZ5a2JJclgwS1JvdExxWXFfRmtKWnR3X3dpSXd0dl9QeDVSU0Nv?oc=5",
+          "publishedAt": "2026-08-10T16:33:08.000Z"
+        },
+        {
+          "title": "Steelers vs. Packers: How to watch/listen to the game - Steelers.com",
           "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83dzJaRk80LWQzQkEwS2JHaF9QRFMyX3pWT2lBOFh1SEpka0hOM3dyRzdTSE13Rmg1NkhqQTJwVHVjaUhjVWdFMlNHUVBmSUcxX3NWVlZQa25zQm05cGtEYTE4VzZYQUJpVWdObldtRQ?oc=5",
-          "publishedAt": "2026-08-09T01:44:56.000Z"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQajRLdl90V3U4ZUFPM2VaMVJFNGtSVm1taWtuSFR2WjhaZDRfVGx4MXVqd1FncEk5VzYwQUlDSEdtd3FxTGpHc3l0akpsaXQ3YWRYRldvU2dlSnFNXzRCS1BsNURaaDdhNWJ1dV9waTg2dXpxM1RIQUh3YlJzMlRKNWk0YmJ5UFhnRHZZalh6dFE?oc=5",
+          "publishedAt": "2026-08-10T20:20:56.000Z"
         }
       ]
     },
@@ -243,10 +243,10 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Koe Wetzel and Ella Langley release new country song 'Jaded' and it's already going viral - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON2dlOHFmbVhSdmVjQmRIVFZLRzRKVmowQjFtbXZaUnF5WmRJWmJtQW5lZVV4VzRSdHA5N0VLSW5hLTgyRzU5TTJEWDlPYnlKWUxxOXFLYXR6VE1XUkVJRmp4Wmd4WFJxLTdaTEQ5VmIzc0EzZUdLU0NWMHR4N0hMaTR5MjR2d1l2QkoyelFBa0JVWjhPd2lxcGZHTU5feUk3ZFlxMW5IWmhwcTNZX3c1QjIwaGI?oc=5",
-          "publishedAt": "2026-08-07T14:14:50.000Z"
+          "title": "Little Big Town releases the new ballad \"We Could Have It All\" - Big Country News |",
+          "source": "Big Country News |",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN254SFRxUzFzamJLNElnWWpsWUY3OFlwRnBTV2NWU1pXYmZqYk0tTHJYNUNrUVhXLXFuU25YcWZTS0hyaVBpX3k3Q3dCMWNRcmtvdTVaWk9Nd3ZSc0FtYkdDM3paaFZxa0l4MndhYXB1TmxLd3BZQnA0LTJqWHI3M2U0emQ0c1JTNTBVQVBia05FbkV1Rno4RHhsWFdwQk91Q2gtWA?oc=5",
+          "publishedAt": "2026-08-11T10:08:10.000Z"
         },
         {
           "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
@@ -255,22 +255,22 @@
           "publishedAt": "2026-07-24T07:00:00.000Z"
         },
         {
-          "title": "Morgan Wallen officially releases \"Been By Now\" following live tour debut - Big Country News |",
-          "source": "Big Country News |",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUQwdWRhQXhwWlloMk9DUkV0WnQ5Q011dkdJVDQ5Vy1fbWVoaF9KV0ZoeWZaaloza3ExdUJDd2RuVUZTLUhCcWpXYmdLNkI5SGcwRjRGYTlQNzVVdmp3ek1hYUk2TzZwTWt6b0FBMmc0STREZVBDME4wVk9OU1YxcWFiNjFWN1RTcjJ3VTFxMGFkZjgxbExWX2h3a1BIOWVtRUZJcnpoOGNGY3dWRUg2LWszSQ?oc=5",
-          "publishedAt": "2026-08-06T10:21:42.000Z"
+          "title": "Country music star Riley Green keeps momentum going with new single ahead of September album release | OutKick - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3NwZTl5clRMNXZpT2xQcDlrd1BKY3REUS1xTmRBRE5YcDZJdVVfRUFnMUtEdnJHZm93aUxUZ0FMRXZ0aVFZNU4xZ2FoTG1mOFYyVnVSWk50UzBpSUpjcGpjUnhUaXE1ZXlUd1MzTXg2ZDExTVZlTnNpcEtZVklBWFMyQTBZd2NDMUZlOTlxTFV2UWdMSXMtQWk5WW5KdzNMRVh6ZndTRmNZU3cwN25Tc3FWamdySE1KYjFBN3FydU9QNkFD?oc=5",
+          "publishedAt": "2026-07-31T07:00:00.000Z"
         },
         {
-          "title": "Release Radar, Most Anticipated New Albums for 2nd Half of 2026 - - Saving Country Music",
-          "source": "- Saving Country Music",
+          "title": "Release Radar, Most Anticipated New Albums for 2nd Half of 2026 - savingcountrymusic.com",
+          "source": "savingcountrymusic.com",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNckxTcm9fZUh2QV9hXzVVNDRRcFJReDV0Ql9pS2xXa09lSEJXandNemljcWdUYTB3SjR2NTZNV0tJbm4tUGRueVN6Q1JqdmRfc3dfUFBKX2lVVGgxX3M3VWp6b2pnVDdZZlBMNlNTZlZGd3NISUVONWxoa1IwY1hCNVdyanktdkphenU2dG10by1MTFZTdlVuLV9n?oc=5",
           "publishedAt": "2026-05-14T07:00:00.000Z"
         },
         {
-          "title": "Country Music Hall of Fame® and Museum to Open New Exhibition, Kenny Chesney: Living in Fast Forward - PR Newswire",
-          "source": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUVIdUtDbjlOYzBpRFVMbm5XZnNZUURSLWQtSGIwb3hmVEZqYzJkOXhNOER3Q3lpVEpINzNqbEJoVXQwU01lMUxILWlCR2NYbm15TTljckZ4djNldVAwbVNOZ19NZnE3OGxkVWt3OHNVNE4tSXVwMTVqWldvSTZfelQxX3I1QlJXRHhqeVFEc0FYZ0xSZlpuc3JUeWxBZVNfNGdYMmxKV2ZfbkVqd2cwQlN2SWc1c1c1aFdRamJqN2UxcDUyNXRrRnE3a3F4TFhqOVVuNHVVRnhzd1A3TGhBaXZ0ZkYtZm9T?oc=5",
-          "publishedAt": "2026-06-16T07:00:00.000Z"
+          "title": "Morgan Wallen officially releases \"Been By Now\" following live tour debut - Big Country News |",
+          "source": "Big Country News |",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUQwdWRhQXhwWlloMk9DUkV0WnQ5Q011dkdJVDQ5Vy1fbWVoaF9KV0ZoeWZaaloza3ExdUJDd2RuVUZTLUhCcWpXYmdLNkI5SGcwRjRGYTlQNzVVdmp3ek1hYUk2TzZwTWt6b0FBMmc0STREZVBDME4wVk9OU1YxcWFiNjFWN1RTcjJ3VTFxMGFkZjgxbExWX2h3a1BIOWVtRUZJcnpoOGNGY3dWRUg2LWszSQ?oc=5",
+          "publishedAt": "2026-08-06T10:21:42.000Z"
         }
       ]
     }
