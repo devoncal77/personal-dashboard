@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-13T11:11:26.120Z",
+  "generatedAt": "2026-08-14T11:08:33.127Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$772.49",
-      "change": "+1.93 (+0.25%)",
+      "price": "$777.88",
+      "change": "+5.39 (+0.70%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$537.15",
-      "change": "-0.13 (-0.02%)",
+      "price": "$537.91",
+      "change": "+0.76 (+0.14%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$723.70",
-      "change": "+5.25 (+0.73%)",
+      "price": "$732.07",
+      "change": "+8.37 (+1.16%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$302.25",
-      "change": "-2.66 (-0.87%)",
+      "price": "$305.26",
+      "change": "+3.01 (+1.00%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$492.43",
-      "change": "-11.38 (-2.26%)",
+      "price": "$496.88",
+      "change": "+4.45 (+0.90%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$327.51",
-      "change": "-5.30 (-1.59%)",
+      "price": "$339.96",
+      "change": "+12.45 (+3.80%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "U.S. ambassador calls settler siege of Palestinian homes a &apos;horrific act of terror&apos;",
+          "title": "Feds probe &apos;mention markets.&apos; And, lawmakers call for investigation into USS Lincoln",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
-          "publishedAt": "2026-08-13T09:58:40.000Z"
+          "url": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
+          "publishedAt": "2026-08-14T11:02:42.000Z"
         },
         {
-          "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
+          "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
-          "publishedAt": "2026-08-13T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+          "publishedAt": "2026-08-14T10:30:17.000Z"
         },
         {
-          "title": "Sailors and their families have lives on pause, uncertain if they&apos;ll return to Mideast",
+          "title": "Fill in the blank on this week&apos;s quiz: Rep. AOC is documenting ____ on Instagram",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
-          "publishedAt": "2026-08-13T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
+          "publishedAt": "2026-08-14T09:01:00.000Z"
         },
         {
-          "title": "Morning news brief",
+          "title": "ICE uses controversial program to boost deportations. Here&apos;s how it works in 1 county",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
-          "publishedAt": "2026-08-13T08:44:44.000Z"
+          "url": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
+          "publishedAt": "2026-08-14T09:00:00.000Z"
         },
         {
-          "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
+          "title": "At Big Bend National Park, bulldozers begin clearing pristine desert land for border barrier work",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
-          "publishedAt": "2026-08-13T06:21:25.000Z"
+          "url": "https://www.npr.org/2026/08/14/nx-s1-5927276/big-bend-border-texas-rio-grande",
+          "publishedAt": "2026-08-14T09:00:00.000Z"
         }
       ]
     },
@@ -91,14 +91,20 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "North Korea fumes over upcoming US-South Korea military drills - Al Jazeera",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObEhnX0xTOHFuOUtNOWRrRVJrUUVTVWRoUU1mSFdZdUdqZ3NRdkVUclpNMkE1dnVkNUNZX2xZNmotV214RHEtbFc1UEp3b3ZTXzFhUGdkamx5cTlDY0RGU1J4cUlGTTZ4bUdNTTJaTXNuSHpRdGVBYjRJaG5PblpncW14Vmc0OVdnUHdSM0hQcDV2NThuNW5WX0pta0NBLXJtSV9MLVh30gGrAUFVX3lxTE5odlg2YVA4VTVrUHJJOXpLQXFNOURQeTZ5QTFmeURlN0diNUM5REs2RWptdWl0TFAtdnUxb3loc3hfQjZBVXBiT0RwRDhsUFRXbVZNeG5RRmhBVzViNE90TmlLcmNnTkNUejI2ZF9DZklaWG10c3BMZDlPaE9jOGRjOENsY202Q3plM0ZRUGRTSDAyNkNrbUV6ZjVIVDBrYWkwSG5STG9kVEQ5MA?oc=5",
+          "publishedAt": "2026-08-14T05:49:07.000Z"
+        },
+        {
           "title": "Exclusive | U.S. and Ukrainian Forces Went Head-to-Head in an Exercise. Ukraine’s Drones Won. - WSJ",
           "source": "WSJ",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX2pJUlZrVExVQXRhN1dUbUYxLWhvbWJDb0xBVHFhbkVIRklEQjlvSUJMeEJ6ZHh2T3ZYMXh6VnRrMGlxYXRyUXBKYjgtNGhxMTlBam5jeG5GZGZIN0taYVM3d1NES0s2Z0Q2SHBHVnUzNklNd3ZQZnJkQ3lYSVRpSUNDTXg5cDlwcHlRbXJObXZBamh0MVFyaW5zWnVVZ3RWYUJOM1lRdnAwWGMzRy04QmJ5alBpZDNqT0FXVWx6c1l4UkhjajRpV2lDdWdQUQ?oc=5",
           "publishedAt": "2026-08-13T08:42:00.000Z"
         },
         {
-          "title": "Two US Army soldiers killed in Texas helicopter crash - reuters.com",
-          "source": "reuters.com",
+          "title": "Two US Army soldiers killed in Texas helicopter crash - Reuters",
+          "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVROdG1WU2licEoyR2xYTHB0NG1VZUc3cElhampMR0k4WDlXQVBkUDFTMUFlcDF4LXBrUjZDWlplR0xMNld0cVRUaEE4QlVZeTFpRnRvd1EtMjEtRzJSejR1Vk8ySl9IMm1xWDc1WVk1S2g4Vjk1ZW50OVY2MEZnZElFMFIwLXY0T3Rfb2MycVB6RUNNVTFmR0l2QQ?oc=5",
           "publishedAt": "2026-08-12T23:06:14.000Z"
         },
@@ -109,16 +115,10 @@
           "publishedAt": "2026-08-12T22:34:00.000Z"
         },
         {
-          "title": "Two dead after military helicopter crashes in Texas - BBC",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sSXl2WXAyYmQxOE14LXMtTXlZTm5rX2VReFNPTzFvUUhpd2xqcGctV2l5WG14Z1JRUVY5VHVSREJMV25HWHFzTjB5Z3ppUi1Hc1ZTUFpkRVpmQQ?oc=5",
-          "publishedAt": "2026-08-13T02:47:34.000Z"
-        },
-        {
-          "title": "2 soldiers dead after Apache helicopter crashes in Texas: Army - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM3U4bGdFaUc2dWZjWXlHMUVTSzVvNEtTaG02NjdTSmVwRm1xUEFFVzA2ejNaMjhDczJOY0ZSME5YMFhheGtXVWstMWpqeG1xU1pGaGQycm5qRjN2NkpjTTBodkluVVFma2FQUktiSEUtZEh0Ri1aSEs0VFFZV2Q4c0dFb2ZwUjlGOWEwM2ozbTFwT2xpN2dCd9IBngFBVV95cUxORVF0Zm5weDI0ZEJtLTZwMnBqc2tQSjhIbWZoczZuNFRJX2tJSUdOM1ZxZml1bWNDTzZmZDdPNTd6YWtCOVJ0Q2E2ZF9UZ1JpdmVFU0NROVlwS2tyTWk1ODVmSjhaMXhBWjFsazZlRXl0ZTJGeTNOeEtIUEIzWEtUeUV0TnlNbW1ISDYwNUJXX1BEc3pocUxGem05UmRBUQ?oc=5",
-          "publishedAt": "2026-08-12T23:21:27.000Z"
+          "title": "US Army general in Europe suddenly removed from command - Military Times",
+          "source": "Military Times",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWTVIVkN1T0Fpd1lXb3l2ZDJqd3FGbVhoRXhfZDBpcktQcHlYTnlNSjczTUtZOFkwZVVYT1FTQ0RWdWwxRWJJTjNiM1hpUmJFQ2xxRDVCOFdtdEtHaG5XUHN0aFNwbURyNE1KUml6TjVOcDVsbWNQUTlOZkY1R0ZNSVJYQ0szOXhpYVZDMlhQOUNjZFk5c0czenFCVW1JbnNZTEZNM2xhRV9RQ3JtbGktUjh5YjNxTDQ?oc=5",
+          "publishedAt": "2026-08-10T17:41:42.000Z"
         }
       ]
     },
@@ -129,16 +129,16 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "West Point Announces New Dean of Academic Board - August 7, 2026 - United States Military Academy West Point",
+          "title": "West Point Class of 2030 Marches Back - United States Military Academy West Point",
           "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMHBNV0NKRUh5WGZKSzdLMzZUM3l5ek9ocHBUdVRGR2RJM1d6OFJNWmpWc2xwMGZWd1lveDBmVExLWjdhbndqRzhkT2k4eVlWalR2dEwzNUhNSHNoaVc5RVNQTHR4UG1ucUc1Q0dxVXp5a3JiQkhDYTRPTkxjOGtIczBKNGNoTHlaT29lOVBkcnlJc2lUWnVvSXd4dGtjT2g2X2lDMHE4aFJpaUE?oc=5",
-          "publishedAt": "2026-08-07T21:36:01.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXpONlFvQnByaUFFUG1jZW8tUWQ2YkpvV1dQOVRMQzNrX2tib0pzZ0FGTmROY1pMMDRFaFlkTE0ySlFMWnJmdXBST3ZqaU1FOFRCbV9udVhMUlhhZlV4S3B0aHowNm1NZDlJNU5FNkdVRUdFTWZIV1BtM3pneF9NRmxNVWR5bU91ckk0?oc=5",
+          "publishedAt": "2026-08-05T18:41:00.000Z"
         },
         {
-          "title": "BG Nicholas H. Gist ’94 Named 16th Dean of West Point - West Point Association of Graduates",
-          "source": "West Point Association of Graduates",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT0ZaalJybzZQZHlVallmZkJibTI0N0tPTm5iOUFPQ2F6ZTYybmRQRk5sWHhBZGluYm5PZGZvdnRSQXl0Z1FTZHJaSXlORFJydndFTy1ucUQ1MURXNlg5elJ3SVVNRU9MMUcyR010X1dlTV9DWExlTV9RU3VWQlJET3dsVnpwOFduenE4M3FMRQ?oc=5",
-          "publishedAt": "2026-08-09T23:00:00.000Z"
+          "title": "West Point cadet designs system to boost Army aerospace research - army.mil",
+          "source": "army.mil",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHVua09LbVJGaFluZFd5OFltTV9INzUzcTRfdU1CTm5lZU1QZ2lXWnRiRUNRRmNwWTdINW1QV0ZqcXlmYnBqNGJBRkRnN3F3aHpycFFTN0YtQnpKaDhxMVdUcWRpSTlrUThNLTFBakdTNnRSYUlIZ3dZVUFDZ1VNd284RjNGRUJ0ZTZKcGZqWFk3c0pIVGRocVN2WlBXbXdaSEHSAacBQVVfeXFMTjI5d2VpLVR1blNDX05RRndMQ1hCYlg4Wkp1c2o5R1cwRExKOEI0UXhsb1dCeVRlY256YzdUamQteVpyZDBZQ2dkb180TDNxc1FNSUN3YXRiZ3VvNi1YN19QU0F4dEFaMjM5S3FBb0djWFUyb09jVHFBZ2JFUEktOWxSbWxFLUhRaFhlbEVpV2g0b0FwRERsU21hdmNmVndFSG5zbjJzZDg?oc=5",
+          "publishedAt": "2026-08-11T14:02:44.000Z"
         },
         {
           "title": "News - West Point Internship at SOCCENT - DVIDS",
@@ -147,16 +147,16 @@
           "publishedAt": "2026-08-12T09:56:00.000Z"
         },
         {
-          "title": "West Point's Longest Serving Law Professor Gets Legal Victory in Free Speech Case - Military.com",
-          "source": "Military.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWTFaT0l5LWRpY0J0Z3E5M1pNVlBlRVQxX2Q0MjRfZUFtZzN4bEFPdnJ4RHQxSGdnQ1hNNUl1M3F0dDh0M01RWWtEb2xiRUU4bFduOFZ1T1FtRVhDWml2RkRuQlBBYkUwSWVXVzdtWnpjVzVpWVprTUh2YjhrNF9SaUx2cW55dlhkeFRfbDZSNGRRcGE3THFrNmxVelNITngwTXZV?oc=5",
-          "publishedAt": "2026-08-07T13:53:25.000Z"
-        },
-        {
           "title": "Know about the academic program of the U.S. Military Academy at West Point - Encyclopedia Britannica",
           "source": "Encyclopedia Britannica",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
           "publishedAt": "2026-08-04T07:00:00.000Z"
+        },
+        {
+          "title": "West Point Declines to Fight Block on Faculty Gag Order - Inside Higher Ed",
+          "source": "Inside Higher Ed",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXhpXzV4Y1pyYXlPQ2EwQW52V3NXY0RpY3ZQY3pRdW9iWU9uc2c5TGVSSkU2T1hUOEtIRGRlOXJ3UUxlcjEwaFk0czlaVDhUWHdMS3ZTZ2xsSzJTdUJrX25iaWFPVVhZYTRkZFhoMFNpektzaXF0Y1dOWmllOElfcl9jV2MxY2xUZ3l5bmtQb1lpV0M1T3VuZkw4aEZtek1EckJVcU9kcXZldTlm?oc=5",
+          "publishedAt": "2026-07-30T07:00:00.000Z"
         }
       ]
     },
@@ -167,14 +167,14 @@
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "USAA Named Preservation Partner of Army West Point Athletics - learfield.com",
-          "source": "learfield.com",
+          "title": "USAA Named Preservation Partner of Army West Point Athletics - Learfield",
+          "source": "Learfield",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUtLWU05RDNRY3hJbVlRM3d5Rm1pWDdKN0RLQTVCVXg2cUhxLUd5andZQXJHRUFhTFB2TWpJN2dYbHhDLWI0VDZhYnlhcVd5RGhxSl94b0NsWGZlb3B5MjE3NEhrWW85YkFFQ3FxcUl4YzVfOXg2SlM3NzZ0bUtYSGR3WUtPVzNHZU40YVdCdE5heGxlMVdyUUVKSQ?oc=5",
           "publishedAt": "2026-06-11T07:00:00.000Z"
         },
         {
-          "title": "Patriot League Women’s Lacrosse Championship Game Preview: No. 1 Navy Meets No. 2 Army West Point (5.1.26) - Patriot League",
-          "source": "Patriot League",
+          "title": "Patriot League Women’s Lacrosse Championship Game Preview: No. 1 Navy Meets No. 2 Army West Point (5.1.26) - patriotleague.org",
+          "source": "patriotleague.org",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUk2OUV4VTc1ek5mMFI5S2FMQ0hoSFY2cElrYXZMblFVM3RwYlg5Q3ZIaUZFRkRaR1c1OE9qVXhiOEMwdHhyTzk3QlNoNDNPLTJ2NkJCUFVsYVZOTWczdi1sTXZiM1NxRHpSQURtSDBTaDBFdzJGQUZtbWUzZG5xLXJ1X3JZQ21PQjB6OERIT2tEbVN1X3JFVlRDN0hqV25fbE42NUN2WlNjbG5ZMU16ZU5pWWUxbGlrbmV2UG9aRDQ2Um1QWE5LNl8tRDRUYS1LLU1ha0Y3NVdQT0FWVXc?oc=5",
           "publishedAt": "2026-05-01T07:00:00.000Z"
         },
@@ -185,16 +185,16 @@
           "publishedAt": "2026-05-03T07:00:00.000Z"
         },
         {
-          "title": "Army West Point Golf concludes play at Ryan T. Lee Memorial Collegiate - United States Military Academy West Point",
-          "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYnBLNEdJdzJsaF81WS1DcXdnQ3N1TlZ5aVBZdEZPVUJYSWNnLXRQSXk1Nm5sT0F1cmtlcGc1RFBxV1lURGhwU19RWGxFM2dKd2ZYbWExa0lYNzhMUlJyVDJJeHBYRWhWRmtJTXNCOFhGSnIwQjdFWkt6MEkxLU1meGtDa1lUSUNjUHZhU2V5SmRwRXM0bHdBLWRIUmloMXJuWkYyeWZuR01Tem9qSjlXLS12WVI2eXhnUm1hMXl5a0RJUEhRRjBYYkln?oc=5",
-          "publishedAt": "2026-01-25T19:32:23.000Z"
-        },
-        {
           "title": "Lehigh Continues League Play At Army West Point On Wednesday - Lehigh University Athletics",
           "source": "Lehigh University Athletics",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1pCSUV3bVhIVHpubEI3eDZUbmY3aXBnY1V1VXBvUmFPY0xUWTBfM1RsQUlBWHVreG5wS3NIUmFtMTNOMlJ1WW9Fa3pVOFZnNGgzNnNVTHRTQUdkTklrTVRyRnJ2U1p6XzNZZkRodjlMQmVHZXhFcWFHSkJvempGWUZ4RjB6MC1FTng3Q3d2RF9ZR2sxUDE4WEVNbVNGazFYcXlaUUh5VVgzRklNNktOSEZuWjQyNEE?oc=5",
           "publishedAt": "2026-01-27T08:00:00.000Z"
+        },
+        {
+          "title": "Army West Point Golf concludes play at Ryan T. Lee Memorial Collegiate - United States Military Academy West Point",
+          "source": "United States Military Academy West Point",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYnBLNEdJdzJsaF81WS1DcXdnQ3N1TlZ5aVBZdEZPVUJYSWNnLXRQSXk1Nm5sT0F1cmtlcGc1RFBxV1lURGhwU19RWGxFM2dKd2ZYbWExa0lYNzhMUlJyVDJJeHBYRWhWRmtJTXNCOFhGSnIwQjdFWkt6MEkxLU1meGtDa1lUSUNjUHZhU2V5SmRwRXM0bHdBLWRIUmloMXJuWkYyeWZuR01Tem9qSjlXLS12WVI2eXhnUm1hMXl5a0RJUEhRRjBYYkln?oc=5",
+          "publishedAt": "2026-01-25T19:32:23.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Stout run defender Gabriel Rubio is emerging with a real shot to make the Steelers’ 53-man roster - Pittsburgh Post-Gazette",
+          "title": "Who's rising and who's falling after the Steelers' first preseason game against the Packers? - Pittsburgh Post-Gazette",
           "source": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVkVWNHBIZkRrcE9Nd19kY0J5UVdkTzdMVlFJYU4yU2dwaDdZSlVwZ3BqMFZYTXNNVGEzOFhVNTJuLW55VWVCc0VDTGlQSloyc3RiOXFwNHY3ZmtGTV9QV1pUY1QtbC1Jb3VVdV9PVk9xREJVUUVHLWEzaDhDZVktSEtDRDJ1V3JRa0FpWmRZRTd6a1Mxc1JRMWwyckpUYnk1Z0V6YVlBbHdKTUV0RDFfNUtBbmFsWXJZ?oc=5",
-          "publishedAt": "2026-08-13T09:11:03.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSlZ1UlFxMHZvMFhzSGhjekE5ZG43YUkyTWJfTGdyR3hzcHRKSUdqUXdTVEg5S0ZTYVpMTV8wQVNLM280bkNBWjVMdVM2U1Q2dGY3eUJRMS1SLW4wNWk5YTJYb1dIQUo0d2MyNndfU19ZNTk1aThtcmpCYUE3algtZjgydFRxWjFNaEJCRURDMVpPZEdxY2EyYm5Mcy1qbkQzYlFGc2ZKWG5uUHJRYy1GSjFDVjNVWjd3NU5UX1hpN0ZWYmpBanJzUncxOA?oc=5",
+          "publishedAt": "2026-08-14T09:53:54.000Z"
         },
         {
-          "title": "Minkah Fitzpatrick reflects on frustration with Steelers - Behind the Steel Curtain",
-          "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQk5sQXY1ZndjNjdRRE1iMlBjd3ZJbzJRcjdodlZTZi14UGU1RUotVkZhNzl5bFA5OXFUM3l1R3NaWk5ETlkwU05faUE3Z2t1TF9CM1Z2VXpFSXNOcnI5aUhkaG9rSnZjRGRCaXZOeHpJdkx1VE9vem05dWRjOE1FZnVlMW1lT0FoSTBLQ3paZmtwNmViazFrUlVvMDJ5OEFuU3MzNlBmM2lwWUZNZWxPcUJaQ0dhbzU0ZmFOOEpHYXh1Q0VscEYtaFNiS3Vhb0M1S0xOMXVvNm5CdmFWajdTSWZpbw?oc=5",
-          "publishedAt": "2026-08-12T15:03:34.000Z"
+          "title": "Green Bay Packers vs. Pittsburgh Steelers - Final Score - August 13, 2026 - FOX Sports",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHpINXYzYXNaandWeUQ2RHowc2wwcUY0cEgyQmZKdUJZNmlUbWRUSUxFOU1NMGJzUkdHZHhIeFBLaXUtWkZCbThncEMzdDJrSVJPcFNOZTBvSGlfbzhFcWg2NzJRR3c5ODNJTG14ejhxQ1hjRG9TYmR6VE8wU09iejIwTTNzSHJibUU2U1hYTWNULXliTzBZbTIyeWtVNE5rRy1BWUlEWmNfa01Eb2dUWHpvZ2tKQ3BqSHhz?oc=5",
+          "publishedAt": "2026-08-13T21:35:03.000Z"
         },
         {
-          "title": "Steelers bring back veteran LB Roberts on one-year deal - ESPN",
+          "title": "Labriola on the win over the Packers - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4eU9VQjNjUm5jdE1DZjRCNUx5aHlHSzRnQk1hcEpfMmZlVDB3eHFLYnN2SkVVeE1QQW0tUndDbGRpMW1oRGlwWXpkZ1ZVLU8yYnNmYm1JMVMzMUlQRngwLUk0TFlCaFNMaFRkODJLNGlPejNl?oc=5",
+          "publishedAt": "2026-08-14T07:40:42.000Z"
+        },
+        {
+          "title": "Steelers news: Aaron Rodgers gets big update for Pittsburgh's preseason opener - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEJGVENBRGRpNUV5MjRyU1NZUEFIdXpzZnNCY2JEQUFQSjRZSGV5S01KMjc5eWp4a2JldWtHcDQ2d1FCZTBlcGJjYzFPcmY1QnFYQzQ2NG8tbndjc3lxc3BsaFlIWkNRR2djdVhmN2toNG85TFM4dXJXRFZCSXVieGVWWjl4Ti1O?oc=5",
+          "publishedAt": "2026-08-14T10:18:45.000Z"
+        },
+        {
+          "title": "Rookies Drew Allar, Will Howard 'very poised' in Steelers' win - ESPN",
           "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSS0tQ1FQSEYxSkpGV1E5Z29SMHJucV9Gdm4tUzFmdTRpXzV3aTg4aVo4ZTN3ajc3NVdLa25ZREVPVVdOQzQyeGpkRXNZTXp6RzkyVkZwVkloV3ZoUzFnNFZ6R2NkekpmTUZCUkxqbjNMWnd4MlFGaUcwYWo2dHFVcXlxR092QS1yenlhYTM4MEw1ZVE?oc=5",
-          "publishedAt": "2026-08-13T00:43:00.000Z"
-        },
-        {
-          "title": "Packers vs. Steelers | How to watch, stream & listen | Preseason Week 1 - Green Bay Packers",
-          "source": "Green Bay Packers",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2dsZnJyaUFtZG84VjJ2YzZMVjc2bzR3bjBhMXUzRm9saUp4TXg4MkwtSGRBVXd5ZlR0TXI5RGJqN2tDWFpsV0g1MFpPeGd2b2p1a1hza3NZOFJXODZablFFbUJ4Q0I2VTVXUnhCaWVXZUdSTFRQbmtrdzVUOXBJWExtSmNUZ2pzeWUwYXhHT1k2UkxoU0ZiMmVnYUJGdw?oc=5",
-          "publishedAt": "2026-08-12T21:59:48.000Z"
-        },
-        {
-          "title": "Rodgers on playing in preseason: ‘It’s not real football’ - NFL.com",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXRRYVFuUElHNDcyWXJmM2VrVmpxeUJwRmpCS1R5YTN0ZG9GM1F5dnoybG92VFpKenowV04wV1B0blJQcVNyV3g5eERZNG16T1p1UkpPMzdQY3pid29jNy1Ra0UzWkliTDFfcDBockpoN056ZVJlQ0Z0MkNUaGp1c2xQUHdOWWlxLTBKaWplVmZ5OGRqUWtmOEZ4Q2U1MWgyTmVUaFF3OHE1QkZ0NkFJQnFpMkc?oc=5",
-          "publishedAt": "2026-08-12T10:40:03.000Z"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU25rMnJiMHFuMl8tLVZhRzloVUo2ek9VMFFiWmt1eV9aQkhwZ2JBRTU2T2w4aWZ4LWhlaDY3QnA1VG1DMFJ2bTlCV3pRMXcxaW9nMHdGODdhM3N1LUg5cTBxaFBWZjB5SEw0THNHVnVRYTQ0aU93N3VjTTVaSkpRXzFOcHQ2SzZzZjNDMXJlZjZqelN0NjZUcVN0OA?oc=5",
+          "publishedAt": "2026-08-14T04:24:00.000Z"
         }
       ]
     },
@@ -243,10 +243,22 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Jordan Davis Releases Fiery New Song \"Mess\" - Country Swag",
+          "source": "Country Swag",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CMDZVOEF4aHNEN1VtTHRidEUwSU9ONW1vS2tEbVhlcmdxR2hFcFM0TTI4VE1kalFQVUJCZTl6YWJWSDdXbGpXazRHcVJsTjdPSnpuMG9VSFhkWmxFZmhJSw?oc=5",
+          "publishedAt": "2026-08-14T04:12:28.000Z"
+        },
+        {
           "title": "Let’s Do This: Kaitlin Butts to Release New Album “Hello, Honky Tonk” - - Saving Country Music",
           "source": "- Saving Country Music",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa29NTnh4WklSYUc4V1E1U0d2M1JqVm1ZbWNVMlFTMTlDZ05HRTE2dzNMcTNRY3JMVXlRU2IxeklZVWlMWUwwYVpjbmlNelFFQTUzTGhQcGJJZjhnNWhUd3d4QURPcUtNZU9jZlFaRnB1TGRQSFJTVnhzSXJ5dEJVM1k5ZVVXYVFnWFhvQnVHRHB3ODVzdjdOUVdNc2Y?oc=5",
           "publishedAt": "2026-08-13T07:28:59.000Z"
+        },
+        {
+          "title": "Brooks & Dunn Celebrate 35 Years of Brand New Man With First-Ever Vinyl Release! How To Get Yours! - All Country News",
+          "source": "All Country News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZjZGRkNUTjVOdWFINW1hNG1kQVJXRl9fYmNHOWkwX1l3MklyekQ1d2dYTUo1UHVDUmhUYUExM3pJYTJJYnh3T2dyT3N6SVhGYmN2eVVLZDgxMTVwcjJNX1E5Z0p4RUJtRVZ0VEE3UXE0RkM3RmplcWdSUTJwOE1OMWMweU5UWGF6eWVfR3V2V25QaUl0aUxqTlNFazJ3c3I1MHZUSWFrcXVPYldhYlNxU3BmN2dMZXFQcVI0UkMyTUt1VTBRdjBzVDN3?oc=5",
+          "publishedAt": "2026-08-13T12:48:12.000Z"
         },
         {
           "title": "Little Big Town releases the new ballad \"We Could Have It All\" - Big Country News |",
@@ -255,22 +267,10 @@
           "publishedAt": "2026-08-11T10:12:41.000Z"
         },
         {
-          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
-          "source": "Holler Country",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
-          "publishedAt": "2026-07-24T07:00:00.000Z"
-        },
-        {
-          "title": "Country music star Riley Green keeps momentum going with new single ahead of September album release | OutKick - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3NwZTl5clRMNXZpT2xQcDlrd1BKY3REUS1xTmRBRE5YcDZJdVVfRUFnMUtEdnJHZm93aUxUZ0FMRXZ0aVFZNU4xZ2FoTG1mOFYyVnVSWk50UzBpSUpjcGpjUnhUaXE1ZXlUd1MzTXg2ZDExTVZlTnNpcEtZVklBWFMyQTBZd2NDMUZlOTlxTFV2UWdMSXMtQWk5WW5KdzNMRVh6ZndTRmNZU3cwN25Tc3FWamdySE1KYjFBN3FydU9QNkFD?oc=5",
-          "publishedAt": "2026-07-31T07:00:00.000Z"
-        },
-        {
-          "title": "LISTEN: Zach Top Finally Gives Fans What They've Been Asking For With New Two-Song Release - All Country News",
-          "source": "All Country News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWtUaGdYM29MdmlzMkJKOUllQkFPUzFkZTdURXlTUFFzbjB5Zkp5X19jS25kSDRpb1VyaG5KYnFPZmRrZmFTaV9mbUxzc0NwSENHQzhJUkZmTnVmZWFXWDFmSFhlSmx1WHhPckNkNHdKX2h5M1pqajJNclRacWtFa0szUjZ5LVFpczQ0UnFzNGlHd244bU5VVmpDSS1BTHFhS2dBaGRTaG5qMFNRVm9rOVFvNTI4UWItcFdiVG4yb09jSjA?oc=5",
-          "publishedAt": "2026-07-23T07:00:00.000Z"
+          "title": "Here Are The New Country Songs You Need To Know This Week (8/14/26) - Country Swag",
+          "source": "Country Swag",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWtyQ2wtTkxCLU1WVXFnX3hKclJ2N2hQZDdFZll5LUd6UmhGSUpoWmY4cGN2dWwwZGs0LUtJTkhFdzJLcC13dC1DSHh2MGI2RFVtSFg5aFFFOHVuRTl5N21qQi1OLVZXZ0t4VlAycFVLem13aGdhQlcxdE4zSTg5QkRmQ2I2bldHeEltQ0l4a1RQeVdf?oc=5",
+          "publishedAt": "2026-08-14T04:21:43.000Z"
         }
       ]
     }
