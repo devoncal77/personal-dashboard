@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:41:55.730Z",
+  "generatedAt": "2026-08-24T10:54:27.879Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Body cam shows federal agent was &apos;unjustified&apos; in Memphis shooting, attorney says",
+          "title": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
-          "publishedAt": "2026-08-23T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+          "publishedAt": "2026-08-24T09:36:13.000Z"
         },
         {
-          "title": "Trump administration&apos;s 75-country visa ban was illegal, judge rules",
+          "title": "&apos;It embarrasses me to be involved&apos;: Inside the National Guard D.C. deployment",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
-          "publishedAt": "2026-08-22T20:53:19.000Z"
+          "url": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
+          "publishedAt": "2026-08-24T09:00:00.000Z"
         },
         {
-          "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
+          "title": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
-          "publishedAt": "2026-08-22T12:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
+          "publishedAt": "2026-08-24T08:53:36.000Z"
         },
         {
-          "title": "As Flock battles public scrutiny, other police surveillance companies see an opening",
+          "title": "Morning news brief",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity",
-          "publishedAt": "2026-08-22T11:43:32.000Z"
+          "url": "https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief",
+          "publishedAt": "2026-08-24T08:46:05.000Z"
         },
         {
-          "title": "Hours after U.S. imposes tariffs, Canada says it&apos;ll strike back starting Sept. 8",
+          "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-          "publishedAt": "2026-08-22T04:36:27.000Z"
+          "url": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
+          "publishedAt": "2026-08-24T03:47:04.000Z"
         }
       ]
     },
@@ -94,7 +94,7 @@
           "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
-          "publishedAt": "2026-08-21T11:42:52.000Z"
+          "publishedAt": "2026-08-22T21:33:12.000Z"
         },
         {
           "title": "U.S. Army moves to end drone battalion set up to absorb lessons from Ukraine war - CBS News",
@@ -103,22 +103,22 @@
           "publishedAt": "2026-08-20T17:52:00.000Z"
         },
         {
-          "title": "US Army secretary expected to step down by year's end after months of tension with Hegseth - report - The Jerusalem Post",
-          "source": "The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hRTc3SS0xZzYtZVJFak84Z0RqdmRGZTRUaDFBNHYtUTFpRzA1bzNKU2NmNDJpaF9jRXFlV2hyaTF3cEkxVzQzNFRFbmcxdjFobVFjTEZRcjI2N21PTnlV?oc=5",
-          "publishedAt": "2026-08-22T18:54:34.000Z"
-        },
-        {
-          "title": "War crimes are part of Russia's strategy in Ukraine, retired U.S. Army colonel says - PBS",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaHZpNi1NNmI2ektmaTJha1JLRUE5clNCRUZqS0xwd2xTTUtHVG5BdVY1ekJVZDUxMmFMQTkyWkdGZU5jdENMdU9SOG5vTkktLTAzUjVfVjhMUEtuZXZQTm9oWXFDZ0FhWmtmMF81eVpTc1llYmRtSEx5YktselpFNVVTdDFwZjZ3Ml9rQ2dWUHM5aE9VaS11ZHIweDROczJ3SGtxRXJteUNVd3oxVXRmZWNWTlo?oc=5",
-          "publishedAt": "2026-08-20T22:42:08.000Z"
-        },
-        {
           "title": "US Army to end experimental drone battalion in Europe - Defense News",
           "source": "Defense News",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUVN0cVhLbEt4M3JsMTA0V1hnY1l4Qi1YVkNJdV9wcGNld25GZ2I5Q2ZGWVotWGNZQ2hPQ0VDZkJKOXNvTG84enh5OWU3ZnR1dEhpOFdhaFNHejZmX3A3QWlBUFVJdmRxdFFKT3BGVmhaZjRJSFV3NTRWVWFuZThhWUxFcUxOdjFKNnZ2NmpoeWFjcG1lcEdEVVdleTFNRnQ1Q1o4T3B4Ymo4LUhMTkJEbkln?oc=5",
           "publishedAt": "2026-08-21T08:14:42.000Z"
+        },
+        {
+          "title": "Army Corps of Engineers staff, contractors killed during plane’s attempt to land in heavy fog in Alaska - Federal News Network",
+          "source": "Federal News Network",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYXJjRGhITnI3MjFLRVdsNFhSLTQ5SDVxNE51bmJrOV9QLXFpTm9QUUQ0YjFDaTRhOURLbDdkQUNzcmxPcWRXMml1VEFJVWZDU1c4bERCazRlUmd3Z0FiTjd0bTZyQl9rVzhia2xoLWlJb0NHTndRWGlMV01ONXZuSlVCakdRRjYtMXpXNDk4TVMzenE0SVNUX1VNLXpkcEZTYUdlR3E3VVBsSmp6WTRsQUpBUzhRR3dNM0Z3ajJiUEhOWGdxbURZZTkzb2M3R0lhcGZGaldMdEItQWM2RTVNbQ?oc=5",
+          "publishedAt": "2026-08-22T09:49:50.000Z"
+        },
+        {
+          "title": "US Army secretary expected to step down by year's end after months of tension with Hegseth - report - The Jerusalem Post",
+          "source": "The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hRTc3SS0xZzYtZVJFak84Z0RqdmRGZTRUaDFBNHYtUTFpRzA1bzNKU2NmNDJpaF9jRXFlV2hyaTF3cEkxVzQzNFRFbmcxdjFobVFjTEZRcjI2N21PTnlV?oc=5",
+          "publishedAt": "2026-08-22T18:54:34.000Z"
         }
       ]
     },
@@ -141,22 +141,22 @@
           "publishedAt": "2026-08-21T13:51:00.000Z"
         },
         {
-          "title": "West Point installs 62nd superintendent - Mid Hudson News",
-          "source": "Mid Hudson News",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUlxRi1DOTRwMUdFVktEZ1ZzMXF4YlVnTFVWUEh4VWVnbDB0QWlidzFJS2lGRXFPZUFlZ0JZc2NBclgwbEdiTHVWLXVBcnJBOVY2RVVQOUNkak1aQlpPanhXNkV4S18wVTBVYW1pczJjV1Byc0pKNzcxMVFQdnhmUWQ2bw?oc=5",
-          "publishedAt": "2026-08-20T10:28:57.000Z"
-        },
-        {
           "title": "Class of 2028 Cadets formally commit to West Point, service obligation at Affirmation Ceremony - United States Military Academy West Point",
           "source": "United States Military Academy West Point",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYXh4aGxtdlJGd01Yc2FDUkgzN0U4MWZwb3ZqdXhnVlRUbGNQOXV2YnpxMlRLbEFOdXpQX0ZRV0M1RFBOcFhhWUxQYWtkZEx0YjJXaUZaV0R6Qk1ua0t0TmVMcWFYYjNiMEROLV9hRGo5WjI3NExnTEtPYlV2TUlSRmdOajdLZTVjREdBSTl1bFN3Z2g5ZVJZZlM1VTRJejBHOFVHUzQtV2ZpVERGUGptcC1CTUJWaHRiZnMzUmhOYmN2Z0Rkb0R6LVR1R2U0Zw?oc=5",
           "publishedAt": "2026-08-21T15:29:34.000Z"
         },
         {
-          "title": "Class of 2028 Cadets formally commit to West Point, service obligation at Affirmation Ceremony - DVIDS",
-          "source": "DVIDS",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlBDWVMtZmxHbUdKRjhPUzNMUXZ2a1NSZmRWZmtUVkFrdXoxdUFOaUhwaXZPc0gyd3NhSTNObWRWNnZSYWR5X01nd3ZrY1NCUl9vaVpVLVlka0tXeWxVbExRT3RSSGNFY0hNcVFDdlQ3VWcwOC1FYzNvN0lCNWdIZ3E0QkwwR1BERkNXbDN4S3MyYlFVTjdJbDNpOXQ4Z0pPd281ZHlTbWU0a09HX21pcF9pdkZkbThSb21ZaHh3XzI?oc=5",
-          "publishedAt": "2026-08-21T13:51:00.000Z"
+          "title": "LTG Bartholomees ’95 Takes Command as 62nd Superintendent - West Point Association of Graduates",
+          "source": "West Point Association of Graduates",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3lMckZnXzFwYm9sZWFBZ2QtVmQwWGRIRnVlQmJlcDg4NTdPSmlPVWJTR19lUk90dEJRdTlLZjY2OEM1cm9WRWNzaEpHZS03RDB5YmdFNjBrM2NRbVcydnNoREtJelg5Q2x2MU9uMGF3bUc5RUl4UVVmekd6ek8yRFdxVmljOFd0OFpRaGdnR19LbjVFbWc?oc=5",
+          "publishedAt": "2026-08-18T15:39:01.000Z"
+        },
+        {
+          "title": "Those interested in attending military service academies encouraged to attend ‘2026 Service Academy Day’ - WEAU",
+          "source": "WEAU",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZFlfNGV6NFNGUmxFeXc5cEVlM2R4RDRfcGtLNFA2VllnaGRnUGszR3B2Z29fMU1sQmJUZi1tT1p4eGpycG5qbS02R0dZb0tTR2lLUGh2ckZKbnVpTmJ5dEVzMW11TFkxQzBPVV9fMmd5ZXZBV2lEYTFEY3h5X2gxMm9lU3d1OVNHZXRZWGdCVS1CNHZwazVCLWg4eXU1VXJWOWJtVjBaM3RyeXFLV1RLQmZFd3dUOVNfSS1pc2IwdlJOM0FISkJhWNIB3AFBVV95cUxNX3FyVG1yS3RsaHUwOU5XR3cyRlMzdllxZFpxX3VFZG9QcHhtMXJPX2dETmhvakRtQTNFakNDb1VLRkRjcnRMQXN2OXBmdllZcDRMY09uazhIYTZrVTFUOTNUNFVfOHhjYTZEMXc1dkRGU0FrUHZxNVdmUTZnREZ5Zno2THg2R3c4TEc2bmJvb2E0X095TGRILWxETnFUUEJ2VlE5WTJkS19faVNoVmx6WWhvRGpFR3VOdy0xS1h2QnRNNWNzaFZ2MkdMRUhEVHlibXRnLVU4ZlJxSXkz?oc=5",
+          "publishedAt": "2026-08-22T14:00:00.000Z"
         }
       ]
     },
@@ -179,22 +179,22 @@
           "publishedAt": "2026-05-01T07:00:00.000Z"
         },
         {
-          "title": "Army West Point Golf concludes play at Ryan T. Lee Memorial Collegiate - United States Military Academy West Point",
-          "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYnBLNEdJdzJsaF81WS1DcXdnQ3N1TlZ5aVBZdEZPVUJYSWNnLXRQSXk1Nm5sT0F1cmtlcGc1RFBxV1lURGhwU19RWGxFM2dKd2ZYbWExa0lYNzhMUlJyVDJJeHBYRWhWRmtJTXNCOFhGSnIwQjdFWkt6MEkxLU1meGtDa1lUSUNjUHZhU2V5SmRwRXM0bHdBLWRIUmloMXJuWkYyeWZuR01Tem9qSjlXLS12WVI2eXhnUm1hMXl5a0RJUEhRRjBYYkln?oc=5",
-          "publishedAt": "2026-01-25T19:32:23.000Z"
+          "title": "Army West Point athletics finishes 79th in Learfield Director’s Cup - My Hudson Valley",
+          "source": "My Hudson Valley",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLU5kakNSZVoxWG11MEpDR0VwazdoMXdUckJnbmh6cC01U09qWXY0emxPMjRsZEx5X2FBYXlZbjF1ZndWY2NYalRGRlVFSTlfXzYtdjkzU0wtaV93MGl2WkM4M2x6U25weDlYYUhmdDU4dUJyelMwcUl6MGdiTGs5Yk9WWW9JVU04LXU1c0tMd3FQdjN4T21UT0pWa3RXcWtBUUd6cU5rX0FZZ1RqV3V1OWVLMTdySEQ0RWxUV2JsdklfLUNObDlxQlFob3k0TUJXSG5IWDBHR3NrM1hGQUZhUDRYZTc4Z2tDTVlXQWlrTjY?oc=5",
+          "publishedAt": "2026-07-02T07:00:00.000Z"
         },
         {
-          "title": "Women’s Soccer Meets Army West Point in 2025 PL Championship on Sunday - Boston University Athletics",
-          "source": "Boston University Athletics",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXBrOXVWSW9MVEZlS0hZY1lYal9VTmJ5UFo0LVFjQk9hcmFQaTNMUmI4MDlwQUpESlJFTUhMYjRfNENKOU5oRnB3bHFWeTE3cVFwaTJCTlVkSHRqRUozbGpJenMxT0otcDlnV19TclNTS2FzWEhtQlU2emZVZWktZWpPNlhkWDRBYlFES1BhVVNNdk1hcWJzQVZ1OUNndlM4S1JHQnJEWmprc09tNnlKeE0tU3lTX0RBVDNodUFn?oc=5",
-          "publishedAt": "2025-11-08T08:00:00.000Z"
+          "title": "Army sports - Newest Black Knight athlete recruits report on R-Day - Times Herald-Record",
+          "source": "Times Herald-Record",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnNFcklVelVia1BocG82VFZ5eDRhX05mSUpqNmpwRHNCbE0yUzZJeFpLOE5OSEZGNVBzVFhOQ0JVbWZsMDZxVWdycmRLYWMwU2JmS3MyMVNHX09vVDRidGwxVnFOVnJINnpwSXpaYndKU2NVdmJqS1pwS2E3azFBbEE0Tnd0dmo5aEU2RlA5ZUs1Y1o4cFlkS3N1dklpX0ZxZW85dUJPd2tZTVpMTGlZTHV2VHM4TEU4OUtzZlBFNmpJa1pFWUhRMllXZw?oc=5",
+          "publishedAt": "2026-06-29T07:00:00.000Z"
         },
         {
-          "title": "Marist Hosts Army West Point on Friday Night - Marist University Athletics",
-          "source": "Marist University Athletics",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbE5WcF8zWnVrbjZqaW5HV2hTUW9ocXBVU2dNRFVjeDZPd2xsbWlUa3JHMm90WUVKeE1pSGhhU1NBS2tCWmE1eDJSV1BMc3Vua3NXZ2tvZ3pJUkx2c2I1OUVJdk9uWFNnTHA4enJDYmZqaTA4TlNoaC1TNnRNUm5nemtiLVZIdlZmSUw5cTU3blVTUXNyNnFUSHU3WDhyZ21oaE9TbTBsSQ?oc=5",
-          "publishedAt": "2025-11-20T08:00:00.000Z"
+          "title": "2026 Patriot League Men's Lacrosse Semifinal Preview (4.30.26) - Patriot League",
+          "source": "Patriot League",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFJyNFZicV9UeVh3NDQtOXRwQUZjS3lVX2x0WUhRZm9uT1ZkbUNpZjdNdHNYY1V4YzdiZDZfNnVRMDgyX3JQLXpFb0w1a0FBV1R1TVZDUFhleVVici1ZT2l3RkdkclgwS1VmTEp0YnE4ajlHbHVSb2FIZE9lX1lWV1R3WVZOWFVYV2RPRGdIcHRkemRlRkpxTW1FNUZfem9TTGZaX3lIREc?oc=5",
+          "publishedAt": "2026-04-30T07:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Report: Steelers Make Will Howard Decision - Sports Illustrated",
+          "title": "Carney: Pittsburgh Steelers Final 53-Man Roster Prediction - Steelers Depot",
+          "source": "Steelers Depot",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYzBxWW5CbnBoLW1XYjZfNFlaT0RJb2JBMGNOclNKc0paV1Fld1ZHOFFzbElpcGpRemFqWUpsT3F2bDl6QTVlMnhtcXNRQWtvdnUwaVo5NUxRLUFPcHBqZlh1MFJ6cDRZbG53cURwRV91a2xBQ3lzQXN5cXUzS0pZUzJZeF9sVU5Jc2dFc3hTWVNJX0hNV1dv?oc=5",
+          "publishedAt": "2026-08-24T09:49:56.000Z"
+        },
+        {
+          "title": "Steelers Need to Have Kick Returner Replacement Ready - Sports Illustrated",
           "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXZpNjJTM1k0ZFBTdUNJaUpBMVl1YlkyMkFENkw5dDBYVVNDRktBTFBCdUZocV9HUmtSbWJUeVZfUzdzYUlQejNwMGVnYWI0bXpKSUlVVDJkZ0ZKUDdHNURxRzU1TjlFS1RiSnNPczZXMHdiZTUtbS13ZnFtWG0zOS1yVmxSWXhVeGUtSQ?oc=5",
-          "publishedAt": "2026-08-21T21:48:41.000Z"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcHNPN0J5cXAxOTZTYzlFdGZhN3J6a0JnZzBfTFJNMmI0X05DbzJUYzdEMmV2NV9vZlM5NzY2VkFIM0dzZ3lGQnNKRjhrS1VVN2h2TkR2Ul8xd2VHbmFoa3BRUzQzeENfTTU3VGZWblphRWtrM05BZHl1QWZqTktieUQwR3BMcGZSLWlxUDBKYTRXRzhqUTdsWQ?oc=5",
+          "publishedAt": "2026-08-22T19:00:00.000Z"
         },
         {
           "title": "Jets 17-0 Steelers (Aug 21, 2026) Box Score - ESPN",
           "source": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BMHRRYW5QclhKdC1OejJhN096ZkNReEh6RjYybkxuVUNOYXo3cmJScFprR3lMWDc5UmRGbmZuRWhUMHZTbDVwdmZWUDUyeHh6MXB1dXZJNlBXbldQeW1ZOUtR?oc=5",
-          "publishedAt": "2026-08-21T23:06:42.000Z"
+          "publishedAt": "2026-08-21T22:57:49.000Z"
         },
         {
-          "title": "How to watch tonight's Pittsburgh Steelers vs. New York Jets game in Week 2 of the NFL preseason schedule - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNakZvbWl2N2R0NHJFM2RYeXZ1Q01KUGU3SWxyOWVCU3c0cHAwM0FaS2RJMG4tYXV3blB4UGFXMFN0VWRHSDRmMjhZQnVaMVVQLW1iOUlLYnY3cU1XWDAyYUdOS2RJazl5TDRGaXBWeUEyWVpWVkEyaHBiSGQyaXE0N2FWdDNvb0FxcXFGN3c4YUlpaWtJemtVNkpiVllJbmFzWWNsZHVCR3hhR1VBamVOaTF2Ym5ZSUJBV1piTWRR?oc=5",
-          "publishedAt": "2026-08-21T11:00:00.000Z"
+          "title": "Steelers shut out by Jets, 17-0, in preseason - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90eVlZSDF0VGpqVjRHdEhLSzh3dWNHZWxvQ0VqYVRadkZqTXota2pBQ3lqTnJmZ0RRLXdhZUt1czZMY0ZtRWF5ZHByU2NOaTVJdGdoYzJubXl3Q1B2WVZZTmxxVC1zTVhCak5qN1dRU2xhVDZ5djc5YUw4QU5HQQ?oc=5",
+          "publishedAt": "2026-08-22T03:50:34.000Z"
         },
         {
-          "title": "Elandon Roberts, Carson Bruener come up with critical plays for the Steelers in preseason loss - Pittsburgh Post-Gazette",
-          "source": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNEtucFREMTA5dlE3VWdVaUdJXzJnTTc5MFBNTE9NdzNRQ2N2aU1zTFM0RlBXdXB6RjdQZ2tSeGlOTkNPTF9KbnI3OC1WeHpuY2M4TWVTVHVyX3RsdWpDNEM4Zzh1UExyRFZ4VWlydGpYb2JBSVFwU2FUUEVuaWJvUXh2THA4ZzZGYlRMckdZcHc1cUNlVEJRcUFVY2dISWFpRTNCOFhpWjRfMVZfVVpWS0pXelZlNy13U3l5bHhReWJHa0VfZlE0?oc=5",
-          "publishedAt": "2026-08-23T03:20:22.000Z"
-        },
-        {
-          "title": "Steelers reveal quarterback plan for preseason finale vs. Bills - WPXI",
-          "source": "WPXI",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMG92ODJvRU5OVHZJalFrUTczOUt3bU83M0J3UUhvY29CTElUT2FoS3g1bnhaTG9NNGVsbURLUXFGQl9fMFhfd3hQMGoyekNFSDFJbmFQbnJnbjVPU0VjY2pSbFJsWjBkSzRkYkxmOFNDbUFmUEJnNTdFVWxnQ2s3a0hyUmpIeElqd1FMOVl4VE5zb25OekQwaS02OXZYc2tITEw5TC1VVjlsSFpmVEY2cUV1Z195bGRWdlHSAc4BQVVfeXFMUG5kWW1rakNqeXRpazk5OHljcGJWa21UZVRRU282QmlIaC01NVA1dzJVWlk1b3d2MmV6NzM5OUJVV3J4aTdKWTVhR2JhdE1DY0RMMTUyZHR1Q3RhNjN1MTJnVkpEWmx6NFFTZzZVVFh1QjZiUHVPVGQ4RVNYNS1DWDM1T3djaTI2YlE3NDN6eXpzTHpRQU5Lb3Z4MGZ5NVB0VEE4cGVMMFd3NUt1WWk3dUlXX3dfZXdNY01Hc0FaTDZZX2lpbG9pblZ2RzhKS0E?oc=5",
-          "publishedAt": "2026-08-22T11:51:06.000Z"
+          "title": "Pittsburgh Steelers host former Eagles cornerback to visit - Behind the Steel Curtain",
+          "source": "Behind the Steel Curtain",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWWo2Sy1icjNIZHlla295SFd4V1ZkY0NSTTdJSTE4UVdEUnU0RXNXTWNzTXVLOTNEdTVNdFRsaHFWYXVjUFVKTnJlMWNnNXZZSERhU1NrM0czbXB2YmY0OG5PT2ZiVFlnZmptc3ZhaHh6d1JQVkUzZm5fSzNhYnhGd0JTRFNrUy1relFCUTdFZjlERHhMMnJfREFGN05hVDQ3b2RBZ0xja1RLY3JnUlR6VkUyTnN1QWotVWtvOEFGLVY1VmtjVXZwN1lHOWZ4M2YxRFlRd29Sams?oc=5",
+          "publishedAt": "2026-08-23T22:19:41.000Z"
         }
       ]
     },
@@ -249,16 +249,16 @@
           "publishedAt": "2026-08-22T00:56:33.000Z"
         },
         {
+          "title": "Park City’s Brandon Flowers releases new solo album without The Killers - TownLift, Park City News",
+          "source": "TownLift, Park City News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYVZsTDRLT19zc3ppLThQWnpTUWRXQnpzTTJIWEx1d2tUbU5EN1RmNmJnOEcyTDZpSGsyWUk5YmdzMjUyMzdXRkpvTkp5Q3JMWGZ5VTdMNmY1MWFjUVgxTDQyNGJiUWtXblNXQndfa1RBNU53ejlfbVBlOHdPRHZuVmNIb0ZRUUNEdnpWMDVQeTUwTzBlYUMxeEpKYXhmUnpzMUE?oc=5",
+          "publishedAt": "2026-08-23T18:02:21.000Z"
+        },
+        {
           "title": "Looking Ahead: A Release Calendar of New & Upcoming Canadian Albums In 2026 - Billboard",
           "source": "Billboard",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTODBldkpJQlRJVTBCRUFNd3hFNmpTZ19QMmJvUkZ1WlRDZk9PcEpUbEtWNmxFNC12N3dTcy1NaGZ0RWV1ck9RNXhWRUR2dXhiYUI1d3ktc0k0V3hhRGcxbw?oc=5",
           "publishedAt": "2026-08-21T07:00:00.000Z"
-        },
-        {
-          "title": "Taylor Swift Reportedly Set to Release 'Three New Albums' as Travis Kelce Tests 'Tough' Country Music Industry - International Business Times",
-          "source": "International Business Times",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWlhWVVTc0pYSDVpTWNkWU9rMUkxaVkydVZSRUFQdm0yT19CN3d4Zl9Nclotdnhldzl2VExLYjNvaFRmQ2JSbmVmRkxkRTdSNTEzUFpOZXRNUm5JQjFEUl9DRDZtWk1iQjc1VTJHMTBpVGtoR2p3U282cnVrMzlxUkFCMlA3blRLU1JzYWxVdmpIR1laNVlvUkhHTjk1eHBXUm03NlJCemJuYXFBeWdDckJYTGJTWnFqei1XTUNZbTA?oc=5",
-          "publishedAt": "2026-08-22T16:12:05.000Z"
         },
         {
           "title": "Country music star Riley Green keeps momentum going with new single ahead of September album release | OutKick - Fox News",
@@ -267,10 +267,10 @@
           "publishedAt": "2026-07-31T07:00:00.000Z"
         },
         {
-          "title": "Little Big Town releases the new ballad \"We Could Have It All\" - Big Country News |",
-          "source": "Big Country News |",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN254SFRxUzFzamJLNElnWWpsWUY3OFlwRnBTV2NWU1pXYmZqYk0tTHJYNUNrUVhXLXFuU25YcWZTS0hyaVBpX3k3Q3dCMWNRcmtvdTVaWk9Nd3ZSc0FtYkdDM3paaFZxa0l4MndhYXB1TmxLd3BZQnA0LTJqWHI3M2U0emQ0c1JTNTBVQVBia05FbkV1Rno4RHhsWFdwQk91Q2gtWA?oc=5",
-          "publishedAt": "2026-08-11T10:12:41.000Z"
+          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
+          "source": "Holler Country",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
+          "publishedAt": "2026-07-24T07:00:00.000Z"
         }
       ]
     }
