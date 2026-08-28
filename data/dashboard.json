@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-27T20:32:03.348Z",
+  "generatedAt": "2026-08-28T21:11:16.118Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$771.10",
-      "change": "+5.02 (+0.66%)",
+      "price": "$769.35",
+      "change": "-1.75 (-0.23%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$535.22",
-      "change": "+0.99 (+0.19%)",
+      "price": "$535.06",
+      "change": "-0.16 (-0.03%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$721.11",
-      "change": "+9.74 (+1.37%)",
+      "price": "$716.43",
+      "change": "-4.68 (-0.65%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$314.58",
-      "change": "+1.13 (+0.36%)",
+      "price": "$319.70",
+      "change": "+5.12 (+1.63%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$505.06",
-      "change": "+8.69 (+1.75%)",
+      "price": "$513.53",
+      "change": "+8.47 (+1.68%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$354.81",
-      "change": "+8.99 (+2.60%)",
+      "price": "$348.75",
+      "change": "-6.06 (-1.71%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Trump directs federal government to rename Lake Ontario to Lake America",
+          "title": "After 6 months of war, Iran&apos;s battered regime remains entrenched",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
-          "publishedAt": "2026-08-27T18:53:17.000Z"
+          "url": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
+          "publishedAt": "2026-08-28T19:35:24.000Z"
         },
         {
-          "title": "The stakes are high as Kevin Warsh is set to give his first major speech as Fed Chair",
+          "title": "Fed&apos;s Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/27/nx-s1-5945044/federal-reserve-kevin-warsh-jackson-hole-wyoming-bond-markets",
-          "publishedAt": "2026-08-27T17:01:36.000Z"
+          "url": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
+          "publishedAt": "2026-08-28T16:05:40.000Z"
         },
         {
-          "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84",
+          "title": "New Jersey is a fossil hotspot, with answers about the day the dinosaurs died",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead",
-          "publishedAt": "2026-08-27T13:32:43.000Z"
+          "url": "https://www.npr.org/2024/08/16/g-s1-140898/paleontologist-ken-lacovara-and-the-fifth-extinction-that-killed-the-dinosaurs",
+          "publishedAt": "2026-08-28T14:38:25.000Z"
         },
         {
-          "title": "The real cause of most wildfires? People",
+          "title": "Experts warn more flooding might hit Nepal. And, Fed chairman to give key address",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/27/nx-s1-5944328/the-real-cause-of-most-wildfires-people",
-          "publishedAt": "2026-08-27T11:30:00.000Z"
+          "url": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center",
+          "publishedAt": "2026-08-28T11:01:11.000Z"
         },
         {
-          "title": "Meta reaches $17B settlement. And, nuclear regulator to abandon radiation safety rule",
+          "title": "So long to shorts? In Silicon Valley, tech workers are showing less leg",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding",
-          "publishedAt": "2026-08-27T11:02:41.000Z"
+          "url": "https://www.npr.org/2026/08/28/nx-s1-5943596/shorts-work-office-silicon-valley-bloomberg",
+          "publishedAt": "2026-08-28T11:00:00.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Army reaches agreement with private industry for nuclear micro-reactors - army.mil",
+          "source": "army.mil",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnFaNzRVS1o1XzhKa1BRRXdyZXpRMmFyeXdiclVlV2h1YUtoSjBFUTZ2QTZ6ejY0Ti1lLTkySnIycVBYU1RnWWJEQjQ5ZWMyaGZvT3VMaEwwbjB4VU9pcEdqdjlNX2p0NkFEcGFmZE9paTBGQTFHY3h0cnNxN0x5dTh4UEd6Zno1aXkyRjZpbmQxMWpZc2YzaC03Ti1xMzdJZDlpaWdsRkwxRE3SAbABQVVfeXFMTmdZbGhnUGktYUd2VkcyNXE3Mm5rZE1WN2tQQ21UMTA3T3ZnN3BtaDZPZ1lST3VxRkl0MmdVYjZwODV4TkYzNWFNUFc2NFpNcUVTZ0pSTktSbEM0aXY0TE9yQmMyd2cyUk5KYkVLNzdJOXU2MGJtekc1VldWak5yM1JVcHdaS1ZUdVY2NDFjbzYtZVVBVE5pTTkxMy1adTlVX2hYYVVDYlIxZC1MbVBKa1g?oc=5",
+          "publishedAt": "2026-08-26T19:50:12.000Z"
+        },
+        {
           "title": "US Army selects 5 companies to deploy microreactors at military installations - Utility Dive",
           "source": "Utility Dive",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPemNTUjBQRnlzeml2cjdaTXBrUGVIOVhQdlV3TnVfX2lzS0xydGt5OEE1b0p1RWNJTlNTVXBGZkRkZkQtSEc1NEZtMk1RSXdIdEt0bDdQbmxZM0xkenVESjFqTkRfZVNyVGhRVW84aV9TWFFOOXZRUkdtZG45aTM4clpEMDJ5MkpnNjJ2U2VmRzlhby00REt5bFIwQmdzclVXc1NGUzk2QUlBd1JyM3RLdWszY24wYXc?oc=5",
           "publishedAt": "2026-08-27T17:11:07.000Z"
         },
         {
-          "title": "Army reaches agreement with private industry for nuclear micro-reactors - army.mil",
-          "source": "army.mil",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnFaNzRVS1o1XzhKa1BRRXdyZXpRMmFyeXdiclVlV2h1YUtoSjBFUTZ2QTZ6ejY0Ti1lLTkySnIycVBYU1RnWWJEQjQ5ZWMyaGZvT3VMaEwwbjB4VU9pcEdqdjlNX2p0NkFEcGFmZE9paTBGQTFHY3h0cnNxN0x5dTh4UEd6Zno1aXkyRjZpbmQxMWpZc2YzaC03Ti1xMzdJZDlpaWdsRkwxRE3SAbABQVVfeXFMTmdZbGhnUGktYUd2VkcyNXE3Mm5rZE1WN2tQQ21UMTA3T3ZnN3BtaDZPZ1lST3VxRkl0MmdVYjZwODV4TkYzNWFNUFc2NFpNcUVTZ0pSTktSbEM0aXY0TE9yQmMyd2cyUk5KYkVLNzdJOXU2MGJtekc1VldWak5yM1JVcHdaS1ZUdVY2NDFjbzYtZVVBVE5pTTkxMy1adTlVX2hYYVVDYlIxZC1MbVBKa1g?oc=5",
-          "publishedAt": "2026-08-26T22:56:04.000Z"
+          "title": "A US military laser weapon is taking out cartel-linked drones at the southern border. It defeated 3 this week. - Business Insider",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWZPTVZOZURHLTE4UTFod3NsVTZpcWhBQVJENlQxLVZaOGRxMWNZNTRVa0lPM2lHSk1QcTZMMFFkNDRrQkhiSUF4XzR0RmRjX3c0LUxNUUlBOEpiemxSMVZmRG5oSFItdG95MjdMdnUwelJmRUZsWE00cEtqRFc4Mk5TQ0lxRU1BY0E?oc=5",
+          "publishedAt": "2026-08-28T13:44:42.000Z"
         },
         {
-          "title": "News - Protecting the force, Army MP Corps to celebrate 85 years during regimental week - DVIDS",
+          "title": "U.S. Army Soldier finds connection with Estonian community during independence celebration - DVIDS",
           "source": "DVIDS",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0VLUnZXcHZSRkNKXzFHQmFzZ2toSGlRaWFLUEtwNUxRZ3U2WkJ1YUNTZThpVjU2X1BvaE9Ba2p2bjBWX2hoZU5Hanoyd3ctdzlBakF2MjRaZkxqdFhHcndleFZqMnlHOS05UWtBWHhxZlRtUzdZLWR5TGtXVU81bVRaeUMyTnVYZ09udkdkZnM0azVuZVJ2a0JuZC1fQ3JYcjNPenhaWWlhenBkX1E?oc=5",
-          "publishedAt": "2026-08-27T17:07:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzM3YVZST1lKaWdYOGFHS1dLZVktUkFiLTBSci0zamNUVFhROFRicGx0WVcwYWVEbFMxV21TZnRqeGswaDdnNjhwek93aVZabjhxS0FBQ2tJdXJSbHF2MlVtNzBubkRiU0JPWGhkUTFWTVhtek5mdERUZ19FSE1DMmo1cHZUMzRvRUFzc0lRZkhGb2dhQml2bC1falNqMXZuQWl0U3FRenM5dFlSM19ZN0V4Rk8zLWoxb0tjVmxIaUZjM0E?oc=5",
+          "publishedAt": "2026-08-27T10:09:00.000Z"
         },
         {
-          "title": "US Army plans nuclear microreactors at 5 military bases as part of $2.2B energy security push - Fox Business",
-          "source": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmlKZTQ2T0Etdk5MX2VGRGNfaHliTkFUUURnVzdReEJhTEluVll0dTU3NWNqXzZVQjV2MFE4ZmZUV0FVWnlhMXF4ZTZBU2I4U0JUYjk0QklITG9HXzVWa08wM2otRGlVRGdkYVltWjAyQVhXeEszendQV3NEbHZZQmhFVzBFMXA1cWM4eFRZdnNJeXVGZHdOYjNmc19aMjJ0LUxyX3ZWdzZkNTdaT1pycUFBd2o2WmxBenfSAb8BQVVfeXFMTzBiQUEwWlNVVklRaXlTU0xQVVZ6bEhucFNvR3JudFVVTTVWWmNvRGJmM0RJck9yc0VoOHNFRHctSFBXaldzQWNVNW4tb3VES2RZNlliNW1aQmxPN0w2dG1LQWxWeEhvcXhoQ0tYejVITTZ4Zzd6QWhEQVZUOEs4dDVqR2lweGlyd1hqV0ZrcS1CLTY5ZjVHX09adVVMdHA0Z2poWmRIdHRNNC01QWkzOHdPSTNyQVY2bnVCUWVUOEE?oc=5",
-          "publishedAt": "2026-08-27T03:59:00.000Z"
-        },
-        {
-          "title": "Army to build microreactors at 5 bases as U.S. seeks to ramp up nuclear power - PBS",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcFQ3cF9mMW5lUTJIa05PVzQxSjlJMGRvRThXNVFmNU10NTlIbzI3eGpMTlNPdERrb1ljMVV6Y3FyTFYtd2xjNExWY0pDdUYtUm52RjV2azFpRFJ2YkR3Y2p6Ym9IREthODl2RmN3bGMtUWRjUXFFV1dfUTlWNnVoYVRyM19uSFo2YUI5WVc0ZWJkVVNJczFTZkdwd1Z6UkJmbnBDUTBlcWttaW5QY1NIVjZn?oc=5",
-          "publishedAt": "2026-08-26T22:27:58.000Z"
+          "title": "U.S. Army announces Fort Campbell as site for nuclear microreactor - The Courier-Journal",
+          "source": "The Courier-Journal",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSkRHUkFJemVLMVdZcjRGY0JLOENvdUtrbnF6a1ZnLUd1eUpQbWoyNHY4NW50OWRIUEZTemplRjVCc2hUeUxpU3NhR3N0THluTElpcEZ4d19leExXZWZJS0JjY0doTGdHT1JKcWJuVVc1QUlQcTlVQVZIcWczMkxySDJub1NUNUNoZXFaLU9PbmlBSC1HMVRJR0V4VUtNYjUzbVA4VGZLU3JWVHBiaGVqRjhJclNpZWd6U3dkVS1jRUgwRlNuMHd5ZkgzZGZKUjVoQ3M3amszc3Z3VnFoZTBoOVZTVFdTWERndk1hcld3?oc=5",
+          "publishedAt": "2026-08-28T09:08:00.000Z"
         }
       ]
     },
@@ -132,19 +132,7 @@
           "title": "West Point Climate Professor Says He Was Fired for Refusing to ‘Defy Science’ - The New York Times",
           "source": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFVsZTVOTU1oTXpSUGMtbkxaUjRFbWhSZlQ5R1dXbjRwWlNpX3RfVkRrS01aRVhsQm91c280QXhQOVhuVG0tU25rTFhvY3N1S19DeWdURDg2a0NlYk03cF9SeGQ4QUJjOEllVzFtU29ySXBSbXRxYkFYMy1oaF9TYmdOWEZUTGxicW5NWUR5Rm5wZw?oc=5",
-          "publishedAt": "2026-08-26T23:03:57.000Z"
-        },
-        {
-          "title": "West Point professor fired after pushing back on limitations to teaching climate change, lawsuit says - stripes.com",
-          "source": "stripes.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFpZVjJzTUhuaFdHVmN4cXlhRGE3NVFISURLeXFHQmFnTTIxOVdhR2RUeElmMU01bFU2TUpZeU1LWm44RVo1QlF3NHlsYk82akdVb0d0a2NLU1lzempFZktNTnU5dDEyNVNUaG1pcUVpNnVkUmNfbVBRdW54ZGg3SmtaZmZ0VzVTV3BBT1l3d0dBaWRqbEtNNzBKZHlpMEw3V2JNekprWk5xRUFTbWpBSmhn?oc=5",
-          "publishedAt": "2026-08-25T23:09:20.000Z"
-        },
-        {
-          "title": "West Point Professor Fired for Refusing to Lie About Climate Change - The New Republic",
-          "source": "The New Republic",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHF0eHZHeC1LcDNOLUxvNGxRUkMtbkNVUGt1eDhHQlJiRDExY05vTEhHRVY1SlZPbjdZd3F6anpQemZQVkZlazNrNGE0QWM2Szhwd2FIR1BhMDlmUnFHbklxY1ptTWgyQl9zbTE4aW1LbVZuRENpVmRWNUpHTEVYcGtDbjdtc0JFT29STU5IMnVQR20z?oc=5",
-          "publishedAt": "2026-08-27T19:22:55.000Z"
+          "publishedAt": "2026-08-26T22:00:24.000Z"
         },
         {
           "title": "West Point’s only climate scientist fired after continuing to teach human causes of climate change - The Guardian",
@@ -153,10 +141,22 @@
           "publishedAt": "2026-08-27T19:08:00.000Z"
         },
         {
-          "title": "Trump demands ‘lies’ in West Point climate curriculum, professor claims in new lawsuit - the-independent.com",
-          "source": "the-independent.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZmJpeU04blk0OEVaelA1N0xlRnpVZ2lJX1F6cEVNZUszRXhYMzJLWFhfM0NKZEpLYTd6X29JbTRabU1WQlFlX0hGNFdzeHBnTV9ScU1CUVAzX1pMNzlvZXJ4Um1UNUN5NWdJNlpXcVd4NmNlelpBaFp2ZzVUNEZCNF9JaWhiS3JXQ3ZTVTU1c3hGZGtPbjk1dlo3ZFN1Y05VMncxOFl0OFZwSWdSSElvV2dIVnVPWWxGc2UwdS1uQQ?oc=5",
-          "publishedAt": "2026-08-26T12:10:00.000Z"
+          "title": "Steve Doocy tours the US Military Academy at West Point - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wdzhKRUJhY3V4cVdVVEtMNzJfWWtMTHpfMzJoeDVBS2RtZTlFZzA1d09UY2RIQ3hIblNGam84NkxTLXdfVXl6cUh0OERUVHNDaGtIMGFB?oc=5",
+          "publishedAt": "2026-08-28T15:20:41.000Z"
+        },
+        {
+          "title": "‘It’s Cool to Join the Military Again’ - Military.com",
+          "source": "Military.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHZURF9VUDhrWS1fajR4VHRRWjl6elotaTFpZV9pQ2RvZFMxS0Y2TjJJc2JxRGhIc2Y0a0JDRVZxM0pSMU1UZEkxcWRuMEU1QzhfeWlOUk1nZjlqSUdvdEl4b3dEZ1dTN0xoUWluM1hWZWZrQW5scXhZNFJGbk1wMWJueUNPVW9kZHZmVW9YYXFNdlZEdlI5TzBaU0o4dXotMzJiN1hNWQ?oc=5",
+          "publishedAt": "2026-08-28T06:00:13.000Z"
+        },
+        {
+          "title": "Trump eyes new Space Force service academy, on par with West Point and Naval Academy - MS NOW",
+          "source": "MS NOW",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanYtR21KcXl1bjlkYWowSzNnT1I4QmJRbWl4TDYtRjZqXzJKQ0h0STlTZmpSdTY4ck56QnRlQk5vQnlSbGdtVUJMdk1SYUlXei1TbkxBSnljYlpOc0hmTUhPRHgyV1NEWDYtZDdNdGRCNVcyOEZEOG1ZX0JWcHVuVFRJTnNOVnpEZHJvWDZRU3FZVTFrd0dpN190dGQxSmt2UFhka1RB?oc=5",
+          "publishedAt": "2026-08-28T18:10:58.000Z"
         }
       ]
     },
@@ -166,6 +166,12 @@
       "kicker": "Black Knights",
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "West Point center pumped for upcoming season as co-captain - Spectrum News",
+          "source": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWJ2MHE2cEJqZkRMY3AtWmlXT1BqZnhhY0tsbXhTWE52ZTJ4SnRNX0gzZHl3YXNUMUVORmV0VW5ZSEpNTy0tSTluOEVuY3RPeHNfOGdSb2VPM3hLQ0xrdTBDbnJnTHk0NVNTeDM2M0RyQWVpRlJpaEh4T2djMnZMZnZYbzc2Q280T0xHNVY5V2R0ZnN4SG9pMlN2WHZnclZIRzktRVpwQlBEUVNJMDZubU1pYVRNNUJkVkJn?oc=5",
+          "publishedAt": "2026-08-17T07:00:00.000Z"
+        },
         {
           "title": "USAA Named Preservation Partner of Army West Point Athletics - Learfield",
           "source": "Learfield",
@@ -189,12 +195,6 @@
           "source": "Naval Academy Athletics",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVm40TUtqLWpuVzlQV2JuaG9vekU5Qmk3SlhBYWlYMVJTZi1VYWdmb24zX0pSazhmQ3FrdzlMeEZLVlhvNGJNZi11Y3RSbTl4M0FDeWdHQmk3a0lacDY0MWk0Wmp2aEdzVDE2c1otVVh0OGcyVlZuSlJkZlAtckZtVmdSVTBKWUc5T20xeTdlMmpSTEp6bk9SYjluWkdpcmZqd3RSejVQcTFHb0phOWJjN0EzT2hfYzBOX3RiazZuQy1ucTN4?oc=5",
           "publishedAt": "2026-02-21T08:00:00.000Z"
-        },
-        {
-          "title": "Mountain Hawks Kick Off Stretch Run Sunday at Army West Point - Lehigh University Athletics - Lehigh University Athletics",
-          "source": "Lehigh University Athletics",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnl4b3JGcUpPbHYybWJnQ19ZdXhyTHhUSmJKSlgwTE40aDZwVlBCUzhXUmtDTGJiNmd0N0xBZ3VpQmRTdXlmT3EzVWVha1JIRU5LRGtBWGRaaF9GMzQzSUlXMFB0Nkx6V004ZVFYS2VOcXpHdGRFNThnbDRvLTNWZTVBNmRab25sTVJJSndGZHV5R3lmaHN2bWptYm5qSEhzOXg0V0xmbW5pX1drbElDUThyeUNfX0U?oc=5",
-          "publishedAt": "2026-01-30T08:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "The Steelers create $18 million in salary cap space by restructuring DK Metcalf's contract - Pittsburgh Post-Gazette",
-          "source": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWlGODB3WjNCTFhmU0hPLXZPMlR3c0J1ZFJQXzhiR0FLcjVmSEtTdVpqTzU2a3lJckR1cTQ0SENPRENGQkVBSFpPdWU0SVpITldLS2FxcWtrZFBxb0FVcHBYSHpQOTUzTE9HT3hjeHVyUlVhWU0xYkVNYVBTeFV0Zk91NGR5RTgyQUFIb2tvR3hIZGdYTGxtWDZuWG1VUTlTNGJQNG01d1BZUkNqbFgxWmQxamltM1U0b2c?oc=5",
-          "publishedAt": "2026-08-27T14:48:06.000Z"
+          "title": "Kozora: Pittsburgh Steelers 2026 53-Man Roster Prediction (Final Edition) - Steelers Depot",
+          "source": "Steelers Depot",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1lZaVFwb1pnNnNIRFRVM1pTYnNreXY0a21GWTFIV3lxMmhaUzBMUUpEdVJ1UmtRNkRUYVBWNXJKSUliVnJWVDVqVWtIbjFWM1g5X1BQZnRIOWhzTkl3Nk84Z1lpTDVaRUV3MlZWSDVRenR4THpHbW9adXpLQ1hfcWU3TmlDNXFVOERka3p5MFBmREY0LUFiX0tIQUtrNHM4WXpFbFlublk?oc=5",
+          "publishedAt": "2026-08-28T14:49:13.000Z"
         },
         {
-          "title": "What channel is Bills vs Steelers on tonight? Time, TV, streaming - Democrat and Chronicle",
-          "source": "Democrat and Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWUN5UlY2UVZkZ1VVMHJsZ2I0eXVveVJyWHNHX09YMld4aDhJSkxiNmJRYWlvRElwWVhFU192T1FCNnlLMkJjamZ5cDNlX0NvTFBra0FiQWlUR01zdkNUelMxemwyNkZvX3hVUEtNMEpTS2dQbW5yZDVqXzF3QU40VkpPb1JmemtmWnNXRkNYTTNmRU5hTHhSYnZnREVKSU5SNzIyMXhqQUhXR1RrLUh0dXI0VlFmM1RrTGM1d2IzakZNc1F3ZTVmT1NVbU5tRXg3VzF6NU54c1VGVGpMakRfTE5FZw?oc=5",
-          "publishedAt": "2026-08-27T07:00:00.000Z"
+          "title": "Steelers QB Decision Has Been Made - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbGRmYzVnRFdKZnQ5bEVaOFRVRnhjWXlkcmJqZ2g0WXNhdllpeDBycFBxN0V3VVh2WTlHdGFtVFFNaDJIZmlvWW84aWdNREFEZXpZTS12V1RiU0pOTUhoZW1XU3o1bHNhaGtfcG9PQzZFQnJ4YWJxeFdLb0tBdWNNUmNBTmFXRTBKVGc2RnRTLWU?oc=5",
+          "publishedAt": "2026-08-28T11:00:07.000Z"
         },
         {
-          "title": "How to watch Buffalo Bills-Pittsburgh Steelers NFL preseason game for free today - AL.com",
-          "source": "AL.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQODlheWpEN0U0VVJ5Ml80aHVjRkRoeHlfckhXa0hGX0FDbF91cVRrZE8xU1hDYzhKdHZmWXZObEJTRldWLUJLVEhNeWl4WjBHMDZCeWhlUkM3bWhOXzAxVU9tSHp6SVRhY1dFM2VWRjhlZkhIeGtjM1dYeXNMbTJtb2xCLTQwLXNmVUVaVnViNzc3cEFCRDBuZDNnQ2ZWNzZEMnZJVUpVZFZiZkZHaEU2QlJhbXBqUdIBygFBVV95cUxNZlppZERLSnZ0NGdJRTJZWURlVXdObkU5ZUhiSUNxMzFFa0lGS0MwVVhkYXhLcTRVbTlzTUxFellMb1RSSXRkSEVKRWV2OXBVUFpMX240MVhZb2ZYS2QzQm5CMDNPWno5T2FYV2dhcTFzY3hvUkpQOWxScmFmTExIRFZYV01pNUd3WUF5ZEc3eGNCdS1MQktUSlhlOXQ1R05mckZrczdJdWlFMnpZdW51U1duclFKRFVyX2xMamVPMG9HVnNCLVMyN0JB?oc=5",
-          "publishedAt": "2026-08-27T18:00:00.000Z"
+          "title": "McCarthy says all four Steelers quarterbacks have earned spots - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmh4TnRMVGdONXpTVzBmUThjVlFkRFZab0VHdGZtclQ0Mzg2WjZzYXhYeEpoUFN5bU5xcjFtQXJiakhjNVF5RVVmODJjSHFiT2poWU40NlFndU91bnBQWUtvbGIzR1FTLWxpT2FCNUNQQ0FtVmtlZTNVTXJpNDVQRm1xNFhBeGJ2STBqY3l4N3phLXF2XzlPeFZOM21EVWh3SUxlTQ?oc=5",
+          "publishedAt": "2026-08-28T04:03:00.000Z"
         },
         {
-          "title": "How to watch tonight's Pittsburgh Steelers vs. Buffalo Bills game in Week 3 of the NFL preseason schedule - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGpDRTdTTnkxTHFPWFVzVUk5c2VlWVdrSVlOdFZPRTFLY3Rpc19KX2xuNVJxR3BfZEdhdnVYUkxYMzBxaXV2eVhCV295U0piM0xod3Z4X3FJM2dLamhsSzlmODJCcEtaWWZsUzNBU09La2RWVzdIN2ZtZGtCYkdqdnRHTGtKbUNHdzdGYmNHNGMtNFZLUENxNkdMLWRYdy1GLXhMTF84YnZvaTBOR092MTFFc2F4bkU?oc=5",
-          "publishedAt": "2026-08-27T11:00:18.000Z"
+          "title": "Steelers edged by Bills, 28-27, in preseason finale - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSDdKSDFFaFZzQlM5eVlzeDh4LWtBakNWWjdVQ0VyQl8tdVUyM3d1dUFEU3h4bWZfZXR0TnhLWnVTUUk2ZkNPeGV3Yjl5Y01yeU5nbHBWX0FOQ2d3MEE2RE5pMFVyUTVqMWtndGNjY3VNekhVSVh1ZUFkYnU0TXNTbWlFcUZydw?oc=5",
+          "publishedAt": "2026-08-28T03:36:10.000Z"
         },
         {
-          "title": "Green Bay Packers scoop up former Pittsburgh Steelers tight end - PennLive.com",
-          "source": "PennLive.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalREM3kwVDc0bTlzRU5ESnVlellDd1N6Y0xMb3VKQmpvSUt0M3dGOG1EeF9yVTMtZ0RtSl9tUzBBeXBIbDlwVFVRbU1kTjdIRHJNQjVqN1VveFV2ZVN2WnZDenYyYlhYQVhRamNBR0YxdTByWFgtaWZ1TVZIT0tVN0E2SUJLT3Jud3JkeHJYWFF5SHFNRkxiTW9WRGE5T2RuMi1CQUlldlVjVlZKWk5r0gHDAUFVX3lxTFBYYnB5clRGZnRpYkZnRTRQTms3cWh5MlRyWFFZazRVTnJCdXdwZmNNM25LNDBhTTVnekVzWGtPb0hCbTFBRURpX2dMNWJxZzRkVXZ2ckV0VUgyRjZhanlydEpqNHpOSktRSkNOS3o0TUVWNWFLZnlZaFNwb1NwbWRKWG16eTlVLVRtXzlBaWZCS0w3YzJNVjFoVG9tS3FzMFcyN1lJVkhwN3QtcFIweDh6U0ZsS3FiOTQxX09qTWl2eFVSSQ?oc=5",
-          "publishedAt": "2026-08-27T20:15:00.000Z"
+          "title": "Can't-Miss Play: Punt-return TD! Kaden Wetjen reverses his field on 45-yard score - NFL.com",
+          "source": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXhwTE9DRXhYRlJ5bks2VUlkZHFNdlVlYmZ1RGlTb0xodXVmeERfQzFYNTRMSDdIUFd4NzVVTlpSVVlObEt4M0dqUENSblJzdFlPZkpXU0hqLUtZakxpQjVObEswYUlrQ0ZYTjdEVjlxNUswbkJSU2Fma1A3S0pWaDFiaWgwbjY1?oc=5",
+          "publishedAt": "2026-08-28T01:48:45.000Z"
         }
       ]
     },
@@ -243,10 +243,10 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Country music star Riley Green keeps cooking with new single 'That's Just Me' from upcoming album | OutKick - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXRtNmZvdVlTcUphMW1RZ05FOVhWLS1WdkMzN0gzY1lMc21RUjcxUldEd25IQUJ5Zl93TnFvTjR3azRQTVpuVDVoaGxBdnVDNEVrUmRGeUhTd1RKRWxEb2ZYQTEyX2JUaUdDME45SHNuYkZBNnJWTXIzYmdoTUs4QXJjbzJNVExLN2ZBOTEzNjVZcHBJNU1iWmYxTWdnbmhNT3MtUmtjSF85bGJ2R2xXSDBfaTNBSFE3QVE?oc=5",
-          "publishedAt": "2026-08-27T14:28:59.000Z"
+          "title": "Country Artist Colby Lee Swift Releases New Music with 'Wish It Was You' - EIN News",
+          "source": "EIN News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmJsajFUYWJNZVRLX0dERmlQcnNvdFhwbjRQX05PRlhmNlk2U1Z3ajdjN3hxMXN3d2JGRVg4N3M5X0NUdHZGbVJBa0s3LVZMS00yQTJnbXBXWVpWX014X1g3eGVCWnJYUDU5RzF2RkVnRm1qWG4xV3B4RU12YkV3WEtfUFJlWDRFTWhyOUg4NzU4Z09qV1RfNV9VQXRpQnZxYjIzTzlqZlo4Q0tkNGljME5R?oc=5",
+          "publishedAt": "2026-08-28T15:27:00.000Z"
         },
         {
           "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
@@ -255,16 +255,16 @@
           "publishedAt": "2026-08-24T17:26:00.000Z"
         },
         {
-          "title": "Brad Paisley digitally releases \"Tacklebox – Disc 1\" - Big Country News |",
+          "title": "The War & Treaty to release ‘Country Baptism’ EP, embark on fall tour - Big Country News |",
           "source": "Big Country News |",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1JKSlpiZ2tRX0VXMjhPTV85QUJjMUI0VTR4cEFsaGhBVDlIWGw5VE9lelRJUmJFS2g3RnA1eHNZTGhlMG54MVpKVHBVRE1vS1Y0N2dOV2dFd0EtY1BlY25na2hfSTFOcWhDbWVCSW1XdnAycjNDOWpwX2J1eEhybnBIUUp5WFF5cmNkcDhfaVpBdWth?oc=5",
-          "publishedAt": "2026-08-27T09:57:17.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd2lpTl9CazZCUXlyYm9WMWFmUWNzNFlXRGRhdmpocmdkU0V3VHROT2dveXczWDBsV1ozRGJHOUZSRUhBRjBSLWkwb1ZDSnlwZzVJZXJyM0ViOWc3MldhQkhqZ0lSY2hjcUtmR0piS0ZGQ3NlNlRPTFczZEFPeFJ5NV8xM1l0R3ktLWhrQ1pXVW5VdUh4VDZlUEw2SlUtampRWVlEbUJvQmdpdw?oc=5",
+          "publishedAt": "2026-08-28T11:03:35.000Z"
         },
         {
-          "title": "Dolly Parton revealed a plan for new music to be released posthumously 6 years before her death - Entertainment Weekly",
-          "source": "Entertainment Weekly",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1NvSDk4cUdWVnI1MHZ4bERIZmpKLXRMZ0ZQdkg2a0tBSFRJRjVQZG1JZ3ZhMllDTzRMUE1raXNXTDNoaDdwNlZYdkxYSUZENjRIM2NrZ3pVeEVONFFweWppYkhfanBGTlVNX1J2NVBGdnBOdjl5aGdxMGhBbHNGMUJpdTFHVnczZHNoZGpNV3c?oc=5",
-          "publishedAt": "2026-08-25T21:51:43.000Z"
+          "title": "Country music star Riley Green keeps cooking with new single 'That's Just Me' from upcoming album | OutKick - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXRtNmZvdVlTcUphMW1RZ05FOVhWLS1WdkMzN0gzY1lMc21RUjcxUldEd25IQUJ5Zl93TnFvTjR3azRQTVpuVDVoaGxBdnVDNEVrUmRGeUhTd1RKRWxEb2ZYQTEyX2JUaUdDME45SHNuYkZBNnJWTXIzYmdoTUs4QXJjbzJNVExLN2ZBOTEzNjVZcHBJNU1iWmYxTWdnbmhNT3MtUmtjSF85bGJ2R2xXSDBfaTNBSFE3QVE?oc=5",
+          "publishedAt": "2026-08-27T14:28:59.000Z"
         },
         {
           "title": "Release Radar, Most Anticipated New Albums for 2nd Half of 2026 - - Saving Country Music",
