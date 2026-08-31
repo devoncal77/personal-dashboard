@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-30T14:52:40.625Z",
+  "generatedAt": "2026-08-31T17:38:02.847Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$769.35",
-      "change": "-1.75 (-0.23%)",
+      "price": "$765.70",
+      "change": "-3.65 (-0.47%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$535.06",
-      "change": "-0.16 (-0.03%)",
+      "price": "$531.57",
+      "change": "-3.49 (-0.65%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$716.43",
-      "change": "-4.68 (-0.65%)",
+      "price": "$714.49",
+      "change": "-1.94 (-0.27%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$319.70",
-      "change": "+5.12 (+1.63%)",
+      "price": "$314.00",
+      "change": "-5.70 (-1.78%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$513.53",
-      "change": "+8.47 (+1.68%)",
+      "price": "$510.45",
+      "change": "-3.08 (-0.60%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$348.75",
-      "change": "-6.06 (-1.71%)",
+      "price": "$366.74",
+      "change": "+17.99 (+5.16%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Canada claps back at Trump&apos;s efforts to rename Lake Ontario as &apos;Lake America&apos;",
+          "title": "Paperwork, lines, hours on hold: There&apos;s a &apos;Time Tax&apos; on Americans who need help most",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-          "publishedAt": "2026-08-30T14:36:44.000Z"
+          "url": "https://www.npr.org/2026/08/31/nx-s1-5946449/time-tax-annie-lowrey-government-assistance-unemployment",
+          "publishedAt": "2026-08-31T17:06:39.000Z"
         },
         {
-          "title": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
+          "title": "Lionel Messi says he&apos;s retiring from playing internationally for Argentina",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
-          "publishedAt": "2026-08-30T12:45:00.000Z"
+          "url": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
+          "publishedAt": "2026-08-31T16:37:05.000Z"
         },
         {
-          "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
+          "title": "Nepal&apos;s hesitance to accept foreign help for flood relief comes under scrutiny",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
-          "publishedAt": "2026-08-30T11:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood",
+          "publishedAt": "2026-08-31T11:50:17.000Z"
         },
         {
-          "title": "NASA has successfully launched its newest space telescope",
+          "title": "U.S., Venezuela strike oil deal. And, the staggering hidden toll of U.S. heat deaths",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
-          "publishedAt": "2026-08-30T10:30:00.000Z"
+          "url": "https://www.npr.org/2026/08/31/g-s1-141187/up-first-newsletter-venezuela-oil-iran-war-house-government-funding-grand-canyon-flash-flooding",
+          "publishedAt": "2026-08-31T11:20:15.000Z"
         },
         {
-          "title": "How a comic book store got swept into the tariff storm",
+          "title": "Russia&apos;s jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/30/nx-s1-5939521/tariff-refunds-canada-trade-war",
-          "publishedAt": "2026-08-30T10:00:00.000Z"
+          "url": "https://www.npr.org/2026/08/31/g-s1-141181/russia-ukraine-war",
+          "publishedAt": "2026-08-31T10:24:25.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "US Army selects 5 companies to deploy microreactors at military installations - Utility Dive",
-          "source": "Utility Dive",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPemNTUjBQRnlzeml2cjdaTXBrUGVIOVhQdlV3TnVfX2lzS0xydGt5OEE1b0p1RWNJTlNTVXBGZkRkZkQtSEc1NEZtMk1RSXdIdEt0bDdQbmxZM0xkenVESjFqTkRfZVNyVGhRVW84aV9TWFFOOXZRUkdtZG45aTM4clpEMDJ5MkpnNjJ2U2VmRzlhby00REt5bFIwQmdzclVXc1NGUzk2QUlBd1JyM3RLdWszY24wYXc?oc=5",
-          "publishedAt": "2026-08-27T17:11:07.000Z"
+          "title": "U.S. Military Commanders Warn of Attrition in Iran War - IranWire",
+          "source": "IranWire",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDBFNUI5QnJhelFXMm4xT0pabEU4X0l6RHRQVkZIY19SUkJZRGo1TXp0Y2tILVdieGRPUDgzQnJ6ZHdJY2VyQnlvR0V6Wk9SNEMtcl9kYTNsTlQ5SW45RFFNTVFkNGwybXpUamZvWUczdnNzb01wRmZnVVlKOHhCZ0lsaHVkdXJuUlIxc1dndmx5dkk?oc=5",
+          "publishedAt": "2026-08-31T10:28:46.000Z"
         },
         {
-          "title": "Army to spend $2B to build nuclear microreactors at 5 bases as US seeks to ramp up nuclear power - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmxyUjRfbm1fVnlwUXRhS0xnMFJadlV4RTgxTnRiSHpvMnM1OTdlUU1mcEtRaXVPVkNpd0o5S0wwYWY5VmZ3U3QzYnFzOFRmVmIzd0hFVXEwQWd5MjhiS1ZOUlN4YzgxR0JZcjN3TVE4d0piY1M2YmNrcHFudF9fSktKQWtCMDhlalgtNWhSQkN5WDU1WDN30gGcAUFVX3lxTE80WHlpQjNxM2Q2bk45YlJfU19rc3R1UlFXNmtlcmhxRldwOU9BdGlISGoyVTE1NmV2ZF9ZenhKY3lWU0tZMTZVS1I5czU4bVFyOGtEbXk0Qk90RGlVSkxZVXd4QXlZV3lHZlNxekpKWHphSnlvN0toV1F3U3U4Tm4zdllOWHpoOHVuNVZEeUN4LWZZZnY2YlI1V3d6Wg?oc=5",
-          "publishedAt": "2026-08-27T01:38:19.000Z"
+          "title": "Cape Girardeau native featured in new U.S. Army campaign - kbsi23.com",
+          "source": "kbsi23.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbENyTWotdTZ0d2RUSEU4djVOTncwaW9pMm95OExWa3pZRFp1UEVZU3pxOXFoMHNGdktOZTAtYU5wLXAtTC1NU1lTTUxRS0R6My1GSEtzOENrVVJYa2pwdENSMDl3czNFczJBQ05qQ2VkWGI5RVZlbzRjQkhiemREbXd2WmJMWEFYeDItdg?oc=5",
+          "publishedAt": "2026-08-31T16:32:03.000Z"
         },
         {
-          "title": "Hegseth Blocks Promotions of Four Army Officers as Purge Widens - The New York Times",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU0JYYXA1cGtCWWJjQkFEN2pwRDlhN3V6S1JJM0Vfc0YtdzhXWnI3b0tTRExRc0JISmY2YlNqb25NNkE3TU50a2lkUGdwWGI5UXhHUDFKTF96SGlseDZUWWw3UTNUT2xTUHp0cEtEOHlMM2pqYlZRZEl2QzI4cEM5T1dXUEYwQlJMREE?oc=5",
-          "publishedAt": "2026-08-28T21:16:03.000Z"
+          "title": "Military leaders warn Hegseth against extending Iran war operations - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelBwdjExMnFiT0Q4TTJNdXIzTmN1WWFCSEZtdHhjbkFRYkhRc0o4U3ViX3pVSmQ5c0JBRkd3UXZwNFE1T0lLWUFPTXpWaW5JNDFEbC1fM3ZNczEwOHVudFZMUVNRbHJkWEFRWHA2Z203R05FbE5FOVVXLW9mUzFkRjI3TlIzNWM2eEhNWENjOTlNTmM2NVVKdGNFaDhITEFMeThNVnc0SXN1N3B0cUFNNlZrWWhkbjVnSTV6ckVPUUk1dGd2NHlr?oc=5",
+          "publishedAt": "2026-08-31T00:27:06.000Z"
         },
         {
-          "title": "Colorado family looking for answers after military helicopter crashes near their property - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVFfR3Z4RnEtVkhqc29ONng2R3NOb2RUb2NGWlRnYVRWQW5NdXU3dGd6Nnh1QmVnQXlpQ2FOZ056YnY2bXY2ZEhXd2tlVDBxRUhyMDFvVmFCWTBHYms1cDVOS0hNalM0cThGZ1RXUk1BbW9VU0J4UU1Kai1RT2UwOHpidTAxRkxwVG9UekVZZE1uMDEycDFfV3JsTFA?oc=5",
-          "publishedAt": "2026-08-29T21:44:00.000Z"
+          "title": "U.S. Army To Spend $2.2B On Nuclear Microreactors At Military Bases - Crude Oil Prices Today | OilPrice.com",
+          "source": "Crude Oil Prices Today | OilPrice.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQlpxcnpIOThuT3MxMmVNMElYdE9WcnoxWFRKbDBNd0lCNVE5Ql9BeUE1cE5tTGlOVF9FR3h5ZHZKVUIwNzR5RTAwWjhZS3d3dk1LRzhScnE5em02MXRyYUIzNmVjLTRlcG56dUZjTWlnOHNCVVdRSHJCRER4ZVlkSDBINU9qTG5pOVFtTVZpZFlTY2lNSS1yMjR3eVBxZzg5ZEMxNVNOLU1ib1RWZXh1dzQ4X0M3NFRFS3dpeGJvQdIBxAFBVV95cUxPd0dkUU8wZGxBNFpaTFZudnJHbnhrdWJCMlFrZ0xOVExPaGVYelJGNFJMaDJmRzJkYUZ5X2wwMURCcXJzeGJLcE1jakp4VW4yQl9XN1U2RWdLVzlVZ1NScWNiZnJiODE0UlRxWm9STHhoaW1HSVRFaGE4RDNJM19IeUt4UUZFVE8ycjdJcDNTaFl6VU1LMFRZbUZ4ck1JWjEyUU5CcmlPVU5wbjZiOEZkNV94SmdrSWYwR092cWxFXzFjM2g3?oc=5",
+          "publishedAt": "2026-08-30T23:00:00.000Z"
         },
         {
-          "title": "US Army to build nuclear microreactors at 5 military bases - FOX 5 DC",
-          "source": "FOX 5 DC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnBwbU1VWkw3SU1Zd0NHU2YxS1AyTlNnVlFFVzEybzZGd3pYNTdoYkZZeVVFOTBkUXpfQmE1RVdjOE5SUUFSei1kRFFmZDBENGVJaWVTVjgxSzg3U0E2VkljelVXcjJEakFzZFo4MXIzSUkwZ2w4eWdsZGV4RVA2VWFtTGJKcFk?oc=5",
-          "publishedAt": "2026-08-27T20:24:56.000Z"
+          "title": "Army extends 82nd Airborne Division’s Middle East deployment to a full year - Task & Purpose",
+          "source": "Task & Purpose",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42b1lJMWpQRWRzQWQ1RXBOOW5sc01ZMkVaVl93UTVGZG5nQ1A2bUtncHR5eUdOZ3p1djdxSldBbThuSFQyalYxb2FtaE9QV2U3ekUzQW9VSGV5V1FMV0FPVWdDVlYzTmx5cU4taXUwZHVtSUd6RmVYOE9DNA?oc=5",
+          "publishedAt": "2026-08-30T21:40:03.000Z"
         }
       ]
     },
@@ -135,28 +135,28 @@
           "publishedAt": "2026-08-27T19:08:00.000Z"
         },
         {
-          "title": "Steve Doocy tours the US Military Academy at West Point - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wdzhKRUJhY3V4cVdVVEtMNzJfWWtMTHpfMzJoeDVBS2RtZTlFZzA1d09UY2RIQ3hIblNGam84NkxTLXdfVXl6cUh0OERUVHNDaGtIMGFB?oc=5",
-          "publishedAt": "2026-08-28T15:20:41.000Z"
-        },
-        {
           "title": "A West Point for Space? Trump Calls for New Academy to Train Space Personnel - WSJ",
           "source": "WSJ",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDZwRzY2bnN0WUt4enk0ZTBUVTYtSXZmRm52c3ROMHJtT3QzeElnajB5cFNDRC1QWFRxTXBsSzdOQjVBVFVObmhMTWpsY0VyNkZvZDR4NVBMYWZxUi1JS3JiRVlNcUtuSHhWTkoxTmNHc3RqTEFWVHdzNjlyTnNGNjdFd21OWE9WVVUwNkJwaXdleHBVczBsWk8tTnZ6NExaV1NhQ3hYRHEzTVdtYWk2M3J3T1dST1BWbnZTWjZreDZRRkdZVDNEOUJkbw?oc=5",
           "publishedAt": "2026-08-28T19:41:00.000Z"
         },
         {
-          "title": "‘It’s Cool to Join the Military Again’ - Military.com",
-          "source": "Military.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHZURF9VUDhrWS1fajR4VHRRWjl6elotaTFpZV9pQ2RvZFMxS0Y2TjJJc2JxRGhIc2Y0a0JDRVZxM0pSMU1UZEkxcWRuMEU1QzhfeWlOUk1nZjlqSUdvdEl4b3dEZ1dTN0xoUWluM1hWZWZrQW5scXhZNFJGbk1wMWJueUNPVW9kZHZmVW9YYXFNdlZEdlI5TzBaU0o4dXotMzJiN1hNWQ?oc=5",
-          "publishedAt": "2026-08-28T06:00:13.000Z"
+          "title": "Steve Doocy tours the US Military Academy at West Point - foxnews.com",
+          "source": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wdzhKRUJhY3V4cVdVVEtMNzJfWWtMTHpfMzJoeDVBS2RtZTlFZzA1d09UY2RIQ3hIblNGam84NkxTLXdfVXl6cUh0OERUVHNDaGtIMGFB?oc=5",
+          "publishedAt": "2026-08-28T15:20:41.000Z"
         },
         {
           "title": "West Point ordered professors not to teach human causes of climate change, lawsuit says - Military Times",
           "source": "Military Times",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQclEzOWRPMDVEU1Y0ZDlHRkw2NWNPeUlEcEpuc3MtT3c4R0VTOUZrTTBFWnBoOWRKbi1GVnhQSURZYUJ3Mi0wdFljcHViWWUtdnNnTGhTSFhsRGNUeXdDdEVodk9QaVY0M1hydHVDRmNlZ0QwMGhTaG9lR1pJRk81dkVUYS1WUm1kclNnUDRnSHR2X19wYlJuN1FjLWFQWG9YRFRYUm54dE1lQWtzalUtakp0bzlmaTRoTHc2dTRPejF6dUR3Q2N1TWpWcXVhb05aaHZiZEtfWmhPbk1ZbTlHTQ?oc=5",
           "publishedAt": "2026-08-28T15:12:59.000Z"
+        },
+        {
+          "title": "Trump eyes new Space Force service academy, on par with West Point and Naval Academy - MS NOW",
+          "source": "MS NOW",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanYtR21KcXl1bjlkYWowSzNnT1I4QmJRbWl4TDYtRjZqXzJKQ0h0STlTZmpSdTY4ck56QnRlQk5vQnlSbGdtVUJMdk1SYUlXei1TbkxBSnljYlpOc0hmTUhPRHgyV1NEWDYtZDdNdGRCNVcyOEZEOG1ZX0JWcHVuVFRJTnNOVnpEZHJvWDZRU3FZVTFrd0dpN190dGQxSmt2UFhka1RB?oc=5",
+          "publishedAt": "2026-08-28T18:10:58.000Z"
         }
       ]
     },
@@ -167,10 +167,10 @@
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "West Point center pumped for upcoming season as co-captain - Spectrum News NY1",
-          "source": "Spectrum News NY1",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWJ2MHE2cEJqZkRMY3AtWmlXT1BqZnhhY0tsbXhTWE52ZTJ4SnRNX0gzZHl3YXNUMUVORmV0VW5ZSEpNTy0tSTluOEVuY3RPeHNfOGdSb2VPM3hLQ0xrdTBDbnJnTHk0NVNTeDM2M0RyQWVpRlJpaEh4T2djMnZMZnZYbzc2Q280T0xHNVY5V2R0ZnN4SG9pMlN2WHZnclZIRzktRVpwQlBEUVNJMDZubU1pYVRNNUJkVkJn?oc=5",
-          "publishedAt": "2026-08-17T07:00:00.000Z"
+          "title": "Army's Nnadozie looking forward to leading Black Knights - Spectrum News",
+          "source": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTJoQl9nNmx3QTNfTFlRNGlNVG9aM0NXOGZrTkp0N0VVMUx3bHVjd2w2NnctLWpJRVFVRWFOaEM2aF9mclhKTFFzUDNlalNxVVpTQVZBZF84aXZNeUJZTHE1cTkwaDJOYmhGNTlhUFJwOS1paGFYOGFuYThpUVkxV1JBOHZocWFEa3Z5NlhCbFkyX2FFRlp3T1FB?oc=5",
+          "publishedAt": "2026-08-31T16:57:00.000Z"
         },
         {
           "title": "USAA Named Preservation Partner of Army West Point Athletics - Learfield",
@@ -191,10 +191,10 @@
           "publishedAt": "2026-07-02T07:00:00.000Z"
         },
         {
-          "title": "Navy Women’s Basketball Comes from Behind and Sings Second at Army - Naval Academy Athletics",
-          "source": "Naval Academy Athletics",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVm40TUtqLWpuVzlQV2JuaG9vekU5Qmk3SlhBYWlYMVJTZi1VYWdmb24zX0pSazhmQ3FrdzlMeEZLVlhvNGJNZi11Y3RSbTl4M0FDeWdHQmk3a0lacDY0MWk0Wmp2aEdzVDE2c1otVVh0OGcyVlZuSlJkZlAtckZtVmdSVTBKWUc5T20xeTdlMmpSTEp6bk9SYjluWkdpcmZqd3RSejVQcTFHb0phOWJjN0EzT2hfYzBOX3RiazZuQy1ucTN4?oc=5",
-          "publishedAt": "2026-02-21T08:00:00.000Z"
+          "title": "Army football has nine preseason all-star nods by Athlon Sports Magazine - Times Herald-Record",
+          "source": "Times Herald-Record",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTUlMQTN1Nmh3akVWYTZhdWdkTjYwbUFaQ19QZmlNN3l5WXNFUzV2cXhQeWpjR21KV0tKNWpjSkhKamJhaDU4MEdhOGRuTVJhNFdLZ19IT2NGbHhRY0FxTEtmSmxxTzEwR3JaeDJiQUl3Z3Y2YXo5aFg2YTdWRURyeENPRGxqV0FzVmFyYzd4T2lFdDZkX3VuS0ZIT2NmTjJmcmU0Vk5QT1dkY2d2WlhOaWd3ZV9HMGdMQUwyRWY0S21GSWtIT1p4ckhTYXFDZkFQdW5DZkctT04wX3EwMnk5UmRR?oc=5",
+          "publishedAt": "2026-07-01T07:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Pittsburgh Steelers 2026 Roster Cutdown Tracker (Updating) - Steelers Depot",
+          "title": "Steelers make moves to get to initial 2026 53-man roster - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWFwby1XbzBYeTBpVUU5Y040aTkyMWxlZDd3d2V5cHJGRXV2c1BlNHZiSDhvc3ZPbEdvY2xXbXRKZVZSel9VUm1wTDVPM19kZ05raEt4OHByLUJjdmQzLXFGY3VSYUlKUnhVOVR6TXJwamhDQnFzMDktUnhFZkQtM1BpT2dKSWgzeGhmUjUxMA?oc=5",
+          "publishedAt": "2026-08-30T22:15:37.000Z"
+        },
+        {
+          "title": "2026 Pittsburgh Steelers Practice Squad Tracker (Updating) - Steelers Depot",
           "source": "Steelers Depot",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOREFQTm5LeDNBdXdOcFlKbGxqNUFWZW81Rjl3Q0M2Y01GTkxHV0pDVjdEUHBFbzhQN0JPRDRLX0swTk9DaUhmRXNIdndNbG9JR0dMWXl2a1RDanhHei1QOXVTMm95OXZxNjdGM1Y4TkF0dk1FeVRDWmpYd2M4ZEZibU9ELVFfdjZCNTBjMzVkZ3gzTWwxVmc?oc=5",
-          "publishedAt": "2026-08-30T05:04:47.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHRiaWZsZ1FxRmhHQ1gxd28tWmNWX3hDdkg2QVhoeU05NGF6TlJZRC1IbmtRT3lMbzUxbUYxY0laOXQzbE1yak5hbzlvOUVIck4xd2ZIcWYtaThfRXIyd09xUWtub3ZRLWtaZ0NmZmJzd21ySFV1SHNpcktCTTNYb2Y5N3JoMC0zaGhUZjJHcTVxUzl4UWc?oc=5",
+          "publishedAt": "2026-08-31T16:49:48.000Z"
         },
         {
-          "title": "Pittsburgh Steelers release LB Elandon Roberts - Behind the Steel Curtain",
-          "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTU9sR1VCWURibmdpNnZ2UEhoaUVfRUFxNHh6OHZiLWFlZlNBQWdrbExqSHN1ZnhNX2FDQXhsOXdvR2pWeHhobTdnQzNtUkg3aVRfeTlnZ1NYaTNXZXFmOTE5amVVbmV4ZmYtYm12WHlLMWdYWkt0MjJuMFFhZDQ3dm5nd09MaV9lV3FucnNsWURob3EzZ0U1UnUxZEItOF9fQWVoS0NhSTQxZ20yVGc?oc=5",
-          "publishedAt": "2026-08-30T13:49:04.000Z"
+          "title": "Packers are trading for Pittsburgh Steelers running back Kaleb Johnson - Packers News",
+          "source": "Packers News",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMjFnbnAxVHlUMGE4RW1zdzZPbUlQeDVpcXdOdW53WWhpMi1xWmJ2d2lkUXRBekRrczNBZGdDbWQzTUxMS2dMNHVkZUp2NkNsYVNUVEhOVW42dGhBU2lCRTlhSlhuWmZsNmt1a18wZWxydGtsaU5ObkpGRVpEVGlYR1RTUDIzdzEzOU9BVHQzTVdzZW45QnBRRkpjZi01eVRGek84R1paNE5Hci1weVpCWFNLTEVlMnhiNW1HZU93RTk0c2JBUDVKeTRxYkdocWpOdkNxVFAzME5JMnF6eTRhWg?oc=5",
+          "publishedAt": "2026-08-30T19:01:00.000Z"
         },
         {
-          "title": "Steelers Make First Surprising Cut, Releasing Elandon Roberts - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkZUclh6VTducXZhUzBrSDFzY1dvTnpQUlVMYmpmeEQ3cGlkalk5YlRPTzFCUU1jdC1yMUU1WVRaWmltUmpMWVkxQ1VUZzBuWnc0MzdJVWNOeE1TZjNoaHNmeEN6ektxbjNaRWExTXJXYXVtUklTWWE1RkczWFljOVhRSW9FLTR6S2o1Ny1DXzFnMnpzVXNjQQ?oc=5",
-          "publishedAt": "2026-08-30T13:39:49.000Z"
-        },
-        {
-          "title": "Report: Steelers trade former first-round draft pick - WKBN.com",
+          "title": "Steelers trade running back to Green Bay - WKBN.com",
           "source": "WKBN.com",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaV9GOFY5QmtRd0Q3NGtLTGwtT2o3VzZKd0R5dkRaOUhZNWMwVTg5ZzMtWkFaNGRUb3VWSTJrQVJaS0FLSmd4TlVla3pGV0RFb0xpYjlaNk9NN1NtQXVxUkxsTG94RUdaTklhVnNiclhyNGFpN2RKYWprdkJPVGljREVFOTVjY2ZDQnFfb2luSXhfWEduOVVWRVhVNzVWbW5wbkHSAacBQVVfeXFMT3pDdWtFV0tpZGFfZC0yYWx0dkJNbWN3aDBvR1JfaV91UFhPYWo4UUppc0REOHZlN285dzAyVUVtam5DbGpCUW85VWhEUzF1YVpmc3VYUzd6VnQ0dkIwQUhOaGhCQzgyRnVzZlF5MW5WYnVXRnlWWHFHYXlFOVZncGpuWkFqRTZtdk5DQV9peWNIY1RNOGpPVVludUplSmpWSDlScU82WHc?oc=5",
-          "publishedAt": "2026-08-29T22:14:20.000Z"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORi03YktXQm1aTkJQY21aTENqM1A0bk5GLXpwRG1HYXB3TDFGUkhWUHdzS2JsSHhKeGsyNkVoSjFYQ1VxXzlKdzBrUFNDTlgyQlY5enUyZ1ZXSG00UU9xOWtuNHBQdW8xUGZkM2xZeExHN25NaVNDckZYenFWYTVyWW9teTdJMkZ4Wk9GRzhZVzRLM1pnQWM1ODRNeVjSAaIBQVVfeXFMT0MydFFJRTF5UjF2VnZBVmtyTzJjbnY0ZFQ2SjliYUhlRWdaU2NQOUZIV0FXLXBoZ1FuV3NkRWxuZlZ2OHRrRmVESHJCU05vMWVNTTRvbkh2bkV0a0ZYa2preDNISXNiNl9HZkprSXpDenc3OHJxOUROME52VnF4OVRnVXUtaFNVOUFGT2hTcldtRmxETWdZUXluelRTOUxjTTh3?oc=5",
+          "publishedAt": "2026-08-30T18:08:34.000Z"
         },
         {
-          "title": "Can't-Miss Play: Punt-return TD! Kaden Wetjen reverses his field on 45-yard score - NFL.com",
+          "title": "Packers trade for Steelers RB Kaleb Johnson as Josh Jacobs lands on Commissioner's Exempt List - NFL.com",
           "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNXhwTE9DRXhYRlJ5bks2VUlkZHFNdlVlYmZ1RGlTb0xodXVmeERfQzFYNTRMSDdIUFd4NzVVTlpSVVlObEt4M0dqUENSblJzdFlPZkpXU0hqLUtZakxpQjVObEswYUlrQ0ZYTjdEVjlxNUswbkJSU2Fma1A3S0pWaDFiaWgwbjY1?oc=5",
-          "publishedAt": "2026-08-28T01:48:45.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXFvRjN4U1ZDdXYyc25UakJpZUhlOTNlN1JubU44NThfS1FYRnVrZmc1SWxHWGNNcFE5MG8wTUdSdEw1VFVmblkxUVM1dXhLS3pmZjZ0dmdHellWbkwwV2hMOWI4NUJCVjJWd0pvWi1feFFuNWJ0Z3o1N0E3cDFHLUZRXzl1dEFqeHZKYWVXVDdSdmlBeFVVNkVBbGdnYjQyWjBtdVB4UHpJaTFITWdvc3FJRlVLZHVKR01BYWdUZl8?oc=5",
+          "publishedAt": "2026-08-30T19:02:03.000Z"
         }
       ]
     },
@@ -255,16 +255,16 @@
           "publishedAt": "2026-05-14T07:00:00.000Z"
         },
         {
-          "title": "Country music star Riley Green keeps momentum going with new single ahead of September album release | OutKick - Fox News",
-          "source": "Fox News",
+          "title": "Country music star Riley Green keeps momentum going with new single ahead of September album release | OutKick - foxnews.com",
+          "source": "foxnews.com",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3NwZTl5clRMNXZpT2xQcDlrd1BKY3REUS1xTmRBRE5YcDZJdVVfRUFnMUtEdnJHZm93aUxUZ0FMRXZ0aVFZNU4xZ2FoTG1mOFYyVnVSWk50UzBpSUpjcGpjUnhUaXE1ZXlUd1MzTXg2ZDExTVZlTnNpcEtZVklBWFMyQTBZd2NDMUZlOTlxTFV2UWdMSXMtQWk5WW5KdzNMRVh6ZndTRmNZU3cwN25Tc3FWamdySE1KYjFBN3FydU9QNkFD?oc=5",
           "publishedAt": "2026-07-31T07:00:00.000Z"
         },
         {
-          "title": "Country Drop: Countrytown's Best New Country Music - 26 June - Countrytown",
-          "source": "Countrytown",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRllLQmpScVJVUFZoalp6eF81akg0ODdzUjNRTWQ5U2Z6bHZrZ0dLVU4yWEh5SF9xeTVTVW02aTQ4WmtsX1AzX0ZhQk1NSjJHcHdsVGFwQ0gwZnUzYkFROHJHY0VPOGhVd1F1b2pVU2M2aDBHNHlqUVlJZkhEeFo5MWRGV1JnWU0yYzBOUUxtb2p0ZTZWcS1ud0hES2ttQVdxeFNmQ0VQbDNYdw?oc=5",
-          "publishedAt": "2026-06-25T07:00:00.000Z"
+          "title": "Country Music Hall of Fame® and Museum to Open New Exhibition, Kenny Chesney: Living in Fast Forward - PR Newswire",
+          "source": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUVIdUtDbjlOYzBpRFVMbm5XZnNZUURSLWQtSGIwb3hmVEZqYzJkOXhNOER3Q3lpVEpINzNqbEJoVXQwU01lMUxILWlCR2NYbm15TTljckZ4djNldVAwbVNOZ19NZnE3OGxkVWt3OHNVNE4tSXVwMTVqWldvSTZfelQxX3I1QlJXRHhqeVFEc0FYZ0xSZlpuc3JUeWxBZVNfNGdYMmxKV2ZfbkVqd2cwQlN2SWc1c1c1aFdRamJqN2UxcDUyNXRrRnE3a3F4TFhqOVVuNHVVRnhzd1A3TGhBaXZ0ZkYtZm9T?oc=5",
+          "publishedAt": "2026-06-16T07:00:00.000Z"
         },
         {
           "title": "Jelly Roll Surprise-Releases ‘Hands Up,’ His First Song Since Filing for Divorce from Bunnie Xo - Billboard",
