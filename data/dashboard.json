@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-08-31T17:38:02.847Z",
+  "generatedAt": "2026-09-01T14:54:58.344Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$765.70",
-      "change": "-3.65 (-0.47%)",
+      "price": "$763.58",
+      "change": "-3.47 (-0.45%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$531.57",
-      "change": "-3.49 (-0.65%)",
+      "price": "$529.91",
+      "change": "-1.67 (-0.31%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$714.49",
-      "change": "-1.94 (-0.27%)",
+      "price": "$709.97",
+      "change": "-6.79 (-0.95%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$314.00",
-      "change": "-5.70 (-1.78%)",
+      "price": "$324.78",
+      "change": "+7.92 (+2.50%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$510.45",
-      "change": "-3.08 (-0.60%)",
+      "price": "$502.45",
+      "change": "-4.84 (-0.95%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$366.74",
-      "change": "+17.99 (+5.16%)",
+      "price": "$358.00",
+      "change": "-9.95 (-2.70%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Paperwork, lines, hours on hold: There&apos;s a &apos;Time Tax&apos; on Americans who need help most",
+          "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/31/nx-s1-5946449/time-tax-annie-lowrey-government-assistance-unemployment",
-          "publishedAt": "2026-08-31T17:06:39.000Z"
+          "url": "https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary",
+          "publishedAt": "2026-09-01T13:52:18.000Z"
         },
         {
-          "title": "Lionel Messi says he&apos;s retiring from playing internationally for Argentina",
+          "title": "SCOTUS allows Trump&apos;s ballroom project to continue. And, the Army secretary resigns",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
-          "publishedAt": "2026-08-31T16:37:05.000Z"
+          "url": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
+          "publishedAt": "2026-09-01T11:23:46.000Z"
         },
         {
-          "title": "Nepal&apos;s hesitance to accept foreign help for flood relief comes under scrutiny",
+          "title": "They live by a shrine to a saint. Why are their homes being demolished?",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood",
-          "publishedAt": "2026-08-31T11:50:17.000Z"
+          "url": "https://www.npr.org/2026/09/01/g-s1-139926/india-saint-slum-home-destruction",
+          "publishedAt": "2026-09-01T11:21:41.000Z"
         },
         {
-          "title": "U.S., Venezuela strike oil deal. And, the staggering hidden toll of U.S. heat deaths",
+          "title": "Whistleblower claims USPS plan for Trump&apos;s mail voting order could &apos;derail&apos; midterms",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/31/g-s1-141187/up-first-newsletter-venezuela-oil-iran-war-house-government-funding-grand-canyon-flash-flooding",
-          "publishedAt": "2026-08-31T11:20:15.000Z"
+          "url": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
+          "publishedAt": "2026-09-01T10:00:00.000Z"
         },
         {
-          "title": "Russia&apos;s jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
+          "title": "AI wealth is creating a &apos;mansion shortage&apos; and upending San Francisco&apos;s housing market",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/08/31/g-s1-141181/russia-ukraine-war",
-          "publishedAt": "2026-08-31T10:24:25.000Z"
+          "url": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
+          "publishedAt": "2026-09-01T09:00:00.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "U.S. Military Commanders Warn of Attrition in Iran War - IranWire",
-          "source": "IranWire",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDBFNUI5QnJhelFXMm4xT0pabEU4X0l6RHRQVkZIY19SUkJZRGo1TXp0Y2tILVdieGRPUDgzQnJ6ZHdJY2VyQnlvR0V6Wk9SNEMtcl9kYTNsTlQ5SW45RFFNTVFkNGwybXpUamZvWUczdnNzb01wRmZnVVlKOHhCZ0lsaHVkdXJuUlIxc1dndmx5dkk?oc=5",
-          "publishedAt": "2026-08-31T10:28:46.000Z"
+          "title": "The Latest: Army Secretary Dan Driscoll is stepping down, White House says - MilitaryNews.com",
+          "source": "MilitaryNews.com",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPckthbFczc0hZdUhCN0RfeWhqVmc0QWo0VmIwTTNDSkZYVGItWk9mb01kVDJMWXB1LXY1SWVkdmQycUFpZDRLQmp2WV9UbG9NaHhJSHgtcC1VMEFxM09aYm5yaG1UalI0NmY2eWN2R1BMejNlQVEyY2ozODFvRlZRN3dkNDhGWE9pNi11RWtvR3pMcFRNOVVwbGtxYVpMeWlXQTZDejhxbXpFaVA4akJuYXN2dFZONVM4YjdZRC14SUEwS3pmT1dTM29qYmVNZUEzclA1TXI0b0pRQ0NpU1dLcEZUZERVX0I1OFNVM3RfLTl1Qy05RGg0bQ?oc=5",
+          "publishedAt": "2026-09-01T13:04:13.000Z"
         },
         {
-          "title": "Cape Girardeau native featured in new U.S. Army campaign - kbsi23.com",
-          "source": "kbsi23.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbENyTWotdTZ0d2RUSEU4djVOTncwaW9pMm95OExWa3pZRFp1UEVZU3pxOXFoMHNGdktOZTAtYU5wLXAtTC1NU1lTTUxRS0R6My1GSEtzOENrVVJYa2pwdENSMDl3czNFczJBQ05qQ2VkWGI5RVZlbzRjQkhiemREbXd2WmJMWEFYeDItdg?oc=5",
-          "publishedAt": "2026-08-31T16:32:03.000Z"
+          "title": "Army Secretary Dan Driscoll resigns from post - Axios",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUkNVVDQ2MjJmU0tZX2pXamJYQVUxdl9oRFhabzZOVjJMOVNzTDFWbTIwRU81a3NlRmU0ellVMmNoOVN2RVVJbkx1VlN2dVRDY1dseEVkR1JDalR6YTY1ZkVaWU1VN1VxbnRhXzNzOFlETnZrNHl4dmR3OGRxcFk?oc=5",
+          "publishedAt": "2026-09-01T12:49:49.000Z"
         },
         {
-          "title": "Military leaders warn Hegseth against extending Iran war operations - The Washington Post",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelBwdjExMnFiT0Q4TTJNdXIzTmN1WWFCSEZtdHhjbkFRYkhRc0o4U3ViX3pVSmQ5c0JBRkd3UXZwNFE1T0lLWUFPTXpWaW5JNDFEbC1fM3ZNczEwOHVudFZMUVNRbHJkWEFRWHA2Z203R05FbE5FOVVXLW9mUzFkRjI3TlIzNWM2eEhNWENjOTlNTmM2NVVKdGNFaDhITEFMeThNVnc0SXN1N3B0cUFNNlZrWWhkbjVnSTV6ckVPUUk1dGd2NHlr?oc=5",
-          "publishedAt": "2026-08-31T00:27:06.000Z"
+          "title": "US army secretary Dan Driscoll resigns over reported friction with Pete Hegseth - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWk5Mmw4WkxkRm1DVHNOaFR1Sll5YV9LMUplT3JfbEE5ZGs0emQtQ2YyZlJCTEhZNE9HOFRBWE9IUGhmQ2o3cEQtdkdRRDgzNngxdDJ4bHJMaHpBTWMyQkZMeTFrRnFPR1BiVTNFdF9ETnFPY000WTFVTVFmbUxrd3l1cWVmc09wYlVz?oc=5",
+          "publishedAt": "2026-08-31T22:56:00.000Z"
         },
         {
-          "title": "U.S. Army To Spend $2.2B On Nuclear Microreactors At Military Bases - Crude Oil Prices Today | OilPrice.com",
-          "source": "Crude Oil Prices Today | OilPrice.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQlpxcnpIOThuT3MxMmVNMElYdE9WcnoxWFRKbDBNd0lCNVE5Ql9BeUE1cE5tTGlOVF9FR3h5ZHZKVUIwNzR5RTAwWjhZS3d3dk1LRzhScnE5em02MXRyYUIzNmVjLTRlcG56dUZjTWlnOHNCVVdRSHJCRER4ZVlkSDBINU9qTG5pOVFtTVZpZFlTY2lNSS1yMjR3eVBxZzg5ZEMxNVNOLU1ib1RWZXh1dzQ4X0M3NFRFS3dpeGJvQdIBxAFBVV95cUxPd0dkUU8wZGxBNFpaTFZudnJHbnhrdWJCMlFrZ0xOVExPaGVYelJGNFJMaDJmRzJkYUZ5X2wwMURCcXJzeGJLcE1jakp4VW4yQl9XN1U2RWdLVzlVZ1NScWNiZnJiODE0UlRxWm9STHhoaW1HSVRFaGE4RDNJM19IeUt4UUZFVE8ycjdJcDNTaFl6VU1LMFRZbUZ4ck1JWjEyUU5CcmlPVU5wbjZiOEZkNV94SmdrSWYwR092cWxFXzFjM2g3?oc=5",
-          "publishedAt": "2026-08-30T23:00:00.000Z"
+          "title": "US Army Secretary Daniel Driscoll submits resignation, media reports say - Al Jazeera",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVZUX000a3dwNVJYTFhSaWVtdHBWZHVjT19YSmZDMlprRzNaOWRBdlF3dG8zcFZsM015RmJDWnkyZkkyZVR5b0wxVTlRem9rWXZLcDBQVVlzWDJpMXNsWF9SNUN0T3FGOF9XN1dKbmFrYnFEMElUU1RWaTFmUHFQUzIweEctQ3B5OVc3OHFvenNuc1JJc1VxemI3dU55dUtaWUM5QkJwVkFXN1hsRU9JSUxB0gG3AUFVX3lxTFBNbU1GaVBCN2NEbjlleV9WaVA4cm1wY0RMQjdhWDd1Ym9hM3dtTEhjbHU2WkNBNjB5cHB4R3RPaWs5Nmx0MHBsUnlIb3hHcHJsWVVweUY4VmVXWmpiSzhIWDZuRFprcmtiUlloV0NBd09zbHItTnd6VEJqcGE0NkJudTZzaDNaUTJSOHRTTmcxX0ZkN0M3N1JIMkxfV1owaVRYaW1acDRuS1A2UHpQZzdrN1NvUU5FRQ?oc=5",
+          "publishedAt": "2026-09-01T02:41:09.000Z"
         },
         {
-          "title": "Army extends 82nd Airborne Division’s Middle East deployment to a full year - Task & Purpose",
-          "source": "Task & Purpose",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42b1lJMWpQRWRzQWQ1RXBOOW5sc01ZMkVaVl93UTVGZG5nQ1A2bUtncHR5eUdOZ3p1djdxSldBbThuSFQyalYxb2FtaE9QV2U3ekUzQW9VSGV5V1FMV0FPVWdDVlYzTmx5cU4taXUwZHVtSUd6RmVYOE9DNA?oc=5",
-          "publishedAt": "2026-08-30T21:40:03.000Z"
+          "title": "US Army to install 20 nuclear micro-reactors on domestic military bases - New Atlas",
+          "source": "New Atlas",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNemZYR3U2Q2VHMWtQb3lLTThrOUtVQmlpVmVzUnZnNFFjakwwVDBoN1hiM09SVFJsVW5JMG9xOW9kMld4RTBUMjJtNzg3NzZuTl84dHF1eUpVRWZfbTlzWWVwS1FtUU9tM19CUmFoMGVCVG9LM2oxVUQxdXNfYlgwMjNxQ1p0dw?oc=5",
+          "publishedAt": "2026-09-01T06:51:07.000Z"
         }
       ]
     },
@@ -129,34 +129,34 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "The only climate scientist at West Point has been fired - Attack of the Fanboy",
+          "source": "Attack of the Fanboy",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMHlySnVSaDlNTDYyZ3pTSGYtaE9FYnhNX0FBaE5zYUdncWdiWklZSmNXdllHemVrR2NyMnAwZVBWM2xXOEVtN1NfcnBIUnFGamhGU28xcVlyX0ZBLXlWWVpyTF9CNUlDeTczbnlHQmM3VXhleVJ5R1EtSTRUaW9LM1p4NmQ2OXQzY0ZocUhrVWhoeGllX3pHWEl5bVI1YlRCQ0U4bDE5VHg3LWJmZ3dObzdZUDJYTk1OR0Z4cTZDejVrdzBqSVdScThGR0xSYUt2RjJrd2R4MVJMc3hLMHdhZUgwRFpfWTJlZ3hrVDZDR1h3MXB4eE05U0VRc1NGYWJGb0E?oc=5",
+          "publishedAt": "2026-08-31T20:15:00.000Z"
+        },
+        {
+          "title": "West Point Climate Professor Says He Was Fired for Refusing to ‘Defy Science’ - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFVsZTVOTU1oTXpSUGMtbkxaUjRFbWhSZlQ5R1dXbjRwWlNpX3RfVkRrS01aRVhsQm91c280QXhQOVhuVG0tU25rTFhvY3N1S19DeWdURDg2a0NlYk03cF9SeGQ4QUJjOEllVzFtU29ySXBSbXRxYkFYMy1oaF9TYmdOWEZUTGxicW5NWUR5Rm5wZw?oc=5",
+          "publishedAt": "2026-08-26T22:00:24.000Z"
+        },
+        {
+          "title": "From Infantry to Field Artillery to everything in-between, USMA cadets gather knowledge on 16 Army branches during Branch Week - DVIDS",
+          "source": "DVIDS",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOTlydHR6Uk9DMzRnUktMekJlMzlSQkFiQ1VVdWo4QXl3Y1NHbGtGVHZyNnl6TlBZSTc4RmhvcW1paGpBZV92aXdpNTRmU242S0VWQU82VWNKVVZWZ29mYWExY2FRcjJWYVRvbTlPYjRET0xiX0doQmI2eTVhQ3AzVUltQXl2YkdBeC1LdVlMMjU1UVJZeF9fWC1yY3FIV2FveVRNVUtJME9rd2ZtNGhNNzQ5WkZJVUh2X3pZLUd3X3pkS2JweVYxbjF3eklvTUZERzJub3J0NDlyc2xtcGc?oc=5",
+          "publishedAt": "2026-09-01T13:26:00.000Z"
+        },
+        {
+          "title": "West Point professor fired after pushing back on limitations to teaching climate change, lawsuit says - stripes.com",
+          "source": "stripes.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFpZVjJzTUhuaFdHVmN4cXlhRGE3NVFISURLeXFHQmFnTTIxOVdhR2RUeElmMU01bFU2TUpZeU1LWm44RVo1QlF3NHlsYk82akdVb0d0a2NLU1lzempFZktNTnU5dDEyNVNUaG1pcUVpNnVkUmNfbVBRdW54ZGg3SmtaZmZ0VzVTV3BBT1l3d0dBaWRqbEtNNzBKZHlpMEw3V2JNekprWk5xRUFTbWpBSmhn?oc=5",
+          "publishedAt": "2026-08-26T20:13:15.000Z"
+        },
+        {
           "title": "West Point’s only climate scientist fired after continuing to teach human causes of climate change - The Guardian",
           "source": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWl9PaXBuYW1NcHN5R2N6NXdPUzJ2X2RXY2FMZENvN2UwLWlkOHlHdkpUdGlmdEo5M0tqWlU4ckRjd0J5ZTdXbW9XS2ZkampSQzBCdDlLRk93aUlQVGRRZWV2aHdCRjZaVEFEcFZ0VUw3YTN1ZGNwSUlweUJrdHlXRTViS21TRU5jdXc?oc=5",
           "publishedAt": "2026-08-27T19:08:00.000Z"
-        },
-        {
-          "title": "A West Point for Space? Trump Calls for New Academy to Train Space Personnel - WSJ",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDZwRzY2bnN0WUt4enk0ZTBUVTYtSXZmRm52c3ROMHJtT3QzeElnajB5cFNDRC1QWFRxTXBsSzdOQjVBVFVObmhMTWpsY0VyNkZvZDR4NVBMYWZxUi1JS3JiRVlNcUtuSHhWTkoxTmNHc3RqTEFWVHdzNjlyTnNGNjdFd21OWE9WVVUwNkJwaXdleHBVczBsWk8tTnZ6NExaV1NhQ3hYRHEzTVdtYWk2M3J3T1dST1BWbnZTWjZreDZRRkdZVDNEOUJkbw?oc=5",
-          "publishedAt": "2026-08-28T19:41:00.000Z"
-        },
-        {
-          "title": "Steve Doocy tours the US Military Academy at West Point - foxnews.com",
-          "source": "foxnews.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wdzhKRUJhY3V4cVdVVEtMNzJfWWtMTHpfMzJoeDVBS2RtZTlFZzA1d09UY2RIQ3hIblNGam84NkxTLXdfVXl6cUh0OERUVHNDaGtIMGFB?oc=5",
-          "publishedAt": "2026-08-28T15:20:41.000Z"
-        },
-        {
-          "title": "West Point ordered professors not to teach human causes of climate change, lawsuit says - Military Times",
-          "source": "Military Times",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQclEzOWRPMDVEU1Y0ZDlHRkw2NWNPeUlEcEpuc3MtT3c4R0VTOUZrTTBFWnBoOWRKbi1GVnhQSURZYUJ3Mi0wdFljcHViWWUtdnNnTGhTSFhsRGNUeXdDdEVodk9QaVY0M1hydHVDRmNlZ0QwMGhTaG9lR1pJRk81dkVUYS1WUm1kclNnUDRnSHR2X19wYlJuN1FjLWFQWG9YRFRYUm54dE1lQWtzalUtakp0bzlmaTRoTHc2dTRPejF6dUR3Q2N1TWpWcXVhb05aaHZiZEtfWmhPbk1ZbTlHTQ?oc=5",
-          "publishedAt": "2026-08-28T15:12:59.000Z"
-        },
-        {
-          "title": "Trump eyes new Space Force service academy, on par with West Point and Naval Academy - MS NOW",
-          "source": "MS NOW",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanYtR21KcXl1bjlkYWowSzNnT1I4QmJRbWl4TDYtRjZqXzJKQ0h0STlTZmpSdTY4ck56QnRlQk5vQnlSbGdtVUJMdk1SYUlXei1TbkxBSnljYlpOc0hmTUhPRHgyV1NEWDYtZDdNdGRCNVcyOEZEOG1ZX0JWcHVuVFRJTnNOVnpEZHJvWDZRU3FZVTFrd0dpN190dGQxSmt2UFhka1RB?oc=5",
-          "publishedAt": "2026-08-28T18:10:58.000Z"
         }
       ]
     },
@@ -171,6 +171,12 @@
           "source": "Spectrum News",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTJoQl9nNmx3QTNfTFlRNGlNVG9aM0NXOGZrTkp0N0VVMUx3bHVjd2w2NnctLWpJRVFVRWFOaEM2aF9mclhKTFFzUDNlalNxVVpTQVZBZF84aXZNeUJZTHE1cTkwaDJOYmhGNTlhUFJwOS1paGFYOGFuYThpUVkxV1JBOHZocWFEa3Z5NlhCbFkyX2FFRlp3T1FB?oc=5",
           "publishedAt": "2026-08-31T16:57:00.000Z"
+        },
+        {
+          "title": "Army football | Jeff Monken likes his squad headed into opener - Times Herald-Record",
+          "source": "Times Herald-Record",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmZ5OUxjcFFvWGt3cTRtSDZqYjdPWGxjdXRDZy1EZ3JwT2I4SE1nWnBoaWVkTEhrOVMwV01WcDhERVRvVERqTFpOVDFmcXFFNjlJcXhBb20tcjJockxnNFkwYlNha29JMFExaDIxeGZSUXltVVYtRVRQNkhPTkNSTmx0cTZ1UUJKbjJCWmwyYkZpcTM2eWVUbGNvZ25oNDRidjBqRkYtVlJyWDktTGQtN2s5N3NPWDk3d2NfcERQeEhfbUlSN3RoWA?oc=5",
+          "publishedAt": "2026-09-01T01:20:00.000Z"
         },
         {
           "title": "USAA Named Preservation Partner of Army West Point Athletics - Learfield",
@@ -189,12 +195,6 @@
           "source": "My Hudson Valley",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLU5kakNSZVoxWG11MEpDR0VwazdoMXdUckJnbmh6cC01U09qWXY0emxPMjRsZEx5X2FBYXlZbjF1ZndWY2NYalRGRlVFSTlfXzYtdjkzU0wtaV93MGl2WkM4M2x6U25weDlYYUhmdDU4dUJyelMwcUl6MGdiTGs5Yk9WWW9JVU04LXU1c0tMd3FQdjN4T21UT0pWa3RXcWtBUUd6cU5rX0FZZ1RqV3V1OWVLMTdySEQ0RWxUV2JsdklfLUNObDlxQlFob3k0TUJXSG5IWDBHR3NrM1hGQUZhUDRYZTc4Z2tDTVlXQWlrTjY?oc=5",
           "publishedAt": "2026-07-02T07:00:00.000Z"
-        },
-        {
-          "title": "Army football has nine preseason all-star nods by Athlon Sports Magazine - Times Herald-Record",
-          "source": "Times Herald-Record",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTUlMQTN1Nmh3akVWYTZhdWdkTjYwbUFaQ19QZmlNN3l5WXNFUzV2cXhQeWpjR21KV0tKNWpjSkhKamJhaDU4MEdhOGRuTVJhNFdLZ19IT2NGbHhRY0FxTEtmSmxxTzEwR3JaeDJiQUl3Z3Y2YXo5aFg2YTdWRURyeENPRGxqV0FzVmFyYzd4T2lFdDZkX3VuS0ZIT2NmTjJmcmU0Vk5QT1dkY2d2WlhOaWd3ZV9HMGdMQUwyRWY0S21GSWtIT1p4ckhTYXFDZkFQdW5DZkctT04wX3EwMnk5UmRR?oc=5",
-          "publishedAt": "2026-07-01T07:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Steelers make moves to get to initial 2026 53-man roster - Steelers.com",
+          "title": "Steelers initial 2026 53-man roster - Steelers.com",
           "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUWFwby1XbzBYeTBpVUU5Y040aTkyMWxlZDd3d2V5cHJGRXV2c1BlNHZiSDhvc3ZPbEdvY2xXbXRKZVZSel9VUm1wTDVPM19kZ05raEt4OHByLUJjdmQzLXFGY3VSYUlKUnhVOVR6TXJwamhDQnFzMDktUnhFZkQtM1BpT2dKSWgzeGhmUjUxMA?oc=5",
-          "publishedAt": "2026-08-30T22:15:37.000Z"
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1LUh3d0FBZHN2MHR6UWRfamhLaE5ybU9VOVR2WmNQOFpTNURDSlduWWdfU3BrODJBQy1kRUJKczdwdldwdERVZXRXZHFKeDBHM2o0Z0dBSDkzNnVCUUs2aEtndXhfRnFOSnR6UUxiUTZSdzg?oc=5",
+          "publishedAt": "2026-08-30T22:35:38.000Z"
         },
         {
-          "title": "2026 Pittsburgh Steelers Practice Squad Tracker (Updating) - Steelers Depot",
-          "source": "Steelers Depot",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHRiaWZsZ1FxRmhHQ1gxd28tWmNWX3hDdkg2QVhoeU05NGF6TlJZRC1IbmtRT3lMbzUxbUYxY0laOXQzbE1yak5hbzlvOUVIck4xd2ZIcWYtaThfRXIyd09xUWtub3ZRLWtaZ0NmZmJzd21ySFV1SHNpcktCTTNYb2Y5N3JoMC0zaGhUZjJHcTVxUzl4UWc?oc=5",
-          "publishedAt": "2026-08-31T16:49:48.000Z"
+          "title": "Pittsburgh Steelers sign 13 players to practice squad, including former central. Pa. high school star - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaEtPRENhZ2hDSzcwN1VsY1dqdFpaMTNIVjJ1cEdrMnctdHVNZDdieGV2ZHF3QzYxclhrY2RzUWc5c3pBdnlTMlVQR1ZtZjM1WmQteVVWRnFyOWZRZ2lNSEx4aEVwQkx5c0Y0dDlMR0ZsVW1BMlM0TWN4cjZSYkhZWFdYWHpFNmYweTFZNWo0WjJ0aVlFYVBjMXJmZjFtQUM0aW1BeW9zankwRlV6NmdCMmZmNF9GUE5nRFNXU3hKT1Y0eUw0Qk5BWVVKUlg2ZjdRNDhfS05qSUJKaDlGUkHSAfIBQVVfeXFMUGQxQk92WWpPVFJvblBVVk9LWURKMEdzZ1Bvbk5oRnZPTjFsN2ZyWWJSUktEbHpfbENSMEVSaFdDN29HejVIc2pQQ2NlaXQzWFRyTW03LUtaTERONWZRQURTcGxDNTVGSTZSXy0yNkMwcFZHM0hIUEQ5Zkllek1tUWIzU3BpYWI1VFczNl9xZW5tUnB1dzJDOEZSdFVkdG1TYUluYm1DaWdUODNIUWtyVnN0dnZrcjZKMlBlZmRrY3ppeGpLeDZLVjN2OUVCdkdkY1kyUFVFa2Z2REtKekoyNXdhYUtiSUQ0VnM2RkFIMnJ5RVE?oc=5",
+          "publishedAt": "2026-08-31T20:43:00.000Z"
         },
         {
-          "title": "Packers are trading for Pittsburgh Steelers running back Kaleb Johnson - Packers News",
-          "source": "Packers News",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMjFnbnAxVHlUMGE4RW1zdzZPbUlQeDVpcXdOdW53WWhpMi1xWmJ2d2lkUXRBekRrczNBZGdDbWQzTUxMS2dMNHVkZUp2NkNsYVNUVEhOVW42dGhBU2lCRTlhSlhuWmZsNmt1a18wZWxydGtsaU5ObkpGRVpEVGlYR1RTUDIzdzEzOU9BVHQzTVdzZW45QnBRRkpjZi01eVRGek84R1paNE5Hci1weVpCWFNLTEVlMnhiNW1HZU93RTk0c2JBUDVKeTRxYkdocWpOdkNxVFAzME5JMnF6eTRhWg?oc=5",
-          "publishedAt": "2026-08-30T19:01:00.000Z"
+          "title": "Steelers sign 13 to practice squad - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ySGpUMjFuZVZ5NHVjM0lTVWtsREkwdGN2Q2N1RnRWbEZIM19xemtNVGY3SFEtZlhtaG9ERFpTdjY5WVRSUlByV1ladWtKbkZNR2NYU043STZ4VGRfbVdSdU1RbWgwb3ljYVNUTDVFZW5JZw?oc=5",
+          "publishedAt": "2026-08-31T21:46:47.000Z"
         },
         {
-          "title": "Steelers trade running back to Green Bay - WKBN.com",
-          "source": "WKBN.com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORi03YktXQm1aTkJQY21aTENqM1A0bk5GLXpwRG1HYXB3TDFGUkhWUHdzS2JsSHhKeGsyNkVoSjFYQ1VxXzlKdzBrUFNDTlgyQlY5enUyZ1ZXSG00UU9xOWtuNHBQdW8xUGZkM2xZeExHN25NaVNDckZYenFWYTVyWW9teTdJMkZ4Wk9GRzhZVzRLM1pnQWM1ODRNeVjSAaIBQVVfeXFMT0MydFFJRTF5UjF2VnZBVmtyTzJjbnY0ZFQ2SjliYUhlRWdaU2NQOUZIV0FXLXBoZ1FuV3NkRWxuZlZ2OHRrRmVESHJCU05vMWVNTTRvbkh2bkV0a0ZYa2preDNISXNiNl9HZkprSXpDenc3OHJxOUROME52VnF4OVRnVXUtaFNVOUFGT2hTcldtRmxETWdZUXluelRTOUxjTTh3?oc=5",
-          "publishedAt": "2026-08-30T18:08:34.000Z"
+          "title": "Steelers sign 13 players to practice squad after roster cut-down - wtae.com",
+          "source": "wtae.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVVmZ2hxMkVPRlZ3ak1TeXdNdnE2MzVZc0NtMkdubW5DckFvZW9kanpFbzNhTDRwd2NVQWtiUmJQZUpaTG1jYjlTU0J3TUIyeVJGeEdtdlNwYS1wcDNGblZDVk1DM3ZWZ1g5SzNEYTR4cG5wd09KZFJGUGREd3RDa0RwZ2w3dkRadmkwTVVuRWVhWmIx?oc=5",
+          "publishedAt": "2026-08-31T20:58:00.000Z"
         },
         {
-          "title": "Packers trade for Steelers RB Kaleb Johnson as Josh Jacobs lands on Commissioner's Exempt List - NFL.com",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcXFvRjN4U1ZDdXYyc25UakJpZUhlOTNlN1JubU44NThfS1FYRnVrZmc1SWxHWGNNcFE5MG8wTUdSdEw1VFVmblkxUVM1dXhLS3pmZjZ0dmdHellWbkwwV2hMOWI4NUJCVjJWd0pvWi1feFFuNWJ0Z3o1N0E3cDFHLUZRXzl1dEFqeHZKYWVXVDdSdmlBeFVVNkVBbGdnYjQyWjBtdVB4UHpJaTFITWdvc3FJRlVLZHVKR01BYWdUZl8?oc=5",
-          "publishedAt": "2026-08-30T19:02:03.000Z"
+          "title": "Steelers Smartest Roster Move Was a Trade - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGszZEd1RFZyUXk0V1ZvZEhtWlFrT0tXZXZELXBhQWo0RHdrZ3VUUVFpNXBvRmpUbmhJNU54eWlhYlBqOUY4MlJhclJ1QVZoRmRraFRXa0VUODdXSF9UMTVHSTRFOHJ0Vlh1MEFuaWZKUkxlYmJGUVRCUEIyenBZb1lHdVNEenc4a3dF?oc=5",
+          "publishedAt": "2026-09-01T11:00:03.000Z"
         }
       ]
     },
@@ -246,7 +246,7 @@
           "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
           "source": "Holler Country",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
-          "publishedAt": "2026-08-24T17:26:00.000Z"
+          "publishedAt": "2026-08-24T07:00:00.000Z"
         },
         {
           "title": "Release Radar, Most Anticipated New Albums for 2nd Half of 2026 - - Saving Country Music",
@@ -255,8 +255,8 @@
           "publishedAt": "2026-05-14T07:00:00.000Z"
         },
         {
-          "title": "Country music star Riley Green keeps momentum going with new single ahead of September album release | OutKick - foxnews.com",
-          "source": "foxnews.com",
+          "title": "Country music star Riley Green keeps momentum going with new single ahead of September album release | OutKick - Fox News",
+          "source": "Fox News",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3NwZTl5clRMNXZpT2xQcDlrd1BKY3REUS1xTmRBRE5YcDZJdVVfRUFnMUtEdnJHZm93aUxUZ0FMRXZ0aVFZNU4xZ2FoTG1mOFYyVnVSWk50UzBpSUpjcGpjUnhUaXE1ZXlUd1MzTXg2ZDExTVZlTnNpcEtZVklBWFMyQTBZd2NDMUZlOTlxTFV2UWdMSXMtQWk5WW5KdzNMRVh6ZndTRmNZU3cwN25Tc3FWamdySE1KYjFBN3FydU9QNkFD?oc=5",
           "publishedAt": "2026-07-31T07:00:00.000Z"
         },
