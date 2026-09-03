@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-02T14:30:46.483Z",
+  "generatedAt": "2026-09-03T14:35:35.791Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$765.22",
-      "change": "+3.44 (+0.45%)",
+      "price": "$768.17",
+      "change": "+3.01 (+0.39%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$531.15",
-      "change": "+3.40 (+0.64%)",
+      "price": "$533.65",
+      "change": "+3.02 (+0.57%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$709.01",
-      "change": "+1.37 (+0.19%)",
+      "price": "$712.11",
+      "change": "+2.87 (+0.40%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$324.19",
-      "change": "-0.94 (-0.29%)",
+      "price": "$329.40",
+      "change": "+4.44 (+1.37%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$497.61",
-      "change": "-3.41 (-0.68%)",
+      "price": "$510.60",
+      "change": "+13.78 (+2.77%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$355.29",
-      "change": "-0.80 (-0.22%)",
+      "price": "$377.72",
+      "change": "+20.70 (+5.80%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+          "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
-          "publishedAt": "2026-09-02T14:08:03.000Z"
+          "url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem",
+          "publishedAt": "2026-09-03T11:17:01.000Z"
         },
         {
-          "title": "Medical groups offer vaccine guidance to fill federal vacuum",
+          "title": "Gloria Steinem, trailblazing journalist and activist, dies at 92",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/02/nx-s1-5947884/covid-flu-rsv-vaccine-recommendations",
-          "publishedAt": "2026-09-02T14:00:58.000Z"
+          "url": "https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies",
+          "publishedAt": "2026-09-03T11:14:24.000Z"
         },
         {
-          "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
+          "title": "An epic train chase is turning 100 — and Buster Keaton fans are celebrating",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
-          "publishedAt": "2026-09-02T12:22:42.000Z"
+          "url": "https://www.npr.org/2026/09/03/nx-s1-5921324/the-general-buster-keaton-anniversary",
+          "publishedAt": "2026-09-03T11:00:00.000Z"
         },
         {
-          "title": "Whatever happened to ... children infected with HIV due to failures in healthcare?",
+          "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan",
-          "publishedAt": "2026-09-02T11:58:51.000Z"
+          "url": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
+          "publishedAt": "2026-09-03T09:00:00.000Z"
         },
         {
-          "title": "India&apos;s prime minister is wooing the Gen Z while cracking down on them",
+          "title": "Inside the failed mission to eliminate FEMA",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests",
-          "publishedAt": "2026-09-02T11:11:04.000Z"
+          "url": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
+          "publishedAt": "2026-09-03T09:00:00.000Z"
         }
       ]
     },
@@ -89,190 +89,35 @@
       "title": "U.S. Army",
       "kicker": "Military",
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
-      "items": [
-        {
-          "title": "Lawmakers ask Army to explain why it told a military unit to stop specializing in drone warfare - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVElUX3czYlprazdSV29ncGpqdFZIYUlCajRQckRzOURGdlRnTjd0bzliWGtLZnBva2VGcndYaFBQVmFxV2xCR05UTW5XRGNnUFZCRldnbG9BN05Zcjc1U3JXU0pKNUhJNTRzNXdnNjZNWjBGdXkwZmRpRzkyM1FwODNVRDllMVNqc3B4VElhMDFDaWhpYTRYTEZ5LXFTbTNaZVg1aEloV05HUm5KcktV0gG0AUFVX3lxTE1DN2MyWFkyM0w3WTFMajdBNHhUcHJRcGxuSlVWam1GMjNwVDVFVGlzNTVsVTZMTGZyMEI3LWIyc1podWswVUtILUJkYndmYWlpYW9GYV9sS20wbXp2OXBHSW41UEJjdXN2Y0JWNXU0WEMybGlvLS1Ja0dEUHV2ejl2XzZuZy00NGR1cHM4bzdVblVLRXJuWUUtZXJRM1lvdGZMRm51ZWhzenJaVkpUakNfSlR2Uw?oc=5",
-          "publishedAt": "2026-09-02T12:52:03.000Z"
-        },
-        {
-          "title": "US Army soldiers across the world earn Danish ruck ribbon - Military Times",
-          "source": "Military Times",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX0EzWnM2TW94N0ZDaEhsd0gzZm5NQ1VSNzdubGxDazNFWE8zcGpCUU1QSEFDLTVkc2tBb1Z5TEQ2MXp4MkltbVJDenNoLUdYZXRSZU1zdVY3dXE1cnVvRWJFMTJfRDNpSm96aG54V1FUNkJ0UXhwMW9WUDFidFBxdDlwejJvVlVGLVlFeERzM00wYm1qVXg4SXJwTE5RTTAtZ3NSMmRlYzZ0N1JJZ0V0ZGUwWndDVDB6TWc?oc=5",
-          "publishedAt": "2026-09-01T18:02:10.000Z"
-        },
-        {
-          "title": "The Latest: Army Secretary Dan Driscoll is stepping down, White House says - MilitaryNews.com",
-          "source": "MilitaryNews.com",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPckthbFczc0hZdUhCN0RfeWhqVmc0QWo0VmIwTTNDSkZYVGItWk9mb01kVDJMWXB1LXY1SWVkdmQycUFpZDRLQmp2WV9UbG9NaHhJSHgtcC1VMEFxM09aYm5yaG1UalI0NmY2eWN2R1BMejNlQVEyY2ozODFvRlZRN3dkNDhGWE9pNi11RWtvR3pMcFRNOVVwbGtxYVpMeWlXQTZDejhxbXpFaVA4akJuYXN2dFZONVM4YjdZRC14SUEwS3pmT1dTM29qYmVNZUEzclA1TXI0b0pRQ0NpU1dLcEZUZERVX0I1OFNVM3RfLTl1Qy05RGg0bQ?oc=5",
-          "publishedAt": "2026-09-01T16:42:23.000Z"
-        },
-        {
-          "title": "US Army plans for 20 mini nuclear reactors on domestic military bases - The Spokesman-Review",
-          "source": "The Spokesman-Review",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWHNQb2FWSlBRY0JScXNNSkw3aVR5a19wZ3AyTFlsbGJIb2NCaVBRVWxId0IzemlVTzhBWXU0endMaXBFbl9tRWw2cXBQb1NGN1dFM2RnaHZuWUw4blhaVDRlWG1LdzhOcF9CTmgyQXNJcjh0eDZ1b2xRcGR1UmxrbmR4UXVrRXdGZVc2VHhLOTVuQ0diRTh3LXB6LTByQQ?oc=5",
-          "publishedAt": "2026-09-01T21:37:00.000Z"
-        },
-        {
-          "title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says - PBS",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVmd3eHowWUlLYXZmOGZxUGxLaDBoMTRyVW1VSmpJUUY4T1ZSN1BOcnhINEFRWDFrSUFoYUJXN04xMnNMX3VrWl9Ya01uVmlKb1VZWkpKQ3Vrd3ZqbS1TOFhkR2ZqUmd6TFZJSnFoOUtfWGlhWm03ZWpqazB3YVpHUlYtczEzQUtXUWdMNnlQRkZJXzZwTURwQkp0ZWctd1lnUnl1REhscjl2Vjk5dV9OTXdtZkZNQzZCZXRwRW9OSHhHSXN40gHKAUFVX3lxTE1uZzlGNHNvcGxKVWwwWG90bzMycDRBcUZ3NG9OUHNveXJpRDEwdFlQUmhUcnRDQ0VVeGFVWEtIYkNoNzc2ZlBkdnRMZEM4azFTYmxUVXViRVd2TXRtaTM2cEhLdnRZenFudzA3ZkQ2ZzVBbjNXeThudVFrN2pyZkJ0NkYwU21nWTdnb05rT3J1dTFwOTFFSTd3NnJHeEVOYjZsSjhQNG11cjZidm1UUzA3WVdZZUktQnVhZ1h1dzF0WVdRc3dVbUJtb3c?oc=5",
-          "publishedAt": "2026-09-01T14:43:33.000Z"
-        }
-      ]
+      "items": []
     },
     {
       "id": "usma",
       "title": "USMA",
       "kicker": "West Point",
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
-      "items": [
-        {
-          "title": "World Trade Center steel arrives at West Point - midhudsonnews.com",
-          "source": "midhudsonnews.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWEhibFozbUlCZlNMT09lUS1RLVU0OHdwcTBMMzhHWXdGWWtqclRWZ2pLdUxTYXpoeTE4VDJsU0d6R19uUk14RGpBS1VBd2tlcE5wN0N3S0kycDdzbVl2TVBjNXp2anM1S3dzSndTXy1iWnlobVU2WWxpSWFQTVV5VEpaYTVDWGJCUWRnZw?oc=5",
-          "publishedAt": "2026-09-02T09:53:26.000Z"
-        },
-        {
-          "title": "West Point’s only climate scientist fired after insisting on human causes of climate change - The Guardian",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWl9PaXBuYW1NcHN5R2N6NXdPUzJ2X2RXY2FMZENvN2UwLWlkOHlHdkpUdGlmdEo5M0tqWlU4ckRjd0J5ZTdXbW9XS2ZkampSQzBCdDlLRk93aUlQVGRRZWV2aHdCRjZaVEFEcFZ0VUw3YTN1ZGNwSUlweUJrdHlXRTViS21TRU5jdXc?oc=5",
-          "publishedAt": "2026-08-27T14:15:00.000Z"
-        },
-        {
-          "title": "From Infantry to Field Artillery to everything in-between, USMA cadets gather knowledge on 16 Army branches during Branch Week - army.mil",
-          "source": "army.mil",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZkJuODdNdUx2UmZiRFRwVHJQMFh6TlgyU0paQjBHYWdhQnhiYkdNTzIxMWtMNnJJb2RuTGZDTFp5amVmZ3lMZ3NTNFNyZU9Nb3pudEc1VGM1VkJMZEMzN0NvQUR2Q1lZWkNNMEJjQVVudEcxU0xhSjdESmp6VWI0OXh6LVZNTHZNU1JTcG9wb0gzZUNaSXU3a1N4WFJVTVZTbllRS1o0MGJPbGwtSmJTTG5GX052U3U4cUFvZjM0TS0zRTI3SFZNV0g1M1RFVktYVVMxcXRrRTNDd2I2LVJVamZNSG9oYzYzTXNRV2VfRzJLMTg?oc=5",
-          "publishedAt": "2026-09-01T14:26:26.000Z"
-        },
-        {
-          "title": "A West Point for Space? Trump Calls for New Academy to Train Space Personnel - WSJ",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDZwRzY2bnN0WUt4enk0ZTBUVTYtSXZmRm52c3ROMHJtT3QzeElnajB5cFNDRC1QWFRxTXBsSzdOQjVBVFVObmhMTWpsY0VyNkZvZDR4NVBMYWZxUi1JS3JiRVlNcUtuSHhWTkoxTmNHc3RqTEFWVHdzNjlyTnNGNjdFd21OWE9WVVUwNkJwaXdleHBVczBsWk8tTnZ6NExaV1NhQ3hYRHEzTVdtYWk2M3J3T1dST1BWbnZTWjZreDZRRkdZVDNEOUJkbw?oc=5",
-          "publishedAt": "2026-09-02T14:14:18.000Z"
-        },
-        {
-          "title": "Steve Doocy tours the US Military Academy at West Point - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wdzhKRUJhY3V4cVdVVEtMNzJfWWtMTHpfMzJoeDVBS2RtZTlFZzA1d09UY2RIQ3hIblNGam84NkxTLXdfVXl6cUh0OERUVHNDaGtIMGFB?oc=5",
-          "publishedAt": "2026-08-28T15:20:41.000Z"
-        }
-      ]
+      "items": []
     },
     {
       "id": "army-sports",
       "title": "Army Sports",
       "kicker": "Black Knights",
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
-      "items": [
-        {
-          "title": "Army's Nnadozie looking forward to leading Black Knights - Spectrum News",
-          "source": "Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTJoQl9nNmx3QTNfTFlRNGlNVG9aM0NXOGZrTkp0N0VVMUx3bHVjd2w2NnctLWpJRVFVRWFOaEM2aF9mclhKTFFzUDNlalNxVVpTQVZBZF84aXZNeUJZTHE1cTkwaDJOYmhGNTlhUFJwOS1paGFYOGFuYThpUVkxV1JBOHZocWFEa3Z5NlhCbFkyX2FFRlp3T1FB?oc=5",
-          "publishedAt": "2026-08-31T16:57:00.000Z"
-        },
-        {
-          "title": "Army football | Jeff Monken likes his squad headed into opener - Times Herald-Record",
-          "source": "Times Herald-Record",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmZ5OUxjcFFvWGt3cTRtSDZqYjdPWGxjdXRDZy1EZ3JwT2I4SE1nWnBoaWVkTEhrOVMwV01WcDhERVRvVERqTFpOVDFmcXFFNjlJcXhBb20tcjJockxnNFkwYlNha29JMFExaDIxeGZSUXltVVYtRVRQNkhPTkNSTmx0cTZ1UUJKbjJCWmwyYkZpcTM2eWVUbGNvZ25oNDRidjBqRkYtVlJyWDktTGQtN2s5N3NPWDk3d2NfcERQeEhfbUlSN3RoWA?oc=5",
-          "publishedAt": "2026-09-01T01:20:00.000Z"
-        },
-        {
-          "title": "USAA Named Preservation Partner of Army West Point Athletics - Learfield",
-          "source": "Learfield",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUtLWU05RDNRY3hJbVlRM3d5Rm1pWDdKN0RLQTVCVXg2cUhxLUd5andZQXJHRUFhTFB2TWpJN2dYbHhDLWI0VDZhYnlhcVd5RGhxSl94b0NsWGZlb3B5MjE3NEhrWW85YkFFQ3FxcUl4YzVfOXg2SlM3NzZ0bUtYSGR3WUtPVzNHZU40YVdCdE5heGxlMVdyUUVKSQ?oc=5",
-          "publishedAt": "2026-06-11T07:00:00.000Z"
-        },
-        {
-          "title": "2026 Patriot League Men's Lacrosse Championship Game Preview: No. 1 Army West Point Meets No. 2 Loyola Maryland in League Title - Patriot League",
-          "source": "Patriot League",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ19wNG0wRjhKMWZvTnR5aWk0eTRoSnR6OW1JdkduVGJjM1dFUEs1YURLS2ZOcjg0YUxsUGl1QzFhOHFCWXFfSExUeVV2SkJWYjRQY2xyZmFIalJZelJqN1BwVzZwYXNUYWxoYUYtelNLVlpiUWJxM3NuNTFyYzRWcHVCR2RTdWNKMHNxZnphc3BMUHFJS0h4b3Q0RGQwWnFRVF9qLUtsV0NtUG5OdEd4dlRacU1wNnZhcU9TMTdldXJkOTZzdjlmcVIxT3ZUUy1tZ011NzBjM3RMdVRKaDg3RGhob3ZaN0hOQ2tla0hjZnd2QzdqX1BKc1Z0R0I?oc=5",
-          "publishedAt": "2026-05-02T07:00:00.000Z"
-        },
-        {
-          "title": "West Point center pumped for upcoming season as co-captain - Spectrum News",
-          "source": "Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWJ2MHE2cEJqZkRMY3AtWmlXT1BqZnhhY0tsbXhTWE52ZTJ4SnRNX0gzZHl3YXNUMUVORmV0VW5ZSEpNTy0tSTluOEVuY3RPeHNfOGdSb2VPM3hLQ0xrdTBDbnJnTHk0NVNTeDM2M0RyQWVpRlJpaEh4T2djMnZMZnZYbzc2Q280T0xHNVY5V2R0ZnN4SG9pMlN2WHZnclZIRzktRVpwQlBEUVNJMDZubU1pYVRNNUJkVkJn?oc=5",
-          "publishedAt": "2026-08-17T07:00:00.000Z"
-        }
-      ]
+      "items": []
     },
     {
       "id": "steelers",
       "title": "Steelers",
       "kicker": "NFL",
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
-      "items": [
-        {
-          "title": "Steelers sign 13 to practice squad - Pittsburgh Steelers",
-          "source": "Pittsburgh Steelers",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ySGpUMjFuZVZ5NHVjM0lTVWtsREkwdGN2Q2N1RnRWbEZIM19xemtNVGY3SFEtZlhtaG9ERFpTdjY5WVRSUlByV1ladWtKbkZNR2NYU043STZ4VGRfbVdSdU1RbWgwb3ljYVNUTDVFZW5JZw?oc=5",
-          "publishedAt": "2026-08-31T19:46:18.000Z"
-        },
-        {
-          "title": "Pittsburgh Steelers practice squad tracker - Behind the Steel Curtain",
-          "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMDlydU9mQUs4TzQtNmloR2MtUWl4U0EtQXpaZTIwMzAyTjlIS2t1NnczU291ZnVNTURKTkVxaUswV0RXaWlRV3pXcHhTY2FEM2RrRVQ3eW0wNkwteUtlbnNOZnpEdU9vdDVucHFMMERyNXBaT2JXYzBDNk5IdmJCejZSVWd6X1ZveGhleUVPX2ozUzRSTnhmZlZmRUphZXhNWGt6OFppazNydWZBbVU2azNlbVNGcW5nY0drVHQwQVFzcktIdUE?oc=5",
-          "publishedAt": "2026-08-30T22:00:00.000Z"
-        },
-        {
-          "title": "Steelers Sign Three More Players To Practice Squad - steelersdepot.com",
-          "source": "steelersdepot.com",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaTJGdjIyVFhVZzJzY3lESnd0bzVTbk9GRDdWd1JaQ014eE0wRW9aQ0JfbWxkajY1NFRiNWphZWNMbmlHLUJQR0RuOWgySUxjTjlERWZLVEc1a0Y2d1JVb3BHQkQ3MjFaR2FLTXREWnBIbG9XOTJhUF9jaWNnYUNRTEdqYWpXdGxLSG9sbzNR?oc=5",
-          "publishedAt": "2026-09-02T01:27:20.000Z"
-        },
-        {
-          "title": "Steelers won't negotiate with CB Joey Porter Jr. during season - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYXZXMC1LdlhuN0ZjOEZuWmo1TmRDeGFNaklBRU1semZzWTY5UHh2NWdCbE9pcE9OZFF5Yk9Gc0ZWRkZaRFhONHZibjgwUThzV25qbHUtRURRSmw2cG13R0RMSHJXZWE4Ti0waWgwYWV0RHhqRWFhRDBXSHFhQ1IydVh2YnJRY19EOVZsNmpNZW1Rdw?oc=5",
-          "publishedAt": "2026-08-31T19:55:00.000Z"
-        },
-        {
-          "title": "Eli Heidenreich's improvement on special teams likely solidified his spot on the Steelers' roster - Pittsburgh Post-Gazette",
-          "source": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjVNdzdUaTdBZUwwTUowWFpseHYxMWswZlFOY2w5c2FIVTRGLVRjTnI1bDh3Rk9RNDJiMlNRY2Y5NHRaR3poMkhpeTBsS0dnaENadDBrZUFrbUhIbmt2YVNJejdyU2ZPQ2l5NU9jM1ExYmtaQlJfNFhMR3hfRVlTTzdGcW03cFhkSkJkQ3FHdEcwVV9kT3JKSHhnVVNCNlRNMEJvS3RIUXBKSlFQQV9JanhfQQ?oc=5",
-          "publishedAt": "2026-09-01T20:56:03.000Z"
-        }
-      ]
+      "items": []
     },
     {
       "id": "country",
       "title": "Country Music",
       "kicker": "Music",
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
-      "items": [
-        {
-          "title": "Country music star Derek releases new single - The Fermanagh Herald",
-          "source": "The Fermanagh Herald",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3k5dFVoa1c1eHg2eGFmdDJidi15T0pYeS1QNkZvbEVnd2tXVThxaVdJUTgzTUpEUzJKeGVEeHBFV1lGckM2WEx6a3ZFcGdkQl9FZkt6OU9tMDhoUVlxZV9TbHRla0djVzhrQU44MnlwWm51bWFSOFVtWUY3QW5vRHpfVmx2NFlM?oc=5",
-          "publishedAt": "2026-09-02T07:00:00.000Z"
-        },
-        {
-          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
-          "source": "Holler Country",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
-          "publishedAt": "2026-08-24T07:00:00.000Z"
-        },
-        {
-          "title": "August 21st, 2026 is a Busy Day for New Albums. Here’s Your Guide - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmtUNURvYmpOZk5uSTA3SlNPc3VTR0kwOTh0OGEwcDBUOUxXVGVqSnEwN2RFbVBvMWhhVmRoeWJqV1hxNEczUVRRRXJyYk1qenB6cEc2cWZXU3JIamlXZjA0LTE3ZmM5YWtkbUZBQWMzRFNaRFNodzFXRnJYZE5GLWg3eVZJQ1hxeWFyemJzV3NHM2xxWlV6aVdB?oc=5",
-          "publishedAt": "2026-08-20T07:00:00.000Z"
-        },
-        {
-          "title": "Riley Green's new 'Think As You Drunk' music video is winning over country music fans - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcmJDUUlrQndSNE1MeU5sUkdWWEgzSGVWTmVxODRjWWM3Q0hEWW1uaEIwVnFqeGlqSk1oMXBnZG5TQ2F6YmJIZlpyandvRkg1TmcyYno5X2Q2b2tKMjcxTDRMWTB0WkZFSDRISjRHUEtFa1Zua0l3Ulo2VEJPTnRJQzhMaDBiZlJuVTZaODYwRFhRdWJTRk5kdEk2V2FYcTctQVBGSUVDTVJfR1FpTlE?oc=5",
-          "publishedAt": "2026-07-10T07:00:00.000Z"
-        },
-        {
-          "title": "Country Music Hall of Fame® and Museum to Open New Exhibition, Kenny Chesney: Living in Fast Forward - PR Newswire",
-          "source": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObUVIdUtDbjlOYzBpRFVMbm5XZnNZUURSLWQtSGIwb3hmVEZqYzJkOXhNOER3Q3lpVEpINzNqbEJoVXQwU01lMUxILWlCR2NYbm15TTljckZ4djNldVAwbVNOZ19NZnE3OGxkVWt3OHNVNE4tSXVwMTVqWldvSTZfelQxX3I1QlJXRHhqeVFEc0FYZ0xSZlpuc3JUeWxBZVNfNGdYMmxKV2ZfbkVqd2cwQlN2SWc1c1c1aFdRamJqN2UxcDUyNXRrRnE3a3F4TFhqOVVuNHVVRnhzd1A3TGhBaXZ0ZkYtZm9T?oc=5",
-          "publishedAt": "2026-06-16T07:00:00.000Z"
-        }
-      ]
+      "items": []
     }
   ]
 }
