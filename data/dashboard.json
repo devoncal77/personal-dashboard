@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-03T14:35:35.791Z",
+  "generatedAt": "2026-09-04T14:22:58.726Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$768.17",
-      "change": "+3.01 (+0.39%)",
+      "price": "$771.16",
+      "change": "-2.01 (-0.26%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$533.65",
-      "change": "+3.02 (+0.57%)",
+      "price": "$534.10",
+      "change": "-2.83 (-0.53%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$712.11",
-      "change": "+2.87 (+0.40%)",
+      "price": "$719.92",
+      "change": "+2.25 (+0.31%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$329.40",
-      "change": "+4.44 (+1.37%)",
+      "price": "$321.49",
+      "change": "-6.72 (-2.05%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$510.60",
-      "change": "+13.78 (+2.77%)",
+      "price": "$502.84",
+      "change": "-7.29 (-1.43%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$377.72",
-      "change": "+20.70 (+5.80%)",
+      "price": "$354.15",
+      "change": "-22.22 (-5.90%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
+          "title": "Philippine vice president is ordered arrested for threats against the president",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem",
-          "publishedAt": "2026-09-03T11:17:01.000Z"
+          "url": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
+          "publishedAt": "2026-09-04T13:42:10.000Z"
         },
         {
-          "title": "Gloria Steinem, trailblazing journalist and activist, dies at 92",
+          "title": "Myanmar military head visits Vietnam to normalize relations",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies",
-          "publishedAt": "2026-09-03T11:14:24.000Z"
+          "url": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
+          "publishedAt": "2026-09-04T13:35:39.000Z"
         },
         {
-          "title": "An epic train chase is turning 100 — and Buster Keaton fans are celebrating",
+          "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/03/nx-s1-5921324/the-general-buster-keaton-anniversary",
-          "publishedAt": "2026-09-03T11:00:00.000Z"
+          "url": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
+          "publishedAt": "2026-09-04T11:29:11.000Z"
         },
         {
-          "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
+          "title": "Scientists map key protein interactions linked with profound autism",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
-          "publishedAt": "2026-09-03T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
+          "publishedAt": "2026-09-04T10:00:00.000Z"
         },
         {
-          "title": "Inside the failed mission to eliminate FEMA",
+          "title": "Germany&apos;s far-right AfD party is poised for power in a state election",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
-          "publishedAt": "2026-09-03T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+          "publishedAt": "2026-09-04T10:00:00.000Z"
         }
       ]
     },
@@ -89,35 +89,190 @@
       "title": "U.S. Army",
       "kicker": "Military",
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
-      "items": []
+      "items": [
+        {
+          "title": "Trump names Adam Telle as acting Army secretary following the departure of Driscoll - NBC News",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWk3NDd3OENJeEZEMVFHZEpqcGZYLVJBY1NaM015T29tX2o1d0g0RlpjQVZZaEVLWnZvWFZaYXhSOEVnTFk3R1pKU0xvS3RIOTRQUUs1eUNieGhrZlBvVlJ6MzdDTlQwb1Jmem5EMW1yMGl1VWY1ajJQUU9zYS1HY1cwMHh2Z0lwNVFycmVBeE9GVk9xWUdBNzVVZTdjQ1RoM003WENnWnZKblc4MXRTc01n?oc=5",
+          "publishedAt": "2026-09-04T08:38:37.000Z"
+        },
+        {
+          "title": "US Army Tests Army MAX AI Tool to Speed Up Military Procurement - The Defense Post",
+          "source": "The Defense Post",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9scVBmZjB3Z0dBUDM3TDhWSlhuSnF4Z0QyNzRBdEkzQWV5a3A1eUIyM25mTEQ0UHhVTHBjNEdyM214SkQ4VldNQ3NpSnZoT2ZKTkQwUC1EYmNaYV9vUGRQQmYzSdIBaEFVX3lxTFBid1JzSEZJYy1HZk5sWFdWZ0loc2RodlNndHhKanl0SmZoaUNlcjNtVlMwWXlWTzVmNUpVTG4xTDRRYXRGQVNPRWU3YUhiZ1lheUwwR1VUdDFjTU1FVW11RG53Z18wRkhN?oc=5",
+          "publishedAt": "2026-09-04T07:54:46.000Z"
+        },
+        {
+          "title": "News - KISD students take center stage during U.S. Army Experience Band Showcase - DVIDS",
+          "source": "DVIDS",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeDZoRm1BNmQ5SjQ1SVJlZTdNOVpzRzJPaFlFTks4TEhnZnBwMlYwQ0FuSXg4NlpYZ0d3aEJqUTJBMTdubTRwZC1YZFpNcWZ1RXdDTjBtTGZDYzJiM2Fya1RlY2ttT2IzME9iMlVFY3cybmZxdGY1bkEya0RGTzJQSlJ0OWtkekNac21NMnNZUWxzWG5QRVl3eUdmOEQyQ0dMU1VNZnlLWVVaT18z?oc=5",
+          "publishedAt": "2026-09-03T20:20:00.000Z"
+        },
+        {
+          "title": "US Army launches laser production with $465M contract award - militarytimes.com",
+          "source": "militarytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRnpjcHEyQ09xZ1o0WHNEZDlESkk4a1Y4ZTNESldRNHdoOFM3R0dzTEU5clhFUUJTaFh5clhtb0tYSVkxQ0Y0eFIzZVRQNGw2dHpZNV91X0F5T3VUOTMzbXA5QURVeFdYSU1OZnE4czFCeHlheG1XS0h0T19KRzl0emtHTkF6YW9fY3A4QmlMc3ZPcUl6ekJDOFJQQTdtTExaNjdnM0NvbDFXWjBOeHRxYUtnaTd1Nm1JbUxj?oc=5",
+          "publishedAt": "2026-09-03T19:54:51.000Z"
+        },
+        {
+          "title": "The long-term implications of Pete Hegseth’s US military purges - Al Jazeera",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGJZZUhvSUY1MW53NDlWTGk3bUgzdXhLVWpsU29FVlh6VjBqeWRhOFpranNFMkRPNUxfZW1HSGNIT3dFcmxYc2xPYl9CZjEyZDh1RHpab1JPV2FaOFM5MklLMDNlZUZjQ24xLWQ5OUthTXp2ZExDS2QwWDNVLXBxWl9wXzRpYmdnNVNqcXVYdWVUSUkxS3fSAZsBQVVfeXFMTy1ERzRLdTNLUHdtdC1jRE9KWDZET3I2U3lIb3FiMV9IaHBTNE92UDhkNHdpNFkxQlFNMHo1ZGJzOWd3Z3plUXROVmh0RUFmVGxRMGZTYzVaN082OVdMX2hTOUtoa1hCWVAzZ01OM2loZkFiZG9LbXdmRFh5elZKTWpUNmVfSGpudkRWNUR5VXRqR3ZUc0FLcU1hM0E?oc=5",
+          "publishedAt": "2026-09-02T20:52:07.000Z"
+        }
+      ]
     },
     {
       "id": "usma",
       "title": "USMA",
       "kicker": "West Point",
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
-      "items": []
+      "items": [
+        {
+          "title": "World Trade Center steel arrives at West Point (VIDEO) - Mid Hudson News",
+          "source": "Mid Hudson News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWEhibFozbUlCZlNMT09lUS1RLVU0OHdwcTBMMzhHWXdGWWtqclRWZ2pLdUxTYXpoeTE4VDJsU0d6R19uUk14RGpBS1VBd2tlcE5wN0N3S0kycDdzbVl2TVBjNXp2anM1S3dzSndTXy1iWnlobVU2WWxpSWFQTVV5VEpaYTVDWGJCUWRnZw?oc=5",
+          "publishedAt": "2026-09-02T09:54:54.000Z"
+        },
+        {
+          "title": "Federal lawsuit alleges UW president stifled climate education in former role at West Point - The Laramie Reporter",
+          "source": "The Laramie Reporter",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHVEcnpDaTNQc0FkNjktNlZkaTlEczJFY2U4b3VDNGdva0lheGtQQmF0WEVuNnhKb1QybU1rNHlUN2g4NlpsU1UwQzMwY1VxRy1LejliZk1Ua04yeDNDdEx3dWVCUFFhZ2xGaFFkLXZsSk5aMElaVHVabHNvRy1PaQ?oc=5",
+          "publishedAt": "2026-09-03T20:39:00.000Z"
+        },
+        {
+          "title": "West Point’s only climate scientist fired after insisting on human causes of climate change - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWl9PaXBuYW1NcHN5R2N6NXdPUzJ2X2RXY2FMZENvN2UwLWlkOHlHdkpUdGlmdEo5M0tqWlU4ckRjd0J5ZTdXbW9XS2ZkampSQzBCdDlLRk93aUlQVGRRZWV2aHdCRjZaVEFEcFZ0VUw3YTN1ZGNwSUlweUJrdHlXRTViS21TRU5jdXc?oc=5",
+          "publishedAt": "2026-08-27T07:00:00.000Z"
+        },
+        {
+          "title": "West Point Climate Professor Says He Was Fired for Refusing to ‘Defy Science’ - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFVsZTVOTU1oTXpSUGMtbkxaUjRFbWhSZlQ5R1dXbjRwWlNpX3RfVkRrS01aRVhsQm91c280QXhQOVhuVG0tU25rTFhvY3N1S19DeWdURDg2a0NlYk03cF9SeGQ4QUJjOEllVzFtU29ySXBSbXRxYkFYMy1oaF9TYmdOWEZUTGxicW5NWUR5Rm5wZw?oc=5",
+          "publishedAt": "2026-08-26T07:00:00.000Z"
+        },
+        {
+          "title": "West Point professor fired after pushing back on limitations to teaching climate change, lawsuit says - stripes.com",
+          "source": "stripes.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFpZVjJzTUhuaFdHVmN4cXlhRGE3NVFISURLeXFHQmFnTTIxOVdhR2RUeElmMU01bFU2TUpZeU1LWm44RVo1QlF3NHlsYk82akdVb0d0a2NLU1lzempFZktNTnU5dDEyNVNUaG1pcUVpNnVkUmNfbVBRdW54ZGg3SmtaZmZ0VzVTV3BBT1l3d0dBaWRqbEtNNzBKZHlpMEw3V2JNekprWk5xRUFTbWpBSmhn?oc=5",
+          "publishedAt": "2026-08-26T07:00:00.000Z"
+        }
+      ]
     },
     {
       "id": "army-sports",
       "title": "Army Sports",
       "kicker": "Black Knights",
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
-      "items": []
+      "items": [
+        {
+          "title": "Why Jeff Monken likes his Army football team entering opener vs. Bryant - Times Herald-Record",
+          "source": "Times Herald-Record",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmZ5OUxjcFFvWGt3cTRtSDZqYjdPWGxjdXRDZy1EZ3JwT2I4SE1nWnBoaWVkTEhrOVMwV01WcDhERVRvVERqTFpOVDFmcXFFNjlJcXhBb20tcjJockxnNFkwYlNha29JMFExaDIxeGZSUXltVVYtRVRQNkhPTkNSTmx0cTZ1UUJKbjJCWmwyYkZpcTM2eWVUbGNvZ25oNDRidjBqRkYtVlJyWDktTGQtN2s5N3NPWDk3d2NfcERQeEhfbUlSN3RoWA?oc=5",
+          "publishedAt": "2026-09-01T01:30:21.000Z"
+        },
+        {
+          "title": "2026 Patriot League Men's Lacrosse Semifinal Preview (4.30.26) - Patriot League",
+          "source": "Patriot League",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFJyNFZicV9UeVh3NDQtOXRwQUZjS3lVX2x0WUhRZm9uT1ZkbUNpZjdNdHNYY1V4YzdiZDZfNnVRMDgyX3JQLXpFb0w1a0FBV1R1TVZDUFhleVVici1ZT2l3RkdkclgwS1VmTEp0YnE4ajlHbHVSb2FIZE9lX1lWV1R3WVZOWFVYV2RPRGdIcHRkemRlRkpxTW1FNUZfem9TTGZaX3lIREc?oc=5",
+          "publishedAt": "2026-04-30T07:00:00.000Z"
+        },
+        {
+          "title": "Army West Point Athletics Joins Forces with Firehawk Aerospace in a Multi-Year Partnership - Learfield",
+          "source": "Learfield",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2FEdTVWLUNwSF9tQWMxRHFhcEFwVExCU29Oa2dDNnNBT1NacUEtbXVmS0JFLW9oVUVIQjU3T1djQ3dWd01HUV9YTDlkUjkzdENEcDRsMWlCVjdKWUtOUFpvVk9jMVE5amRZZnJKaEVnNG92YlU5UWk0S1BQQ0ZzMXBEb0FQcW8tZl8xWWtZU3VLQzdlWGd5T0lNejdTUFJJZWZ1TWcteDI1LVhIRzN0bC0zUHh6R1owNUxfX2t3ajZhRms?oc=5",
+          "publishedAt": "2026-03-18T07:00:00.000Z"
+        },
+        {
+          "title": "Breaking News: USAA Named Preservation Partner of Army West Point Athletics - On3",
+          "source": "On3",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3ZEaVJTYlFESVpfbW9vR05heDltNWh1aXo3WUJ4SExzaFRSWnNjekJRYThicmVwNkl5SExmdzB0QnpUbmJEeHNVejV0UHAySVhrYnU2ZGFqZ090X0NLNXpXTVVmUWVvaUV3aVVhZHlRMUFITmhsRy1hY190eEhRalVZbGRuS2dNdWRqMU5TLVRwTThwQXdsbUI0Um5IQUdPeUtGUGxIZ0JmRXloUFAydjlQZmlHRTBrZ0gwRVNXNWQ?oc=5",
+          "publishedAt": "2026-06-11T07:00:00.000Z"
+        },
+        {
+          "title": "Perfect 10: Army West Point club hockey downs Sacred Heart 5-3 for 10th consecutive victory - United States Military Academy West Point",
+          "source": "United States Military Academy West Point",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOR3pDcFc2V0d4S1lmNFJtb1pDSklQR0J1TXpPc19RVXRQamdlRTZ1VFRiMXRNLXl4azYtSWRWUW9zY1M1a0U4NlotSEx2U0ctUlVGVTRzMEpraWNvaVNzRDM3Y05HUG0wcTgtLXlnSURYZEdzaGR2YW84V2V1SDA2ZjlGeHpEakwtcVFaMkJtanpmaVhSR25hZUVyMllUNDFxVHUtTGw3aU1RYzdDSkhKRUdWZUp6cnkxcmNiOTliTllaMXI1cVdENXgtQWIxSlh4RlI1YW1JeDM0QnFWdVhsZHItblBKdw?oc=5",
+          "publishedAt": "2026-01-26T23:34:54.000Z"
+        }
+      ]
     },
     {
       "id": "steelers",
       "title": "Steelers",
       "kicker": "NFL",
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
-      "items": []
+      "items": [
+        {
+          "title": "Steelers 2026 Kickoff Week Activities announced - Pittsburgh Steelers",
+          "source": "Pittsburgh Steelers",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeXZrV2daQWJxUjhJdVpRekhoY1dJZW1Gc1ZVemdMMjZCNm1LaDR3LVJaNno3bnAxYXJMNDY0YVFTVkdlN2ZOZVBxNzN1eGFlbXJoVGIyNHA4Z1NSQ1l4OUFQTFlTWUJXWlNwTDBCYmk3ZFhuZlcxS3ltRHY0NzROSUFJNA?oc=5",
+          "publishedAt": "2026-09-03T12:27:03.000Z"
+        },
+        {
+          "title": "Mike Tomlin Reveals One Reason Steelers Traded George Pickens - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHI0NG5QOXV5OTlOMXo0amt6Unc0N3NXcDdJY3dzVnl1SGxyeHFvVmI0NC1YemtiSGwxNlhkamJ6TVBPRm9lbmZFQU5uajQ3M1JnMmNVdTVqdmNJM0ZIQkxoVXNtNFpSdS1sZDJJN0JsZUNrNFlsRVBhYXVnT244OGVJdHdiS21XSm51UnV3NUdpaHZZaVFocktlQWc2dm9JVzhBZXNPaXVxd2hoMWc?oc=5",
+          "publishedAt": "2026-09-03T19:23:50.000Z"
+        },
+        {
+          "title": "Aaron Rodgers: Steelers' 4-QB room is first of 22-year NFL career - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkJ1MVhEdS1nQUJBYXRPTWlNdlA4TzMtemRiRDFGNmkyYjVncC0zT3U1anA0MkR5bl9zMnVzcmZlQ3lHSTE5aF81dW0xMXR1UlQ3QlhEZjBlSXZSQnYwNEVuY0RsT0pBbnBxaV9rNnZFUVJoTFdfMG9mOUdFNmtZaXlwM1M4STdXVVpUa1NkR2xNT21xOUZ3Z2d3aG1FQlVvREExQWxNOVg1aEtuMEdlTDFVSzF4ak1EUElHU0R5V196Mnc?oc=5",
+          "publishedAt": "2026-09-02T21:00:00.000Z"
+        },
+        {
+          "title": "Opinion | What the portrait of Aaron Rodgers often leaves out - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUw1YTBoaVI4dHU2cXQtSUROUUtWc3hsaHY1UHIwaE11Um1kQ0xSODFvYjh3R1ZGOW5ZOHR2eDJHS3YzTHRoU0FJMWtsb20zb3Rra1M0ODlUaTBVanhLZ19sR1VCQXhIa01sUkhkT3RscTBWUWQ5OHBiei11UGVLR2I1ODFlNjdDMjdoODl6N3ItQTltVWVwMlZCZUFONlNvZHJsSUR2MWZScFlyekFuUE5BeHcxTUFaRVpr?oc=5",
+          "publishedAt": "2026-09-02T18:30:00.000Z"
+        },
+        {
+          "title": "Payton Wilson takes jab at previous Steelers coaching staff - Behind the Steel Curtain",
+          "source": "Behind the Steel Curtain",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVGMwUUN0WTFzcUgyTkNTLUUxbHlhWnVLNWlGbmtHOHR5S1ZuZFlkTFZVYUc4ZWNUdnRrX0dWNWVTclVaUWNJZThaQzVYTC1iN205UGZOU3BNVDhKWUc0Wmt4aWVzYXZzQmp3cW56dXhaOGc5OU9WdzNSOUs2UjlXTUhkQm9abW1EakZGSElLTVlxWFRWRUEtTUZvMnRoOEdjd05JU2ZSMW03VUxXeVVKSXkzNkd1c25iME9xblVUZTgxcjZNMjhDUA?oc=5",
+          "publishedAt": "2026-09-03T15:07:02.000Z"
+        }
+      ]
     },
     {
       "id": "country",
       "title": "Country Music",
       "kicker": "Music",
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
-      "items": []
+      "items": [
+        {
+          "title": "THE WAR AND TREATY Release New EP COUNTRY BAPTISM - BroadwayWorld",
+          "source": "BroadwayWorld",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU25PbkVJVDVpWWR1TTRSQTFrVWNZVG42TlkzengzaU9Ea0VSeHpwOS1kUXZ0QzlleGJWMmpGbGExY0RUb1NldDZKblpubWtRX1FlV2JZQkxXWUdURFBlanBiNUNhVDQtUXI4dU5fZU1qX1RQTXR3OW1EMkJCUXhQdDR0dW8tNVN4OTJTdldfd1ZaZVQ5SU41WUVYazNJTnBwTnQ0dzlOdHo?oc=5",
+          "publishedAt": "2026-09-04T13:25:16.000Z"
+        },
+        {
+          "title": "David Allan Coe’s Final Album “A Million Reasons” Set for Release - - Saving Country Music",
+          "source": "- Saving Country Music",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVU5UR2FsempqT3lBb1V4a0RDWmp3eWp0NHAzaTF0amZKUkplOU9zdl9jZC1XbThNNXhNOGNMVFU0eUE1NFpxQ0I0bm5zSlhKcVBuM24tTW5mcWJnMWFRZktudFVXbjZxZGNiTU50SWZ1RlFoZlNfYzdWZmdxRTV1bVY5WVByRWVpYVVESDRKd0xCRFVZWVFYSkVn?oc=5",
+          "publishedAt": "2026-09-03T19:30:40.000Z"
+        },
+        {
+          "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
+          "source": "Billboard",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUE3QVdmSzJFX2JTc3JDdmJNdFVQMEg5UU1ubXBMNmNRZVNMWjJ1OHY1SGo5eGRVajh4bk03cWlaU0Zlc1VNTTY4U1VOcV9rQmNxaE9pVExZX0ZGaWJKMEJtV01sZWVVcTU2Z2ZuUDFWT2ZUMU5fNF9TMVZDcHZGUVhEd0F2S01LdjU0bENISQ?oc=5",
+          "publishedAt": "2026-09-01T07:00:00.000Z"
+        },
+        {
+          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
+          "source": "Holler Country",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
+          "publishedAt": "2026-08-24T07:00:00.000Z"
+        },
+        {
+          "title": "Country music star Cleve Francis recalls Williamsburg in new memoir - dailypress.com",
+          "source": "dailypress.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGY2VWFjWTBLLWZsNXhNODBGaFJaczZBbm9mN2x5RVVjbmlEMVc2MWpyVThGak9lc09YZmVxSVo0dko4T3ZDejVzSFZkSVBRaldaOTV2SkdNZzd5ZkJFZzZBYUZ4b21nNm41TnVRSGlVNzJPb0pCcGdkc1A1X3RwU1ljQVRReEw2V0Vvb0pqODJTeHlYdXk1ZEkzbHJYeXRfczl1WHRIV2hRZw?oc=5",
+          "publishedAt": "2026-09-02T13:06:39.000Z"
+        }
+      ]
     }
   ]
 }
