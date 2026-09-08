@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-07T15:52:24.777Z",
+  "generatedAt": "2026-09-08T14:33:45.780Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$770.19",
-      "change": "-2.98 (-0.39%)",
+      "price": "$766.48",
+      "change": "-3.71 (-0.48%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$534.08",
-      "change": "-2.85 (-0.53%)",
+      "price": "$527.55",
+      "change": "-6.53 (-1.22%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$718.96",
-      "change": "+1.29 (+0.18%)",
+      "price": "$717.23",
+      "change": "-1.73 (-0.24%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$319.97",
-      "change": "-8.24 (-2.51%)",
+      "price": "$315.38",
+      "change": "-4.59 (-1.44%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$499.70",
-      "change": "-10.42 (-2.04%)",
+      "price": "$490.73",
+      "change": "-8.97 (-1.80%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$354.08",
-      "change": "-22.29 (-5.92%)",
+      "price": "$363.18",
+      "change": "+9.10 (+2.57%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "As Nepal identifies those killed in the floods, questions grow over China&apos;s reporting",
+          "title": "Australian social media users to be offered choice to opt out of algorithms",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
-          "publishedAt": "2026-09-07T13:31:16.000Z"
+          "url": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+          "publishedAt": "2026-09-08T13:24:00.000Z"
         },
         {
-          "title": "5 dead after crash at Miami Airport. And, Germany&apos;s far-right wins state election",
+          "title": "U.K. accuses Israeli settlers of &apos;ethnic cleansing&apos; in West Bank and bans their goods",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
-          "publishedAt": "2026-09-07T11:11:51.000Z"
+          "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
+          "publishedAt": "2026-09-08T13:05:20.000Z"
         },
         {
-          "title": "The first day of school: Bells, bikes, buses and big feelings",
+          "title": "Whatever happened to the Taliban threat: &apos;We will flog the women&apos;?",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
-          "publishedAt": "2026-09-07T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/09/08/g-s1-142038/taliban-afghanistan-public-flogging",
+          "publishedAt": "2026-09-08T13:01:58.000Z"
         },
         {
-          "title": "&apos;Her body temperature was 106&apos;: How heat is killing Americans in their homes",
+          "title": "GOP to host unusual midterm convention. And, Canada&apos;s retaliatory tariffs take effect",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
-          "publishedAt": "2026-09-07T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
+          "publishedAt": "2026-09-08T11:20:05.000Z"
         },
         {
-          "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+          "title": "Has the economy gone C-shaped?",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
-          "publishedAt": "2026-09-07T09:00:00.000Z"
+          "url": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
+          "publishedAt": "2026-09-08T10:30:00.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "News - U.S. Army engineers train Ukrainian military officers on large-scale construction management - DVIDS",
-          "source": "DVIDS",
+          "title": "News - U.S. Army engineers train Ukrainian military officers on large-scale construction management - dvidshub.net",
+          "source": "dvidshub.net",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXF5TnB1VFJFYVZxZTI4Z2p0Y3FjZWdsYTY0Zi1ZZDBlc3N6SWFCNURwdXo0bUJfOHgyeWJWNnVHd2toVWR5MlIzZDc5eEZoQ1JmeVE4dkFFQk1OM1dCWGtKdFJ2WUE1dFNyQmcyNUdoUjUyMHo0T0dZVlBXa2dLUlJNVUgwb0xid2hQNi1FemxxaDRNa1VrMmVkTGtTZ0Zia3dQY200Y0FyaTRfZFRZbEsyMHgwbVVPbGlrV2Uzck5XQQ?oc=5",
           "publishedAt": "2026-09-06T05:15:19.000Z"
         },
         {
-          "title": "'A big piece of our hearts left this earth': Military families reflect on service members killed, injured in Iran war - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzJWcmVEeGZUdnNJbkdEZXJVSXdZSHJTNUphSjBXRDNLbnBqbTNXYm1jM25LU0gtelZ0d2FTX2FNRHFGQTc2OUN5TnhibUpWbU1aQ2xZcjdYX2UyaDNJOVhjOU5CZWI4MlJkWF9wOEp3U1pHVTF4V0ZCcDZCTTVHZWVlYVF5aHFyX1hlbU94UW1ya0tibllWMmpMaEd4VE5Oc3BZ0gGoAUFVX3lxTE5GVnZNemM2TUZwdTF2c0ZPeUV2T1NjbGxZOFc4Vk12OFVjUEF2LXJZbzdNajhlYnFBcldmYWhUalZfZ01HZE1TakpsaHV4SkttOEFrQWNUejlINngteDRRTFNVNGQyQ2Q1UXhQeXhKZDhNSkRweXpybW84NFhFUzUyMGFNUUQ0NUNteUdiVFM0bHR3b3c4Mjdtb2JvQ2ZPNGJuSWkwRy1mVg?oc=5",
-          "publishedAt": "2026-09-04T14:45:30.000Z"
+          "title": "Romania Seeks Stronger US Military Presence and Approves Long-Term Army Plans - Межа. Новини України.",
+          "source": "Межа. Новини України.",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QZkRNYzBMUnZzQ29QNnFkU1ZMbjlCWHJnMEhFTkhScVhDc1ZibWNRLVZOaVJxbW1Ud2VLcHZjZmlVNmlxcUp6c3duY0c1Ql91Qk9oVXZEeE1zaHAwT0ExLVpkaEJlMDk3MWNN?oc=5",
+          "publishedAt": "2026-09-08T11:34:18.000Z"
         },
         {
-          "title": "Trump and Hegseth have hollowed out the US military in just 18 months - The Observer",
-          "source": "The Observer",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3o3RURmWHMwLVFQVlBTODMwX1hnLUptei1kdzhfMmpZMzRsZjVEeDFFRmVWVVRDcHpTZVFWSWNWSmFyaUs1ZEowMGdPVDFiWlMySGJHZmdHeGFpLUNCX2Nmb1FhNUVDLTVJb3N2aTZsOXU4cHhjSmdDVkRPSlc4WUltVVdEbjUtcml3c1QwdXltYnVZcTZaV3N6aVhXSDBfTDFBbzVuQ2pieHNJYm9xNUF4M0hqYkxXNV9N?oc=5",
-          "publishedAt": "2026-09-06T05:18:26.000Z"
+          "title": "Army's $3-a-Shot Laser Cuts Cartel Drone Flights 75%, Military Says - DroneXL",
+          "source": "DroneXL",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUNDck91Slp6NnR2YUc0RkFZVVBYbjJmODlSYkZKYjRlSXpkc2hrYlBEMDFPUm1uUHBjRWFuWWxxOUV1emtqWGZGVUFHT1ZzOEl6TFZ5ZFppcEFBQV9yemlja1RfSDg4cTk4cHh0VkpDYWx2Z0dkWEwxLWRNRjBDOF9FbEs?oc=5",
+          "publishedAt": "2026-09-07T21:21:00.000Z"
         },
         {
-          "title": "The long-term implications of Pete Hegseth’s US military purges - Al Jazeera",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGJZZUhvSUY1MW53NDlWTGk3bUgzdXhLVWpsU29FVlh6VjBqeWRhOFpranNFMkRPNUxfZW1HSGNIT3dFcmxYc2xPYl9CZjEyZDh1RHpab1JPV2FaOFM5MklLMDNlZUZjQ24xLWQ5OUthTXp2ZExDS2QwWDNVLXBxWl9wXzRpYmdnNVNqcXVYdWVUSUkxS3fSAZsBQVVfeXFMTy1ERzRLdTNLUHdtdC1jRE9KWDZET3I2U3lIb3FiMV9IaHBTNE92UDhkNHdpNFkxQlFNMHo1ZGJzOWd3Z3plUXROVmh0RUFmVGxRMGZTYzVaN082OVdMX2hTOUtoa1hCWVAzZ01OM2loZkFiZG9LbXdmRFh5elZKTWpUNmVfSGpudkRWNUR5VXRqR3ZUc0FLcU1hM0E?oc=5",
-          "publishedAt": "2026-09-02T20:52:07.000Z"
+          "title": "Inside the Battle to Save One Pioneering General From Hegseth’s Purge - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM053MGlOeEVNY1M0cllieHpiQk1kb0h6dzRnaW5mWW9HX1JUQUUyZU9lQmNTY1IxZlBweVJlVFQyT2YxQ3JZM3lRbTBua1E5RjhNRXE5VFFkYjB6UW1Xd3c3cGxkU2NINjVyUzFyOWJ1eHJFRHItOGI4NEtTLVQyMTRVOG1vcjA?oc=5",
+          "publishedAt": "2026-09-06T09:00:35.000Z"
         },
         {
-          "title": "The Latest: Army Secretary Dan Driscoll is stepping down, White House says - MilitaryNews.com",
+          "title": "Trump names Adam Telle as acting Army secretary following the departure of Driscoll - MilitaryNews.com",
           "source": "MilitaryNews.com",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPckthbFczc0hZdUhCN0RfeWhqVmc0QWo0VmIwTTNDSkZYVGItWk9mb01kVDJMWXB1LXY1SWVkdmQycUFpZDRLQmp2WV9UbG9NaHhJSHgtcC1VMEFxM09aYm5yaG1UalI0NmY2eWN2R1BMejNlQVEyY2ozODFvRlZRN3dkNDhGWE9pNi11RWtvR3pMcFRNOVVwbGtxYVpMeWlXQTZDejhxbXpFaVA4akJuYXN2dFZONVM4YjdZRC14SUEwS3pmT1dTM29qYmVNZUEzclA1TXI0b0pRQ0NpU1dLcEZUZERVX0I1OFNVM3RfLTl1Qy05RGg0bQ?oc=5",
-          "publishedAt": "2026-09-01T16:42:23.000Z"
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOXzdhVnk3aEVqc1YxMVNRQ25KS2VmYjFvS0pNWGNKMnZWdGNBR05sMmRzRjhJMjA3dUNyNjNVZUZqS2dQeXBYMFdjMmQ2eFFMVkhjMDk0aDM0aEJFNUV2ZGxONGEtNE5nNEMxeXFZd0E4aXBoV3BETjdNMG56NVExbmNsMktFcWlfSzE4S0tZNWRvVFhPOGpoQ2tqQkxYYkFvU3Rvd1o1N1hwaUxfVlZHQWZ3YlRrZ29MX21WSi1IYm9NZGdheDJxbDZ3MnJyMnFEN0lTUDRGbzBMMk1paDgzd3hSNjhKQVJfSDhnOW1BSS1lcUtnT3BNODVEX0k5eWg4dWIxZHZvTQ?oc=5",
+          "publishedAt": "2026-09-04T00:57:47.000Z"
         }
       ]
     },
@@ -129,16 +129,16 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "West Point Professor Sues UW President, Says He Lost Job Over Global Warming - Cowboy State Daily",
-          "source": "Cowboy State Daily",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRndvYUZtM1czYnJjYUo0SGxYWVo1eUptTFZ3VzVyM3RHRzA3RUxqVzJOdDFuZUM1dE9TdHpHbllrV0JaOUhYMk1RUUxLRHVZT0xGWmZkWlJ6RlhXR1pBZjg5Y0hWbnMxa2lEOS11bUhGcnRzVWJUUDJ5R3p5Sk4xRmhad1FCVEJWLUM3U0o2NFNGajF2cWd6eVc4VWloMXFjcGVrdWQ3UVgwcjlrYWwyaVBPV2piTV9vaXVOQzB2cExkeGozRmFOVGx6eG9MYUJzNlJwZQ?oc=5",
-          "publishedAt": "2026-09-04T17:56:00.000Z"
-        },
-        {
-          "title": "West Point removes ‘honor’ from ‘duty, honor, country’ ethos - Duffel Blog",
-          "source": "Duffel Blog",
+          "title": "West Point removes ‘honor’ from ‘duty, honor, country’ ethos - duffelblog.com",
+          "source": "duffelblog.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXRiZ2V5cFpRdU1RRzhnajBlUVVEVGczRENCNkQ2clN0dmJNUzZnZGdSbWt1dld6TkdqQm5pQkVkc00yMHpsM0x0bHp4VmV6dGMyanBubGZQOFZlMHNXMnpiSFcxVklZWWpVcTVjSHpFZ3dFU1RtN0JGbnYzNmJURFpMUnNOVXdmbXc?oc=5",
           "publishedAt": "2026-09-07T12:01:11.000Z"
+        },
+        {
+          "title": "‘It never gets any easier, you just get tougher’: How a Lexington grad conquered West Point - Richland Source",
+          "source": "Richland Source",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZzlieVlodjRxZXNGZHdXUTlfd1dJdmxsb3hMb090WGp1UXp3VFF6YndzbHBPT3FFaUsyQ0FoWUFDVDFKTHRsQWV5Y05nTTFBQXlBaEFUb0ZYMVhFYkN5RzJwcVp6c2NxVWcwSVVWWkdlSi1IdGhtbXRtc213N2NwU2lGQWtoSHUwMW5VNjlIZDFQZ21JUnFuaXU2d25LUlk0czJ6VlBzWWM0bW1DcXB5TDFZNnNVdjZNR3BMMUR2eG5XYW5TMUx4dUtn?oc=5",
+          "publishedAt": "2026-09-06T09:00:00.000Z"
         },
         {
           "title": "Cadets Explore Potential Army Careers During Branch Week - U.S. Department of War (.gov)",
@@ -147,10 +147,10 @@
           "publishedAt": "2026-09-03T19:23:06.000Z"
         },
         {
-          "title": "Honored Division Week #1: Army West Point Football wears 10th Mountain Division patch on helmet to open 2026 season - DVIDS",
-          "source": "DVIDS",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYWFvdF9Jc3BockRXcVFLemU2eXRsTW0yVFdYeFdUY0N0cGZtTHFxcHp3dFRLWG9Wc0RGT2NMbzdiaENBSV9FcUR1QzhBenNtS0xNWnVNUlB4ZFBSak42bXpldHozWGI5SGg4TXRTUUppeGNSUDQwTmJDMzhjUlJJeDBiMDVQNmhkSmN0Q0xqN201VHoxRnR2TkRqZE43LW5EWE5tWmRvU3NEcFFqLXMzdTExc0oyUXdla2p4R3E4VW5XUzRFSHpiaGdackRFMFZLcUVGQVEyZWRQMlFq?oc=5",
-          "publishedAt": "2026-09-04T18:25:00.000Z"
+          "title": "Honored Division Week #1: Army West Point Football wears 10th Mountain Division patch on helmet to open 2026 season - nny360.com",
+          "source": "nny360.com",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZ0FnR0lycHA2dnFTRTR2dVVBcnlSWnYwTlZaVFpYWlVEOFY1ajBxQWJWYnp2R29tVGp6YXE3elpua2J1aEZ6UVJPRlJ4X2U1M1NGTDNoS28yQnJfM1BQR1NSaDl6X1hDV09IYk9HRjlWUkkyR2xXWVdZMUNIXzhqa1l0RFphV0lPVl9abEFMYWRZYVRTbHF2Ync2cENLckpkTjFKWWxsa1c3am15bkVDaEVVeV9hODctOHgteklIZVRNMldIRDI3WGwxZUJ6Qm5MS2VBaW12WHFXUzZrbXBna3NlQ1NIaDZDaEdfOXVWeVRmbGhaOURVZnJ2WWhSdVRLVFFNYnMtOWQ0TzBP?oc=5",
+          "publishedAt": "2026-09-08T13:08:30.000Z"
         },
         {
           "title": "West Point Welcomes 62nd Superintendent – August 17, 2026 - United States Military Academy West Point",
@@ -173,10 +173,10 @@
           "publishedAt": "2026-09-06T15:12:00.000Z"
         },
         {
-          "title": "Bryant vs. Army live stream, where to watch online, CBS Sports Network channel finder, odds - CBS Sports",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQWpCNGRNTnZ6Y2djVXNRQnVyVEtfblB2cFB3N1dEeS1ZVGdza2U3YnRkb1JNYzkzX0p5dVVaMloyTVdrS3ZJYVZDemQ1MW1pMWZrbzUyY0ZWX2Y4RVlvQk5vQ0dXcmd0VklDX0FzN0RMMjFsbVhPbktRRlhXTzRHdEVrTm1pVlZyeFhNT1hQVTdCMEJOcTZ4dmVrTHJ0d05WblN1eERFZHl0Wlk2NVEtNjRjTGxOZVRZbWw5dnh1ZHpXNzdIcTFaZG9OYTNaYWdXWmc?oc=5",
-          "publishedAt": "2026-09-05T15:10:00.000Z"
+          "title": "How to watch Bryant vs Army: Live Stream College Football, NCAA, TV Channel - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HWHhVbk8wbDZIWlBMZ21pekl3WjhmLXduTEVhU3pBeDRpLWFyLUVLMkJ5MW1lYTk4eHdPekd2VjRySlVrY0Nsa3dpTFVJSHdId3B5dGxaem9YRm4tNTNBWnVsbFVWSlFtOTdvTlMxVGNsdmZTWHJpNEgxMktwYlE?oc=5",
+          "publishedAt": "2026-09-05T15:00:00.000Z"
         },
         {
           "title": "USAA Named Preservation Partner of Army West Point Athletics - Learfield",
@@ -191,10 +191,10 @@
           "publishedAt": "2026-04-30T07:00:00.000Z"
         },
         {
-          "title": "Why Jeff Monken likes his Army football team entering opener vs. Bryant - Times Herald-Record",
-          "source": "Times Herald-Record",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMmZ5OUxjcFFvWGt3cTRtSDZqYjdPWGxjdXRDZy1EZ3JwT2I4SE1nWnBoaWVkTEhrOVMwV01WcDhERVRvVERqTFpOVDFmcXFFNjlJcXhBb20tcjJockxnNFkwYlNha29JMFExaDIxeGZSUXltVVYtRVRQNkhPTkNSTmx0cTZ1UUJKbjJCWmwyYkZpcTM2eWVUbGNvZ25oNDRidjBqRkYtVlJyWDktTGQtN2s5N3NPWDk3d2NfcERQeEhfbUlSN3RoWA?oc=5",
-          "publishedAt": "2026-09-01T01:30:21.000Z"
+          "title": "Army's Nnadozie looking forward to leading Black Knights - Spectrum News",
+          "source": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTJoQl9nNmx3QTNfTFlRNGlNVG9aM0NXOGZrTkp0N0VVMUx3bHVjd2w2NnctLWpJRVFVRWFOaEM2aF9mclhKTFFzUDNlalNxVVpTQVZBZF84aXZNeUJZTHE1cTkwaDJOYmhGNTlhUFJwOS1paGFYOGFuYThpUVkxV1JBOHZocWFEa3Z5NlhCbFkyX2FFRlp3T1FB?oc=5",
+          "publishedAt": "2026-08-31T16:57:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Steelers Media Productions introduces new lineup - Steelers.com",
+          "title": "It looks like Dylan Cook will start at right tackle for the Steelers in Week 1 - Pittsburgh Post-Gazette",
+          "source": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1BfbnVFVjI1RmpMallYenpyOXlWNHRJc0F5bk52c2FFb2sxcUNqU0ZwUk05YXRNdDd4dllBWW85YlRoWlBTV29MUlFvemdVVzVjRVV1UkpwT25NaVRCWmhycmtPTnJ2SW1DLWs1R1dNWUprV1Fkeml2dG5PQ1JZYVp6a1VLZ0I3WVZBTnZFUEdCbDhYcXZZdWV1UGVfSk1CbExxT2RSWGh5WkduYlE?oc=5",
+          "publishedAt": "2026-09-07T20:48:59.000Z"
+        },
+        {
+          "title": "Steelers vs Falcons: How to watch/listen to the game - Steelers.com",
           "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDhsMFJFd1N6V1d4MXQ0NkFGa2dtU244SXpDMEFnc0RlcGw3SDVjZGZMZDBIVDZJMXI1eHkwdjE4YUh2V2x2cHhmeWhITjBqOXRsbXp5ZS1EbXdzZ0tTbEdOZm95alJkSk9yOXphbV85QXVaX1AwUXBsWDJheDlhVzN2MG0?oc=5",
-          "publishedAt": "2026-09-06T16:04:57.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVRGZjh1Zm00Vk8tOVBUZ2ttN3VVWElkdVQ2Y0tGd3ZpWllEQm5zRHRkOUVMQXgwVWE0X0V1eE5vNEI3dTBsWFA0TEtETTN6MGR3ZXFwaG95ZnhQVjUyT3FfX0NkSDRwZmdiWGpJUDZMcmduc1JWVFhSZ2p5bUhVUHVVYVVjT1BJ?oc=5",
+          "publishedAt": "2026-09-07T17:03:11.000Z"
         },
         {
-          "title": "Rich Eisen Offers Up His Pittsburgh Steelers 2026 Prediction - Steelers Depot",
-          "source": "Steelers Depot",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa3dYN0NWZzI3WU1SYlc1WjBuNXk5RFR0Mk1hdVhoRklUWEhjdUVfcnh0RlY3U1NiU3cwNHBsT0p6VTM2NmFpUEREb1owLUg3ajFGUUwtMWZ0OGVtMEFnMFE4M3Z5NWZURHdCakVVZkpiX01kQUpVcHV6cGYweWxNa3p6eTduSmlsMGNJTzBMdGw2c2hxdWVPdklxaw?oc=5",
-          "publishedAt": "2026-09-05T23:31:42.000Z"
+          "title": "Pittsburgh Steelers' WR3 Battle Is STILL Wide Open - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONFlOR3BtY1lmeHZrYVZZVlZnU3hnVkdPaG9wYlBKY1h5VTR6b0luTXpSbXVxRm9NWjZPR0lqVG9uUGZ5NjI4cXRZOHJRU0hFQnV2UEJZYk9UMnk1eXF0MDRFTXlWbmhqQmw1bWt2Z0pBdXdvZ19UNWFNcGFvbGxmakVXX2JrN0dtV1Zj?oc=5",
+          "publishedAt": "2026-09-08T11:06:08.000Z"
         },
         {
-          "title": "How Mike McCarthy and the Steelers can get ‘one step ahead’ in the NFL’s tight end arms race - post-gazette.com",
-          "source": "post-gazette.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYXZjOElwVUVDME1JSkdEQjI1X2hLcE80RVBmZGpsNGxibWh5MXRtVDBqMGt1S0hFY1VfSjNkMXpWc1h6RzRXeldMUjlxdkl3X3FqbmtxWVpTSkFOR2hmSDd5LW5lb1lRcDJjWjVTS3pwTTlLWTVGa2UxcHhXanFGSTBwa2hCc3h0WHdDVVRNZnRaLTNOMGtJTlA3TlBHVE56S1NBMVVDZw?oc=5",
-          "publishedAt": "2026-09-07T15:31:07.000Z"
-        },
-        {
-          "title": "Steelers could face Falcons fourth-string QB in Week 1 - behindthesteelcurtain.com",
+          "title": "Where can the Steelers rank top 10 in 2026? - behindthesteelcurtain.com",
           "source": "behindthesteelcurtain.com",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcnBBNVJfTjZ1UW1Qc282azJKdFpwTUdtalI0alF4NXZTOElVYnlmZ3pnYnlFeS1pWXQ0ZmtBendubzB0UHUwUGZpNVZqNl9EMVEyTF9fRVd5OUpiM2YzRlpBTXZCUXBiWktKMG9PQTU4QWg3bHBfUWdCUFBtcnE5Vms4aEpLSHVSZWktMDhCUDNNcEZYTkR2d0lScks4bU1kTlpCOTNDSkI1Qm5vXzlJSTJfa0FfZ2VYQjJoUi1ZV3dPM2QwSU9IS0tKWWpaS0ptVDR1QmRpMkMtVnlzNk9DbkNsRWt2QQ?oc=5",
-          "publishedAt": "2026-09-06T21:53:21.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSF94T2ttVzNoc253VnktVm9VaUNzZWlfeFZyUzRHLXM3MXRxS0xoMHVIQmVKQ0JJWkVOdDk2Zko1S09CZ2NSbjVTNXNLTXNlS3FSblo5Nk1UdlR1NHB6RjNwM2pBWlpmQXNwU0lsWEhiRkhMaVhZRTRESzhZNVJsb2ZQX25ENVYzc3NaNjNmMW96OUkyYTdlMlFDaHdrQ2V3TDFYZkFBMnItbXZld09vRmFDM0tiUGJja2RRZUtvVUJKQVFJMjhHWVlUakRHQ3NEWFFjSlRQS184d3RIY3ZIU2JMMlhPekV1dWZOZFFZZkFpQnZPcXQ4QW00LWVYbHc?oc=5",
+          "publishedAt": "2026-09-08T10:00:00.000Z"
         },
         {
-          "title": "The story behind Steelers' viral field blessing: 'God doesn't pick sides' - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOFJyTlNIUXdzMGhacGttSFFvTExoTVVSZmhjM2tDYWhtLTdubXNDWTk0S19taGtTVjJRVXZmYk9PV0pZakphMG1fallfYjVxLTQ2WGowSmNCaEt2TjhSNlNZdDZwOTV2WW1xUmVHeFphM3ZWRWEwSVg2OGJPYWF6cnhQNkVJLTk0Ml8xWXYzbFBYYW9pNVhQVElzWTRiNHZNUHhpYjhUVF9FYWFqVWZwQ3N6LU9SNDBiSUhKTFIwTE82YzFyWmlDVVRPMy1WWDdSYngzSEFoUGh1Vk9mblc0QWo3a2JYSkRrZjgtUW83Um91eG1B?oc=5",
-          "publishedAt": "2026-09-06T10:20:00.000Z"
+          "title": "Recently-released Pittsburgh Steelers defensive tackle finds new home - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQODliT3JNUlZ1VUtGYlpURXlIZFBMblNzY3lSYU91TGVrR0ViSlFkNzBhNVVpenNOOVZxTTVWOTVySEFaVUdUUlpES2VramYwTFhXdW05WS13eTRkZE80ZFM1djdXWmduX19TVFVqS2JBYW1KSW1pN0FXLVd0WnBLSTdISklacFhjeDlSSlByNTZUcC1mUkQ1SjlsUzZiVVdsdExobmt4aUZXX1FUaXVJcjJaWFI5NlXSAcsBQVVfeXFMT3JOc0ttX2pGYUd2MXBIbHlnd3BneUlmYXZ4MHNvWUFmRlh1NEVraWRCR2kwVlBxWHd3Ti11aUkxR2RsZWxMRm9ld3luNFRhSkpFcHRXRTdrd0ZCQWxnWnVVaGdHM1IxUnZieXBoOWw0Q2wtMzRSMlNCNlVOdUF2WkJHM09BVEZnTXNuUjVxdlBpNzRxWTFWUzhoMGVlRjlYQTBKeGVxYUc5RUlOTnRUWnJqMHhjaTVuM1I3WjZPcWJZR3RNc1ZoSjhlam8?oc=5",
+          "publishedAt": "2026-09-07T18:57:00.000Z"
         }
       ]
     },
@@ -243,22 +243,10 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "The War And Treaty Bring New Fire With ‘Country Baptism’ - Madison's Country Q106",
+          "title": "Country Hits, Hot News - Madison's Country Q106",
           "source": "Madison's Country Q106",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3hEWWFqaFZ4eEN2dl8tMmQ0TzBhZWRfRGE0bXF5anFuRTlQYXpoQ2o3VmV5al9uMG5DN1RhR2lIc0g2UV9SaXhEU05WYzByb2Y5QjFjWE5raFJ4dTFiT2JCUmhSbWI4WE1yM1VjVzhhMkIxQTlpWVdwQWx1QVh3dUZWblI1YVNzTnVzdHYxZ2s?oc=5",
-          "publishedAt": "2026-09-07T14:26:40.000Z"
-        },
-        {
-          "title": "New Adds to Saving Country Music’s Top 25 Playlist (#184) - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1hsVUJEQUNnaExuczNjWjFSaFVWSzhLdVlUdXM4SUowN25uT21uSGM0QUEtaHgyM2VmdlNnNkZNZGpPdzViVEZHV1llckdIeHVuLWlUSklrZ1ZnWWNiaEZDZ2hkdFVjeTBubldYT3I0X0hlRjE4bTB0bzExWU9ISGgzczA5MUxYNkt0WmlR?oc=5",
-          "publishedAt": "2026-09-06T19:28:59.000Z"
-        },
-        {
-          "title": "Gavin Adcock's new song 'One Hell Of A Steal' has country music fans fired up with excitement - foxnews.com",
-          "source": "foxnews.com",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVBJczVYWm1sbXR4TS03RWgzeUtfakctTlRXWHFtQ3JVSXo5N1h5bUs2RnljMFJkak82X21xaVBubzBtVDV3Y05SX0pVdVJzZ2tFU0tYdjROMDRuQ1lCN3ZfeUp3aFNNa1VSWjF4dGFLc3ZWUXdDX25wa29ValVzbHpXZ1kybHU2UnR3MmUxdFlsR2NKbGUwVU1TT1l6Rk90Mlpocnowd1RvdUZnck10UmczQTRsR2c?oc=5",
-          "publishedAt": "2026-09-04T14:17:10.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40bk11QWtCVkhodkdXeWZRVE1VVi0zUWdqQmlZM2VpUFlSYkoxc2Fub3R1dk1KTUtyalNWdE1OVm1pMXFidW83dHhtTGdVVmlaeUlONHplS3NpeEN5ZmR0X1NWTUM?oc=5",
+          "publishedAt": "2026-09-04T18:35:57.000Z"
         },
         {
           "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
@@ -267,10 +255,22 @@
           "publishedAt": "2026-08-24T07:00:00.000Z"
         },
         {
-          "title": "Benjamin Tod Releases Covers Album COUNTRY IS DEAD via Thirty Tigers - broadwayworld.com",
-          "source": "broadwayworld.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaXNXY2FUeU5ob2ZhakU3cFlYZF94NURDSHFYZGpZWU9RUjlWaHJMZk5GYXJlTDl6VlVXMzRjOW9taFNxcDB3VjlDX1o5MnpiRGRKOWs4cWRJS21IZmx4RjhlcVdlMlZHVTE2b3ZLQkxnTXdNM2xDMWtORFBDVHBWYm9OQlE2SlVSSzJDeWxJNUtpR1R3SWpDLXdsQ09YUzdHUC02LWVJYWZYM215c0pETWtnRmNGdEd5dW5BdS1YNFZ1dw?oc=5",
-          "publishedAt": "2026-09-04T14:51:24.000Z"
+          "title": "Gavin Adcock's new song 'One Hell Of A Steal' has country music fans fired up with excitement - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVBJczVYWm1sbXR4TS03RWgzeUtfakctTlRXWHFtQ3JVSXo5N1h5bUs2RnljMFJkak82X21xaVBubzBtVDV3Y05SX0pVdVJzZ2tFU0tYdjROMDRuQ1lCN3ZfeUp3aFNNa1VSWjF4dGFLc3ZWUXdDX25wa29ValVzbHpXZ1kybHU2UnR3MmUxdFlsR2NKbGUwVU1TT1l6Rk90Mlpocnowd1RvdUZnck10UmczQTRsR2c?oc=5",
+          "publishedAt": "2026-09-04T14:17:10.000Z"
+        },
+        {
+          "title": "August 21st, 2026 is a Busy Day for New Albums. Here’s Your Guide - - Saving Country Music",
+          "source": "- Saving Country Music",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmtUNURvYmpOZk5uSTA3SlNPc3VTR0kwOTh0OGEwcDBUOUxXVGVqSnEwN2RFbVBvMWhhVmRoeWJqV1hxNEczUVRRRXJyYk1qenB6cEc2cWZXU3JIamlXZjA0LTE3ZmM5YWtkbUZBQWMzRFNaRFNodzFXRnJYZE5GLWg3eVZJQ1hxeWFyemJzV3NHM2xxWlV6aVdB?oc=5",
+          "publishedAt": "2026-08-20T07:00:00.000Z"
+        },
+        {
+          "title": "Randy Travis Announces Official Track list For New Album 'Same Old Way' - Holler Country",
+          "source": "Holler Country",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXVLZ0pQMk52a2l2NHVUam5ObGVnWTdaMHU0TG9QUVN3dWNUbUIzdTR6alJacDRKS2NFcEw4SXVuREN3QlBMaDBpZDFXZHkwSlVzSXZVNmtNc1J5eHZVN3BmSlNXS0FYY2FwVWh2MFJaeTl4TUhBSWg4U2JyckJSOGtXbW4xT1lhSng2UGhoOTlwUldCbW1sYWhBTUV0aWl0SGl5MG05dmJ2OVk?oc=5",
+          "publishedAt": "2026-09-04T15:40:00.000Z"
         }
       ]
     }
