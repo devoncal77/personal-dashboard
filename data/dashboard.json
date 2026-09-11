@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-10T14:28:00.759Z",
+  "generatedAt": "2026-09-11T14:27:20.862Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$758.85",
-      "change": "-3.55 (-0.47%)",
+      "price": "$765.90",
+      "change": "+8.07 (+1.06%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$522.18",
-      "change": "-1.89 (-0.36%)",
+      "price": "$525.80",
+      "change": "+5.05 (+0.97%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$710.28",
-      "change": "-6.03 (-0.84%)",
+      "price": "$716.70",
+      "change": "+8.01 (+1.13%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$318.91",
-      "change": "+3.57 (+1.13%)",
+      "price": "$334.19",
+      "change": "+7.62 (+2.33%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$490.52",
-      "change": "-1.13 (-0.23%)",
+      "price": "$495.37",
+      "change": "+2.93 (+0.59%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$366.65",
-      "change": "-1.16 (-0.32%)",
+      "price": "$363.90",
+      "change": "+0.34 (+0.09%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
+          "title": "Is Patagonia the new data center hub? + Harley-Davidson&apos;s role in the trade war",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
-          "publishedAt": "2026-09-10T11:27:14.000Z"
+          "url": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
+          "publishedAt": "2026-09-11T14:16:35.000Z"
         },
         {
-          "title": "One year after Charlie Kirk&apos;s death, Turning Point USA faces an uncertain future",
+          "title": "The voices of Sept. 11: &apos;My first thought was ... I can&apos;t believe that I survived&apos;",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
-          "publishedAt": "2026-09-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/09/11/nx-s1-5965794/the-voices-of-sept-11-my-first-thought-was-i-cant-believe-that-i-survived",
+          "publishedAt": "2026-09-11T13:37:18.000Z"
         },
         {
-          "title": "After Trump promised to pay $5,000 if Republicans win, here&apos;s what to expect Thursday",
+          "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-          "publishedAt": "2026-09-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
+          "publishedAt": "2026-09-11T11:55:49.000Z"
         },
         {
-          "title": "Scientists say August was Earth&apos;s hottest month they&apos;ve measured",
+          "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
-          "publishedAt": "2026-09-10T08:54:00.000Z"
+          "url": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
+          "publishedAt": "2026-09-11T10:04:04.000Z"
         },
         {
-          "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast",
+          "title": "Will you get $5,000 to do the news quiz? No. But will it be fun? Maybe",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash",
-          "publishedAt": "2026-09-10T05:45:00.000Z"
+          "url": "https://www.npr.org/2026/09/11/g-s1-142657/will-you-get-5-000-to-do-the-news-quiz-no-but-will-it-be-fun-maybe",
+          "publishedAt": "2026-09-11T09:01:00.000Z"
         }
       ]
     },
@@ -90,6 +90,12 @@
       "kicker": "Military",
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "2 US service members missing in Morocco during multinational military exercise - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnluUU84aHI0VU1SdHE2M1hGRjRnYkxUZ19sX3NaMjNQQlBtNFNlY3RyYnN6WmI4WkRrd1pxTW9adjRrQ1Zid29tRFQ1YXY1a2NXTzFqM1F4b1RzV3hWOGE2V0xIQ2N4OUQ0NnlwcVU4eWpOT2ZxYnowcWE2dC1GYnFYUzF2N0JYXzNHY1ZtS21uOUpCZlRrWkY3VUp5bVk0VENlVDIxRzBra25PbVlDek9B0gG3AUFVX3lxTE9ETmF2TEM0YmR2dkxRc0wzUGIxTzJzTm9kUFRPaVJMNnlLdzlHWUV6TEhRcW5uZ054c24yOWc0bUg2bXlZdkJwek9YVFVjOVVjTzlkUVl3R1AyNjMyRVZyX09CcXpIcTlZWnowRFhUdERNQVI1LXVhSjUtWUF1SF92QUo2UTQ2UHQ5TUlvTFNxYy1kYU45ckNZTnpaRk14cTZFeC1ucG1YY0VpUWhMSUpOM041WHRSTQ?oc=5",
+          "publishedAt": "2026-09-10T21:54:51.000Z"
+        },
         {
           "title": "News - U.S. Army engineers train Ukrainian military officers on large-scale construction management - DVIDS",
           "source": "DVIDS",
@@ -103,22 +109,16 @@
           "publishedAt": "2026-09-08T23:11:41.000Z"
         },
         {
-          "title": "Decades Later, US Army General George S. Patton’s Line on Defeat Is Still One of the Greatest Military Quotes in Armed Forces History - 19FortyFive",
-          "source": "19FortyFive",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQblJqNmd0UUp2NkRWMjhvVWVPN3k0c0FFaGhaa2ZNd1pTSHB5U2ZISjJPZ2JfTlprWWlLUWUyRjZsaWJnbHhEdVNPMGktVlpPVnRqeUhhenI0Q2VyYTRBeWd5ZjFKY285VWhHR2xWdmlqeXlIbElQUjJVYWt4S3Vwbi1FZm15anNiM0kta2J4OG9OcU5zTjhkNlVFMVNQdVd5aVhLVzRBR09XQ0NKRi05WmZGZUNjclZoajVJaFg2V3l6S3l3dTFiQVpLaFpVMTBHV3huWDJuUUM1RVY1WVlIa0Fvb0loU213Y3N6UnpnOUV0ak1RX0xUZEtrNA?oc=5",
-          "publishedAt": "2026-09-09T21:59:03.000Z"
+          "title": "Gold Star family calls on Army to release internal probe into deadly attack on Kuwait base: \"My son died unnecessarily\" - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRW14MnZNcWx3b0xubnFVbXVxMlpZTmloNk1GbWRRcmt0c004dy1DbzItLU9pRXc3c1Y1MElkek1mY2pQeWJoOWp3V0VzdC1EanFOaVdzNWIyRW9aY3dXUEI0dEpEVjdReHlvOU1ORXYyNHhUSW1YbGxFQnNheGZLcnBCWUNBTExldFVwRWFyRTlpbUx1a3VnT2lwM1VCM3VlaXpMWWhGZmJKX0RoTkFpV0dRTmd5dw?oc=5",
+          "publishedAt": "2026-09-10T12:06:58.000Z"
         },
         {
           "title": "The Latest: Army Secretary Dan Driscoll is stepping down, White House says - MilitaryNews.com",
           "source": "MilitaryNews.com",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPckthbFczc0hZdUhCN0RfeWhqVmc0QWo0VmIwTTNDSkZYVGItWk9mb01kVDJMWXB1LXY1SWVkdmQycUFpZDRLQmp2WV9UbG9NaHhJSHgtcC1VMEFxM09aYm5yaG1UalI0NmY2eWN2R1BMejNlQVEyY2ozODFvRlZRN3dkNDhGWE9pNi11RWtvR3pMcFRNOVVwbGtxYVpMeWlXQTZDejhxbXpFaVA4akJuYXN2dFZONVM4YjdZRC14SUEwS3pmT1dTM29qYmVNZUEzclA1TXI0b0pRQ0NpU1dLcEZUZERVX0I1OFNVM3RfLTl1Qy05RGg0bQ?oc=5",
           "publishedAt": "2026-09-01T07:00:00.000Z"
-        },
-        {
-          "title": "Trump names Adam Telle as acting Army secretary following the departure of Driscoll - NBC News",
-          "source": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWk3NDd3OENJeEZEMVFHZEpqcGZYLVJBY1NaM015T29tX2o1d0g0RlpjQVZZaEVLWnZvWFZaYXhSOEVnTFk3R1pKU0xvS3RIOTRQUUs1eUNieGhrZlBvVlJ6MzdDTlQwb1Jmem5EMW1yMGl1VWY1ajJQUU9zYS1HY1cwMHh2Z0lwNVFycmVBeE9GVk9xWUdBNzVVZTdjQ1RoM003WENnWnZKblc4MXRTc01n?oc=5",
-          "publishedAt": "2026-09-04T08:38:37.000Z"
         }
       ]
     },
@@ -129,22 +129,22 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "West Point removes ‘honor’ from ‘duty, honor, country’ ethos - Duffel Blog",
-          "source": "Duffel Blog",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXRiZ2V5cFpRdU1RRzhnajBlUVVEVGczRENCNkQ2clN0dmJNUzZnZGdSbWt1dld6TkdqQm5pQkVkc00yMHpsM0x0bHp4VmV6dGMyanBubGZQOFZlMHNXMnpiSFcxVklZWWpVcTVjSHpFZ3dFU1RtN0JGbnYzNmJURFpMUnNOVXdmbXc?oc=5",
-          "publishedAt": "2026-09-07T12:01:11.000Z"
-        },
-        {
           "title": "West Point Agrees Not to Enforce Trump’s Faculty Speech Limits - Bloomberg Law News",
           "source": "Bloomberg Law News",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUXRFZ2hNMGtuRG1vZVFBU0hQRWU5MDZ3RmlCOFVTcDM3Q0I1NXc5R3p1UDdaU0cxRk55bW9MS1VRV1NGUXRiVGhHdkdfRzdzUDI2NEVBem81TkdpNWMtZVA1a2xDa0Y5NktRYUFZSzJlOHBLZ3NELU43eU1rbl90RlRQSUdlSjRrTTF6SDVBNmF5UFFpMGVZdmZqdjBrZHcxZlpMYw?oc=5",
           "publishedAt": "2026-09-08T15:41:00.000Z"
         },
         {
-          "title": "'Close this case': Judge decrees West Point censored law prof after Trump executive order - Law and Crime News",
-          "source": "Law and Crime News",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSnNwUEJxRjlqcnFGU0NNbFpaVWxscHJNT18xWWV0dXlZMnVmR2NJa3NaRHRQa2ZPMHBiT3BTN2xtUUZlT1FJOTVNZzM4NTFRMy1vLTQ0ejlyT0xrRnBVSjNUVG4wM0Fmb21nUWd5aVpmUUUxWmpKRUhZeU1QaDVRX3RJeTIwWDdJdnBSQ1V1MWNuM3NsU3d0c2dHU3QzTEU5WnB4cW8xZS1vdjJRSnBycVNGcnM5VHUtSGNVNFVFQTB3V1hVamF4dkJGWGYtUGFzUW9FRGJudno4bkJtNkZWNFpINmEwNWhqUVZ4VkhmNjR1aXFLc1FFOVBOck5sRVhIU3Mw?oc=5",
-          "publishedAt": "2026-09-09T19:16:00.000Z"
+          "title": "Judge on West Point Speech Restrictions: 'Close This Case' - Newser",
+          "source": "Newser",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdW9GSlNpcjJSU19FRXFxUXhSTVNJVUxzd1Z4aEkyZ1RSMER3bVFFanpkS0JkTjQ0VV9RNDlNX2hmQVJSbmVlMDh5ZmNPakVGM3BGNjJZc2NCT0NOeGo0UTQ2MmR5QTVMY29UeTJBdGFBbVFONVk5UE5yQWlUb1JWa1VCSlVGVUZCVWQ1ZE5LR05LalZXUHFHYg?oc=5",
+          "publishedAt": "2026-09-10T16:20:00.000Z"
+        },
+        {
+          "title": "West Point Climate Professor Says He Was Fired for Refusing to ‘Defy Science’ - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFVsZTVOTU1oTXpSUGMtbkxaUjRFbWhSZlQ5R1dXbjRwWlNpX3RfVkRrS01aRVhsQm91c280QXhQOVhuVG0tU25rTFhvY3N1S19DeWdURDg2a0NlYk03cF9SeGQ4QUJjOEllVzFtU29ySXBSbXRxYkFYMy1oaF9TYmdOWEZUTGxicW5NWUR5Rm5wZw?oc=5",
+          "publishedAt": "2026-08-26T07:00:00.000Z"
         },
         {
           "title": "West Point professor fired after pushing back on limitations to teaching climate change, lawsuit says - stripes.com",
@@ -153,10 +153,10 @@
           "publishedAt": "2026-08-26T07:00:00.000Z"
         },
         {
-          "title": "Know about the academic program of the U.S. Military Academy at West Point - britannica.com",
-          "source": "britannica.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
-          "publishedAt": "2026-09-08T05:00:00.000Z"
+          "title": "News - West Point hosts Steel Across America, honors heroes and those who perished on 9/11 - DVIDS",
+          "source": "DVIDS",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWDByaVpPYUE2Y0N2UFFGaWtmZ0ZKYnpJV2pPS3JKUFRhRzVIZnNTeXZxaTF6VW1kclB4dEc2b0U5elBwRGp1YmNTZVFoQkRLaUZoaEZoQUhiTmtWWklCd0l6VWpqYXYzdF9PVFVCUGMwSGJmU043cjlFbmQxUFNtRTdmTlcwWDJWQWZQWFpickIxdkJVNk5QdHEyQ28zZTlZbDhQdGtfMjFqMko3cGxyZ3dhWExxMHc?oc=5",
+          "publishedAt": "2026-09-11T12:47:00.000Z"
         }
       ]
     },
@@ -179,22 +179,22 @@
           "publishedAt": "2026-09-08T10:52:00.000Z"
         },
         {
-          "title": "How to watch Bryant vs Army: Live Stream College Football, NCAA, TV Channel - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HWHhVbk8wbDZIWlBMZ21pekl3WjhmLXduTEVhU3pBeDRpLWFyLUVLMkJ5MW1lYTk4eHdPekd2VjRySlVrY0Nsa3dpTFVJSHdId3B5dGxaem9YRm4tNTNBWnVsbFVWSlFtOTdvTlMxVGNsdmZTWHJpNEgxMktwYlE?oc=5",
-          "publishedAt": "2026-09-05T15:00:00.000Z"
-        },
-        {
-          "title": "USAA Named Preservation Partner of Army West Point Athletics - learfield.com",
-          "source": "learfield.com",
+          "title": "USAA Named Preservation Partner of Army West Point Athletics - Learfield",
+          "source": "Learfield",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUtLWU05RDNRY3hJbVlRM3d5Rm1pWDdKN0RLQTVCVXg2cUhxLUd5andZQXJHRUFhTFB2TWpJN2dYbHhDLWI0VDZhYnlhcVd5RGhxSl94b0NsWGZlb3B5MjE3NEhrWW85YkFFQ3FxcUl4YzVfOXg2SlM3NzZ0bUtYSGR3WUtPVzNHZU40YVdCdE5heGxlMVdyUUVKSQ?oc=5",
           "publishedAt": "2026-06-11T07:00:00.000Z"
         },
         {
-          "title": "2026 Patriot League Men's Lacrosse Semifinal Preview (4.30.26) - Patriot League",
+          "title": "Army's Nnadozie looking forward to leading Black Knights - spectrumlocalnews.com",
+          "source": "spectrumlocalnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTJoQl9nNmx3QTNfTFlRNGlNVG9aM0NXOGZrTkp0N0VVMUx3bHVjd2w2NnctLWpJRVFVRWFOaEM2aF9mclhKTFFzUDNlalNxVVpTQVZBZF84aXZNeUJZTHE1cTkwaDJOYmhGNTlhUFJwOS1paGFYOGFuYThpUVkxV1JBOHZocWFEa3Z5NlhCbFkyX2FFRlp3T1FB?oc=5",
+          "publishedAt": "2026-08-31T07:00:00.000Z"
+        },
+        {
+          "title": "Patriot League Women’s Lacrosse Championship Game Preview: No. 1 Navy Meets No. 2 Army West Point (5.1.26) - Patriot League",
           "source": "Patriot League",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFJyNFZicV9UeVh3NDQtOXRwQUZjS3lVX2x0WUhRZm9uT1ZkbUNpZjdNdHNYY1V4YzdiZDZfNnVRMDgyX3JQLXpFb0w1a0FBV1R1TVZDUFhleVVici1ZT2l3RkdkclgwS1VmTEp0YnE4ajlHbHVSb2FIZE9lX1lWV1R3WVZOWFVYV2RPRGdIcHRkemRlRkpxTW1FNUZfem9TTGZaX3lIREc?oc=5",
-          "publishedAt": "2026-04-30T07:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQUk2OUV4VTc1ek5mMFI5S2FMQ0hoSFY2cElrYXZMblFVM3RwYlg5Q3ZIaUZFRkRaR1c1OE9qVXhiOEMwdHhyTzk3QlNoNDNPLTJ2NkJCUFVsYVZOTWczdi1sTXZiM1NxRHpSQURtSDBTaDBFdzJGQUZtbWUzZG5xLXJ1X3JZQ21PQjB6OERIT2tEbVN1X3JFVlRDN0hqV25fbE42NUN2WlNjbG5ZMU16ZU5pWWUxbGlrbmV2UG9aRDQ2Um1QWE5LNl8tRDRUYS1LLU1ha0Y3NVdQT0FWVXc?oc=5",
+          "publishedAt": "2026-05-01T07:00:00.000Z"
         }
       ]
     },
@@ -205,16 +205,16 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Atlanta Falcons' Week 1 depth chart vs. Pittsburgh Steelers - Atlanta Falcons",
-          "source": "Atlanta Falcons",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDBiS3J3eGxyQXdsWWl4dVVoVzNYcl9Eb0Y5b3M3LUJ0S0trUEFSSXgzOUc0b1k3QUhpUmFJcmkwMHU4dkJrUC1FbjR0eDlCRTZ1c1JmMUJtclRhTGZmdy1wTGV0TTQzM0I2aUhXWGFaZGJGSkF1Ni1sZUhsZmJMd2RocU9fcVliUVNnakI5MUItQUM1cXBPLQ?oc=5",
-          "publishedAt": "2026-09-08T21:44:35.000Z"
+          "title": "Cam Heyward Says What Steelers Fans Are Thinking About Joey Porter Jr. - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTFpCczI5MmZrRlc1RWxaYzZzWWRoTlY1SXdtcmdUMTl5dlVfS3lSY2ZEcWJSMkU1clZTR1poeXo2WExZekl1VFlxaUZCdE44WExOaElRQTlGcnRrZVE3d1NpcDlyUW10RU5Xa1lJWndzQW9oRHdmOVMyM3puOEpTS29RNWxiRi1xWkF2ejVvNWxUUUE4bzNaM0FqRG95MUpTRVNSTw?oc=5",
+          "publishedAt": "2026-09-10T11:00:00.000Z"
         },
         {
-          "title": "Pittsburgh Steelers' Joey Porter Jr. Contract Gets SHOCKING Update - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaXhwNmNmamdxRUpndlpIYzZXTmo3eS10WUFYYmxaMmFrdTM2RndLc2JYLUVzM05KdmlMZHFWMC1NaGhPbWtSUzRqMlBUVDA1NGppc052MXBqalkwMHJHTDRhQUhSQmRRd2hRYlIwcDN4QWMxR0NnTnJ3ZFdBMFkxMEVhYU5xRkcw?oc=5",
-          "publishedAt": "2026-09-10T11:08:30.000Z"
+          "title": "Pittsburgh Steelers get massive update on Joey Porter Jr. contract - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlAwM1YwUXlTNXRQZjdNOTgyZlBMbjdWZy1SNG8tR1ZhT2VWOVBDaTh4SE10SkZrb05WLVRMd1VkZ281MlJ2UWZzV0NRU2RVNl93NDBpTEVsaUtBVVFxZVlNdThxX2ZNUjUwTDdfZ3FGM0dudjlrX1ZqMEJ0Sk9KeXIxdDZFazhQX3otVkRZMjk1VWpHWTZsSlFzSGR3TUQyM2pHYXZ2SWlQOGpHMkhUTDJn?oc=5",
+          "publishedAt": "2026-09-09T16:49:00.000Z"
         },
         {
           "title": "Cam Heyward can relate to Joey Porter Jr.'s ongoing contract stalemate with the Steelers - Pittsburgh Post-Gazette",
@@ -223,16 +223,16 @@
           "publishedAt": "2026-09-09T20:22:28.000Z"
         },
         {
-          "title": "Steelers made contract offer to CB Joey Porter Jr. - behindthesteelcurtain.com",
-          "source": "behindthesteelcurtain.com",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMm0xZjNVSnZxb29SUTFLZk82MW1ZbERBdTNTMk5LU2R0OElVUER5bjN2cWhTMTF4YmkxY2NRZFFrYkczc29iMVlhQUpMZHJVUkFoelVEU0Qzd1JTSm0tUVZNdEpISkN2c2NURjI2Rm5ORGU1Yjd6RThVcVo4ZVBlWVozSHFkYlRzckRudm56aXZndkF0ODJwbFhtX2h2dFVyRGszM0R0ME0zX2llM2lnREc5eWhjVDg1d28tVWp1dTNlcXp2Ui02c0JfdHRlUGZrdmdCRVBETDljMHVEdlpJbDRfbHNtZ0lpc0JvMXdPUnFodmFhWjE0dUpxWHE?oc=5",
-          "publishedAt": "2026-09-09T00:13:32.000Z"
+          "title": "Commanders' crab stuffed pretzel headlines new NFL 2026 foods - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWRyVkw3WWNjRUpsWkZUY0trNXdla2NLR1c4TDdDTzZFaHFwaEVCem96R0ZKOVpPV0NBQXBfdk1vY3lhbVpXY1o4UGRRdGNzQmwzb05vMTlzMUxNdlVUQ1Q0REJhdmFXSHptTHZIckRrLVJNWmRlOTVndGpNYWl2Rk8tNjFQMVJPMUZvVHpTcGpmS0lfcnc?oc=5",
+          "publishedAt": "2026-09-10T13:00:00.000Z"
         },
         {
-          "title": "Steelers' Cam Heyward not a fan of NFL's 'stupid' franchise tag - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVZnQ01hZnhoeXF1TkRac2FZcU10bE1RV1Jlb0xTV0d6VlV1b3J3V3ZFX3pYT3o4WUNlWHFYMy1KblUybnREUzdPTDREbE1yRXp1R1d3eFQzNFhraTVrckxqM1RMSVJHYkM2WjA0MHNyNUNWWm9MdkRtUXZwcUFyaUx2MWJSeW9MMHFoaUhucEFKSTQzMVZtR2QtQ2ktSDZfY1FUNEROVQ?oc=5",
-          "publishedAt": "2026-09-09T19:34:00.000Z"
+          "title": "Mike McCarthy is excited to unveil the new Steelers offense and coach his hometown team - Pittsburgh Post-Gazette",
+          "source": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUlqdm4wcnQtNG9iTUluWVZjeHEwSl9nSjJIdGliNURGX0NBeW5ja2RWZTlZcENuNHpaSGFERUtURkszNE9JRWJPamFTeHNGOGJFOE5qRk02cExvM1JtbVRNdUJkUTFiekRaaEVHUFNPWFc5QWIzdkhTa04zOW5vQ2JZZmdIQ2EzSmNJdGgzMThQSTlob2E1ODdvRXBhdlZkZ0hsTFdHMFdXYUttU0duRHdrOEg?oc=5",
+          "publishedAt": "2026-09-10T15:00:00.000Z"
         }
       ]
     },
@@ -243,16 +243,16 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Release Radar, Most Anticipated New Albums for Final Portion of 2026 - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaE9jclpUaVpJWVVVSlp3bUVJQzhBR0VtVnJ0ZHRyZzh4SkhrN1d0Mm9DcHNidnRJS2NhV2xiX0RDMEw5RU1HT0xqRUY4R0hvRlNzcGJBTEMwaWpyRFB4Q0ozZWhYd3BOZkNyOFA2dHpoUDAtcFZ6X0JTaU8tWlM5dnRYaWVzcGlQLWdyMnQwbkk1RGRQX25ILTBsVDh2aWdh?oc=5",
-          "publishedAt": "2026-09-09T19:28:59.000Z"
+          "title": "Alan Jackson releases new live version of 9/11 anthem \"Where Were You (When the World Stopped Turning)\" - Big Country News |",
+          "source": "Big Country News |",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTjhBNGtCVk1vWFk4Y3JYZ2ZHd1NicVJIZlBHa01PSzJzbU00MF8zTElRd1ZsVGYxNU1kWFJFV2tVTWFFWnYxUFlqVFUzd0RmSldIdzNBeThmWnlCWGtNMm9wYjBFb1hYN0x1RjBmR3BCUVFjUVVqVWpwYS1IMGo2cmplZGhyalRWYmE4Nk1ZV2Q4bHh4S1FrWGUtdkJJVjloazRVU0lGZERvMjZYbHZwc2VicThWUjVrVXQxaER2WVUzZnREd21lTzdhOE5KT0ItUnlLRUtoVWY?oc=5",
+          "publishedAt": "2026-09-11T09:47:20.000Z"
         },
         {
-          "title": "Randy Travis Opens the Vault for First Album in 18 Years - Movieguide",
-          "source": "Movieguide",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObjFrUkFVbmhVZUI3ZG1kU0hMYlhyay1sSTJYWG93TlJHX2Y1SnFLTnltaTcwLThiY3kxc3A5STFIQXc5Ry1WNkZaN3B0V2lyQkxSdWpjc1BSNXdRRGczbzMyRGRfSy0zY0hXUXZHaTdpSWhaa3pxVzlhN2R2N2hjRC1SX0lSdFJPZ1VhMnQwTlk5TzYyQ21fdkd1UVRvb2ZWLTE2ajVaTQ?oc=5",
-          "publishedAt": "2026-09-09T21:23:53.000Z"
+          "title": "Katie and the Honky Tonks drops new release ‘Last Call Lies’ - North Tama Telegraph",
+          "source": "North Tama Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzJJaDJ2YmIxZzRleUJrVmswaHZ1SUdBZ3I2NGxFVDBaXzB6Q0VRSlp2VVR5MFQzYktZS0ZSUDZPUl9MSzlwdGYwbEdJTkx5N0gwblpldGktei03aWNfYmJwYlpmNE9STUlib2NISV9vRHdFQm1tZnc0NjVER1VuS28zeWdEYklWbVk5RkRvZ1laaHhISEFKeWNSSklINzJKOWh0NHp2YUdGZ3Q1bWw4UHFERFcwV3FmZm1YWXdn?oc=5",
+          "publishedAt": "2026-09-11T05:16:11.000Z"
         },
         {
           "title": "Benjamin Tod’s Country Is Dead Revisits The Songs That Shaped Him - noise11.com",
@@ -267,10 +267,10 @@
           "publishedAt": "2026-08-24T07:00:00.000Z"
         },
         {
-          "title": "Country Hits, Hot News - Madison's Country Q106",
-          "source": "Madison's Country Q106",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40bk11QWtCVkhodkdXeWZRVE1VVi0zUWdqQmlZM2VpUFlSYkoxc2Fub3R1dk1KTUtyalNWdE1OVm1pMXFidW83dHhtTGdVVmlaeUlONHplS3NpeEN5ZmR0X1NWTUM?oc=5",
-          "publishedAt": "2026-09-04T18:35:57.000Z"
+          "title": "Riley Green drops acoustic 'My Way' video as fans await 'That's Just Me' album release - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM0lKWHE3VzN0LVNqUWJ2VWtUVkZfWHVzWGZwbjBQRGZqVGNlSU5saFBJUU1GeXNxMTkyQWRUSHk1ZWNHWXZqQ2IxTHg3ZzZWNmpHNzEtWThqOENVRG1NRjRhS29Icy1JMmVsU0hwNW0xdktiOVFrbkRMMDR4a3BvbkVMV0d5c0ZWcGFHM3lqMjk5bXVlWGoyQWh0U0lBVHMydml4U2xMU3JtdFFVeGt5eVNJR1NfR3JIWVE?oc=5",
+          "publishedAt": "2026-09-09T15:40:46.000Z"
         }
       ]
     }
