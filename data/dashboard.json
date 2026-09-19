@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-18T14:31:54.245Z",
+  "generatedAt": "2026-09-19T13:55:30.878Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$759.18",
-      "change": "-1.54 (-0.20%)",
+      "price": "$761.69",
+      "change": "+0.98 (+0.13%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$515.13",
-      "change": "-2.03 (-0.39%)",
+      "price": "$515.88",
+      "change": "-1.28 (-0.25%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$716.49",
-      "change": "-0.43 (-0.06%)",
+      "price": "$721.45",
+      "change": "+4.53 (+0.63%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$333.13",
-      "change": "-3.87 (-1.15%)",
+      "price": "$336.13",
+      "change": "-0.87 (-0.26%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$491.67",
-      "change": "-6.08 (-1.22%)",
+      "price": "$493.78",
+      "change": "-3.97 (-0.80%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$363.87",
-      "change": "-2.33 (-0.64%)",
+      "price": "$364.27",
+      "change": "-1.93 (-0.53%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Judge says Trump can&apos;t demolish Kennedy Center. And, lawsuits target voter intimidation",
+          "title": "Opinion: Remembering Annie Dillard, nature writer",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
-          "publishedAt": "2026-09-18T11:09:24.000Z"
+          "url": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
+          "publishedAt": "2026-09-19T12:00:00.000Z"
         },
         {
-          "title": "Ms. Rachel has entered her album era, and she is so happy about it",
+          "title": "Ancient teeth pose a mystery: What made those strange grooves?",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
-          "publishedAt": "2026-09-18T11:00:00.000Z"
+          "url": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
+          "publishedAt": "2026-09-19T11:21:56.000Z"
         },
         {
-          "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+          "title": "An Alaska storm scattered artifacts. Archaeologists are racing to save what&apos;s left",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
-          "publishedAt": "2026-09-18T10:58:49.000Z"
+          "url": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
+          "publishedAt": "2026-09-19T09:01:00.000Z"
         },
         {
-          "title": "South Africa &apos;feels like a prison&apos; for women amid spate of femicides",
+          "title": "Ever wonder how the Fed&apos;s interest rate actually works? We&apos;ve got answers",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
-          "publishedAt": "2026-09-18T10:39:14.000Z"
+          "url": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
+          "publishedAt": "2026-09-19T09:00:00.000Z"
         },
         {
-          "title": "True or false: Trump&apos;s name is now on the Kennedy Center. The quiz has the answer",
+          "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
-          "publishedAt": "2026-09-18T09:01:00.000Z"
+          "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
+          "publishedAt": "2026-09-19T06:39:57.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Could US pull one-third of troops from Europe? What that would mean - Al Jazeera",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTlNZjh5WUxyRmw0a1ZyNGlmWjF5b2xablNUTTNRRDdyYXpYb2JtZ1dIcFZKTjVfX2JKSXo1UGJiUjE1RVF1U2VuSkdtQzhUMU9BQnJmNklIY1F2czVnbjJEMklNSlhHSkNoSVNwVVl2VnJscTM2THE2ZFNvb2JrMFloeVplRHFxdzFVeU1wMC1GLW5CYmhBQ3BRRDROX21TR01LLTZLMlNDUkXSAbABQVVfeXFMTVloYmZDZUcza3pMRW9qWWFmNTBQS3NvRzRyNUpudEQ4em1OaGlQeDBfUHlWRnlDZ0wxeG9hUDRoV2JvQ2lQc0F4WTRVdERtTHh1djdGVWl2Wk1YY3RFQ3h6ak9ERldQRVJwTFNEZEVVRV80XzBBNll6SzgtRHVHWXUwMFczQkRqUkR3SktCdU5RdVZBU1pyRm10Ym9FNmRJeHJJZDVzazI1VEJuVFI0V2U?oc=5",
+          "publishedAt": "2026-09-19T06:38:32.000Z"
+        },
+        {
           "title": "Trump floats setting up Army base in Poland - Politico",
           "source": "Politico",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VS1Vkc3pqWjh1RHhJLXFyNzNuVEstdWQ5QVZicExrY0lDMWJubUxvdW9ybUFneV80M3hPeDhqbTVNQ2V3MVdzYlNMRlk2WXdzMS1oQTkwVVpSdkdKVThpVjV2eUhMejVudEVVZE12LTRTdkd2bUlNVg?oc=5",
           "publishedAt": "2026-09-17T18:56:00.000Z"
         },
         {
-          "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
-          "publishedAt": "2026-09-16T20:58:02.000Z"
+          "title": "Trump touts plan for new U.S. base in Poland as NATO ally's leader warns of \"real risk\" from Russia - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOTItamo5Ujhnd25STDIxbkZpcXhIM1VGNV9pR25VR2Nla1JDb3dLNjVMOHgteURtSUdGWnJuYzZ6SFdJdWl0MndmRXpMTnFGdXVoWFdsM3VENGpCeG5IYnJ5M0RnUEFkTUJ0MXBZbzktSmFNMDRQQUs4X2hpQzJRUjhpb0ZrdFBaUU5z?oc=5",
+          "publishedAt": "2026-09-18T16:34:57.000Z"
         },
         {
-          "title": "Trump touts 'major progress' towards setting up US military base in Poland - Euronews",
-          "source": "Euronews",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUxfcFg3T0NFN0xvMnhoSG1QYXE3ZUc2OXRFM0tuQXdPN1V5Q2RXMGJRRlFDSWFtR3RtU2ozcUh0OWU3SmpydDB2NURxY3BNQ1FGc0tCOHBOSGFmeXhqdmZ1NnNwOS1EYTFWWlAwaE9vcUQ0VTBjM3lRLWxoOGRaQ2hDRjB1YmthRlg2M040Qi1WSGRLQ05VWi10OHp0SUNMUVFUcTc0eG14OXk3?oc=5",
-          "publishedAt": "2026-09-18T06:15:46.000Z"
+          "title": "Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5",
+          "publishedAt": "2026-09-18T16:55:50.000Z"
         },
         {
-          "title": "US, Poland Making Progress On Permanent American Army Base, Trump Says - Radio Free Europe/Radio Liberty",
-          "source": "Radio Free Europe/Radio Liberty",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14Qk8xd2UzWHlYSnV4OWVqOVdhS1Y4emxVczRETEJOMGlaN3hCQWZYS0g4SV9wNkgxU3JxUFhHN0VNdnB6VnV3bGRtbWJSdzZyVHQ5UC1iX1VTaVF0ZkNhaU5ZQWVqdVlHc1BKR3hNM2ZJZmZKT0VvU1ZfZWfSAX9BVV95cUxPYlNIbEl5MU1WQ0MzZnQzYk8wVE1MbUxVbG82ODBZMHNMT05seklpdzcxT2hhdjhRQUc0ZVdjUFZvU01kMlZJZEJYQzh2VVRTNmNxc2JtNnBLVWpOdjFDdXdzQzQ4cE1SZk5WeTRZMWh3Ry10ZENGZ3V3ZW5KbHIw?oc=5",
-          "publishedAt": "2026-09-18T06:40:30.000Z"
-        },
-        {
-          "title": "The US Army is looking for new drones to ferry blood supplies - Military Times",
-          "source": "Military Times",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSjFsdVFWTWg1cHFub1pLT1BJNzRBbDJ0RzJqekdUeVh5YTBmYUtFLU1TOVpsLTBDNE5VS1JRM2lCaVFWTFdYWkJlWEdRUk5RWFkxMHZkR1MzTWNjSEZGeG9zdDV4aDJKT1lhUlg3ZHkyQlBrNGFuSGRPV3hPMmhwYXBGbk1vd1ZGdnhkLTBQY0RuLUw3T3ZHdm8wVlRTVTQzZUpFbmh5alVnR1pQNGtrc1RvV0RTbUctempDdFdmaw?oc=5",
-          "publishedAt": "2026-09-17T18:48:19.000Z"
+          "title": "Trump touts plan for new Poland base as Pentagon weighs Europe troop cuts - stripes.com",
+          "source": "stripes.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3YtQkl4Si1GeGViVG9ocjJTbldzYlBLRUZ1M08yVVpxZjFuTGZMTE5vOFdOaTJsdUtsaWVEeXRDWW9URURPUUFEN3RaUUdORnRxNnJxeXF2c2NSbnRFeWFqNXRHV05iem1iN1VtVjZURkhRRUhuNHhTNDZmN2tYZHZjbndQVkRiaEJmcUtEVllhcGc5b2ZPWVJVOERjS0E?oc=5",
+          "publishedAt": "2026-09-18T15:11:39.000Z"
         }
       ]
     },
@@ -129,22 +129,22 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Know about the academic program of the U.S. Military Academy at West Point - Britannica",
-          "source": "Britannica",
+          "title": "USACE New England District team conducts archaeological survey at historic West Point Military Academy - army.mil",
+          "source": "army.mil",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVGpSV2hpdV9fekdPUnhZZV8zVVBuNldfYnNGNVRkNllhT0tCV0xidTl2REplOHRKODQxTmEtcmxSdUxYUW9KUWxfamtVdnNIODVOWGw4alZSQXlVLW1KQUoyVE1ocFZiTVRNOWFKaG41MDVfR0FBYkItaURkdHhXcGFuN0NUbXZMcVRjYmpSMHFYamNmVk9Zbi0wbjF4MlJQRG5wRGRYMF92WnlqdTNkREdFVnljNUQ3dHFybVE2Vm9Yd0N2Y3RCUFpkZzJxVGhvUDc1T9IB2gFBVV95cUxNZ0ZVVnJfcTJrN1d3MEl2bnRxcm5GSnItV1FMa1VtR205NU9LcWVRd2JXVVRyd2xkR3JkVGRsNEJ4U1ZJVDdpYVE2WU1QM1VnMGw1S0RSVEpxUjduWTBaWWcwM0I4ell3LXRSRTZxQ2p4dmdzOGRra0JzdVBBckFlM3lFemQ0cWJYa25DUVY1ZURrUG5vQmVhOXJ2ZFJyNUpCaGlrTHhycjVVamtRNFhwOVJrR2UyU1IxN0FlbFJseE9zc0psc2Nsc2o0UG1NZm5fVXRQY0JMemNUUQ?oc=5",
+          "publishedAt": "2026-09-17T21:31:20.000Z"
+        },
+        {
+          "title": "Know about the academic program of the U.S. Military Academy at West Point - britannica.com",
+          "source": "britannica.com",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
           "publishedAt": "2026-09-13T05:00:00.000Z"
         },
         {
-          "title": "Artifact finds at U.S. Army Garrison at West Point [Image 1 of 3] - DVIDS",
-          "source": "DVIDS",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHJscW9DNVNzdUJfTTNBbmxndUlMMHpZMG5RMHRNNkpObWJPTW8tLV85TXhhT2RxQ2pTYmw2SWp2cVdRUjB1dXh5ZExTekhuT2ZlNHBkdDd1T3FLNG01dXEyLTF1Y24xM2ZvOVUwYU40eVZuMFRYT2Z2WllNNC1teVJGcjg3SWhV?oc=5",
-          "publishedAt": "2026-09-17T20:31:00.000Z"
-        },
-        {
-          "title": "Winter Juniors Qualifier Mia Jones Becomes First Publicized Commit In Army's Class of 2032 - SwimSwam",
-          "source": "SwimSwam",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3BwMTBSc2dIWGZfcEM5OXRNUGc1UTRtRFE0eEdfcFoxY2w1RzJ0bmtzV3g4SkZyWURFY3RoSlY5TndCUFJfTldQYVI4Yjk3N0ZvZlNMOFdYZ1BQWF9ta3VLRWE1d1ppRTlxWmlwTzV1OEVXRkF2TFd0S2MwMFJGZ1VUQUZGbGlubmNlVXR4ck5nbUlkeG01RVZGNndqVzdyY1FaQ3JQYmt6dUdXdHZ2dQ?oc=5",
-          "publishedAt": "2026-09-17T23:16:09.000Z"
+          "title": "Grulla High School Alumnus Makes History with West Point Graduation - Texas Border Business",
+          "source": "Texas Border Business",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcXRmUkhQY09OMy1HbXVvZUg5bHdQdEhmRlhlVGhxbUt0NnBOVFlxWURVSVFsb0ZnWkRFWWwwdTFkcHZNbzROWjlFX1hwR0ZySzlnLThWazNlN0hJSnVVdGdleG8wVXRoQkpmYUVOLUxsdWVGYktpMEZsVjVFRUhEb1BHV2UtelVmaXdSNHQ1UzI2OWVzY056c2tqdDItdEJ4WFE?oc=5",
+          "publishedAt": "2026-09-14T14:01:19.000Z"
         },
         {
           "title": "West Point professor fired after pushing back on limitations to teaching climate change, lawsuit says - stripes.com",
@@ -167,22 +167,16 @@
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Honored Division Week #2: Black Knights honor the 25th Infantry Division with gameday patch against South Florida - United States Military Academy West Point",
+          "title": "Army Football opens season in renovated stadium with 59-3 win over Bryant - United States Military Academy West Point",
           "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNejM0cVFLRllGRmNlTWZxcGVFMVZPd1NCYjQxMW5xSzhzQ3VBbS10b0R4TFpTNWxXWE9YZUsya2pIMWRqc21BSGcwQmI4bGo5Qm5KQ2JaZGlhYmFlUUlzNmRkX1ZzU2VPeXloNU5ucWxIbGVma29YQ0VhejFBaU1mdFZyMXNRaFJ2VElzVWxWVUhqTVVoRDJkMkgzNVJkLTY4cW5IRDhHZWxsVlY4UTlnVEFZQXZlVWpWNG5FTHhUdFItSmROSHBoWG5sN0pZaW52LUJsVnZQX1FreHo5LTdOMUQyQzJlbjNKbmVHY3dheURKdGtIUnBXR1BoOA?oc=5",
-          "publishedAt": "2026-09-11T20:21:57.000Z"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaEYwb0ttZVpXZ2s1TzY1OGJpSmZXbHUycFB3TDNpYURKMHV6Vmg1bHgzQVA1enlmc1lrOURoc2t0RGJ3M0xpbW9hd3p4Y0h3RDZ6dDRROTFlRWxWVXpPZGZRb1JWZUVOeURJY2tCQTVGV20ycWNzU1d2UFFNLTQ1ZGFSTGJ6SmhDVlY0TFZvb2U4aUVuR2M4VllhS3UtVUdvTG11X3ZPQm5zclJJNXBERXZTdXhQRTROMDZ2UHdoYw?oc=5",
+          "publishedAt": "2026-09-11T14:33:01.000Z"
         },
         {
-          "title": "South Florida Bulls vs. Army West Point Black Knights Live Score and Stats - September 12, 2026 Gametracker - CBS Sports",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVBZeVlkSGNydE1XZTRZQzBUc3MxcWI3eU5JRW5pZkpNUm9POWFxazNQdUt1dnhhZUdTQkluNVk5YVBWczZTYmFSdEY3RldwYVVRWWFkQk5hV09fM3ZaWXNrY0pDVFlDb3VrcXJFRzhZUGJPRVJ1TFJTVWF5djlZMFBFYVVPbFNvZVAzcThn?oc=5",
-          "publishedAt": "2026-09-13T05:19:20.000Z"
-        },
-        {
-          "title": "Jake Rendina: 'Most fullback-looking fullback' credits roots for Army career - MontanaSports.com",
-          "source": "MontanaSports.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRURpYzRaUzFCQmZsb25lT0ZjS2NrLVBTbGNVb2psVEt2UEtKdmhmMFhINUFTbm5nVUNKdU9hTE5TZ0FhWllEcVBqbHFKQVRvNDRiSkdWTUFXbEYwakRFMWtiOFVITkw5R2d0ZUgzS3JZSTdrWVkwNjRsTGVUbGwyejJYYjBlenczR05VZ3MyaG00dUFUdFNKeHNtdlVGUHRwNVNfSUE0aG80al9UOFFNUnp4b0lpOUJteXZVNFNZOG9tOXp3RVAyOA?oc=5",
-          "publishedAt": "2026-09-13T15:55:40.000Z"
+          "title": "Army's Nnadozie looking forward to leading Black Knights - spectrumlocalnews.com",
+          "source": "spectrumlocalnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTJoQl9nNmx3QTNfTFlRNGlNVG9aM0NXOGZrTkp0N0VVMUx3bHVjd2w2NnctLWpJRVFVRWFOaEM2aF9mclhKTFFzUDNlalNxVVpTQVZBZF84aXZNeUJZTHE1cTkwaDJOYmhGNTlhUFJwOS1paGFYOGFuYThpUVkxV1JBOHZocWFEa3Z5NlhCbFkyX2FFRlp3T1FB?oc=5",
+          "publishedAt": "2026-08-31T07:00:00.000Z"
         },
         {
           "title": "USAA Named Preservation Partner of Army West Point Athletics - Learfield",
@@ -191,10 +185,16 @@
           "publishedAt": "2026-06-11T07:00:00.000Z"
         },
         {
-          "title": "Army West Point Maintains Patriot League Presidents’ Cup Standings Lead through Winter Championships (3.25.26) - Patriot League",
-          "source": "Patriot League",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQM2Q0dDBXZ2ViOFVhOGUtMUJnTVJPa2p2Vjc4VHN6S0E1WlE2VXc2clJicWhEUDNqajRiZHNkQkZfSk4zcVpHMDYzOUhtQlc4OVYyS20xSWNXRUFjZ3pjQXA1YnVUZE9wNldyZDFraHhDbUphZFBKZEVvMGsyWnBKcm9qaDBkQUZUWkI4WFlQRUt2VmczajZ5bE0wLWdOQW9kMUJ3NUJERlNvaW1XcjZMczJuaDhjYUh0NDhEbms3VkZwWkdkanBNbkZzdVJKeEpEcER0ZzFDQjlJNWlsUHBXWFoxNURQNUlNVjFpR1pwX2ZnY3c?oc=5",
-          "publishedAt": "2026-03-25T07:00:00.000Z"
+          "title": "Jake Rendina: 'Most fullback-looking fullback' credits roots for Army career - MontanaSports.com",
+          "source": "MontanaSports.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRURpYzRaUzFCQmZsb25lT0ZjS2NrLVBTbGNVb2psVEt2UEtKdmhmMFhINUFTbm5nVUNKdU9hTE5TZ0FhWllEcVBqbHFKQVRvNDRiSkdWTUFXbEYwakRFMWtiOFVITkw5R2d0ZUgzS3JZSTdrWVkwNjRsTGVUbGwyejJYYjBlenczR05VZ3MyaG00dUFUdFNKeHNtdlVGUHRwNVNfSUE0aG80al9UOFFNUnp4b0lpOUJteXZVNFNZOG9tOXp3RVAyOA?oc=5",
+          "publishedAt": "2026-09-13T15:55:40.000Z"
+        },
+        {
+          "title": "South Florida Bulls vs. Army West Point Black Knights Live Score and Stats - September 12, 2026 Gametracker - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQVBZeVlkSGNydE1XZTRZQzBUc3MxcWI3eU5JRW5pZkpNUm9POWFxazNQdUt1dnhhZUdTQkluNVk5YVBWczZTYmFSdEY3RldwYVVRWWFkQk5hV09fM3ZaWXNrY0pDVFlDb3VrcXJFRzhZUGJPRVJ1TFJTVWF5djlZMFBFYVVPbFNvZVAzcThn?oc=5",
+          "publishedAt": "2026-09-12T07:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "How did former Steelers OT Broderick Jones perform in first Cowboys game? - Steelers Wire",
+          "source": "Steelers Wire",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2hocnNuTmNFUV9Ja2NhbkRRT1REbHBUT3NTeWFDcDNHVG5BRzY2MDFZRVZRenlUTXViY3JacEZCVTljR000LWpqeWx3NmRVVDNWaHI1TnZQT1lid3pHc0tZTk5mWHhsbTZIZEI3a0hNRXpHMTZKTlM2Z3hMUXppSWpucGc1bjZySTlnbGluTXluY0lObGhRc3ZFdU1xbHJGbUxSZVdOVDRlVXRVMFJJMHBfZUlsV05xRWFJZGVzVkNEV3N1QVVma0x0Nm4?oc=5",
+          "publishedAt": "2026-09-18T10:06:00.000Z"
+        },
+        {
           "title": "Patriots opponent preview: Get to know the Pittsburgh Steelers - 98.5 The Sports Hub",
           "source": "98.5 The Sports Hub",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRnNMLW5yOXo3WmpaMlBmYzI3aUdyRUxHQXJnam8zaWdpcmE0T2hLQmxvdlZRdlJWT2Naclg0X2JuOFVOc1lXd1Y1SmZGR1h6UWpkRnZKYVRWSkwza1B3MDFpbEJFdzN4MjRHSE1DMzk5dVVJQXJBMHlncTNSSVNRVHFhTWhqZ0YwZkQxNmZfekJrVUtXOFRVbEE4Y2t6d01EYWhsaTI4THNBYnFBZlh6YXgyZw?oc=5",
           "publishedAt": "2026-09-16T09:00:00.000Z"
         },
         {
-          "title": "Steelers, Joey Porter Jr. Situation Gets Weirder - si.com",
-          "source": "si.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMG5jRGcxVzc5b3FEZGRyQXk2dzZjcmF3R3VpVXdRT0VrczBkUUhWVkIwWTRaT1VPQWgyTDNEUUNQaW83Y0l4T2hCaXU1ell4a0lLME9yN3NkV0lqRHhOTEhtQ1pXVWNzWTlkWEhXMzR3NEVRMWhWUnRNSVlvaWdXckRpZTd0NHYwelZwcnpqSC1FMXM?oc=5",
-          "publishedAt": "2026-09-17T10:00:03.000Z"
+          "title": "Surprising Update on Pittsburgh Steelers-Joey Porter Trade Rumors Emerge, Including Likely Return - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY19YQTJLR2UwVTNhODZxdGMtUFlUcGUyS2xCQUl5Z0p0c0hyemRmZFQ3SlphdHhxcTdQMk1icjV0a1p5QmRPSEhwaW9UTl9xdlFwMlZHWVdET3R4RXNMclFLMUVoWXhfQnpSVTVrc0VETlB1SG5lN0JIemhhUVVTTGtod3UzUnVScWFTTzQ2c055Sk43WGc?oc=5",
+          "publishedAt": "2026-09-18T14:32:10.000Z"
         },
         {
-          "title": "Cowboys OC Questions Steelers' Coaching Staff in Troubling Broderick Jones Update - si.com",
-          "source": "si.com",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaGliSjFuZ0Q5SFNBZl93YThmeXZfZXpKcXg5bjIxLXhmSkw3UUxkc1BMQ0p5cWx5VmUxOFJReTBZbUs2RDFuOFNoNTZ4RlBPZFhBX2ZYOFlyYVY0dXhUWTRReE1QcUJ6czlhZjJobktGbU9mamFQbkg5SGZidWdjV2ZPczRyc0NZVDA4cGF2Uk1PaUZSLXh6MnNDVXZWbDdVQm9rOHhpSTlmMlk3bkI3ZG1uRnJxR0c0Yk5BMk54Qk1RVGlJQmpUelBQWQ?oc=5",
-          "publishedAt": "2026-09-18T12:04:00.000Z"
+          "title": "Star Pittsburgh Steelers wide receiver suffers foot injury - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVm50TjFkY1R5WmFlcGxTZE41ZXFDYWZHSGZmVG5UbkoxVnlKZWNXTmI1bDJPTno3QW9DVl9oZFVaLVVCOV8weTdwbG5YaW9tUktrTXNQWXVkaFZOYm5MWkV2c1hTR2VOSkhGWDlnUkkwWmpXWm5lQmpUYnVzdDhLQXdZTUh0NG9ScVpEN21OSHFWN21ubUxJbzZNWWdpY04tQ0JVZHRPSng?oc=5",
+          "publishedAt": "2026-09-17T11:00:00.000Z"
         },
         {
-          "title": "Inside the saga around Joey Porter Jr.'s future with Steelers - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWDRLSGVGWld5VHFCUlhWbXdCTTdRNkZDZERrTjBBTkFiUGQ4VzVXNV8xN044cmUyNmRTWXVVMXdkODRxX20tUVVtQm9TNi1kMzBia1lrdnloQ0traE5ORUNJaFFtTFBORVZROUk1Z1JhczhjbVdtTS1LZ28zT3hoS1NyUFJjVkluWlJzblU1SmJKTWd2eHZ1V3JTc0pxMWdVbXN1Y2lwcDlVMDNuMG9DWXlMZ1ljcmZoRV85X1Q2TE8?oc=5",
-          "publishedAt": "2026-09-18T10:00:00.000Z"
-        },
-        {
-          "title": "NFL Week 2 picks: Upset and score predictions, matchup breakdowns for every game - NFL.com",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ydzFIOXBLOGhVMnhNUWkzVUZuaUVyZE9pbHZDQ0ZvSkpjU0RBSUZaYlJSQkktZTF6LVhEY3NQRWo3akVwRHVqSWc1X3pKaEVDQVI4dnM5dFpWa2w2STZYaHljYzE4MjQ0?oc=5",
-          "publishedAt": "2026-09-17T17:13:59.000Z"
+          "title": "Week 2 Injury Report (Patriots) - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1leUpER1liNmN6MXJxZFYxTk9KemtHTC16VFF6RUI5YmZiclhySlBSNGlzaVlkSHJBWlRhT21JUE41WkpGUk5RTnhpallkZUxFVGlpc1BtLTVUYWluSldFWnJFbzBhR2tUOVVxQW5SenhFNjA?oc=5",
+          "publishedAt": "2026-09-18T07:00:00.000Z"
         }
       ]
     },
@@ -246,7 +246,19 @@
           "title": "Tour Buzz, New Music, and Big Wins - Madison's Country Q106",
           "source": "Madison's Country Q106",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40U2ZPVWIzT2JfVGVkQmtuRDdyTVFXQXlqdzhpY2w5V3daVUNjd1FTY2h2ZDlXNWJnYldTcmdUdFY0eWlxRlFvZEtlNktsNFVINlJOZVg4RlFUQ2ZXUFJJQTUyUS0xYmJnbl9rOXRpNk5qZVU?oc=5",
-          "publishedAt": "2026-09-18T14:30:05.000Z"
+          "publishedAt": "2026-09-18T14:34:12.000Z"
+        },
+        {
+          "title": "Here Are The New Country Songs You Need To Know This Week (9/18/26) - Country Swag",
+          "source": "Country Swag",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb09LemtmNXpwVVBpN3U2U2NkOUg0cnBqTURYUHRWZnBSUFQwbDl5MzZIQlE3ZERBNDhHSTIwWFN4ZkVnTEt2T2JPRDRma0lhVS02VjFESmpBZVlscnFvQ0VkUHBHbk1BOGl3MUlmZG50c19oMGE4SVVldUFpNFhORC1KUnBvaTVPZkRpdnBWVzJOeW43?oc=5",
+          "publishedAt": "2026-09-18T17:53:52.000Z"
+        },
+        {
+          "title": "Riley Green drops 19-track album 'That's Just Me' and country music fans can't get enough - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ21LN0NseHprWGVvZVljTlFRR1hVX01nNXFNYXU4Ulp4d0VFME5MR01YRVY1ZExjTGlqdzNncG9aeUhtV2poVnUtZkZ3YThlUHdHdHdKMzFLcXdoM3h6XzFLLTdncGJ1amF3ekdKMjV0Nkh5SHR6bWRWcXlzVmJTcmNGRTJUYjJFRjF5cEZSOFZnc3pjcXd3VGFjRlgxa3ZDcmJmVnVVemhMdXVXaGROeFI3VQ?oc=5",
+          "publishedAt": "2026-09-18T15:05:32.000Z"
         },
         {
           "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
@@ -255,22 +267,10 @@
           "publishedAt": "2026-09-11T16:02:00.000Z"
         },
         {
-          "title": "Nate Smith releases visualizer for the song ‘Find Me in a Bar’ - Big Country News |",
-          "source": "Big Country News |",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2hSMURxVkVzQTNOSGJIQ2E1eWNsM2pMUHl5bEpjYTBrdnJUUUpSSWVHT1JlcWZXUVVzX2syNXpxd1FTeTR2RXd1bU9CMnZodzZTeXZ3aTZtV1BaNm5HZmtCQmZERnFOQjBlRktkNVUzTDBQekVEb2lEbWN4dTNvVXp0TXhnWl9vN29POVVOMmpzdTdFQWNVdkV3UmJVU3FvdEVYcw?oc=5",
-          "publishedAt": "2026-09-17T10:22:49.000Z"
-        },
-        {
-          "title": "Country Drop: Countrytown's Best New Country Music - 28 August - Countrytown",
-          "source": "Countrytown",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWm1OVGRieXl2LXJWWUU0cGYyY3dZWEdjdjhhZ3dGZm93Q0pHdFZZUWMyQlZFbEk2NnpqN2VKZlpfTnIwY2NpWTZCM0JvdnpSMldYcDBzMWhtUmZielFYdkxqVjRJTkpYbkJuM0FCbnRQbVQtdVJ4SWhORWNBWWtDWFZlMjdIRFVxZ1JZalBmdDJQNGRUaHloRld5LVpxaWI1TU1DTm5XTEJjdVFESHgyUg?oc=5",
-          "publishedAt": "2026-08-27T07:00:00.000Z"
-        },
-        {
-          "title": "Officially Declaring August 28th, 2026 a Country Music Holiday - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRGhDeDdEWXlUY1BBUDVKdGlqa1haZ1NON0daY2JCVjY3eTJ6bFhGWVVZUm01Mnh4emVmS1YxNkZoaTdiSFNma1lVaWk5U054bmZVS0JnVmxGN0lTc1N5a0VCTm1xTXcwVjVGZUVjOU9kNlVuanhETHhhU19CcnZRLU9aNGxSRVRCTE5IcGxwOEd4OEhlLW5oRg?oc=5",
-          "publishedAt": "2026-08-27T07:00:00.000Z"
+          "title": "MacKenzie-Childs Releases Collection With Country Music’s Lainey Wilson - homepagenews.com",
+          "source": "homepagenews.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnZjcjZSSHNQTGVLNXVMTlh5X0pIMi1iZzRQeW8wQmhabEZ0cFdqTy04UnhSUGREQ2JyWWo3YVJuM0RCNWFBaS15cENwMlRPbVN2UXhybDFKQzJ5d1M3a0FEblNmMU9iRjZaSURRc0VULUNnWE5nQ0NzcUZBcThPbmFFTjVhMzBheXhLT1ROV08wSTdFUFZsSHdsRkx5bm9ZY0xRazNpeURncTdaVmZpMVg1dHVXaExldkdxeHhMV3VnZDVF?oc=5",
+          "publishedAt": "2026-09-18T16:30:33.000Z"
         }
       ]
     }
