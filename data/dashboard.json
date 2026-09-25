@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-24T15:08:22.341Z",
+  "generatedAt": "2026-09-25T15:17:21.011Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$764.12",
-      "change": "-3.69 (-0.48%)",
+      "price": "$769.03",
+      "change": "+1.85 (+0.24%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$511.30",
-      "change": "-3.00 (-0.58%)",
+      "price": "$514.58",
+      "change": "+1.90 (+0.37%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$735.51",
-      "change": "-5.70 (-0.77%)",
+      "price": "$743.16",
+      "change": "+2.06 (+0.28%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$336.16",
-      "change": "-0.86 (-0.26%)",
+      "price": "$338.10",
+      "change": "+2.18 (+0.65%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$494.39",
-      "change": "-6.20 (-1.24%)",
+      "price": "$515.07",
+      "change": "+17.14 (+3.44%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$376.68",
-      "change": "-3.44 (-0.90%)",
+      "price": "$370.29",
+      "change": "-7.65 (-2.02%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "The economic squeeze is pushing up poverty rates for older adults",
+          "title": "Pope Leo warns a &apos;paradise of machines&apos; could undermine humanity on his France visit",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
-          "publishedAt": "2026-09-24T15:00:00.000Z"
+          "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+          "publishedAt": "2026-09-25T14:55:12.000Z"
         },
         {
-          "title": "Trump rolls out the red carpet for Xi as high-stakes summit begins",
+          "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rain",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins",
-          "publishedAt": "2026-09-24T12:43:15.000Z"
+          "url": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
+          "publishedAt": "2026-09-25T14:46:28.000Z"
         },
         {
-          "title": "Judge restores journalists&apos; White House access. And, Tucker Carlson on his MAGA split",
+          "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
-          "publishedAt": "2026-09-24T11:10:14.000Z"
+          "url": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
+          "publishedAt": "2026-09-25T11:18:52.000Z"
         },
         {
-          "title": "Needy couples got cash and a spending plan. Results were good -- and bad",
+          "title": "Why this Pokémon set is dropping in value",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
-          "publishedAt": "2026-09-24T10:43:25.000Z"
+          "url": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
+          "publishedAt": "2026-09-25T11:00:00.000Z"
         },
         {
-          "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
+          "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
-          "publishedAt": "2026-09-24T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
+          "publishedAt": "2026-09-25T10:25:03.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "U.S. military lays groundwork for potential action around Cuba - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XWW9yYTViRDBhclpsTm5RTldOUU5PdW9KRnZMV2xrS05vRVZ1MDNqSGMya1ZkV2h0eElpUDMzbk1OOG9KaWp1WXczMVBIMmRQN3ZNUG8tcmRWbEVQMUNaT0xiWFZ6djRzV3dqdXhiLS0tN1N2TlpicFNrenY?oc=5",
+          "publishedAt": "2026-09-25T10:00:00.000Z"
+        },
+        {
           "title": "News - USAG Stuttgart celebrates 85 years of U.S. Army Military Police Corps - DVIDS",
           "source": "DVIDS",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdHk4LTNwRmhndVY5c0NfX2pzanlfazAyWXZzamZ6Yl9SQkdERGZaOWxqSkNwdExmTjFsTFFZU0ZtNUQ4eGcxV25iTjVjbjBvLWYwNDh5M2Y4c1hkNFhCT1VJMXNHZ0d0UVNqWUR3S3NJbmp4ZjMxRjlWTE9XbS1fUnhzWXhfcDk5M3VDWVFWa2wwcWp1YzVkbkdZZEJGX2lvMjBz?oc=5",
           "publishedAt": "2026-09-24T10:35:00.000Z"
         },
         {
+          "title": "US military lays groundwork for potential action around Cuba: Report - Türkiye Today",
+          "source": "Türkiye Today",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWJib0Utcm5ma2QzMHRfZm52YVZzRUNnQkxwSjZwU0F1OV9XWC1nVHVENzR4NE9OODBJek1WYXRpNW5FTFI5ZGZnV0hzQlFUQk9veEwtTTIwTzFsdGN4R0UwcVNMQXU4TDJzUjlTT2hFcjhnUW83NW4tdmZOQ1JvTnVpT21HdTEwQ1E3c3FSM1R1UktOMFVJWHdndGpjOEpib0c5MFFuNGFZclVycWNn?oc=5",
+          "publishedAt": "2026-09-25T13:22:45.000Z"
+        },
+        {
           "title": "Army cuts training as service is short billions of dollars - ABC News - Breaking News, Latest News and Videos",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQam1CQnl5Mmt1ZlRVNDJINHgzRlI1cm1Jc1J4WGJNblNoVVVGT2gwWEpKLXJ3M2R1RnhBZ3dFQVU2aFRrV0UzR1lMNGltYVc1ZGl6cF91SGdVR1h5WmRXQzBaR3Jwb3RyUmxLZXluUkhxLVVwb2ZoMnE5QmVoZW1rLXZGdExBeXJnenlLaXdtOV9MWE94cUNuRUlSS3JFZ9IBowFBVV95cUxOTjVTRHFkWFpPZHVmeW15b1pPM0J6RXdyN0tCVHJ2N2lzd1NzX2dyaF90aWZ1TXFwTkZkNU40b3pXQXQ2X1QwYjA3dzdfbHJpTjRTWElNM0ZBY1JKX01VbFFnRl9qdnBramtBNllkNkF2NUR6SUJLX2VhWGVCYlNmbFo2S2IwYXR3eW94Rmp0dzRZSExRelhXWm9WVGpmb3pueXlJ?oc=5",
-          "publishedAt": "2026-09-24T10:55:49.000Z"
+          "publishedAt": "2026-09-24T17:44:45.000Z"
         },
         {
-          "title": "Army identifies 19th US service member to die amid Iran war - Military Times",
-          "source": "Military Times",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ05kNy1HZWhaeGxCZmpGYlBpZnpCanN5cjhtSDItVTZlSHVtY0tPZnNFaGQ1dWZwZVVDNHppNmhScjVrb2tUQmxZSGNJZ2h4cDVWQ3BQVHdVZ1A0ZGU3N1pyVmN1Sk5OTnZCNjl1LXYxamFzSFRvNF82MlpaSjJubEpPemd3N1A4TFBfOGVOUDhJOHlnZi01dlNJSmoxWkxoZlVFTERzZ1RKbjc0Q3VEaWsyYVZmaFJ1SnQyTw?oc=5",
-          "publishedAt": "2026-09-23T22:36:41.000Z"
-        },
-        {
-          "title": "US military spending $500M on ‘war-ready’ laser weapons — and zapping drones in Iran, along US border: experts - nypost.com",
-          "source": "nypost.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmw5TU16VldGWV9WWXl5eGFod1JtQXVxSzlPN3QySnJLZzFwYmljMUVEOGM5Z0hzTkVlS2pPZFJCQkRnX0tXQ2Y1VW5RNWJyZXIyeDE5TWMyNDFVNHJ5QUhsRTRRbGxtbXRPamxzSm5ndjJ6UTdZVUhyRHRDZ19mRC02MG5ldjFkT09pNlNYQ3IwOEdUTHpUWE9tSElaTENS?oc=5",
-          "publishedAt": "2026-09-24T10:00:00.000Z"
-        },
-        {
-          "title": "Could US pull one-third of troops from Europe? What that would mean - Al Jazeera",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTlNZjh5WUxyRmw0a1ZyNGlmWjF5b2xablNUTTNRRDdyYXpYb2JtZ1dIcFZKTjVfX2JKSXo1UGJiUjE1RVF1U2VuSkdtQzhUMU9BQnJmNklIY1F2czVnbjJEMklNSlhHSkNoSVNwVVl2VnJscTM2THE2ZFNvb2JrMFloeVplRHFxdzFVeU1wMC1GLW5CYmhBQ3BRRDROX21TR01LLTZLMlNDUkXSAbABQVVfeXFMTVloYmZDZUcza3pMRW9qWWFmNTBQS3NvRzRyNUpudEQ4em1OaGlQeDBfUHlWRnlDZ0wxeG9hUDRoV2JvQ2lQc0F4WTRVdERtTHh1djdGVWl2Wk1YY3RFQ3h6ak9ERldQRVJwTFNEZEVVRV80XzBBNll6SzgtRHVHWXUwMFczQkRqUkR3SktCdU5RdVZBU1pyRm10Ym9FNmRJeHJJZDVzazI1VEJuVFI0V2U?oc=5",
-          "publishedAt": "2026-09-19T06:38:32.000Z"
+          "title": "1st Infantry Division soldiers deploy to Lithuania in ongoing effort to deter Russia - Task & Purpose",
+          "source": "Task & Purpose",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaElCWVBqbHFWVkotdk9HT2xqcnE1ZS1OZkhQbi11anlJVlRVTV9FbWZFbURnTW1tQjBXUDJ6eVk0TldkSnl5dzY4TTBUZjFYV3psT2YtUzlkM25aYnRPbngteTZPakhGenM0Mml4VkJzLS1BZ2ZNSlJZa3hXMDhnVWF0Q3dXOXc?oc=5",
+          "publishedAt": "2026-09-24T16:12:05.000Z"
         }
       ]
     },
@@ -129,34 +129,34 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "2026’s Entrepreneur Summit - West Point Association of Graduates",
+          "source": "West Point Association of Graduates",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nVGFKakhneVB6UUNSV3JrT0pHcTdHMXQtQXRzS1E1Q21oTEJyYkFsaExlbW1iWXI1Ym1zVUdTYlZVdzJpYlQwcU9zQzJ6VkI3UnlfOEtHZXdOa1ctQXhZY2tQUmMyRjkyWk81Sg?oc=5",
+          "publishedAt": "2026-09-23T13:49:53.000Z"
+        },
+        {
+          "title": "West Point, Vassar top list of liberal arts colleges in 2027 rankings - Times Herald-Record",
+          "source": "Times Herald-Record",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWC1UU0k3eDIxWUNWQi1yVDRyTVZYcEJFWm9qN3lKbHQ4Zm04UmxTTGg2QXJHZ19ydjl0MUJLNE5zQ0pqQUlVd2ZtSVc1ek9Vd2FQSDFIaFdZZFZPSXRzYktGSEx5U05lbzRjMEV4LXVVVXUtZFRZTU1CaHFRZHo2MUIwa1owZ21qVXZwSVhUSmFKOVlSQ1BKNmU5LVllb3NwSVZ1cXlCLWJsS2VzR2lYMmR3QnUtT3NLS1RjNThLUUtsMmE1?oc=5",
+          "publishedAt": "2026-09-25T09:12:00.000Z"
+        },
+        {
+          "title": "News - West Point Cadet gains hands-on research experience, mentorship at USAMRIID - DVIDS",
+          "source": "DVIDS",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT2x6VDFuZHJQcENVOG5lbVR0V0MwMEU0NlBJZzFNSldTSDJzQWJjenk4cnptUkV6cTZyTFVDeUFZMFRtV252enNuQ1FtV2pQRFhTWDVISEpWTW1nVjFhbzBwWTc4SFFDTS1kNXROM1p1Z3hCNWFZNjg0REx6eTk4Y0lkNTlOaklfd1Zfek9KalpYc19VdFExak43SU5mZDdWZDd4aUpva3Y?oc=5",
+          "publishedAt": "2026-09-24T19:23:00.000Z"
+        },
+        {
           "title": "Know about the academic program of the U.S. Military Academy at West Point - Britannica",
           "source": "Britannica",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
           "publishedAt": "2026-09-19T05:00:00.000Z"
         },
         {
-          "title": "Pipes, Precision, and Prestige: NY and Massachusetts Irish battalions face off on the range at West Point - army.mil",
-          "source": "army.mil",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeXdVX2dEN1I3akx1Q2pZQ251NU9PR1I2X0JjT2JtU19ydDd0VlNzQ0QySDBxRUhxLXlxWE50cXA4N1Z1WnlzRUs4S2lqYUd6SzktWWFUbEJLa19sc0hQN3A1NXVMemZMS3J0cElNQmU4Y2ZyeUNmM3ppQ3puRTRYc3YxY0kzNXc3NnhFWWp3eUpwaFo1MlVXUjdkaHNOcmNhc0NEdjRWR2FiSWFlMmhpTnJPODNySHo4VURucm5WZmlzTFZyZGpLN2kxbFVXd1VHaFJuUA?oc=5",
-          "publishedAt": "2026-09-22T20:31:13.000Z"
-        },
-        {
-          "title": "New York, Massachusetts Guard Soldiers Compete in Logan-Duffy Rifle Match - nationalguard.mil",
-          "source": "nationalguard.mil",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV1BwSU9wbmowNDNmNXkxczlEZDhaNFVZdFJ0Zkd5ekdZQkduTUQ3a0lVTF91MjNLTlpNdlpKckliV0pfdzZnWm9vVy1WM3cwNVZiV2pwMm56YXhYZk4zYjRxMzJKMXRTVEFuZ0M1cy1RYmpyajUxcGJPVXdQWElxTWY1bDJZaEhodWNqZ3lqdFlQQ3J3NUs5LU1IcUZFUGFZUXc3WHdQSmJrNHFSdTVKNko3Y0NobmJaLVZ4VmNmSGg2VExSNXNOTFFrVGhYM1pJT3FR?oc=5",
-          "publishedAt": "2026-09-23T16:21:17.000Z"
-        },
-        {
-          "title": "Lieber Studies Non-State Actor Attribution Volume Series - Defining an “Insurrectional Movement” - Lieber Institute West Point",
-          "source": "Lieber Institute West Point",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XZ254bHN0b2tQTnJsNWcwZ0cyMjFscl9WbE9IVjlqTkhVTHBENE5UVVVEVUoteVVoQk84bXRhOXJRMjJtNWhxS2NtNlAxMjlOZzVmVXZMQ1VYc1VxTjZNQThUT0pGMnJxWFl3N3dqdw?oc=5",
-          "publishedAt": "2026-09-23T19:30:58.000Z"
-        },
-        {
-          "title": "Space Academy is Critical Step in the Future of Warfare - realcleardefense.com",
-          "source": "realcleardefense.com",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUndVR2tLenlvRFdYSlhTTzZWR01EdnZSMWVHOE1WS1BueWhXbjVXMmJ1YWl1cFJfaUZKVWUwOERVWFZvQ2V1X1BDbUxJVGptUTRyUWlfNDNQdk50T1F2R0NqWnZKNXBLOWJ5Y2JIclJDM2N4bFUzWFJzeDhhNnZ4YWVuVW4taFZBWEd2Ujg1bXUxNmRhT3JHN3BiUE95bGp2VTJVOGJVd1RPbGhYWWQxT3VXbnN3bFBFZWtUM25n?oc=5",
-          "publishedAt": "2026-09-24T06:12:42.000Z"
+          "title": "Concurrent Technologies Corporation Partners with U.S. Military Academy to Advance AI Security Research - Pennsylvania Business Central",
+          "source": "Pennsylvania Business Central",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON1NPbS1OanUxa29HcF9Hcmd3UVdNOC1NQlNLdEplS0NVbUN3Z19WVG5OQ05HUGhMWHJNZUl5dTNzb3B3bmsxUW1zRFpBN0xPNlJxZXFCa2lvbFU5cWVDZHZlRS1mQ05ZNHFqa2NVdUFQaWE1ZzJLSEpOcTkwVUk1V1pjdHM0bTdteFEwOERDM01qckFmdVFFYnprS3pYTnFDZTF6VGZpQk5VVXZ1Nzgtdm5sTlFLQ0VBM0tlLW5xWVp1X2VhY1ZFYjRyRF8zazNqc3o5ZmZ2bHBwV1dlRVluTzF3?oc=5",
+          "publishedAt": "2026-09-25T13:06:55.000Z"
         }
       ]
     },
@@ -167,10 +167,10 @@
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Honored Division Week #2: Black Knights honor the 25th Infantry Division with gameday patch against South Florida - United States Military Academy West Point",
+          "title": "Army Football opens season in renovated stadium with 59-3 win over Bryant - United States Military Academy West Point",
           "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNejM0cVFLRllGRmNlTWZxcGVFMVZPd1NCYjQxMW5xSzhzQ3VBbS10b0R4TFpTNWxXWE9YZUsya2pIMWRqc21BSGcwQmI4bGo5Qm5KQ2JaZGlhYmFlUUlzNmRkX1ZzU2VPeXloNU5ucWxIbGVma29YQ0VhejFBaU1mdFZyMXNRaFJ2VElzVWxWVUhqTVVoRDJkMkgzNVJkLTY4cW5IRDhHZWxsVlY4UTlnVEFZQXZlVWpWNG5FTHhUdFItSmROSHBoWG5sN0pZaW52LUJsVnZQX1FreHo5LTdOMUQyQzJlbjNKbmVHY3dheURKdGtIUnBXR1BoOA?oc=5",
-          "publishedAt": "2026-09-11T20:21:57.000Z"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaEYwb0ttZVpXZ2s1TzY1OGJpSmZXbHUycFB3TDNpYURKMHV6Vmg1bHgzQVA1enlmc1lrOURoc2t0RGJ3M0xpbW9hd3p4Y0h3RDZ6dDRROTFlRWxWVXpPZGZRb1JWZUVOeURJY2tCQTVGV20ycWNzU1d2UFFNLTQ1ZGFSTGJ6SmhDVlY0TFZvb2U4aUVuR2M4VllhS3UtVUdvTG11X3ZPQm5zclJJNXBERXZTdXhQRTROMDZ2UHdoYw?oc=5",
+          "publishedAt": "2026-09-11T14:33:01.000Z"
         },
         {
           "title": "USAA Named Preservation Partner of Army West Point Athletics - Learfield",
@@ -179,8 +179,8 @@
           "publishedAt": "2026-06-11T07:00:00.000Z"
         },
         {
-          "title": "2026 Patriot League Men's Lacrosse Championship Game Preview: No. 1 Army West Point Meets No. 2 Loyola Maryland in League Title - Patriot League",
-          "source": "Patriot League",
+          "title": "2026 Patriot League Men's Lacrosse Championship Game Preview: No. 1 Army West Point Meets No. 2 Loyola Maryland in League Title - patriotleague.org",
+          "source": "patriotleague.org",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ19wNG0wRjhKMWZvTnR5aWk0eTRoSnR6OW1JdkduVGJjM1dFUEs1YURLS2ZOcjg0YUxsUGl1QzFhOHFCWXFfSExUeVV2SkJWYjRQY2xyZmFIalJZelJqN1BwVzZwYXNUYWxoYUYtelNLVlpiUWJxM3NuNTFyYzRWcHVCR2RTdWNKMHNxZnphc3BMUHFJS0h4b3Q0RGQwWnFRVF9qLUtsV0NtUG5OdEd4dlRacU1wNnZhcU9TMTdldXJkOTZzdjlmcVIxT3ZUUy1tZ011NzBjM3RMdVRKaDg3RGhob3ZaN0hOQ2tla0hjZnd2QzdqX1BKc1Z0R0I?oc=5",
           "publishedAt": "2026-05-02T07:00:00.000Z"
         },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Kozora: Two Reasons Why The Pittsburgh Steelers’ Offense Is Struggling - Steelers Depot",
-          "source": "Steelers Depot",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPXzdsYnkzRnFwcjlEd3lobmhfaDd5UXplOUlNOU8zM19FdXdBd1JzRGpWT0RjeFZYcUhDVFB3dlQyUVBIRC1zWVFqcFROeWszRnJmQWliMzRoWXJZMndkdHJfS3YzTG82VjlUVGhDSGkyaHJFX1lGYkVVM1pMRG9QbGJPeDA3eW9LM0NsQ1lVSjZaVHpiaWkxNWVWYV9HbzBpWk90ampn?oc=5",
-          "publishedAt": "2026-09-23T04:04:25.000Z"
+          "title": "Joey Porter says he'll play for Steelers in '26 but when TBD - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVGo0RV9peWdyZ1pwdTFWSmFVcHNZS18zYzhhV2s2Wml1NXRrel9pTGtOTlp1Rl8yVjZ6RDlJSlV5UHFGZjdrMWZIM1RCU0plSWFMMzNrNDhFV0x0d1FJakJHS1Q5QjJTemEyQ19abEY1T2dIbTJob1R4MWs5OThwVWs0X3lzZVkwZWc?oc=5",
+          "publishedAt": "2026-09-24T19:53:00.000Z"
         },
         {
-          "title": "Steelers' Ben Roethlisberger Calls Out Embarrassing Failure That Is Wrecking Pittsburgh's Offense - Steeler Nation",
-          "source": "Steeler Nation",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWENpYW1DTGJ2Q1V0MDFVSGdDVC02cG5STndwakNWdko3aVVwUFR4YjE1QmlsOTVQc1N4dHFrTHNjTHNFcmFIaU5SUHRZNjJZTkluTnpYSFVleGJzb0tFblRNVkVSZktOQ1lnaGhlenE3QUxhbE8wQ1NpRzdiRGxwdFdHd0pfVFVBSGpZLW05cVB0Y1E?oc=5",
-          "publishedAt": "2026-09-23T00:20:01.000Z"
+          "title": "Something Changed Between Steelers and Joey Porter Jr. - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDhOX0ZCU210ZG5pdHFtU1ZLUE1vbGFody1vYllwQThCWVhXTXdWX3ZydDhvcW4zMmJjWEc3NnBtaW9mdVJ3NUpCalhqRUJWOV9KaWRmc3YxLVJhOTFJMjVQVDdacXkyRm51eXJZVk50b19FNzhwRjlFRXF5bndwaGV3QjhWdDRZeTV6cjdyYVhZVTJPbTFVRmIxOEVvUQ?oc=5",
+          "publishedAt": "2026-09-25T13:00:02.000Z"
         },
         {
-          "title": "Steelers RG Spencer Anderson suffers bone break - Behind the Steel Curtain",
-          "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUWJwY2FOTFF3LVB0dVVEblhsQ00yTHplak16TE15Y0ROVG1fQXBrX2phT2hON3dKQS1SMEwxcGw2VWZPZElQNjVwY08zYm1MTkxBcXVrZ1J3Q284dVhVVkpzWjBYVkd1VjN2RzdqWTRNMGt5dDdIaWZGYnNxUTZIVFAyeDlsc0FLM0pQY1ZCUWVCQXFRRGxqaTJLMTVlLTAzdjhER1hSOWljM0d2UWs0cWszNm41TnAtU1ZWN0pYWmdoNVh3ZV80UVFtZlRpVHRY?oc=5",
-          "publishedAt": "2026-09-24T14:09:33.000Z"
+          "title": "Joey Porter Jr. isn’t the first Steeler to go through contentious contract talks. A couple even had happy endings. - Pittsburgh Post-Gazette",
+          "source": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS096aHRBZ25yZkdCS2JHUmlJdGs0bTZwZFlFY084a3dwRFlVZWdrLWtEeGk4OUY3cGZIaTFfZEJDYkh6b2Jlcks3MW5RbnhtZFJqM3hXUEpPQzZOU01LcnppWFhhMmNzRDFzTzVnY2VGZllmMGY5bTBwNm1TRk0zLXZWQVY4Z25ublFmRl9kQThyTHQxVFBQSGZTT0d1dzB5dnN2ZUZiOE1ZaWlMcnhjLW9DV1VqZThCOHg0amFreFYwWE1rZnhz?oc=5",
+          "publishedAt": "2026-09-25T14:00:56.000Z"
         },
         {
-          "title": "Pennsylvania women scammed by fake Pittsburgh Steelers player - USA Today",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZ0lTdHdxdnRCWXNIbV91N0JfbzNXemFrbG1rMkZmelpLMHNURzFFWktIM3BtN1V0NDZfOTg0M0Z3OXZwUlVwc1hJT3A0YlhvZ1NoVDNYNFZyWUppX2Y5NHE4bjdNZl9rQlMtMHFFMS1FWjJSdXBxSUFLVGtBMUhmc2s2VVUtQjNrN1k2ZDljTk41VkhyZlY4Sjh5Nzh3S2tUU3BCM3pZMEhtNUUwaGVnd24tU3drSXBNLV9OMWZTY0JHZU92VUNUU3d2eG8wZUtSR0I3UmNQRERGTTFYSEE?oc=5",
-          "publishedAt": "2026-09-23T17:30:00.000Z"
+          "title": "Pittsburgh Steelers star running back goes down with new shoulder injury - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHlqc25XaVFPWksxVklTUkRrLWRMZ2F6eG9ISUFWUnB2Wlk2WmhZVTR4WEZJYXBPb3pPZDh3SjJVZmZ4TXJzWXZuVy1ld2dUT2MxQTR3RExHaWVZVjBoYmJ2Rk9Zek9mbXZQUUFSZW03eG0ySFV2a1RGcFNtRUFBd3ZfMVlOSVNsVHV5eEpJQ210c0o5c2lSbjlxc2JNcjNYdzRENVp5VlF6TVJQX3BjQWhaWmRmM1oxY0tr?oc=5",
+          "publishedAt": "2026-09-24T16:14:00.000Z"
         },
         {
-          "title": "Asked and Answered: Sept. 24 - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZSFNEOGZyc25MaWloZGtJeUUtRHVSWnphNS1HTlJUdEZKbFhJY0Vlc3BHTTd1TWxwYUVqcGl5UXFxU2lVQm9leHpYM2RWbmlIN0tPX1dQVktuUGQ5YjlZODMtT1B5UkVIV3oxQnZOOA?oc=5",
-          "publishedAt": "2026-09-24T10:09:43.000Z"
+          "title": "Week 3 Injury Report | Bengals at Steelers - Cincinnati Bengals",
+          "source": "Cincinnati Bengals",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xSHNJT08tT0tIRFJGN1JHNVdtMVdReU5vUmFhM3MtekRIdmx5ZHN3VFA4MVNIaFFobldlVVRQdHVlcDVxN2o0R0l6YTZKbmlhcWpNRXVqSVFfS01WRXppZlhwUnZDUjBIRFA0dTlhRnhHczNKQXlFVTJ1cw?oc=5",
+          "publishedAt": "2026-09-23T20:20:21.000Z"
         }
       ]
     },
@@ -242,6 +242,12 @@
       "kicker": "Music",
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "September 25th, 2026 is a Super Busy Release Day. Here’s Your Guide - - Saving Country Music",
+          "source": "- Saving Country Music",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2tNX0pFRDBZRnQ3QVNWSGZ5bVhoVXY1RTBsYW94MF9sQ2N2U0xSZHpYODJiaUZQVzd5NUZ5akdPZEpBRmc4REVIaEZJTHVQYmw5aUlkbDVDX0dYY1JmYXhjRDVBRG1KeWF0SXBabDYzd21FV096bVlvVUF5RTFDeUg4NS1XSXdkRVViSnRMRHhUNlZwUUJra2FfQmw?oc=5",
+          "publishedAt": "2026-09-24T19:39:57.000Z"
+        },
         {
           "title": "COUNTRY MUSIC HALL OF FAME® AND MUSEUM TO OPEN NEW EXHIBITION, ROGER MILLER: WIT, WISDOM, AND WONDER - PR Newswire",
           "source": "PR Newswire",
@@ -261,16 +267,10 @@
           "publishedAt": "2026-09-23T16:30:09.000Z"
         },
         {
-          "title": "Release Radar, Most Anticipated New Albums for Final Portion of 2026 - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaE9jclpUaVpJWVVVSlp3bUVJQzhBR0VtVnJ0ZHRyZzh4SkhrN1d0Mm9DcHNidnRJS2NhV2xiX0RDMEw5RU1HT0xqRUY4R0hvRlNzcGJBTEMwaWpyRFB4Q0ozZWhYd3BOZkNyOFA2dHpoUDAtcFZ6X0JTaU8tWlM5dnRYaWVzcGlQLWdyMnQwbkk1RGRQX25ILTBsVDh2aWdh?oc=5",
-          "publishedAt": "2026-09-09T07:00:00.000Z"
-        },
-        {
-          "title": "Morgan Wallen Releases New Song for Grand Theft Auto 6 Soundtrack - country1037fm.com",
-          "source": "country1037fm.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSG5KVkxxSU05LTVmZlRoSGZZeUJTckgyeS1qZUxlTVBlckFfanJ4UWY2WE9MRjZUVUxLZXRoeHJZWUJ1OVBEU2t1TjYtbEtZSVNzMmV6dkZOSzAwOGxNakZxc3BqWW81dmlCYUxPbDFGN2hyN2U3VDJLU1hqQzFMMHlNbmZUSmJLRDEtbjBmM0lSRy1MZWNLYm1jNkxtS0JtdzBMZ3BR?oc=5",
-          "publishedAt": "2026-09-22T15:32:45.000Z"
+          "title": "John Morgan Drops Major Hint Florida Georgia Line Could Release New Music Soon [EXCLUSIVE] - AOL.com",
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hTEVaYTNIaEJWYVVjXzVnVXdOQzBCQnRGYmtXTkJFTlRJLUR4bFRlbi11WlROZV9OaURkd0NFTUlOcGlsSlcwdTg3VnI4UU1yaWFtcVJrWHhta3RmYVM5Y3NQZ3djYXdFSklaRGNRMVo4c1dudGRPWmY0UWM?oc=5",
+          "publishedAt": "2026-09-24T12:05:29.000Z"
         }
       ]
     }
