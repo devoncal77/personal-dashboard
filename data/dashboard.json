@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-09-30T16:25:43.206Z",
+  "generatedAt": "2026-10-01T17:02:16.298Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$768.32",
-      "change": "+4.12 (+0.54%)",
+      "price": "$761.34",
+      "change": "-1.29 (-0.17%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$512.32",
-      "change": "-0.56 (-0.11%)",
+      "price": "$507.29",
+      "change": "-1.26 (-0.25%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$744.04",
-      "change": "+6.11 (+0.83%)",
+      "price": "$738.37",
+      "change": "-1.40 (-0.19%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$336.81",
-      "change": "+7.41 (+2.25%)",
+      "price": "$328.00",
+      "change": "-5.02 (-1.51%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$518.39",
-      "change": "+9.43 (+1.85%)",
+      "price": "$513.18",
+      "change": "+0.27 (+0.05%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$350.85",
-      "change": "-1.99 (-0.56%)",
+      "price": "$355.88",
+      "change": "+1.07 (+0.30%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+          "title": "AI data centers: How much are ratepayers on the hook for?",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
-          "publishedAt": "2026-09-30T15:33:19.000Z"
+          "url": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
+          "publishedAt": "2026-10-01T16:47:53.000Z"
         },
         {
-          "title": "How Trump keeps undercutting his anti-communist message",
+          "title": "Cornell Jane Doe&apos;s attorney says she told police in 2024: &apos;I was raped&apos;",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
-          "publishedAt": "2026-09-30T14:58:51.000Z"
+          "url": "https://www.npr.org/2026/10/01/nx-s1-5987703/cornell-fraternity-rape-case-updates",
+          "publishedAt": "2026-10-01T16:43:26.000Z"
         },
         {
-          "title": "After failed execution, health workers say Tennessee&apos;s method flouts medical ethics",
+          "title": "New space station crew launches from Florida on SpaceX&apos;s Crew Dragon capsule",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
-          "publishedAt": "2026-09-30T14:30:03.000Z"
+          "url": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
+          "publishedAt": "2026-10-01T15:21:33.000Z"
         },
         {
-          "title": "Israel says a flydubai pilot tried to crash a plane of mostly Israeli passengers",
+          "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
-          "publishedAt": "2026-09-30T13:35:11.000Z"
+          "url": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+          "publishedAt": "2026-10-01T14:13:38.000Z"
         },
         {
-          "title": "FBI hunting the hackers who stole its employees&apos; sensitive data",
+          "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
-          "publishedAt": "2026-09-30T12:29:05.000Z"
+          "url": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+          "publishedAt": "2026-10-01T11:37:10.000Z"
         }
       ]
     },
@@ -91,16 +91,22 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Last US troops expected to leave Iraq on Wednesday after ISIS fight, Pentagon says - ABC News - Breaking News, Latest News and Videos",
+          "title": "Hegseth confirms the US military will cut 20% of its generals and admirals - ABC News - Breaking News, Latest News and Videos",
           "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUEF2LUtmcXNXbFJrUmI1NVhYYW5vQ0h2a0hSX3NTZHIyc3dNaUE1blZPdEdSZHhrZXJ5d0pQSHMyeFBra2swZ2l0Wk4xUjZvUUs0bnRDemhfRkctdjU1SXZwYVc5azEwZ1BKRHJBLW9rN3M2dDZ5clJDdHFJVlNlZVNiSDR2VmVJU1NuTmNxY3BhX3BVSjZpcnZaMWxjNnM5c3fSAacBQVVfeXFMTWxoMWJBSktjQXZjSVdwLTBZRU90WEV5TkQweWxjUTlfY0hRS3A4VFgwaV80eVczU0FnUWp5Z0x3MFZmaUpVYXF2VC1LLWE5aC0xNHBFbnhfa0hMQTZteklFdTNnMnJTUVI1TktIcEM1Q21MZHJCRHU0V2I1ZFVodmFhWjd5b0d6cndyZmtOSVJCdWlRZ1hvcGpfVDB6V2FNejd4M0JYS28?oc=5",
-          "publishedAt": "2026-09-30T12:00:40.000Z"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTNZLUh4WGJJX1pQY1liRDVxb1h6dmZHbUNCbk9vTUZJZ2xTMnlkUldwUXB2dlpmdTRJNzczVlcyRHllbmRnNW85UHU1clEyQVBWQ05JRWF4ZkF6X3J5Umk1bGJUcUZXa3R5VjNpOGdDekJEcXZPLUk0REhfcW5UcXg1eXpKMXNyRXlQWWdJUF9va3FjZWp6OXpuek_SAaIBQVVfeXFMTVJBYWNnblpzb3lSVm1sRjZSNmZNNFRkMVIwT0tnMVMwT2g5c1hmOUItNWxrb1I4c0xJdUIwRXlsbktOVHJDaEZhWDdtTWlzTm1SdVdOdHpnUFItTnl1WmhJSUN2Y3RPWmN0ZU1vQ2dmWnBrRU04U1RlS2YtSlpkcXg1QUJWamtvNnN3d0tpM3RmVnlVTjJkb3Iyc2UwQl9LS093?oc=5",
+          "publishedAt": "2026-09-30T20:39:17.000Z"
         },
         {
-          "title": "Black Army Officer Becomes 19th U.S. Military Death Since Iran War Began - BIN: Black Information Network",
-          "source": "BIN: Black Information Network",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODRUeDVFWUpWN2VsckhTLUR2UWcwRzdXOS1YdVBnSS1CbE5teU1wbXBNYjBMUWpXMC1zUzM2a2VBLUdJVzB6ZXZLMkU2LXJKLVFrODJZc2UxdEdVMmNQTUs4UTRrcDk0Rm5QN0xIWU9OM2h5RnNNLU1XN2tpR2tlWU4wVmZwSno5cFFUWHJwZlZTTjRfWUwzMVdSd1AwSzRuOVpaU0lUTU1sRl9wMFJQUG9ha3bSAbwBQVVfeXFMTm4tOVZKdldsZjhXTHdXQzdWTTRhQ1dfbDNLNjloY0VEUk55UmRSWEhRLWNPOV9CQmlBV1FhVW9VTnFBTmRQRk1UZDU0ZjNld1U1aVVNM09wYzI1Sk5TRVJTVHlVWFZXbDVfY2RSN0kxNVR0ZElVbFlUcHBXaHJVN2xUYWJZY1pyaURFamhubmVwOGtTYWV4djhKbjNiWllWb09JSUp5LV9vZlFhOUowaGQ5OFMtd2lxX2phMDc?oc=5",
-          "publishedAt": "2026-09-30T14:09:00.000Z"
+          "title": "Why is Hegseth cutting 20 percent of US general and admiral positions? - Al Jazeera",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcm5HY3VETnJTVEtKbUFiV0RRMEw2em80NDIwTGNHN0JYcVBNS1dQcE9ESVZkN3R2dEdaejJsQlJoRXFPZm1EbXk3d3dENDRkeGlIc1NTLUo2ZnNqTlMzWFFCUl9TbUxTVHJ3UHF6ekpMV3RneEZxeFJza0dtOGJ0M19xT1gxejFIcE9BVl9fSENjSndIc3hXdzlEa2NvMXYyZGxaa3ktbXB6MXZZQVM40gG0AUFVX3lxTE1uNHdnd3pLUk95UkNQUXJnZXd0MDRpaXg3Vy1GTTRKVXpQUlNDN2lkMEpzWXI1dGZmdXBNczFWbHJtUTk0bk1FOUdWUXBfYV9aSUR0dkFYMW9YaGZwQm5VX1BvaWwxX1U0MHhSVmd2QThRMnFTaVF2eE12Y0drSUVRWTZTcmxoQXNxWnlYZWQ2SzVjbWNMd0lObmJmNzhueXhPN25vdUdDZ1VxSmt6N2RUNnBGWA?oc=5",
+          "publishedAt": "2026-09-30T23:10:46.000Z"
+        },
+        {
+          "title": "'Clowns out, cowboys in,' says Hegseth as a fifth of generals and admirals are fired - BBC",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90VG5VeU1PSDBWVWdsd08xRGJvUlZ3MzZsVXI1ZG1IZjBOR2Ixck9wc3d1WVdMYjZJWmpWb0RLOEtOdkJaLU05OTFaWGdmOTJZUkI2Z3ZPdmhVVUE?oc=5",
+          "publishedAt": "2026-09-30T20:48:24.000Z"
         },
         {
           "title": "U.S. military lays groundwork for potential action around Cuba - CBS News",
@@ -109,16 +115,10 @@
           "publishedAt": "2026-09-26T15:23:00.000Z"
         },
         {
-          "title": "US forces exit Iraq after two decades, leaving opening for Iran - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalJlU2twR3RkNzhyVlFwZmJkZmg3RXQ3VEpxTFowU2dhY1pEeG8wZWlLQ2NVb0lNUERZQXRSdThEbWdxdGx6aExDVkFGNHdUVkZwRFlSclVvYWxEVk5wTFlYQVZmblBJUlcxZ180Sm9YdWtXNDZoZkVfYVQ5aDR1VTZIMGFRWnNsVEs5LVJWMkVXWmpaVnIzd2hBTzl5M1pIenM3c09RaW41aEVoOWRSRkNB?oc=5",
-          "publishedAt": "2026-09-29T06:05:00.000Z"
-        },
-        {
-          "title": "Could US pull one-third of troops from Europe? What that would mean - Al Jazeera",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTlNZjh5WUxyRmw0a1ZyNGlmWjF5b2xablNUTTNRRDdyYXpYb2JtZ1dIcFZKTjVfX2JKSXo1UGJiUjE1RVF1U2VuSkdtQzhUMU9BQnJmNklIY1F2czVnbjJEMklNSlhHSkNoSVNwVVl2VnJscTM2THE2ZFNvb2JrMFloeVplRHFxdzFVeU1wMC1GLW5CYmhBQ3BRRDROX21TR01LLTZLMlNDUkXSAbABQVVfeXFMTVloYmZDZUcza3pMRW9qWWFmNTBQS3NvRzRyNUpudEQ4em1OaGlQeDBfUHlWRnlDZ0wxeG9hUDRoV2JvQ2lQc0F4WTRVdERtTHh1djdGVWl2Wk1YY3RFQ3h6ak9ERldQRVJwTFNEZEVVRV80XzBBNll6SzgtRHVHWXUwMFczQkRqUkR3SktCdU5RdVZBU1pyRm10Ym9FNmRJeHJJZDVzazI1VEJuVFI0V2U?oc=5",
-          "publishedAt": "2026-09-19T07:00:00.000Z"
+          "title": "First Space Force guardians graduate from Army jungle school in Panama - Task & Purpose",
+          "source": "Task & Purpose",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hRmJlUlpLNU1jQ05xdHJ5MnZxcWk1NHNManJ4dzBxUDRKN0JRX1JjTGJtaW1fVW9tY3R0a1VtM1V1Nm16YVpLa1lvaU5xbUVYdnJVZ2Iwd1ZiZEphZTFlblhEMnIzN3NYdUNvbW12dHN2OXZkY0dDakpJa0Zkd0U?oc=5",
+          "publishedAt": "2026-09-28T20:05:32.000Z"
         }
       ]
     },
@@ -129,10 +129,10 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Hegseth bars military academies from hiring civilians as tenured professors - The Washington Post",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXZQR3g2UzI3QXFteWlRaldpSVotX2NxdGxiTlY5dXg4Z3p1d3V0dG42R3MtMTJvQ2lkWHYzMGplcE1waWgyQ3QzZm1YYUdvQlZteGg5OTZPWjd6UlBHUWlQT0dqSm53TExXZXd5YjlGUm1jZi12R3AwZmlsRko3eFRBTjNCMFBDR2pfUWpYdHdBZ0dwdXdxME82b3VmQnRMVFMweUdYTXZYMFRCcGdPUndPVld2cjVsbUR4Yw?oc=5",
-          "publishedAt": "2026-09-30T04:19:21.000Z"
+          "title": "Hegseth directs military service academies to immediately stop giving tenure to civilian professors - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON1A4aG8tVjY0OUdSeG1tbW5BRUJmVDE2QXRQMnl2S0sxSzZoeFRvVk16TldaV2lzWHVQNnlKM2tud0dwa2JveHczWVAyTXdHU2wydEI5WjlXSEJSXzdYdjNQNzYwR1BOREI5bUJUcTR1MS1OODFYNS1ueWtJT240OXlkTjRpRnpZakFFOUxJTEZzWkktdmpZZUpHV29Hb0REUHBlWnlKbw?oc=5",
+          "publishedAt": "2026-09-30T01:13:00.000Z"
         },
         {
           "title": "Military academies won’t give tenure to civilian faculty, Hegseth says - AP News",
@@ -141,22 +141,22 @@
           "publishedAt": "2026-09-29T22:06:00.000Z"
         },
         {
-          "title": "Know about the academic program of the U.S. Military Academy at West Point - Britannica",
-          "source": "Britannica",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
-          "publishedAt": "2026-09-26T05:00:00.000Z"
+          "title": "Hegseth bars military academies from hiring civilians as tenured professors - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXZQR3g2UzI3QXFteWlRaldpSVotX2NxdGxiTlY5dXg4Z3p1d3V0dG42R3MtMTJvQ2lkWHYzMGplcE1waWgyQ3QzZm1YYUdvQlZteGg5OTZPWjd6UlBHUWlQT0dqSm53TExXZXd5YjlGUm1jZi12R3AwZmlsRko3eFRBTjNCMFBDR2pfUWpYdHdBZ0dwdXdxME82b3VmQnRMVFMweUdYTXZYMFRCcGdPUndPVld2cjVsbUR4Yw?oc=5",
+          "publishedAt": "2026-10-01T00:54:25.000Z"
         },
         {
-          "title": "GC IV Commentary Series – Article 23 and Humanitarian Relief: What’s Right, What’s Left Unclear - Lieber Institute West Point",
+          "title": "West Point professor fired after pushing back on limitations to teaching climate change, lawsuit says - stripes.com",
+          "source": "stripes.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFpZVjJzTUhuaFdHVmN4cXlhRGE3NVFISURLeXFHQmFnTTIxOVdhR2RUeElmMU01bFU2TUpZeU1LWm44RVo1QlF3NHlsYk82akdVb0d0a2NLU1lzempFZktNTnU5dDEyNVNUaG1pcUVpNnVkUmNfbVBRdW54ZGg3SmtaZmZ0VzVTV3BBT1l3d0dBaWRqbEtNNzBKZHlpMEw3V2JNekprWk5xRUFTbWpBSmhn?oc=5",
+          "publishedAt": "2026-08-26T07:00:00.000Z"
+        },
+        {
+          "title": "Asia-Pacific Journal Series – Introduction: Military AI Has Left the Laboratory - Lieber Institute West Point",
           "source": "Lieber Institute West Point",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd01yZE1xNV9VRmdjMnotYzJOanhpcTZJakZsNE0ycXhabnJDTUVHdVNUeGVhQl9jMkwwbVc5ZXZrUDNEaVF6NDZaZ1VZYldNeUNKQVhCNEZPaWVGY0RRZXFqbjFJNV9GdFgwbzVWLTJNVGtwZ3JubDFjeERpYmNVTVlUVXloM3lxY2FCbnd1Wi15VnFmQ2c?oc=5",
-          "publishedAt": "2026-09-30T16:09:18.000Z"
-        },
-        {
-          "title": "Military academies won't give tenure to civilian faculty, Hegseth says - Bozeman Daily Chronicle",
-          "source": "Bozeman Daily Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNm1MR0N2bmIxU1NERWJuS0NrSi0xZHZuMlc2OFJwNUwtZmE0VUhRaGNHY2I1NzdKWG5uOXpaTjBOTGpoVVVfSGN2a2ItMTQ3M2FfU2hGMnJYVTVMQWdNUE9BQl9qNGhqTVNYc0YxVjZhd016ZWlJWE5aOTRnS2RJR2IwdVJIUm1HaUJnUTNBcmhGYTBmQkkxTk8yQ2ZMS2dIMWtWMF91Y0hyN21yNzZrNGt1TGFzVm1MeERrdDRGLTE2OU8zSEEyOXlYa2QtaV94Rm4tQWRkV0Q3T1FET3RqdU9vX1NqUUlmcXpUV1VqdlhRcDJVSXBVaVFnX2V3UWs?oc=5",
-          "publishedAt": "2026-09-29T20:46:26.000Z"
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPak03ZmRYMXlpeWlYMFA4bTgwRHJ0Mlk2N1FmQjc1eGtfSDZQenA5UFVuRm1tVl9qRExfOVduQkVEYlA4TmgtUVV3WkxQRVVpRDNoaUdibjJxM2xhZHhieEFwYWdMMk1TTTBSSmhEc3ZJTXN1SGdsMXVvRUZFZVYyYkNyT1B1SFFyc2E3T1N4bUlITHRCVkhjcm85ckpHUQ?oc=5",
+          "publishedAt": "2026-10-01T13:24:04.000Z"
         }
       ]
     },
@@ -171,12 +171,6 @@
           "source": "Philly College Sports",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk9TaTNFOFhIeXhkR244Qzk4WDBrS0RGaWtNZkJQNkFfalRhcUNHUjNhZGtYclJEMXlBUHdVcFQ1VWYydU8zX2ZDUmlaQnljM3V5UFlsYlpkelFORFhfbHJadlpVX0RJLWkxWG1pSmdiS3p1N2RfSnpPUFNkcXNXWVhESlJld3Boa1JDT1NONjBEdHNmX2JUNGdfTks1T0U?oc=5",
           "publishedAt": "2026-09-26T11:39:49.000Z"
-        },
-        {
-          "title": "Army West Point Black Knights vs. Temple Owls Live Score and Stats - September 25, 2026 Gametracker - CBS Sports",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWmZYUEJWaDVEOGJDcXNQTjVwM2Z2TTZWWjc2cC1UUmt2QnJNX2xuUUw1dXFMd0pfVlF2dnRkUWdWeXBmdFczVjFJNWcwUUJxOFhZYS1Xb0dCSGJLckpRTmxIODFwZmhNTGVfejF3NXJtSXpHNzJCeGowUDB2OWJTQTlWdTNRVmJSLU9TMUlqWWo?oc=5",
-          "publishedAt": "2026-09-25T07:00:00.000Z"
         },
         {
           "title": "Honored Division Week #2: Black Knights honor the 25th Infantry Division with gameday patch against South Florida - United States Military Academy West Point",
@@ -195,6 +189,12 @@
           "source": "Patriot League",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZ19wNG0wRjhKMWZvTnR5aWk0eTRoSnR6OW1JdkduVGJjM1dFUEs1YURLS2ZOcjg0YUxsUGl1QzFhOHFCWXFfSExUeVV2SkJWYjRQY2xyZmFIalJZelJqN1BwVzZwYXNUYWxoYUYtelNLVlpiUWJxM3NuNTFyYzRWcHVCR2RTdWNKMHNxZnphc3BMUHFJS0h4b3Q0RGQwWnFRVF9qLUtsV0NtUG5OdEd4dlRacU1wNnZhcU9TMTdldXJkOTZzdjlmcVIxT3ZUUy1tZ011NzBjM3RMdVRKaDg3RGhob3ZaN0hOQ2tla0hjZnd2QzdqX1BKc1Z0R0I?oc=5",
           "publishedAt": "2026-05-02T07:00:00.000Z"
+        },
+        {
+          "title": "Maryland at UConn live stream, where to watch online, CBS Sports Network channel finder, odds - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGNqeVVuSDVMdmQwWlJZRGRpQ09ubUZDVVg5M19qWlJNNUZuNkNkcGZlMGk0dDRBYm9KRWJKQnBaaTJ0WTZPZXl2QkRMTU00YThvbzdjbWpZTXp3Z1Z5RmNhb0cxSUdla2pJOUZFOTRFQUpjeVVwSXA2eWlZd1dfTHlqd1NhNFg0OXZNanAzYno1c0E5NjNucEt6S1Q2S0hyVkVORlpGMFBFWm1NajRxUzZqUk5Cd1JhbzVRX2RB?oc=5",
+          "publishedAt": "2026-09-12T07:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Steelers trade Joey Porter Jr. to Giants for first-round pick in 2027 mock draft - Steelers Wire",
-          "source": "Steelers Wire",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ1NHdzF0S28yX1FSWTYyTDZuZnhFejVPTlZ2WGpXaXZvc1dKT3Brb3JPenV1MUl6dU5zcndCQkJLdzF5MEdFU0xsUlUyQ3N1dnFDRkYzVmFiVko2VzlVeEN2NkR1QjlQT29zWnNYcWVjVXMweDROaXAwejdwNW5CQm9MUEdxRGdZLWlURGhKUUtwblJHSUpZV2poQ0xRNDVsaWptcXR4VUZET3RsNW0ycDZUaDVfc2E5eUJDQV9fUHdMdW03b1pNNU5ld19ZMFlzV3RRY0RyTkJGXzQ?oc=5",
-          "publishedAt": "2026-09-30T10:08:00.000Z"
+          "title": "How to watch Pittsburgh Steelers vs. Cleveland Browns - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmczbks2NTJsbjhVMU13VUN3R0I4d09yVnV5MThna1ZUY3B4QmJwNHkwby1wbjdES0QxRTVabUFLTTNGOEtoTC1nTExHWUdQMTZtb0RzMjFwdmEyY211ZTgtQmFQdmNpMU1kdnpHT2NlYzZFNUlnMXpDeno5UUdoZFUwTFhFSjdYWEdJUW1DTWY?oc=5",
+          "publishedAt": "2026-10-01T15:30:13.000Z"
         },
         {
-          "title": "Jerry Jones Pours Gasoline on Steelers' Joey Porter Jr. Trade Talks - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0lyaHlaZUxDazFKSUlhMGZLU2RhY01NVXNYZ0VYTGRncHVwbG9vNkxCajhNaHdWU3FuSG5xeUx6S0ZmbHNhU0MyQW1XMWx4Mm5WejRpNTBKMWZMVWYxMk1ZZFZtcC1RZlRQMGNnSnpUU0xPN29CZHhGbHNwWF9PQmxYTjMydFg0cjhremR2Z1c5M0dOQmhjTkcycC1hRFBZUUtMSm1Tbw?oc=5",
-          "publishedAt": "2026-09-29T16:03:22.000Z"
+          "title": "Joey Porter Jr. traded by Pittsburgh Steelers to Dallas Cowboys - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT0dBbTRvcXZ0Vk41c0xmQnhERkRGZmJOMEFNY3lFcTBidDNldE04ZkYybW5qbTgybTNEUnAtUFhYTmFfRS02YUpJN2RBUVFLOGVRdmFtX2NJR3NqdE01cGd0VVlTQVlUTWhpa3E2cVo2VlZUeWZtcnRWN1liYW80Mldsdzg?oc=5",
+          "publishedAt": "2026-10-01T03:58:00.000Z"
         },
         {
-          "title": "Pittsburgh Steelers news: Joey Porter trade talks heat up - behindthesteelcurtain.com",
-          "source": "behindthesteelcurtain.com",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc2RldmZaVXVleDN2cFBIby1ocHdEZUcwcmtPdkZPeExxdjFrMUc5Q092cnV5bFBwV0pfUDhVeTdmSzJ1ZFhXRk03THo4OVhxZGM4aFRTdWEwVVBPR0lDMXZ5U0dtOGMwZUlNRUN2NFFBNVI3b1dBaVlrRm9lQ1p2NXNneDY5RG51S00wYktJelR1dXZCYUp2OXBkY0pIaEFvSlE3aGJlZmxsNEFUSVJMdFAzVmdUQ1hGQ1ptM3hNQ3VYMGxXdjNfdU0tQnYzNDJJUWdkOHI1YUluSjJmSkFoOVd2OTl5Mnc?oc=5",
-          "publishedAt": "2026-09-28T14:20:33.000Z"
+          "title": "Former Steelers HC Mike Tomlin reveals massive Minecraft city - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYW5SYU9DZ0V1VW9GYlp3Tm9WUW85Ym5nc05OLVRQQ1dpYmtYNFM3cjJEZE5taVk0Z2gwb3VoM2k5aVhJNk9qc2pScm01elFoQndsajBWRUp6dF96dmx5QUE5WkpBR2hkSU9BTEU5ckFFSFZQY01nNnJLbDRFUmkwLUdCbGRvdkd2c3F6cERPdXdoMklfNmtXTlIzSlBVeWE2LTZwaEN6a0ZaN1RS?oc=5",
+          "publishedAt": "2026-10-01T02:32:00.000Z"
         },
         {
-          "title": "Steelers TE Pat Freiermuth hasn't forgotten what Browns fans did to his mom - Steelers Wire",
-          "source": "Steelers Wire",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWtjNW1CSjJBR0ZMWFEzeTZ4ZXZ3RXVxb1NuZk1mdVppbTN1dUJXVHc4SFI1alF5YzIwR19kdkRZYVRCUVhnMFNRZndjQTJySGRIQzZrR0NETHI3anJhdmhsZDh0UlFJUGdWZlRWeGZMeDBfWGZ0MXJqU1JxVHVHUXllcW03QmVIYlNyTTJ2dlFYNHAwNGQ3RTR1amg1RmdRRERFNHBQSnJvbWlTY3JnZ01xdnJxcGhSVlhCQzRyZmlTakY2RVVPSGg1WkRLTGd4WVV5MGdROWF6US1ZNzRVckdZSVJ1U3ByY2hTcWFKR3M4dw?oc=5",
-          "publishedAt": "2026-09-28T18:52:00.000Z"
+          "title": "Asked and Answered: Oct. 1 - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLQW1vWllpdWtYemxoeTdHSlhSdzFwcTU5dDhVRXpSWWNmNkJSTGhHSEFFU1ZnOTRDb1JGd0ZMUk9sU3R0azRhbWpXQnNWd1pwZmpsWmZscFRwVTdjVllPampMODhsUlFBT2dHRA?oc=5",
+          "publishedAt": "2026-10-01T10:08:49.000Z"
         },
         {
-          "title": "Steelers’ Jalen Ramsey Reveals Broken Wrist Injury - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUM4R1VQd1k0cWR6NWlTQndidXZEVUpFQzhWZlgyWUJhX0xUVWdOVFV2YlhaYWdFejdaWk84Nk9hU214Q1RYY2dOYlZYUnF5VDNsVWZnYmdpWGdSTkhZWnAwWW9lQWpDckNxU0pZNEc0YTNHUlE4QTF5cHUwVUpKcWJ2ODJ5ektNd00tOVlwSTJiRXM?oc=5",
-          "publishedAt": "2026-09-29T21:52:30.000Z"
+          "title": "Pittsburgh Steelers lose standout running back, star cornerback could miss Browns game - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR2NKQUFEb0FaeE5IZnR2TU9waGFISHhyZTJ2X18xeHNMMEhWQ1JHTTdyVzFKaTJCTUxMVE5YdTlfMGF4UTRidDAteWx4WjRlSmVtUlgxZzFnaFBIdjA1b2RYaGVob1lzRFM5TGJVZWNZTHUwMW5CdGJ0MlVQazUwZUNpZDNrZGZwV0VlVGZ1YnlwamlJWW15Vmc5Yk1pcTNqRTI3Q2xrRmREUUNCQUNiSXBGQXRsVmFnc2hoa0I2dmotcjAyTTExdnhPT1g?oc=5",
+          "publishedAt": "2026-09-30T22:23:00.000Z"
         }
       ]
     },
@@ -243,8 +243,14 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Release Radar, Most Anticipated New Albums for Final Portion of 2026 - - Saving Country Music",
-          "source": "- Saving Country Music",
+          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
+          "source": "Holler Country",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
+          "publishedAt": "2026-09-29T08:51:00.000Z"
+        },
+        {
+          "title": "Release Radar, Most Anticipated New Albums for Final Portion of 2026 - savingcountrymusic.com",
+          "source": "savingcountrymusic.com",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaE9jclpUaVpJWVVVSlp3bUVJQzhBR0VtVnJ0ZHRyZzh4SkhrN1d0Mm9DcHNidnRJS2NhV2xiX0RDMEw5RU1HT0xqRUY4R0hvRlNzcGJBTEMwaWpyRFB4Q0ozZWhYd3BOZkNyOFA2dHpoUDAtcFZ6X0JTaU8tWlM5dnRYaWVzcGlQLWdyMnQwbkk1RGRQX25ILTBsVDh2aWdh?oc=5",
           "publishedAt": "2026-09-09T07:00:00.000Z"
         },
@@ -255,14 +261,8 @@
           "publishedAt": "2026-09-18T14:34:12.000Z"
         },
         {
-          "title": "Country music star Riley Green keeps momentum going with new single ahead of September album release - foxnews.com",
-          "source": "foxnews.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3NwZTl5clRMNXZpT2xQcDlrd1BKY3REUS1xTmRBRE5YcDZJdVVfRUFnMUtEdnJHZm93aUxUZ0FMRXZ0aVFZNU4xZ2FoTG1mOFYyVnVSWk50UzBpSUpjcGpjUnhUaXE1ZXlUd1MzTXg2ZDExTVZlTnNpcEtZVklBWFMyQTBZd2NDMUZlOTlxTFV2UWdMSXMtQWk5WW5KdzNMRVh6ZndTRmNZU3cwN25Tc3FWamdySE1KYjFBN3FydU9QNkFD?oc=5",
-          "publishedAt": "2026-07-31T07:00:00.000Z"
-        },
-        {
-          "title": "Taylor Swift announces 'The Life of a Showgirl: The Encore' with four new songs - hometownnewsnow.com",
-          "source": "hometownnewsnow.com",
+          "title": "Taylor Swift announces 'The Life of a Showgirl: The Encore' with four new songs - Hometown News Now",
+          "source": "Hometown News Now",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzdQcFFzelZoUUJZQ29sbkptajVoT0FKbi1rdlA2TGFha0VBRV9qTU9IRzVyclc2YWc0dDVPZVVUUGwxOVJpUlpncHNrX1hkSWZUeFl0Z280VFgwUHZwUjBTcUZLay1mZmhZOXNLUzNONTFfZ21WUlFURnNrZUUxTWQ2ekt5UQ?oc=5",
           "publishedAt": "2026-09-23T16:30:09.000Z"
         },
