@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-02T16:16:44.992Z",
+  "generatedAt": "2026-10-03T14:44:15.959Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$769.57",
-      "change": "+5.58 (+0.73%)",
+      "price": "$769.64",
+      "change": "+5.65 (+0.74%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$510.19",
-      "change": "+1.56 (+0.31%)",
+      "price": "$511.10",
+      "change": "+2.48 (+0.49%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$750.78",
-      "change": "+8.75 (+1.18%)",
+      "price": "$749.58",
+      "change": "+7.55 (+1.02%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$333.00",
-      "change": "+2.68 (+0.81%)",
+      "price": "$333.69",
+      "change": "+3.37 (+1.02%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$514.85",
-      "change": "+2.05 (+0.40%)",
+      "price": "$517.53",
+      "change": "+4.73 (+0.92%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$371.99",
-      "change": "+17.88 (+5.05%)",
+      "price": "$370.59",
+      "change": "+16.48 (+4.65%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in &apos;NAZA&apos;",
+          "title": "Opinion: A Hawk is not the same as a Hawkeye",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
-          "publishedAt": "2026-10-02T14:37:27.000Z"
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+          "publishedAt": "2026-10-03T12:00:00.000Z"
         },
         {
-          "title": "The U.S. added only 29,000 jobs in September as job market lacks spark",
+          "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/02/nx-s1-5989140/jobs-labor-wages-federal-reserve",
-          "publishedAt": "2026-10-02T13:54:18.000Z"
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+          "publishedAt": "2026-10-03T11:47:09.000Z"
         },
         {
-          "title": "Cornell rape case gets special prosecutor. And, Renee Good&apos;s family sues the government",
+          "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good",
-          "publishedAt": "2026-10-02T11:22:38.000Z"
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
+          "publishedAt": "2026-10-03T11:00:00.000Z"
         },
         {
-          "title": "Why is diesel more expensive than regular gas?",
+          "title": "All&apos;s fair in love and &apos;War&apos; — a well-cast, classy-trashy divorce drama",
           "source": "Top News",
-          "url": "https://www.npr.org/sections/planet-money/2026/10/02/nx-s1-5988075/why-is-diesel-more-expensive-than-regular-gas",
-          "publishedAt": "2026-10-02T11:00:00.000Z"
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
+          "publishedAt": "2026-10-03T11:00:00.000Z"
         },
         {
-          "title": "San Francisco&apos;s car crime has plunged. How much credit does Flock deserve?",
+          "title": "The Supreme Court faces another term jam-packed with controversy",
           "source": "Top News",
-          "url": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
-          "publishedAt": "2026-10-02T10:30:00.000Z"
+          "url": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
+          "publishedAt": "2026-10-03T09:00:00.000Z"
         }
       ]
     },
@@ -91,16 +91,16 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
-          "publishedAt": "2026-10-02T01:49:32.000Z"
+          "title": "Hegseth delivers 'State of the Force' address, outlines series of new initiatives - army.mil",
+          "source": "army.mil",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT0pacHZxOHI4TFBVc3NVTTY1RDR3bVFRaTN6TDNhd0k3ekc3VkNtalZjd09QaDMxQ0tqcUZZTXFiM1lLZVNEcG9qWnFhaDJ2eFFYTW1pWFpkbmRFOEszZzg0LXpHTkJaQkdnenh0cUZqb0FzbGtYOW5SSEpDMXZYN25USjdYeXRRb2lFUjlSU0VmMmhQQ2JURDFEemcyNXJ2OVlRdks4UWhGS0xoZkdIUm4zSXjSAboBQVVfeXFMTzRpblhnRmdCUlZ1c3RrRHhxcmRyVHVUSktRWGdJV084c3luVlh1bnFIbzROX2loRnMwNGVtS1JEVEQtV2xSSWJkTmR3b0dadUY0S3VmQ0dfdHFNTDk1ZlYyeXRWOGJ6aDlEaEJIRFpoazcwTTRVNFRfcUFPckFkNmx2ZklJTGxwMmRxMmwxa3NXd3V1MlluZUFkbDl3am9oNVJ2MWxzTzRuUGV1Rm9oWEdtMHh2a25IQll3?oc=5",
+          "publishedAt": "2026-10-02T13:22:00.000Z"
         },
         {
-          "title": "Army Identifies Soldier Death Off Post - October 2026 - United States Military Academy West Point",
-          "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdmJVb0huWHFHT3N3MTZURUtBazNGYjR0emJKUWg5NVNkVHJoZ0hSTU83WnVkdXFQWXczUlhaNW1qZHJYTDBJSTlLMGxXQXRJQnVmNFJ5cGJPSzhTN1JYTFFtX0N1YUZJRXRGd1h4c1ZjYUFmemVLaUladElRV0ItUWhNUkFITmtmMjVJdFNmQktIcFBCUmw1ekMyck01Zw?oc=5",
-          "publishedAt": "2026-10-01T20:24:20.000Z"
+          "title": "Army cuts training as service is short billions of dollars - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQam1CQnl5Mmt1ZlRVNDJINHgzRlI1cm1Jc1J4WGJNblNoVVVGT2gwWEpKLXJ3M2R1RnhBZ3dFQVU2aFRrV0UzR1lMNGltYVc1ZGl6cF91SGdVR1h5WmRXQzBaR3Jwb3RyUmxLZXluUkhxLVVwb2ZoMnE5QmVoZW1rLXZGdExBeXJnenlLaXdtOV9MWE94cUNuRUlSS3JFZ9IBowFBVV95cUxOTjVTRHFkWFpPZHVmeW15b1pPM0J6RXdyN0tCVHJ2N2lzd1NzX2dyaF90aWZ1TXFwTkZkNU40b3pXQXQ2X1QwYjA3dzdfbHJpTjRTWElNM0ZBY1JKX01VbFFnRl9qdnBramtBNllkNkF2NUR6SUJLX2VhWGVCYlNmbFo2S2IwYXR3eW94Rmp0dzRZSExRelhXWm9WVGpmb3pueXlJ?oc=5",
+          "publishedAt": "2026-10-01T23:54:51.000Z"
         },
         {
           "title": "Why is Hegseth cutting 20 percent of US general and admiral positions? - Al Jazeera",
@@ -109,10 +109,10 @@
           "publishedAt": "2026-09-30T23:10:46.000Z"
         },
         {
-          "title": "Robotics Competition Winners Advance Military Exploration of Humanoid Capabilities - U.S. Department of War (.gov)",
-          "source": "U.S. Department of War (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQjN3U05LMkpVQjVTU0lyWTgwRDRjbUg3MWhDcmdWRlotVXlKdW5YLTFCMmhKc250dHhBQ0VCTFM2bHlmTktmVlgxd3VfVWVfQXpnTXd4Z2REREhXVXRFaTdIU3N3anU2eFBkTDlzTGNadk1kc21kX1V6bGxHS20xN2hVX3FhOHM1WUozbUFQVGpFTVV4Vnc2am15Q2tzYXF5WG45R3NpYkpiVWFBWEZxeVVyUHdUQU1zenlCOVR0M3c3R3F5MzI5VlBJQkJvYXVaM2FkaWVJdzVYQQ?oc=5",
-          "publishedAt": "2026-09-29T19:02:16.000Z"
+          "title": "A 31-year-old U.S. Army officer died while scuba diving at a lake frequented by Philly and New Jersey divers - Inquirer.com",
+          "source": "Inquirer.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlFZU083ME9oUGhmMHRNb1BGNzduNDFqZ2dmMldrcnR6RTlOSnpOR1Q2UVFpTmdFTVB5WFRXVU9ZcDRTd0tMUXZMYkpHNWJtbzZsUE02anJEWUhnLTFqUlJ0Wi1KU1l0SlVabkVrcjVJMUk4SER3QVB0WWtuNGFTSkJ3S1A5UXBHdHIwZ0Myaw?oc=5",
+          "publishedAt": "2026-10-02T14:40:50.000Z"
         },
         {
           "title": "U.S. military lays groundwork for potential action around Cuba - CBS News",
@@ -129,22 +129,22 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Hegseth directs military service academies to immediately stop giving tenure to civilian professors - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON1A4aG8tVjY0OUdSeG1tbW5BRUJmVDE2QXRQMnl2S0sxSzZoeFRvVk16TldaV2lzWHVQNnlKM2tud0dwa2JveHczWVAyTXdHU2wydEI5WjlXSEJSXzdYdjNQNzYwR1BOREI5bUJUcTR1MS1OODFYNS1ueWtJT240OXlkTjRpRnpZakFFOUxJTEZzWkktdmpZZUpHV29Hb0REUHBlWnlKbw?oc=5",
-          "publishedAt": "2026-09-30T01:13:00.000Z"
+          "title": "What a former West Point professor is saying about the Trump administration’s ‘no tenure for civilians’ policy - deseret.com",
+          "source": "deseret.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYTYwM2JITktUNWd6WjNMZk5vQ2xrYWRQaEhWXzlORXV5R1U4ei1sLVkxRlk2RFlVSC1uRDNTTzAydHZxWUdQaktRVTY5b1htM0lqVHRIOF9YbWZCUUExcHBRVnZ6cWZ5emJOOHNEdTZpei1UVGNfRzJFaHA0Sl9LSzc0S0NPdEhRa1FxODVObzBjZw?oc=5",
+          "publishedAt": "2026-10-02T16:32:35.000Z"
         },
         {
-          "title": "Military academies won’t give tenure to civilian faculty, Hegseth says - AP News",
-          "source": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzU5RFB6VEpVX2VfUDRIQnprZ3M3aVRudU9NbXVYVDZhVVUtT2MwbEgzLXMxZ0pqVGVGMERyemRkVHpIdW1rYkhSNkdGdi1YWS0xQ2RYOUx1QlEwc0h3NFhCeE1nWHA1Rk1FTDV5TnlXamV6eDZaRVVsZGVpQlk1cW4wVURkcnUwc01rN1pGUXhkSGdmMVhxd2tOYkM0cTZZTEdNRQ?oc=5",
-          "publishedAt": "2026-09-29T22:06:00.000Z"
+          "title": "A 31-year-old U.S. Army officer died while scuba diving at a lake frequented by Philly and New Jersey divers - Inquirer.com",
+          "source": "Inquirer.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlFZU083ME9oUGhmMHRNb1BGNzduNDFqZ2dmMldrcnR6RTlOSnpOR1Q2UVFpTmdFTVB5WFRXVU9ZcDRTd0tMUXZMYkpHNWJtbzZsUE02anJEWUhnLTFqUlJ0Wi1KU1l0SlVabkVrcjVJMUk4SER3QVB0WWtuNGFTSkJ3S1A5UXBHdHIwZ0Myaw?oc=5",
+          "publishedAt": "2026-10-02T14:40:50.000Z"
         },
         {
           "title": "Army Identifies Soldier Death Off Post - October 2026 - United States Military Academy West Point",
           "source": "United States Military Academy West Point",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdmJVb0huWHFHT3N3MTZURUtBazNGYjR0emJKUWg5NVNkVHJoZ0hSTU83WnVkdXFQWXczUlhaNW1qZHJYTDBJSTlLMGxXQXRJQnVmNFJ5cGJPSzhTN1JYTFFtX0N1YUZJRXRGd1h4c1ZjYUFmemVLaUladElRV0ItUWhNUkFITmtmMjVJdFNmQktIcFBCUmw1ekMyck01Zw?oc=5",
-          "publishedAt": "2026-10-01T20:24:20.000Z"
+          "publishedAt": "2026-10-01T20:24:35.000Z"
         },
         {
           "title": "West Point’s Honor Code Taught the Military to Lie - Yahoo",
@@ -153,9 +153,9 @@
           "publishedAt": "2026-10-02T16:00:00.000Z"
         },
         {
-          "title": "Hegseth Tells The Military Academies: No More Civilians To Receive Tenure - Forbes",
-          "source": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUDFDMGI3dG9fbk5LREpyVTYyTmZVRWhnQ1BlZVdpWWFnbjl0NmE0eWxRRFI3Z2M3cWE4aE1PajR3NERKem9ZOVMyZDJHQ1J5RVV5N0pvellCb1Y1cjc3Y3cxS0ZRSzhReFRqQnl5eFltMG8yeWs5UlBYSjFRRTMzLVAtMDJybnR2NUhGeEZ0d2x5SUlyWWtUbk5KRS1OUDFWTDN5MUdGOTVEblFYb3l0UVpFeEJHLXZORGtKMURpRllkMUZnTTAyRQ?oc=5",
+          "title": "Hegseth Tells The Military Academies: No More Civilians To Receive Tenure - Yahoo",
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0Z1SWVTdmlwUXljQVYzZ1BCUktuaHFrYTUtYnIxb2RTbHNkSFNzT3NQaTZWSnlvNEl4ckxPcllBbm04MjYtcDdxaTUxZ0wxOHRzV0w5S2U3WGRfN3djMWRMNmRZY1dEQUlwT3c3SzB3RTZhbTZHNlE4V2xxVldtTW14VTBnMmtqQkNwYVAxN3BDQktQOHU2WklZYw?oc=5",
           "publishedAt": "2026-10-01T11:27:20.000Z"
         }
       ]
@@ -167,16 +167,16 @@
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Honored Division Week #2: Black Knights honor the 25th Infantry Division with gameday patch against South Florida - United States Military Academy West Point",
+          "title": "Honored Division Week #4: Black Knights face Louisiana Tech, honor 101st Airborne Division with gameday patch - United States Military Academy West Point",
           "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNejM0cVFLRllGRmNlTWZxcGVFMVZPd1NCYjQxMW5xSzhzQ3VBbS10b0R4TFpTNWxXWE9YZUsya2pIMWRqc21BSGcwQmI4bGo5Qm5KQ2JaZGlhYmFlUUlzNmRkX1ZzU2VPeXloNU5ucWxIbGVma29YQ0VhejFBaU1mdFZyMXNRaFJ2VElzVWxWVUhqTVVoRDJkMkgzNVJkLTY4cW5IRDhHZWxsVlY4UTlnVEFZQXZlVWpWNG5FTHhUdFItSmROSHBoWG5sN0pZaW52LUJsVnZQX1FreHo5LTdOMUQyQzJlbjNKbmVHY3dheURKdGtIUnBXR1BoOA?oc=5",
-          "publishedAt": "2026-09-11T07:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY0MyM0tHOEpzQ2ZDdDc3VF9QQ3Jya2lyYjFHc1V4VmpBQ3YzOFQycFp2UmNkeWFvSTBEcWpobVdjR0gweDNGNDZUODRXNjJzd05HUHNfNXlzbm5TZHN2azNaVnMtMDhCNjM4MFZ4S3g0YTVTeVRGWlhFaVlFdVlwYkF1MVlWOS1wSUQzbmxydjZpdEhDY3FfU0s4VW9OY3U1TVdidzEya3ktNTg1aTJHVzdZdzNfYk5WSlpDT1BPeVdYdlNoVFR3cmZOaTBNd0dldzhnUVc0dVZmd1dIVEs2NEdMUzJqMXR6WjZOLUl0SW9oS3FC?oc=5",
+          "publishedAt": "2026-10-02T19:29:40.000Z"
         },
         {
-          "title": "Temple One Play Away in Friday Afternoon Match Against Army - Philly College Sports",
-          "source": "Philly College Sports",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk9TaTNFOFhIeXhkR244Qzk4WDBrS0RGaWtNZkJQNkFfalRhcUNHUjNhZGtYclJEMXlBUHdVcFQ1VWYydU8zX2ZDUmlaQnljM3V5UFlsYlpkelFORFhfbHJadlpVX0RJLWkxWG1pSmdiS3p1N2RfSnpPUFNkcXNXWVhESlJld3Boa1JDT1NONjBEdHNmX2JUNGdfTks1T0U?oc=5",
-          "publishedAt": "2026-09-26T11:39:49.000Z"
+          "title": "How to watch Army vs Temple: Live stream College Football, TV channel - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04OC1uUmdHbFBzdGFWWG8yU0VzTUh2YzBhU1B4Smx0X0lveHhqaExFT0RNaVVKSEV2Q0NPeTd2eGRUUW94aVBPcXI3NzBJeGlubkpXS29IQkJ4Y2ZWaGp0SHc4MmZrMDNRNjluSERfdUh0Z3loQWZ5em1TSFpwTlU?oc=5",
+          "publishedAt": "2026-09-25T07:00:00.000Z"
         },
         {
           "title": "USAA Named Preservation Partner of Army West Point Athletics - Learfield",
@@ -191,10 +191,10 @@
           "publishedAt": "2026-05-02T07:00:00.000Z"
         },
         {
-          "title": "Maryland at UConn live stream, where to watch online, CBS Sports Network channel finder, odds - CBS Sports",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGNqeVVuSDVMdmQwWlJZRGRpQ09ubUZDVVg5M19qWlJNNUZuNkNkcGZlMGk0dDRBYm9KRWJKQnBaaTJ0WTZPZXl2QkRMTU00YThvbzdjbWpZTXp3Z1Z5RmNhb0cxSUdla2pJOUZFOTRFQUpjeVVwSXA2eWlZd1dfTHlqd1NhNFg0OXZNanAzYno1c0E5NjNucEt6S1Q2S0hyVkVORlpGMFBFWm1NajRxUzZqUk5Cd1JhbzVRX2RB?oc=5",
-          "publishedAt": "2026-09-12T07:00:00.000Z"
+          "title": "Temple One Play Away in Friday Afternoon Match Against Army - Philly College Sports",
+          "source": "Philly College Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk9TaTNFOFhIeXhkR244Qzk4WDBrS0RGaWtNZkJQNkFfalRhcUNHUjNhZGtYclJEMXlBUHdVcFQ1VWYydU8zX2ZDUmlaQnljM3V5UFlsYlpkelFORFhfbHJadlpVX0RJLWkxWG1pSmdiS3p1N2RfSnpPUFNkcXNXWVhESlJld3Boa1JDT1NONjBEdHNmX2JUNGdfTks1T0U?oc=5",
+          "publishedAt": "2026-09-26T11:39:49.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Steelers end standoff, trade Joey Porter Jr. to Cowboys - espn.com",
-          "source": "espn.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2Z6MDFVX0lnYlpsQThHbmpTQVk0NlNTUTZJbmZGLXdTcDJ6MDl5NlA0VHJlN2JjVmVjZjdoaFRiajFNTkRwVmJQMjloRi04dVVWRGpaS3R6bmxOT01nTUZJT1RNSlVobEJINFkxb3ZUdXJMQnBmdjNvaDM1eWRtbmgyUzI1cmJ5bXZzRXpEcjU4TDF0?oc=5",
-          "publishedAt": "2026-10-01T04:14:00.000Z"
+          "title": "Mike McCarthy explains why Pittsburgh Steelers traded Joey Porter Jr. - pennlive.com",
+          "source": "pennlive.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOazZhcDB5dTUyWENsbUwtQml6eWV5bWl2dmVlNVdIWUxmVDliV3M4OXkxWUI5QVVGV3B2TWRkQl9wV08wQ2tZMWQwTmxaRUdtVHZIYXJERXFWWFlXdWlIZTMxZXo5RnAtYUhlQjNhdV9BcnZZQTNZbG5RVEI5RkdMRlgwWXlEZ0RVQk5IN3ZWZVBQWEVQa0RQUkRRSl8xYWVOdHVnOFM3M2JzNzZQaElTSWZIbTI5UQ?oc=5",
+          "publishedAt": "2026-10-03T00:34:00.000Z"
         },
         {
-          "title": "Report: \"Final straw\" for Steelers was Joey Porter Jr.'s Wednesday claim of back pain - NBC Sports",
-          "source": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU1lfdm44bDBjNktEOVhYLUpVUWJBRzR0SlBfTU1ncXFzaW51Zy1Nb2dnTTRTTWJUNWNiaHVJSmFUX3JPaUJjaGptblhiakM1RnJRVHBxTFg5MEtmM3R5aWlvX3Y1aGpteTFaQVNHc29ma0hSdHpTZWRUel9VcU0yUXJiaTRWNDVkM1NDNFJYVVVmeW05d2Z0QmRXVUIxbGF4ZUxuOXpRMS1HanowbXdsVTFLM1NlNDM0U1JXYWkwS1RQOWM5d2xJUkJ6NEJSZkRxaGZEd19RYkNBbms?oc=5",
-          "publishedAt": "2026-10-01T21:40:04.000Z"
+          "title": "Steelers' McCarthy regrets angry exchange with Rodgers in loss - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ3dRaEc5X0pucUxFeE1vdUh0eG81cTFZTnZWRVE4VjIwdHZTX2ZpMW9FdlBBN0FhUFMxa2txWDUyb1dlSHpraFNxUkFULUVUWFhoSUwwWmFGb241OXFjNTJyYU5tZ05XaGktWmRpeS0wX3pseHJsQzE4Nm5wT2V2a2s1YU5yM0RldlZ2MXJQUHp1dkNCdWtzQTBpR2tRMk0?oc=5",
+          "publishedAt": "2026-10-02T06:08:00.000Z"
         },
         {
-          "title": "Le'Veon Bell accuses Pittsburgh Steelers of racial bias in comparing treatment of Black and White draftees - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRGZnUkNEc0R5ZG50ZnpOdXFuRG1HUXJBdGhvR25zeTNPdEdCRmJOUUxSZE9vMm1wQjY2OTBIVGk4Skl5enVMLUtneUhEMnp3a1VoelRsX0ExVUlkVHlyOWdFWm9nMjBDQ3l1RnhocWxRNGxsbDdtWVBSdXFOOXptV2RuTDZKbVhyanpzd1d4NjZmNV9oWmh2OEcteUh2VHZZcDBad0lYSlp6c2dPZmZtcFByLXhlMEtXYU13NmxleXkxWVhqSXk2LWVhcw?oc=5",
-          "publishedAt": "2026-10-01T22:43:50.000Z"
+          "title": "Game Highlights: Pittsburgh Steelers vs. Cleveland Browns | Week 4 - NFL.com",
+          "source": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pdGVfMWZkOTBJV3Q0WThuN0dfTTRGU0RRLUYyLTI0SnZrdGdxN1RHczUwTmdKdFpsalBGQm1UMHRFb0l5TUdveVhMc0IzcnFQUk91M2FQaFZ1SnkwbXJXc3RZenFYc2pTWHlEc2hjVm5LbUN4VEFV?oc=5",
+          "publishedAt": "2026-10-02T04:59:41.000Z"
         },
         {
-          "title": "Steelers edged by Browns, 27-24 - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PejNOVHF0OXN0bnVYaUM4eHIxcDNmZ0t1YzlVY0J0Y0FGOTFxend3NmJzbGlYQm9aRTdaNnFhb0lCRkFGQ1M4dGEwczFIMWlocmtxa1pvXzhaeEQ1cjRBd09ROTJkeV9PbXJ3Tw?oc=5",
-          "publishedAt": "2026-10-02T05:39:34.000Z"
+          "title": "Browns Celebrate 27-24 Win Over the Pittsburgh Steelers | Postgame Photos from Huntington Bank Stadium - Cleveland Browns",
+          "source": "Cleveland Browns",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd0tiRVRPLVBEV0xEaTF5UkhRd2szWjc2eTJoX1lWNGt1ejhaanlVX0xpYkJZM0trekQ5Q08zREJtclhnODhmeXAxLTZoZGxHMWpKME1zeTJkYXJPYXBERGhLY1BDLUxEM2gzZmtmUWZfWUNCbTZIWkdPTFJ4U0xiRlVQdmxjSEc2MTBOWEdmVElzQlVBNVpiWGRkc05jVkYzaE5qakJSUDBfY2JNM1dXS2N6NFFLZGlfMUhNem1PYjJ4eEtjclQ4S3dWQ1JlQ0xJRXRPY2tR?oc=5",
+          "publishedAt": "2026-10-02T05:18:31.000Z"
         },
         {
-          "title": "Steelers HC Mike McCarthy regretful of exchange with Aaron Rodgers - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcWZERWxuNE93aTVUWWsxMWsxS0h0cG5qNmU0WW1jTVdRSEFmOXBsZDFjMnNNTVJtS1NMZHAtMjRHLUphellnenBDWmhNY3d4ZEV5UTI0amRXOVdacFVfTEtuTTlsNGNqYXJTeWNaZlBPMF9EOUpyS1EteUF1Nk14YmphQ3VfX0xYYkhTRQ?oc=5",
-          "publishedAt": "2026-10-02T14:55:55.000Z"
+          "title": "Labriola on the loss to the Browns - steelers.com",
+          "source": "steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRQ1ItUEZWWGZ5UHlLMXYyem5NeXBvbHhEVi00cldPajRwUmFWQUVOVnJzeHlERFVsSThXUm5HTGxIU25xVjRIdjJBNm1SMllTeTRCUm5tb2lFSXNiYmNMNWJReW5lUkVWRG56VXNHbUFISjl1cUtVZnpR?oc=5",
+          "publishedAt": "2026-10-02T09:32:22.000Z"
         }
       ]
     },
@@ -255,22 +255,22 @@
           "publishedAt": "2026-10-01T16:51:12.000Z"
         },
         {
+          "title": "Here Is Blake Proehl’s Debut EP ‘Hearts Don’t Break’ - Country Swag",
+          "source": "Country Swag",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WQzlTdjl5MUNQcVZUQ1A4TDJ0UU5VYnhKeWlVcVhqdjNQQmdYX19HSlZaUkkwUGlia0xpZFJFOXpoQmhLRUlMMi1rc1otVVJHbncycVFiMGw0djRzdEh5T0dzWVhidG4tRTYxQ284MEJOZw?oc=5",
+          "publishedAt": "2026-10-02T17:36:37.000Z"
+        },
+        {
+          "title": "HARDY Releases Eight-Minute Multi-Genre Epic Man In The Box - MNPR Magazine",
+          "source": "MNPR Magazine",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uNlB6MG5lWXkxa1Rlc0p2d3lmNkQ2QUxPSUpqSFVFZzZwbXBxa0M1eTNGQWl1QTY3US1DbmRsMmhxU2dqVTkwTE1aZVROMzJPbUtRSE5IRHluSkpYcjJEbUtJcXozU09CbExZ?oc=5",
+          "publishedAt": "2026-10-02T10:56:55.000Z"
+        },
+        {
           "title": "Release Radar, Most Anticipated New Albums for Final Portion of 2026 - - Saving Country Music",
           "source": "- Saving Country Music",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaE9jclpUaVpJWVVVSlp3bUVJQzhBR0VtVnJ0ZHRyZzh4SkhrN1d0Mm9DcHNidnRJS2NhV2xiX0RDMEw5RU1HT0xqRUY4R0hvRlNzcGJBTEMwaWpyRFB4Q0ozZWhYd3BOZkNyOFA2dHpoUDAtcFZ6X0JTaU8tWlM5dnRYaWVzcGlQLWdyMnQwbkk1RGRQX25ILTBsVDh2aWdh?oc=5",
           "publishedAt": "2026-09-09T07:00:00.000Z"
-        },
-        {
-          "title": "Tour Buzz, New Music, and Big Wins - Madison's Country Q106",
-          "source": "Madison's Country Q106",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40U2ZPVWIzT2JfVGVkQmtuRDdyTVFXQXlqdzhpY2w5V3daVUNjd1FTY2h2ZDlXNWJnYldTcmdUdFY0eWlxRlFvZEtlNktsNFVINlJOZVg4RlFUQ2ZXUFJJQTUyUS0xYmJnbl9rOXRpNk5qZVU?oc=5",
-          "publishedAt": "2026-09-18T14:34:12.000Z"
-        },
-        {
-          "title": "Nate Smith releases visualizer for the song ‘Find Me in a Bar’ - Big Country News |",
-          "source": "Big Country News |",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2hSMURxVkVzQTNOSGJIQ2E1eWNsM2pMUHl5bEpjYTBrdnJUUUpSSWVHT1JlcWZXUVVzX2syNXpxd1FTeTR2RXd1bU9CMnZodzZTeXZ3aTZtV1BaNm5HZmtCQmZERnFOQjBlRktkNVUzTDBQekVEb2lEbWN4dTNvVXp0TXhnWl9vN29POVVOMmpzdTdFQWNVdkV3UmJVU3FvdEVYcw?oc=5",
-          "publishedAt": "2026-09-17T07:00:00.000Z"
         }
       ]
     }
