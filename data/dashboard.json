@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-06T16:49:36.660Z",
+  "generatedAt": "2026-10-07T17:26:03.243Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$780.11",
-      "change": "+5.28 (+0.68%)",
+      "price": "$777.59",
+      "change": "-1.50 (-0.19%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$514.67",
-      "change": "+2.56 (+0.50%)",
+      "price": "$511.67",
+      "change": "-2.89 (-0.56%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$761.00",
-      "change": "+4.80 (+0.63%)",
+      "price": "$757.25",
+      "change": "-2.41 (-0.32%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$332.49",
-      "change": "-0.40 (-0.12%)",
+      "price": "$336.00",
+      "change": "+2.37 (+0.71%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$532.25",
-      "change": "+7.07 (+1.35%)",
+      "price": "$528.70",
+      "change": "-0.60 (-0.11%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$380.61",
-      "change": "+1.88 (+0.50%)",
+      "price": "$377.16",
+      "change": "-3.53 (-0.93%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Here are the finalists for the 2026 National Book Awards",
+          "title": "How Defense Secretary Pete Hegseth has brought the culture wars to the military",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
-          "publishedAt": "2026-10-06T14:30:20.000Z"
+          "url": "https://www.npr.org/2026/10/07/nx-s1-5992775/how-defense-secretary-pete-hegseth-has-brought-the-culture-wars-to-the-military",
+          "publishedAt": "2026-10-07T16:55:19.000Z"
         },
         {
-          "title": "What to know about nationwide protests in India over voter list changes",
+          "title": "She got Trump&apos;s $500 check for health insurance. To her, it&apos;s a &apos;political stunt&apos;",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
-          "publishedAt": "2026-10-06T11:44:06.000Z"
+          "url": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
+          "publishedAt": "2026-10-07T16:15:26.000Z"
         },
         {
-          "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
+          "title": "Gut microbes followed migrating humans across continents, new study suggests",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
-          "publishedAt": "2026-10-06T11:38:48.000Z"
+          "url": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
+          "publishedAt": "2026-10-07T15:00:47.000Z"
         },
         {
-          "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
+          "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets",
-          "publishedAt": "2026-10-06T11:31:48.000Z"
+          "url": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
+          "publishedAt": "2026-10-07T13:53:54.000Z"
         },
         {
-          "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
+          "title": "DIY fertilizer is a blessing as farmers face steep prices due to the Iran war",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
-          "publishedAt": "2026-10-06T11:19:25.000Z"
+          "url": "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war",
+          "publishedAt": "2026-10-07T13:32:37.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
+          "title": "Fort Hood attacker to be executed by firing squad - a first for US military since World War Two - BBC",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BNF96a0dyVktsSkVyQ1pPcDdVWjZYWGtySWZzVm5aVjVBUmdpNlZWSTh5OVhHYkxEUGNjbmd6M3FzTURwa1hVM1kzbnMxSS1RZk5OOFFXLVRhN1k?oc=5",
+          "publishedAt": "2026-10-07T02:06:23.000Z"
+        },
+        {
+          "title": "U.S. Army troops being deployed in the Rio Grande Valley - Spectrum News",
+          "source": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUJzekI4QzlZWVBWdnFzVGktdU5aOGlhSWo1REpuWGEtekpkaXAtRnJBaG5vNkRGZzJ4M1RycGRRR2ZWcWNZSEVvUENrQ1k3X0tFc3YzUHdvSWJSY0JGWTZudUVHVzhTMEdjdFV0SGJzSXBCUEFBMTdwbEk2U2d2NGVFdmM5eHRjUXdxZUZhNUhYa1dTVFVjWWprX1BUMl9hZlE?oc=5",
+          "publishedAt": "2026-10-06T15:45:00.000Z"
+        },
+        {
+          "title": "Fort Hood mass shooter Nidal Malik Hasan to die by US Army firing squad - Military Times",
+          "source": "Military Times",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWlfZ2Jsd1o4Tm96TG1MQUh3aFBwOVVSVEVuOEUzU2psT005LU1wbU9QbU9nampRZnJBZllnazVoV3pYQkl0U2tmU2tkRHdOY3g1X0NOeFU1LWRvaTBGZnVOZnI2aEFMMUEtZnN1RDk4U2xURkNjeUxGWVkzN3N1a2MtRmdSTjdId1NPSEZBNkF5Q3d3dDRZNm1veEM4MnBMTGZPNEVrN3pqNkpqSndQZ0c0a0JndEV2ODdKLTh4VWJMQWFpQVMzb0RRTnI?oc=5",
+          "publishedAt": "2026-10-06T07:21:05.000Z"
+        },
+        {
+          "title": "Curfew Imposed on US Army Base After Marine Allegedly Killed Japanese Woman - Military.com",
+          "source": "Military.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeng2TjdxcVBPdDdwWXl1U0ZHUTV6MHFZRnVBNEFpVjh3M1h2NVBpSHZkUl9Dc2k3WGZsN3I5Nk9qbnVEcEZCZHdOak41ejJNbkhQY25GSnVseE9wdnpLUXZVSHp4QVU3dDl1ZGZDMm9HV2hTQXlPbnJGLXNlX0FONWJ2QlpLT2FUNXpzUmFMZi1tUExWNXFJbGpRblNGMVhoY2c?oc=5",
+          "publishedAt": "2026-10-07T15:00:15.000Z"
+        },
+        {
+          "title": "Army sets date for Fort Hood mass shooter Nidal Hasan to face firing squad - ABC News - Breaking News, Latest News and Videos",
           "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
-          "publishedAt": "2026-10-06T00:43:46.000Z"
-        },
-        {
-          "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises - Reuters",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaTZZY2dhLWxWUXFIc0VnMTc3OHRvUWk2MzUyX3VIU0JFbW1MMjlUX3JCLUIyVGhDZm4zT3RCWTJpcGl6UTdPd2FWaTBBNC1zMkJDR29YXzRuak84cWIxeW5HLWJaTkR4anltMUUzdUpWS3ZkMWRxUTFodWs5SlhFLWU4ODBrUDJEbVVSUmp5Q1ZiWXVWZUVrMEk4VUEwb0MxM3YtNWFyVFNyN29lZEJlb0ctaV94MGxmNmJRVHZKOHhTUDlZSkxCR2xvQkVCUQ?oc=5",
-          "publishedAt": "2026-10-05T17:37:35.000Z"
-        },
-        {
-          "title": "Ex-Army major who killed 13 at Fort Hood set to be executed by firing squad - NBC News",
-          "source": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWUthQ3V1T0VvNW5vNkZSSjYwQ2VKbUdudWVocDVIc2RHVUYtZmtSWC0yZkwyQWJ6YzJWOExVWnRWbUlFanh1dWNNX2tmbWZGX09pM1lUWWtoaDNfcVAxZ3dqRnphek52ODJQeHFwb05NM2xVS1JXQk9LX2RfR2lKRHQwakhUT2VEWTVCMjgyZXI1elBmczV5VFRyRXlOSTBxYlpKTVVB?oc=5",
-          "publishedAt": "2026-10-06T02:58:00.000Z"
-        },
-        {
-          "title": "Trump approves firing squad execution for Fort Hood shooter - The Washington Post",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQXzRWTm1oLXhpS2ljRUF1cjJ5VFdoVVFfTGFNbUtFUU5rMElSQjZOam9FOVE3YS14OVhTcWxEa3ZpWm1UWnZMOEtzY2ROaThtVHVWLU93QUx5Z25MN1lYOFVhdHdJUTZnMzIxU0M5NVNoR2pvcS1CbU5sYi1pa2R5QWg4R01ScHVONG1uOFJ2ZDJtUkFjVldIR1BVRDlBU08ydk5LMHEzd3hyNHZ2UEplbkV3NEpENDdQVnYtZnNyclZDWFR6?oc=5",
-          "publishedAt": "2026-10-06T16:12:24.000Z"
-        },
-        {
-          "title": "Trump approves firing squad for convicted US military base shooter - AFP.com",
-          "source": "AFP.com",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQklRZE93ei1MZG84MXVndU1XckRKVUJLcEYxQ3Y0eWZPZGFIWGdFeGljQXg4aVB4VWNlYlJ3VHVrem1UaHZZcWtfaUhPa2NEek9tUF9leVVuQ19iSU1oYzc5NUU1Z1hQcmVyYzVsSzRiV3hnVHpsX0RZaTZvTHRuMUZoRmxlTUhPZWdSZUdR?oc=5",
-          "publishedAt": "2026-10-06T01:09:02.000Z"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3JENUdHczlXWlAxWXRrUGoxS0ZJcDBxMzVmck5fanNEQm1nbTg2NkhVMXBGZzVmd2VacXprU3pqdk5FUzdQd29EdVdEMlNXQkV6TDVfd2hRS0RMcWppSjJiTmxJb3hOVUZjSHhPbkZVaDZhRUxfanZwMW80U3NPSjAtOEZ1cnU0enRiRFJB0gGTAUFVX3lxTE4tcUlBMmpRLW9NQmd0MFVfM1Z1ZWJEcDE0YzZRZmJod0c1NE1PdnpuQTk0VVJRS0UyaWZidFBKYW8zWlFaMUNmZkpDNUNFZURPLTdEeHlXRXRkOVd1em5BSlBCU3JzWXVBVFJRYWlHYUR1WnlwV2E5N2NtNnVDSV9fbkRTMGV6aDE1TEdyR041U0Z2cw?oc=5",
+          "publishedAt": "2026-10-07T03:39:19.000Z"
         }
       ]
     },
@@ -129,34 +129,34 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Conscientiousness outshines cognitive ability in predicting leadership among West Point cadets - PsyPost",
-          "source": "PsyPost",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcll0X0traldiaXVwWHhMN2RaMEx3Y2dBSFBBbmVnRmtrMEZ0dWg5VExkaXJSVzZCSE1yUnF1WHBfSGZScldPS0VRNHhmWWtsenNibUQwQmdZTEg1bEk5dGViR0dKSGVwSkhyMnk3Q3VqVnMtRTQ5SnBaV3pXdU1IeVB6QXpMNS1yQ0UxNW9QRnlrUWlHYVhFWFFOUzNLSW45OVdPZmpvZi0?oc=5",
-          "publishedAt": "2026-10-03T20:30:06.000Z"
-        },
-        {
           "title": "West Point professor fired after pushing back on limitations to teaching climate change, lawsuit says - Stars and Stripes",
           "source": "Stars and Stripes",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFpZVjJzTUhuaFdHVmN4cXlhRGE3NVFISURLeXFHQmFnTTIxOVdhR2RUeElmMU01bFU2TUpZeU1LWm44RVo1QlF3NHlsYk82akdVb0d0a2NLU1lzempFZktNTnU5dDEyNVNUaG1pcUVpNnVkUmNfbVBRdW54ZGg3SmtaZmZ0VzVTV3BBT1l3d0dBaWRqbEtNNzBKZHlpMEw3V2JNekprWk5xRUFTbWpBSmhn?oc=5",
           "publishedAt": "2026-08-26T07:00:00.000Z"
         },
         {
-          "title": "Asia-Pacific Journal Series – The De Jure Necessity and De Facto Improbability of Establishing a New Military AI Treaty - Lieber Institute West Point",
+          "title": "Army West Point Set to Honor the Late Bob Novogratz with Oct. 10 NFF Hall of Fame On-Campus Salute, Presented by Fidelity Investments - National Football Foundation",
+          "source": "National Football Foundation",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOb3FRVW1udjEtaXktZEFWSVdSSzJIa2RQQ3JpZmIwendtbWFtRWZVaHBpdUFkcnRCSE1fMU5OWkloQ3oyWVY5TDg3andzQUlmUTA0X2prd1V5Wm9zMUg5VFdpV3dheENlX0tEaGZOZktCS3VtNjhEZXc5U2hwWmdXZlFqVWl6dGJzUFA1RG15dmpqTUNBaGxBSGFvYl9BM0JtdjlqSklvV3dsbnhBNDBGY0hTTkVObDFDN3NhanJsd0IwVWZjdUpyTFl4ZWJBU2xqZmNYVlNycVh4RFc1U21NcWJISlB5Qy0zbTdmWmFnd1V1UmZzQllrcXpwc25KNlhpR3cwUU5zNGpWejMyLWttRmxUU1UyZWVfdDRz?oc=5",
+          "publishedAt": "2026-10-07T15:32:04.000Z"
+        },
+        {
+          "title": "Asia-Pacific Journal Series – Can We Design Military AI to Follow IHL by Default? - Lieber Institute West Point",
           "source": "Lieber Institute West Point",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb01lS19CYjN0MGRSZDlESzFkRXUzUDNpQWNKWlpnYmx3RDFicXEtcnRnQ0d6RlEyTWFSSVVYRE5tbU9ReGN3UnZLQjRtWEtnQlpSYnYyTG5DYUk2WGY3TmFqZ29LZE4xMFloMzVPcE1sTVhvc1h4RGRJWGRaX1dnQjNES2F5S0J3bHU0ODlscU9vOHNnZzZMMGZ6LXhvLWFBclFqTkdfdE1tQQ?oc=5",
-          "publishedAt": "2026-10-05T20:35:06.000Z"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2l5UVpoclhUNmFQcUplSUctM0VLeXRtSEZNMkVtSUlteWlETEZ0b3c4OVh3Z1NjQ1JRRVhMSkRuVzVCTVFJY1NjRC1va19XRTI4TG1YeExhZmFzc3BaeUNHQS1sTi01dGNnRnpIOG5Hc3A2YkJ1NEx5cXdaN0RZU1had1FwRFk?oc=5",
+          "publishedAt": "2026-10-06T18:25:01.000Z"
+        },
+        {
+          "title": "West Point Climate Professor Says He Was Fired for Refusing to ‘Defy Science’ - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFVsZTVOTU1oTXpSUGMtbkxaUjRFbWhSZlQ5R1dXbjRwWlNpX3RfVkRrS01aRVhsQm91c280QXhQOVhuVG0tU25rTFhvY3N1S19DeWdURDg2a0NlYk03cF9SeGQ4QUJjOEllVzFtU29ySXBSbXRxYkFYMy1oaF9TYmdOWEZUTGxicW5NWUR5Rm5wZw?oc=5",
+          "publishedAt": "2026-08-26T07:00:00.000Z"
         },
         {
           "title": "Know about the academic program of the U.S. Military Academy at West Point - Britannica",
           "source": "Britannica",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
           "publishedAt": "2026-10-02T05:00:00.000Z"
-        },
-        {
-          "title": "Army Identifies Soldier Death Off Post - October 2026 - United States Military Academy West Point",
-          "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdmJVb0huWHFHT3N3MTZURUtBazNGYjR0emJKUWg5NVNkVHJoZ0hSTU83WnVkdXFQWXczUlhaNW1qZHJYTDBJSTlLMGxXQXRJQnVmNFJ5cGJPSzhTN1JYTFFtX0N1YUZJRXRGd1h4c1ZjYUFmemVLaUladElRV0ItUWhNUkFITmtmMjVJdFNmQktIcFBCUmw1ekMyck01Zw?oc=5",
-          "publishedAt": "2026-10-01T20:24:35.000Z"
         }
       ]
     },
@@ -205,16 +205,16 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Steelers sign veteran CB off Bucs practice squad - WKBN.com",
-          "source": "WKBN.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlVVTFlGaTVJalJPU1dRWXFyWnRNYWNBWWZjajJUNWxxc0ItdlNQNmtGQ1g3Wl9nRmx3eU4tOF92dHRqTHZOWTl6LXdDWlhlM3M2bWpwNGh3TXlmWlZRLWtuSm9GcTAxMXlOY1NQUG45R1VpakpOTHFCYTluQndmVkFZZi1jSmgtMXRZYUFJRXh1QlZ0TjU5V2RrNTNjQmtWQ2Fja05iOA?oc=5",
-          "publishedAt": "2026-10-05T18:07:32.000Z"
+          "title": "Roster moves continue for Steelers - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56ellIdTY4RExnQUJsRFlDWFBNUEhGSWdGOEFhaWp2akpJY3AtRFhUZS1jQ0dTUHJwa1c2Zi0zSFh2LXBSSkZkZUJzWUQtNXFwRHM1azN4ampKd1k5SmVsQVF0eHBTSkprYXJfeHQ0ZkVpcmhacHlDSGZR?oc=5",
+          "publishedAt": "2026-10-06T19:49:31.000Z"
         },
         {
-          "title": "Steelers make multiple roster moves - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Va25hLWZobU91OEVWdFEyeENGdW5LS2JtQzZ1b0JCTHp1ZENNem9NUXQyMEFwQmtmYjY2czFMbTFKRDM1QUdCcVBDU1pYSGlSM3duTFNfN0Y3WGo3T3oybGlkcFFndXVsUGRqdWtJLUUzQm1xb0tONkdQbw?oc=5",
-          "publishedAt": "2026-10-05T20:23:13.000Z"
+          "title": "Pittsburgh Steelers sign former Browns defensive end - Behind the Steel Curtain",
+          "source": "Behind the Steel Curtain",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHgxMDhTdlZjRWJGSi03ME42WEFUVlI3WndDNXJNM2lFenk1bUlETWN5QlRScVgxNjZRSHhYcUg5V01oU3Qxd1pXbkIyY0RtTnpzMmtzMWJJblJjLTRIbzhnNXFJRnZQTTBvN3A1MkVaei1vTVl4SFFNdlJEVlFnd0JjMTNsQUZLZFlOa1gxR0I4WmRVa00tWExfS0dsWFNSTVhSaEVPRFE2WDZaX091ZmJkaE5aU0ZVTEdnN05EQQ?oc=5",
+          "publishedAt": "2026-10-06T14:48:27.000Z"
         },
         {
           "title": "Pittsburgh Steelers sign former Super Bowl Champion cornerback - PennLive.com",
@@ -223,16 +223,16 @@
           "publishedAt": "2026-10-05T19:04:00.000Z"
         },
         {
-          "title": "Steelers Late-Round Draft Pick Looking Like Bargain - Steelers Now",
-          "source": "Steelers Now",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdUZzNjl3aXNmaF9KZjE1eUhzeUx3eUwwdmdzY3lEd0JFQlpTdXJlTW1lRDRHSFZIUXVEekZFT0xxX1lvSkhVRnVaY1MyZlQ1Y3ZLXzZBUUVkMTExSVNJazdZRFduU2E4VjVFNXRZRWVkZUs1Tk9GQVh5RVJ3OFFiakxn?oc=5",
-          "publishedAt": "2026-10-05T21:51:31.000Z"
+          "title": "Steelers ‘Could’ Make CB Trade to Replace Joey Porter Jr.: Analyst - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2RZREd2Q2Z2blhzSTR6ODF0enpqMHcxa3BXVU9pUEhZVXgxSVJtVU44ak1oa3JZNkdvbTgtYVZqOHpZTXpRczlydTFkRXRBVk10VHVmeTVUN0pUQjMyeHRzVHNta1ZBSHJaRW1jZTkxaW5BTEQ0eFNPblFxZy1UbTRwbmxGdXM?oc=5",
+          "publishedAt": "2026-10-07T16:54:09.000Z"
         },
         {
-          "title": "‘Another Traitor,’ ‘Take Him Out of the Hall of Honor’ — Steelers Fans Turn On Joey Porter Sr. for Mocking the Franchise After Son’s Cowboys Trade - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ3l5c2NUX0FfSmRKQVFPT1VZMHZNQWZteE5sNmJ0bmd1SFR3TDZicUx0aU1LS3pTQ3NpdF9OYS1ZNlBrb3c3VjNlNVJrS1YtVk1TbkE2eUtsWVVmTzVQMUZiRDVNcWRJaE9DMVAwZGJjS1c2NHE2TVFsMWFKTFgxVTlFb3U0UQ?oc=5",
-          "publishedAt": "2026-10-05T05:50:00.000Z"
+          "title": "NFL Week 5 TV announcers: CBS sends No. 1 crew to Indianapolis Colts vs Pittsburgh Steelers - IndyStar",
+          "source": "IndyStar",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV3IzdXJQQVhEd1l1RHBEcFZxZlNNcFd3NzVqaVlVRHRBWUdCOXZ2eWE0c1VGTUljemNMX1hDRFZmWjRnUjJPRGtzbzVyTVJOZTNJa01RaUtjMWJCSldvUzBrUldLNmtjNWxGTGRqSG50aGg4dkZVUlotQVFjVVFjQlhNa1NnOExBM21QRjlTbWNXbFBnRlV2X3NYSHk3Y1hkbi1qTzM2eFA4WVU0cEZNWnh1U1VYcEI0MVE1WFhSdDhDQlBYSWx0VWtfMHEtb05RZWJzTUNNa2FJdGhOc2w2RFFsVFY2UjMtdmttaFZpbGJNQmtSUzVxcFdKMGY?oc=5",
+          "publishedAt": "2026-10-07T16:31:00.000Z"
         }
       ]
     },
@@ -243,22 +243,22 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Emily Yahr Releases Book About Taylor Swift’s Country Music Years - MusicRow.com",
+          "source": "MusicRow.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnVmbHBMYmk0RnpVZmE2U2dibWF1VnRaU0d2RW5PeUcwS3V6ZUpIeTVjbUlzOGRXM0hOQ1RWU1Q4c3psT3hJNVVCUmFraHVHeTZNN0c5RDBRMTFOaWFsY3ZxV25jTHp3Wlltdk1pVXh1S0VKVlBqc1d4YUlWemVfV28tMUI4MjFsX0NTYmNOSEJsTUNKMnlHbkRn?oc=5",
+          "publishedAt": "2026-10-07T14:22:48.000Z"
+        },
+        {
           "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
           "source": "Holler Country",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
           "publishedAt": "2026-10-03T19:26:00.000Z"
         },
         {
-          "title": "Miranda, Lee and Gavin Bring New Music to Country Radio - Madison's Country Q106",
-          "source": "Madison's Country Q106",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU3R6LU9KeUxyYTVWaUVhaG9ZbVV4bjNwWFE0NHJIeGZfMU41OWF2SkFybXJaQmw4TzJyNlVsNmowSUFLaVpRWldYMjdjRGFUSmZWM2hodHVrd3UxOW1HeGFiOUg2N21raW5oQUdjWDhyOXE2cUZCQjB5cG1JTlNfaWp5SXBWdnV3M01KU1ZvbEg?oc=5",
-          "publishedAt": "2026-10-06T01:14:53.000Z"
-        },
-        {
-          "title": "HARDY's new single 'Man In The Box' blends country music and rock into one roller coaster track - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckZUUGlGdDM1aWFvS18yZTF6T1hwNVFxM1V6X1ozNGFXbW9GOUpQR2stMV9wZzhJVlF2bDNuaEZGcXFtd1R5a0ZTdm1pSzAtckVOQzRvT25XUVBjOHRicm1SMDYxWTlUSi1PYlhacWQ2VjZYWjY4LXh3VDVPMS1NeGE3SXFTREdpSW5TYVdYNDJ3dnExbzRXMkxWckFWU1BhZHJRMTdMUVktb3hYNnI4Vk9jVU1WQUxIU1E?oc=5",
-          "publishedAt": "2026-10-05T12:56:38.000Z"
+          "title": "Craig Morgan to release 'My Country' album in tandem with Veterans Day 5K benefiting military charities - Big Country News |",
+          "source": "Big Country News |",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSDJTb2U0bnpyT3pTUlhnVy1ibFQyX2pTcU1aVEpWbDhjbGhwTm9KSzdpZFROWGtEUEJ6a0IzTHd2QTBFNWVILUZGeXhxYmNVbFVnVE9uWG9fU3c2Zm5nYW9RVG9oQWd4UjI0MzhNR21RNUhWZUZFcDV4bGRIRkJSOHJsQUJWckJSU2xya0RiUkpfYmFzY1ZJUGZYM0lwdm5PWDVwczNCVFhZSFdGS2RfYk5IYTRwQmxiYXNRODVaZnpLalc1SmhuQlBwbjItOEJOcFRyM25PYmhoeWM?oc=5",
+          "publishedAt": "2026-10-07T10:23:21.000Z"
         },
         {
           "title": "Fresh Country Headlines - Madison's Country Q106",
@@ -267,10 +267,10 @@
           "publishedAt": "2026-10-02T13:56:37.000Z"
         },
         {
-          "title": "Release Radar, Most Anticipated New Albums for Final Portion of 2026 - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaE9jclpUaVpJWVVVSlp3bUVJQzhBR0VtVnJ0ZHRyZzh4SkhrN1d0Mm9DcHNidnRJS2NhV2xiX0RDMEw5RU1HT0xqRUY4R0hvRlNzcGJBTEMwaWpyRFB4Q0ozZWhYd3BOZkNyOFA2dHpoUDAtcFZ6X0JTaU8tWlM5dnRYaWVzcGlQLWdyMnQwbkk1RGRQX25ILTBsVDh2aWdh?oc=5",
-          "publishedAt": "2026-09-09T07:00:00.000Z"
+          "title": "HARDY's new single 'Man In The Box' blends country music and rock into one roller coaster track - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckZUUGlGdDM1aWFvS18yZTF6T1hwNVFxM1V6X1ozNGFXbW9GOUpQR2stMV9wZzhJVlF2bDNuaEZGcXFtd1R5a0ZTdm1pSzAtckVOQzRvT25XUVBjOHRicm1SMDYxWTlUSi1PYlhacWQ2VjZYWjY4LXh3VDVPMS1NeGE3SXFTREdpSW5TYVdYNDJ3dnExbzRXMkxWckFWU1BhZHJRMTdMUVktb3hYNnI4Vk9jVU1WQUxIU1E?oc=5",
+          "publishedAt": "2026-10-05T12:56:38.000Z"
         }
       ]
     }
