@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:52:39.208Z",
+  "generatedAt": "2026-10-11T16:19:46.847Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Opinion: Can I keep the baseball I caught?",
+          "title": "Pope Leo XIV to undergo lung surgery this week",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
-          "publishedAt": "2026-10-10T12:00:00.000Z"
+          "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+          "publishedAt": "2026-10-11T12:54:25.000Z"
         },
         {
-          "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don&apos;t know how often",
+          "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
-          "publishedAt": "2026-10-10T11:00:00.000Z"
+          "url": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
+          "publishedAt": "2026-10-11T12:10:54.000Z"
         },
         {
-          "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
+          "title": "Don&apos;t be scared: Being afraid is outright fun, and maybe useful",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
-          "publishedAt": "2026-10-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
+          "publishedAt": "2026-10-11T12:00:00.000Z"
         },
         {
-          "title": "16 cozy activities to add to your fall bucket list",
+          "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
-          "publishedAt": "2026-10-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
+          "publishedAt": "2026-10-11T11:28:15.000Z"
         },
         {
-          "title": "The Met puts a modern artist front and center (and there&apos;s some Jackson Pollock, too)",
+          "title": "Sweating the details: Sauna&apos;s potential health benefits draw scientists&apos; interest",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met",
-          "publishedAt": "2026-10-10T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
+          "publishedAt": "2026-10-11T10:00:00.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
+          "publishedAt": "2026-10-10T22:16:45.000Z"
+        },
+        {
+          "title": "US Army urges adoption of Israeli battlefield medicine as IDF cuts casualty deaths by half - report - The Jerusalem Post",
+          "source": "The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBab3k2NW1jYW1QbWNfN2tKZXpJNElONGp3MmxuZ1dFbEpKQ2RUczFNWm9kQVNDcG5ES2xWb1R6NzBlTlFpNlNUajl2Zk5ndjhER0ptaXlKdFpDQ1pUNFYzNC1oRkRYM1MxNzhNY0pB?oc=5",
+          "publishedAt": "2026-10-11T11:44:03.000Z"
+        },
+        {
+          "title": "US Army upgrades LOADOUT logistics software after Iran war lessons - Interesting Engineering",
+          "source": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLTNYMllaS25ROUdqTjFseE4tbXJLS3BkOTNNMDB3dk1EV2RDT0pzMk83X3ZNYm5DcU53WkpuRW5kbzFEZDRnY2tKamYwWEFNdjdMLUl0TUVmTEJsNzcxT2tjYkt1MnlBeG9qQllUank2Zk5mRXlwOHc4VW1fTktMQXZuTFVKQQ?oc=5",
+          "publishedAt": "2026-10-11T14:23:00.000Z"
+        },
+        {
           "title": "US Army activates new multi-domain task force to ‘deny, disrupt’ enemies in Indo-Pacific - Military Times",
           "source": "Military Times",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVE51c3pZdERWdjd5dC1mY0FvWVJQRjFNQ1hlOTVmVnl4QVhWY011aXh4Y2lQbTJPWW41YnVWOHBaYXdWNW1pRE1Ja2JybVp0YmUyWGRNdkVUTnVabE02ZlA5X3ZJeTJvLVoyYmZzNDdJa3FmUzZGMXMtUk1PNkJuRmRtelBHWDBJUWRKZDlpQUVkcDBCRUxUUnFiNnZKRnRWYkxZeFRqUlltczgyNDBTTnpqdVJFSWpIRjhNci1uOVdzUm1GNGZnNFJsam9lRmtGd1hIMDcxcmZYLWE3b3RJ?oc=5",
           "publishedAt": "2026-10-09T17:15:54.000Z"
         },
         {
-          "title": "Legal path seems narrow to challenge livestream of Fort Hood shooter's execution, experts say - PBS",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYk9GQmJrazdPd2VLLTJyTHlUZE9wR20tQ3duYUw5UDNVVUd3V3V1TEJ3ZWl0VXhKbkZOajBJMVpVNEdmR2Z4NWdYSkhJVFp3THVlZ2M0WGZ1cXpFWThzc3lCd3JGQ3N0VkluOEUzdXJpTENOeTBaVUVMMDFLY2p5a3gxanoyTnZUWDVoM0xzQk9XLUNTSGJUSzgtMENLRVRSZ0h5VG4wU21GS1NTOUNmV3l5QjJ3YW5haTh0LV9ZQllDYndu0gHKAUFVX3lxTE5oWnpHX1RCUFFvYkszbWtPeWtwZVNpY3FqMDFrX3FoMlpRdDNCM3VGYlZnTjkybXNRMjB4ZFZKcFE4T1JEY2ZUUmFuQXN2bjBKZnRoaWtCRlNkbVlhQ1BJNGZZSVppMmZKWENybWc1T2ZqZjRwajJlc0JHMFVWYXpHUGpaX1hpTzB1S0hlN1JyeW9odUFyN0lEUENrNWVaY1ZTSFUxS2twZmR2VnQtc2Q2TU1IZVVEQl9SdVJZUjBTQm5qTklRbWFWTlE?oc=5",
-          "publishedAt": "2026-10-09T21:55:32.000Z"
-        },
-        {
-          "title": "U.S. Army troops being deployed in the Rio Grande Valley - Spectrum News",
-          "source": "Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUJzekI4QzlZWVBWdnFzVGktdU5aOGlhSWo1REpuWGEtekpkaXAtRnJBaG5vNkRGZzJ4M1RycGRRR2ZWcWNZSEVvUENrQ1k3X0tFc3YzUHdvSWJSY0JGWTZudUVHVzhTMEdjdFV0SGJzSXBCUEFBMTdwbEk2U2d2NGVFdmM5eHRjUXdxZUZhNUhYa1dTVFVjWWprX1BUMl9hZlE?oc=5",
-          "publishedAt": "2026-10-06T15:45:00.000Z"
-        },
-        {
-          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says - BBC",
-          "source": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVlNqcnVNNU5mOGhxUE5iajdxU3psRmdDdWNEZTBGenRRT1AtTC1YcmVTbkpNTlF4SkhkY25RblUtWXlwMHlrM2RfZ2VTVUprQ183THdKTWpEb1k?oc=5",
-          "publishedAt": "2026-10-09T19:26:48.000Z"
-        },
-        {
-          "title": "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution - Al Jazeera",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0tvNk0yZWRuTkpnM3MtQWo0UnRjbzBFaDBNUUNYQjZsWFBmd2k1NTdsenU3Wk0xWmxBX2xuMkg4LTB5VUYwbnh5NUkzYVY2UU5xNllrNy1sR0hpMFMyQmhaUDR4VnFta1JWQ2hmT3htS2R1T29STkV0Ui04YzRzQXJRekcyTXF3ZFBDUk42emJYXzhoZG85dl8tMzFURUJ5bU9GU01WZ2JaN1RKTTd0VHZB0gG3AUFVX3lxTFBLU2dvUjNPdmM5RnlTYVBpZEFKR2JsZFBnQlE5WkJZMkw1YnVDR1hLRVVQazQ4MjkxZEZGcFZsQ0pLNUhzRWVRcHM4eW50Rlc2OE00T0RvZ1BCazU3QV81R0NFTS1mY1RDbTNCdjRxQzVqSmMzaUlnal85Q1laSDNVbnRnZjZ2cXJ2RDhZYWhMc1R5RUhSSFVjVW1SNUNyNi1BN1RDRzg2RGRROXktNzFJY3RWNF96OA?oc=5",
-          "publishedAt": "2026-10-10T00:00:04.000Z"
+          "title": "US Army recommends studying Israeli military medicine experience — Jerusalem Post - UA.NEWS",
+          "source": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGtKUjhROEQ1UGNkRmw0YnZoZUFpblRrOVB6T1FlYlA5YmxJcVBOajV6Rm9UNFRFOGc4amdZTkdxeUlSQjdRc2RaaGR0R1VwY1NJLTVxSWN0aGtZUjA4Y1d3SUd0cl9LTmRKa2gxNDM0UTlQMnU0VlBrbG8tamJDR1pTUk5nUEtlR2hXM2k0M1NDR3ZnbUNoNHp6dWtlT3R4dWk1ODBWQ0Uyd05wNW9FS2xBZGc?oc=5",
+          "publishedAt": "2026-10-11T12:28:06.000Z"
         }
       ]
     },
@@ -129,16 +129,16 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Leonard Nimoy Played A Young Boxer On A Military TV Show That Filmed On-Site At West Point - TVLine",
+          "source": "TVLine",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYThGeVpLbnFHRTJQOVZtaTdDalRhVmJrNzFWeUNzTzFsRldZZ0NRaHl3U0FSVldRaDFBdnFVWmNrakpueUVJSmFvcDUzcm51S2J6Tm9RXzg4QWdma1hiTG5OcFR1aHdna2U1dEN6RzBSaEJCN3FCVVM4TGRuWnpCNFZCLWVLQzJaODFRdEc3S0NNSnhQMUtB?oc=5",
+          "publishedAt": "2026-10-11T13:12:00.000Z"
+        },
+        {
           "title": "NIRA Divisional Championships return to US Military Academy at West Point for 2026 - USA Rugby",
           "source": "USA Rugby",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXY2WjB4S0liTEJfTXZVdi04dlF6TGVNdWl0dk5ReWFHdEFqVThQMG9xTHpaejJTNVg4T3AtN0pFTDVMTHp2R1E2bC1UM0RDQm5SZHh4Q3JHLUJVSlM0LU90dUo0cldrcEQ2bl9WZTFYd01Bd3dCWVBlWlhKMExWT2tTR0xZZ0ZidmI4aDhnd2pYQktKbHlhQzdXRW9DTTF6UGdpVHQySFkwR3FVVGtiR1V3RQ?oc=5",
           "publishedAt": "2026-10-09T18:10:10.000Z"
-        },
-        {
-          "title": "Drone familiarization for cadets helps build assurance, proficiency as future officers - United States Military Academy West Point",
-          "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWlwV3I1M19VTjZfVlR6NEU0bi1KMzlWQy1QcmZHNUhNUU5zLXlrYnNtZTlJYnU0TndmQXRTQnJLTEJqTm9ZZnIxN2dxV1MzWGhSalQzeC1nSHJNRzBXNjRIOXdfMkZ1NUduMHE5WnNxOE9PSndpYmdsajlvMkRYdVU5c0hqN1lBZi04ZGl6ZlNuakg3SmtnMkJDZmo2Y1VCRU9JWUZGV2VQN0JPSllMaFJheEt3Y2FFUDJ5VkYwU0Vyb2xJaUE?oc=5",
-          "publishedAt": "2026-10-09T13:20:42.000Z"
         },
         {
           "title": "West Point graduated more Jewish cadets this year than ever before, Jewish leader says - The Forward",
@@ -147,16 +147,16 @@
           "publishedAt": "2026-10-07T07:00:00.000Z"
         },
         {
-          "title": "Space Force Guardian, a 2024 Grad, Supports the Final Frontier - West Point Association of Graduates",
-          "source": "West Point Association of Graduates",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVg3NGhnckdscnZWY3VfaWlpRlZDM1V3bjBRSXJ2cm5LLTVIcTVZRjB1RmkwOERNN0loSjl4TWtHZ3dueWRxX1k0RlBHdktBQ0NUWmlSWFNnQ2xEd2xXT3B6RHpxZFFmaHNKQXc4QVk1elROUWREakNuNVFNSHFwMlh6UHBtMzJVU3B1alB5cUxuZnYydFhSd0FmYw?oc=5",
-          "publishedAt": "2026-10-09T12:00:00.000Z"
+          "title": "Leonard Nimoy Played A Young Boxer On A Military TV Show That Filmed On-Site At West Point - IMDb",
+          "source": "IMDb",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PR09LMDgwWDdaNndjWUc4Yy1RM3ZTVUZvVjhQZ0I1X2dId0RNOENieUdpNEhMa280QWdvS1hfQ1kzaEJXWUNFZ3lqazNsaWRwZzY2eUxEWTBZLVhxTWJMVUY4M2ZNUQ?oc=5",
+          "publishedAt": "2026-10-11T13:34:11.000Z"
         },
         {
-          "title": "Know about the academic program of the U.S. Military Academy at West Point - Britannica",
-          "source": "Britannica",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
-          "publishedAt": "2026-10-02T05:00:00.000Z"
+          "title": "The Journey Of LA28 CEO Reynold Hoover From West Point To The Olympics - Forbes",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0NvLXFXTnpMdGROWDVOWTZ4cWlSTjBybk9mR2pGVFl0UTZMTG0yUGFUT1BVYWFoX283ZHpiV1lJb2FGM2FPRWJWeWpBTV94TDB0UjVTSmZBM0ZlZVRiU000bDNGYVBpM0JfSVlkaGtGU1N4di11X1A1Ti1mMk4zZGxnWU5VOXVTTjV5N3Iza3Y2ZHlGTWUtUndzOHdJV1kwT29Wc3FGQm9TTjlhWHB0V0MyT2lGWGZFMVZTbUN3?oc=5",
+          "publishedAt": "2026-10-10T22:30:49.000Z"
         }
       ]
     },
@@ -167,10 +167,10 @@
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "2026 Week 6 Preview: Tulane Green Wave @ Army Black Knights - Underdog Dynasty",
-          "source": "Underdog Dynasty",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDcwYmhENV85Ql9mdTlDMVhObXludjJ4M004REh2TkRtZWNObzAzWWNrYzhzQktWei1ZRHJ2RmdxaHlLamFuN2g0bGRjRC0tOVVTQXRyN0JNUXNidUpreGZMQVJuSG9Qc1RGdnRPNzNMMWtLdEFJekRWWXJpYUpCbkl4NnBseTk1UlNGRDN5MnV2UHU1S3B2SEo0cHgwRmx1YnVCUFpvVGV0REVpZF9CT2RZSGg?oc=5",
-          "publishedAt": "2026-10-09T21:04:27.000Z"
+          "title": "Tulane Green Wave vs. Army West Point Black Knights Live Score and Stats - October 10, 2026 Gametracker - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXBmWDlsc0VxdVpXeHB4aWZxQUJaUGl3NU1nTmptYUVlcTJudUI3NzI1MDAwWGd3SWlMeWxqOGhqZTJqamR2bjhwSklQU3l2U29QSXYxNmloSVpWLTVGdlcyVXBYMXZDdV9jTUZhQWNQQmphdEFxSWpzenJUNHYwUHNHelFQaVo0QUs1N2x0YzU?oc=5",
+          "publishedAt": "2026-10-10T23:58:04.000Z"
         },
         {
           "title": "Honored Division Week #5: Black Knights return home against Tulane, honor 7th Infantry Division with gameday patch - United States Military Academy West Point",
@@ -179,22 +179,22 @@
           "publishedAt": "2026-10-08T21:33:22.000Z"
         },
         {
-          "title": "Temple One Play Away in Friday Afternoon Match Against Army - Philly College Sports",
-          "source": "Philly College Sports",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk9TaTNFOFhIeXhkR244Qzk4WDBrS0RGaWtNZkJQNkFfalRhcUNHUjNhZGtYclJEMXlBUHdVcFQ1VWYydU8zX2ZDUmlaQnljM3V5UFlsYlpkelFORFhfbHJadlpVX0RJLWkxWG1pSmdiS3p1N2RfSnpPUFNkcXNXWVhESlJld3Boa1JDT1NONjBEdHNmX2JUNGdfTks1T0U?oc=5",
-          "publishedAt": "2026-09-26T11:39:49.000Z"
+          "title": "2026 Week 6 Preview: Tulane Green Wave @ Army Black Knights - Underdog Dynasty",
+          "source": "Underdog Dynasty",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONDcwYmhENV85Ql9mdTlDMVhObXludjJ4M004REh2TkRtZWNObzAzWWNrYzhzQktWei1ZRHJ2RmdxaHlLamFuN2g0bGRjRC0tOVVTQXRyN0JNUXNidUpreGZMQVJuSG9Qc1RGdnRPNzNMMWtLdEFJekRWWXJpYUpCbkl4NnBseTk1UlNGRDN5MnV2UHU1S3B2SEo0cHgwRmx1YnVCUFpvVGV0REVpZF9CT2RZSGg?oc=5",
+          "publishedAt": "2026-10-09T21:04:27.000Z"
         },
         {
-          "title": "West Point center pumped for upcoming season as co-captain - Spectrum News",
-          "source": "Spectrum News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWJ2MHE2cEJqZkRMY3AtWmlXT1BqZnhhY0tsbXhTWE52ZTJ4SnRNX0gzZHl3YXNUMUVORmV0VW5ZSEpNTy0tSTluOEVuY3RPeHNfOGdSb2VPM3hLQ0xrdTBDbnJnTHk0NVNTeDM2M0RyQWVpRlJpaEh4T2djMnZMZnZYbzc2Q280T0xHNVY5V2R0ZnN4SG9pMlN2WHZnclZIRzktRVpwQlBEUVNJMDZubU1pYVRNNUJkVkJn?oc=5",
-          "publishedAt": "2026-08-17T07:00:00.000Z"
+          "title": "Army football seeks bounce back in return to home action vs. Tulane - Times Herald-Record",
+          "source": "Times Herald-Record",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUk3QUhQVWdnMkk2a1NqeTk2NmJiaVNDemh0bFNvMnBRT3NIN0NMY2MwNU9Sa2llNlZfNnhHNmdjbFd2RUJVbU16QUV1TXFoOUNlNXBfc011b3kxQmtEdU02b21rMnlQTTJMM0pYUjFKT2V0VUVkQW5LWU16UDA4VXprYWFteUFaVkk0MWFLRFIwRmVWeEpVdmxLZDdOX0t4dFJkWmFGNlFXVmxtWmRHdmd0Rk5RYlR3eklYaXlYdlE5Rzg?oc=5",
+          "publishedAt": "2026-10-06T13:47:00.000Z"
         },
         {
-          "title": "Honored Division Week #4: Black Knights face Louisiana Tech, honor 101st Airborne Division with gameday patch - United States Military Academy West Point",
-          "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY0MyM0tHOEpzQ2ZDdDc3VF9QQ3Jya2lyYjFHc1V4VmpBQ3YzOFQycFp2UmNkeWFvSTBEcWpobVdjR0gweDNGNDZUODRXNjJzd05HUHNfNXlzbm5TZHN2azNaVnMtMDhCNjM4MFZ4S3g0YTVTeVRGWlhFaVlFdVlwYkF1MVlWOS1wSUQzbmxydjZpdEhDY3FfU0s4VW9OY3U1TVdidzEya3ktNTg1aTJHVzdZdzNfYk5WSlpDT1BPeVdYdlNoVFR3cmZOaTBNd0dldzhnUVc0dVZmd1dIVEs2NEdMUzJqMXR6WjZOLUl0SW9oS3FC?oc=5",
-          "publishedAt": "2026-10-02T19:29:40.000Z"
+          "title": "Tulane Green Wave at Army Black Knights Prediction, Picks & Odds for Week 6 - Athlon Sports",
+          "source": "Athlon Sports",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDhLZ2lONlIxd2pfdzlpUWYyenF1TTIyMGJEXzlUVHJDb0dPenp3MjBfRG5lVFA3MjRNaFBOV3NsV05aMGNDay1vSEltcmwxd21qd3B3S3BRRldET3l6aDlzRS12LU92SHNHdkh5QVBzY0ZQalJKSEpBelNQNnpvRmpXQlpLeEZ4RlFzU1NEZGtpdTNoam1yWDV2MkNZTFlhUmV2cTVXU3dmUnRPMlo0Wk5tWG5haHZfU0ZjRw?oc=5",
+          "publishedAt": "2026-10-10T10:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Three College Guards Steelers Should Target - Sports Illustrated",
+          "title": "How to watch today's Pittsburgh Steelers vs. Indianapolis Colts game in Week 5 of the NFL schedule - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2h2a3ZXLTlfMnZUeGk5N1VXUnM2UzUtYW5XM256Z3JzOVBUcnFmZXAxRjJBTVRoWnhXcDcxeFBzbUJCbGROTUgxdS04N3hPZHlRZm45SEdtVTdLT243OGZGTzRJVmtoRWJGcXppa09EWk5ibFpSWHNaUThZTEJxeklYMUVNeFpibmZyalRuT2JySWxSWUNqY0NPQVhEd3NKV1BKYXRSWmpCa2lJcFdSOW1RcmZzQQ?oc=5",
+          "publishedAt": "2026-10-11T04:00:20.000Z"
+        },
+        {
+          "title": "NFL fines Steelers wide receiver DK Metcalf - WPXI",
+          "source": "WPXI",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMjdkbndyOFZ6MzNMcG1vcGlKZURlb2VabXlsclJrZ0diTkY4Vk5XU1NMSm5ta1BGazZxT3l0a1BfbmRmLVF5QW5XSEkwRktYMVlFOHB6b1dEdUJEckhmWHUxOTlWeFI5RzMyZ2lKN0JrTTdMNy1iX2pCa2ZOX3pKRlJtbXRZaFBkQjNrRWg0eXY3TFZDODJvd0xXZlZYdndkU2swWVU0T0RxcnZ2V1N0MjlaX09QTlA1VFNqeGQxSTTSAdQBQVVfeXFMTTRzZGxPRVUxY0hXQUMyeXROd245Y3laWEFFT20wY1lwc0hpU3I5Q1FWOWlEQVNPeGJpLTJaZ3ppZC1wUlNmWC1ibFFHZHVLUVQ4UmhlOV9rNFJSOVoxZnNaa0FjcmNLckFEM3BWN2NPZFduaEZUdkdObHVnS2pjYmNCNkhFanBBOGhpVEFMS05pUkFPU0t5aVFycktISnFsakdjU2dkYTh0eEVQeFp1TzJBbTNSUU91LS1SYWI0WUZfelQwMEhRMHBaVFhUbUx0X3FwaUU?oc=5",
+          "publishedAt": "2026-10-11T00:26:00.000Z"
+        },
+        {
+          "title": "Steelers place WR Michael Pittman Jr. on IR with foot injury - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbW00YmFFaWxVdGh5NjNqdlRPb2xmUkJldW8wOHlEY1pLR3FBTUFJR1RFVFhrLTBqeU44RE80Y2ozRjFVaEJsWTJOSVlKbnRYeGJ2RkVfQ0VVNVU4Ukc2WDJjWURtMVdab0VabHhWcHJOc3VXa2VIeDFLTXdPYUxPVkJvZkF5UHRXWDNSeUV1d2ZCZw?oc=5",
+          "publishedAt": "2026-10-10T19:16:29.000Z"
+        },
+        {
+          "title": "Steelers Add Training Camp Star to WR Room - Sports Illustrated",
           "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaVBXVy15MmxaRHI3OVdjVDI1T2ptWUpRVGd2UnBBZnlVNEVoaDl1dlRDTnpMYlQtOGUwVWZUUjZJT1hnX1NNcmVuczB4c0R1Q3JpY1ZsSDdScW5CRlAxbmtMZlRzQ1JjVWNjZlR1c1dHamFuV19VRUx3NGNaNVpKZDlFWGpTNy1WQTkwRXQwTmRWMXBwaEE?oc=5",
-          "publishedAt": "2026-10-10T15:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUJ5aHI0Wm14bTlFV2doeGxQd2pHX04xcWplTUMtdGxWVFp4OTlocjdXUHJmZUwzUHFrSlptdzduUkJXMXZtakF3U0JkUVVUNWdnSTBVTnBPcVNJbWRVamhOb2t1a3dvUk5xQ1VyNmlyOTJnYUVnMEFZSTNFTXlNcDdmUjdlQXo4Wk9iTHcyajdYY01UbVotZmcwd2JHM19oeGJGd3ZsRUN4UUozZlVwRVZ3?oc=5",
+          "publishedAt": "2026-10-10T20:13:39.000Z"
         },
         {
-          "title": "Steelers shine on the runway - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWMEEyVEVuWm1fTHFBTmEtQTNYamZ4MzlFcHhrdG1yWV9laERoNFBhN1JpT2F2Q2FSMXR6VTBpb21WXzRhVm1Kei04MXJmYS14c2p2Z3JSRGFrZjNrZ2pNQnd5RUdMR29PUWc?oc=5",
-          "publishedAt": "2026-10-10T02:01:30.000Z"
-        },
-        {
-          "title": "Steelers mailbag callout: Submit your Week 5 questions - Behind the Steel Curtain",
-          "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOGNIRWQ1NUtUWTNGVnlHRnM5S0JQUm1UekUtTDI3eHl3MkZoZFVJd2t1QlpzOTItTi11bkZwT3hCT0FlT0RqMElVdjNTZTh0Q3lBclkyc1BZOUMwakszaHNhY1p4Qk9ZVzlQN2FPMGxYekxWcG91NEt4UDM1ajUwOFUzTVVNd1czbzk2R1dKN3U3WE1GRW1KaHJOSUpWX2k4NWNZZ2tPVU1QSDNacFh0ZXNIWjdzNlhGcnU3R3lzTzNLT1ZhQnJfcg?oc=5",
-          "publishedAt": "2026-10-09T18:39:49.000Z"
-        },
-        {
-          "title": "Steelers’ Jalen Ramsey just went off about the wild Joey Porter Jr. rumors and what he really said will surprise you - PennLive.com",
-          "source": "PennLive.com",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ256U1l6VTJueVZhUmFQRHFYeGJxcEUwckVQUWxqNmJ5NV96SEQxUF9SOFgzbzRobGQ1dXJhcU03QzlBdThudGcwWlQ2ekdJQzd2WWdxck9ybmRCNm5VenVJcWVEbnZtd19HVjJqQmhVN3JhMXRDUjVoakd6WmstSVpiSUQ0NmVmT3d6b3lLNzJOOTdnSURhVmxQa1NKdVRPZndMVS02eU5EWjFFMXgwZVRueERPaVFPQXVMNmR4bVBpanhhMEJBLXlKYWNIZndLX0VfX09rR1RYbHVpMnFCREtNcmRzMFZCZE1GYV9temVFTVE?oc=5",
-          "publishedAt": "2026-10-09T19:21:00.000Z"
-        },
-        {
-          "title": "Jalen Ramsey Puts Steelers Coaches on Notice, Clarifies Message on Social Media - Heavy.com",
-          "source": "Heavy.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzl0czZ6Tm8yR0djSGRZVzhkXzc5RUdhUWtJM0pnZkJJcHVXVGxFVUF4ZWxEUkp5a1RnSlViQVotU1hPMnNLc2Exc3hRSnVRWEJQQ1VvMHQ4MUExS1E3anNwTFVUNHR5Znd4a2lUbVY1VHhkVjRHVVBIVzJ3MlVTLWQweXFEeEFzLXhmblFqSmtrQWI5ckQ4b19zYUZuVm1t?oc=5",
-          "publishedAt": "2026-10-10T11:56:40.000Z"
+          "title": "Colts announce 5 inactive players for Week 5 game at Pittsburgh Steelers - Colts.com",
+          "source": "Colts.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0gyRldlYV81VXBIZnBRanVwTVpCcUZtMnljbGNVaTdLbGlLekJac1NIVVh4WnZrSG5kLW0ySmJaZ0xLZWxfeG9ISUY2dlcwNmdQMklyeTJaZGEzc2Y4RkJFRUNJSnB0ZlhJZWl5LTZsLXdkaFE5eEJtUWF1cUt3c1lCclNiYkJ4T256ZjVZTXpldGQyRjJIQ2VTeV9JZzVI?oc=5",
+          "publishedAt": "2026-10-11T15:37:30.000Z"
         }
       ]
     },
@@ -243,16 +243,16 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
-          "source": "Holler Country",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
-          "publishedAt": "2026-10-03T19:26:00.000Z"
-        },
-        {
           "title": "Lainey Wilson Releases New Single ‘Kinda Love It,’ Co-Written With John Mayer - Backstage Country",
           "source": "Backstage Country",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1BXZE8yR09FdEtOOGR5X1NTRUozNXU2WUdQeEU5a0dEWklyUEQ2UWZFTDZud3pxX0pDcGdEamFkVTdWUlV3RHF6TDZUV3p4RlRwTVlVcDEzU2w4RnRXcWpObXBfNVZKdUphVmphZHh5dHYwOUhGTWZHQzJ0WE9EaW9SU2xjX290b0JwMWJJVHNIZ2dlUlJqTHYtNEtZU0pwRVRnaUNIN1pMckU4VlVzbjh3cFVEQQ?oc=5",
           "publishedAt": "2026-10-09T14:10:29.000Z"
+        },
+        {
+          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
+          "source": "Holler Country",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
+          "publishedAt": "2026-10-03T19:26:00.000Z"
         },
         {
           "title": "Three Big Country Headlines - Madison's Country Q106",
@@ -261,16 +261,16 @@
           "publishedAt": "2026-10-09T14:12:25.000Z"
         },
         {
+          "title": "The Sammy Rose Band Releases Cowboy Blending Country Storytelling With Blues, Pop and Alternative Edge - Country Chord",
+          "source": "Country Chord",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZGRYLVlIdFpodnVPeGNyeWZNd1BLanh4a0djRmRuUzlRMGd3N2dqbUJPNV9TTGY3RjB5WUpxRzFNTlhqNnNnOTJMWVk2VFVuNlkwTVA1M09hUWViRGQ2N2Y1bEZPZDdPN3RnV3dORnIzUlRpSFdKdWlzdEMxSEdQQXMwMXpDVzFUUnJ3YTh1NkYxQ0VDeVBhdXdDQ1otTWw3TEw2TFU4VUJ1eFlfWmdtemdMOFBRS0IwTEVQTEJSY2hiM25fdHc?oc=5",
+          "publishedAt": "2026-10-10T15:57:48.000Z"
+        },
+        {
           "title": "HARDY's new single 'Man In The Box' blends country music and rock into one roller coaster track - Fox News",
           "source": "Fox News",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckZUUGlGdDM1aWFvS18yZTF6T1hwNVFxM1V6X1ozNGFXbW9GOUpQR2stMV9wZzhJVlF2bDNuaEZGcXFtd1R5a0ZTdm1pSzAtckVOQzRvT25XUVBjOHRicm1SMDYxWTlUSi1PYlhacWQ2VjZYWjY4LXh3VDVPMS1NeGE3SXFTREdpSW5TYVdYNDJ3dnExbzRXMkxWckFWU1BhZHJRMTdMUVktb3hYNnI4Vk9jVU1WQUxIU1E?oc=5",
           "publishedAt": "2026-10-05T12:56:38.000Z"
-        },
-        {
-          "title": "Picayune country artist Jared Daws releases new single ahead of LeAnn Rimes performance - Darkhorse Press",
-          "source": "Darkhorse Press",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb0M5RnplcGRzSm1kSW1GYXRFZlNvUHV2cExjZTNFaTlmZkFia1FkdVo5bGttUFRjb1FKY1FTUVhESjV4X2U5QXRFRlZSM1BOT3RCZl9nYlFsaERyZWd0aWRGY0RrR3FvWUJvcTNlOWtDVHVEbGRsLU5mTHI3c1BrNzdvaFdfWnZzQXZxb0JlVWlGN3lMVHlfZVhLdnJjbzlTVmh6czFTZGpuNE1TTENLZm5HNmJ5UWMtbHR2SmNNV0RmS0JhN1hxNW85MnljWkU?oc=5",
-          "publishedAt": "2026-10-09T12:54:47.000Z"
         }
       ]
     }
