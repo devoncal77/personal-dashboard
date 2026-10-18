@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T13:44:27.781Z",
+  "generatedAt": "2026-10-18T14:02:07.976Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Perspective: Midterm money madness",
+          "title": "Pope Leo says he will gradually resume duties after cancer surgery",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
-          "publishedAt": "2026-10-17T12:00:00.000Z"
+          "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+          "publishedAt": "2026-10-18T12:55:01.000Z"
         },
         {
-          "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+          "title": "If you have the scratch, they have the scares",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
-          "publishedAt": "2026-10-17T11:43:14.000Z"
+          "url": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+          "publishedAt": "2026-10-18T12:00:00.000Z"
         },
         {
-          "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+          "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
-          "publishedAt": "2026-10-17T11:00:00.000Z"
+          "url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
+          "publishedAt": "2026-10-18T09:00:00.000Z"
         },
         {
-          "title": "No Kings turns its focus to voting this weekend. Here&apos;s what we know",
+          "title": "Major fire breaks out in Alberta after deadly incident at military base",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
-          "publishedAt": "2026-10-17T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+          "publishedAt": "2026-10-18T07:56:08.000Z"
         },
         {
-          "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+          "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
-          "publishedAt": "2026-10-17T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
+          "publishedAt": "2026-10-17T22:45:25.000Z"
         }
       ]
     },
@@ -91,10 +91,16 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "The US Army is growing its space forces. They're already in combat. - Business Insider",
-          "source": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzY1RC1vWmRoRXhJcEhfUkx3ajhwXzRjemxYSkczOFV2ZzBydlJHbndJZldzcVd4YkFNdHVxU0xka3U4eXBZWnpnZmJ4YXAydGFLblJlQmQ1TnpoblEzaUNDb1VMSkUtSXBBdTBNY0xUMERvcTJvcWd4RXNfX2duN2l6bHF1QWItMldiTkZCY3dXcGo0c1lIT2JhTQ?oc=5",
-          "publishedAt": "2026-10-17T11:07:00.000Z"
+          "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
+          "publishedAt": "2026-10-17T20:30:44.000Z"
+        },
+        {
+          "title": "What is the US Army doing in Panama? A bit of everything. - Military Times",
+          "source": "Military Times",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXBNdE1lVGRPWFVTUkhUOGJHXzVMaGZzbjVMdmsybkhMODJReHVwNm44QTdsc1k1dXNtRG9lWXVJNUwtZTlzM1hfa2pNZzlYZkUzWGtUM21rOUtBaUxxZW1rQXI3RXhEMDBSOGEtOWJJalJPaXl4NFRwS2xDQ3VacjU2UmcxUzBqZFpON1pwUWpHamdtd2xqMGlrcVJrcTAtSVhKZ29XaEFYNTN4bFc0eE1XQkJuejg?oc=5",
+          "publishedAt": "2026-10-16T10:00:00.000Z"
         },
         {
           "title": "WATCH: Hegseth discusses drone warfare at U.S. Army conference - PBS",
@@ -103,22 +109,16 @@
           "publishedAt": "2026-10-14T16:56:04.000Z"
         },
         {
-          "title": "US Army’s 8th Psychological Operations Group inactivated - Military Times",
-          "source": "Military Times",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWXlKZFo4ZTR4cnNlcFFjdjFtaGFFUUpYb2o3RmJ4T19kRFlYcF9DaE1KR0NBMWkxNFVzZXF1X01MWW5ZSXd0Y1Z1aEFBS0VqR28tdUxPcWkyZms0RGFkZnMxQlZCUGlJN0s1Q2plaTB3WGJOMHJhaGZmZW9YeWU3cGI0cTUxa00zV0dwN3ktZHlkdml6TVB1Mmo2WHVUV0FvdUhOWDJPRXZQTjlRLUZ5ek9HQURNcDQ?oc=5",
-          "publishedAt": "2026-10-16T18:30:00.000Z"
+          "title": "America's next war could reach US soil, top Army general warns - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWk1EOC1aZHYyZGswNjZxaUxoQUdsY3o4elBOTXBnbXNRbWc2SFA4czBjVFVVYzRUX29pNVpDOUZMY291bXNnZUFTdXhVc1ZCU1IySmdoZDd0bnM2UnQyYzlTMzFKWGt6Zkd6Q2x2eTNLSmtLcEZYRnA0V0tTSy0wRTc4eWxrT3B4alZLRWlDNWZzQUxKYmdVZtIBngFBVV95cUxPeGs3alYxWEJLR0VyLUFKVjB1OV9GUFl2S1MxdjNfb1VDS0ZGekdxdEVuUkJBTjktNGxHS0Y5NmFycDJTdjUzSVgxSmw1VmNCXzNCa1haeE0xX052VXpKM3lWdVBSQUFZcUFKblpUUUh6eWthdHlPby1ROURjczE3RU9CMXVhcGhaR1BnNzg1RldaZ0ZvMUhDOWk1WFR3UQ?oc=5",
+          "publishedAt": "2026-10-15T16:59:51.000Z"
         },
         {
-          "title": "US Army troops training in Latin American jungles to combat cartels - NewsNation",
-          "source": "NewsNation",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazNzNFFiNjQyLXVlR2pPM21lTFVMTlVaQVFtNUphYzVRNGNwcnBLTjBBS2xHQ2dNSFhVbV9pcldRQW5pZUp5WFFOblVoQ21JVVdmbTlCR0gxQnR5eDJiX1NEVENOYjlvUTVIMHBocDRzd1VGZTQza19IbmxDdnVCMHdoYlcxVkEtS0lpVFhFLVAwb0JMV1ktSThic3k4VFhqcVRjWEgzUVZ1TjVO0gGyAUFVX3lxTE80YU1Oa1BZcER4WkFvSVEySUNWOVNaQzZkdkUzZWo4X2Q0enc3QkJBTzY5Q3VXbHJjWUZ1OFNiVFI1ak1WU0dZamxKRnJtZUx0dDgtRGJEVHZnX3N2cGdYUDhzVV9UWjRLSjMzZi1YU1pPQVBDMGxUaDVHSnFKVDNyRURCTFktNS1kSGJGV3BEMm10RXU4MWdTbzFmaUdfd3VKSC1sM3hyM29GRHJFOV9FTGc?oc=5",
-          "publishedAt": "2026-10-16T01:58:51.000Z"
-        },
-        {
-          "title": "Hegseth ramps up US troops in Panama as Pentagon expands war on drug cartels - The Hill",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWNXR01fdUxTUW1TR0xhRmRsc2htVGZyLUMzZm41SFd3YUNqYUdSUVJXYTRsR0o3ekhkVURKMzBCcFNodHBoTWdpRUpzQU85bkVtOHc1eC1zZjVaMUhiV0NTZ3hqdXR3RjRwUjBLZWdpbklKNl85eUFGdzNPZ2ZrQUgwR1lYeWNoV0lvYdIBkgFBVV95cUxPcDR0cG9CakRzU2p2d0Fza3dtU1RweXJqTzZxYVhROFJVWTBRWWZqOE1Id0ZybHVlZlpNZXc3Q01ENVVfTE5GZ0NWRE8wUWFJUkZUZzRqaldIaVFla0dLTEYzYnJ3dlB2bnFFMDhVSkxaTDlrLXp4WXZadzI2R1d5Y1d3ZktKQzZSM2VtUVJNTGd2Zw?oc=5",
-          "publishedAt": "2026-10-16T10:00:00.000Z"
+          "title": "Recap: Autonomy dominates the US Army’s 2026 conference in Washington - Defense News",
+          "source": "Defense News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNanR3X2FfZHJqQUV1NVJ6WkdHS3BYOVNlVXplRHRvTG9xbk1FUmptanRjMGVIUkZmZ1F2amFCLXRXYl9aUS1xMkY4emVPeUdfeTJyWU8zazV3c1RyUlNFQzNlN2stdElRQllKWk9YRzRzcTFRU2tCQnpCQmhFXzYtT2ZGam5zLUV6QjlDWFJ6dmJPNjQ4UlNuSkVHdExRQ212WVJkTGJqVzJhcTk3Y0VJRVNSSlprOG9ZZ0E?oc=5",
+          "publishedAt": "2026-10-16T12:17:46.000Z"
         }
       ]
     },
@@ -129,10 +129,22 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "West Point track and field athlete goes to court with NCAA for fifth year of eligibility - Times Union",
-          "source": "Times Union",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtaNVZTeERLRm45MUl3N3RjT3VvYUFHdjVQMVJPWDRLLUp6RUF5bkJUNGFzMnl3NXJFXzd3X0N1YkIwUVdXc2N2SFV2eDBndWtDVms3VmZCeVdYTXlJaEZXRUpfaWMtSFpabWdVdFpBMnAwZ1JLNGh3eEdwTFhKY0dLdGRCajduTzBxekw2U0ZaMDJuUGRPcTJxZGwyekVN?oc=5",
-          "publishedAt": "2026-10-14T10:05:59.000Z"
+          "title": "Hellums runs for five touchdowns as Army rolls over FAU - Sun Sentinel",
+          "source": "Sun Sentinel",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSDlYSDFWamV1TmdmVTl6ZDFsRnlITWdBd1N4WGtydlM4RWFobV9NOEdQSTVfdi1IejhrMERkaXdHWEs5NC1VNHF3QllFQVcyUWxXZjAxZTNjODdDek4wZ2s2eW5LV3FjOVNjT29hODR1UzVLODdzamdqMHEtSlA4ekNNb2V3SmtYR2trMUVSU0Vxb0kxNWN6eG14MTRtamxu?oc=5",
+          "publishedAt": "2026-10-17T22:56:26.000Z"
+        },
+        {
+          "title": "Know about the academic program of the U.S. Military Academy at West Point - Britannica",
+          "source": "Britannica",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
+          "publishedAt": "2026-10-10T05:00:00.000Z"
+        },
+        {
+          "title": "Military Microreactors and the Law of Targeting - Lieber Institute West Point",
+          "source": "Lieber Institute West Point",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTVXhhb2x6S3pMYVJyV3RyV2NuMFZXOUY1LXpkbGl6V2dzWDVfWHFzNk5idThHdE9KRGEtZ29FbEplRFEtTUtnTVZ5QUlwaHllbXQ2bUtmQnEyQkdiMVljUHQ0RGZoMWtrakQ3YVJjekJuNDdQ?oc=5",
+          "publishedAt": "2026-10-15T16:08:16.000Z"
         },
         {
           "title": "Austin Peay’s Dr. John W. Steinberg named visiting professor at West Point - Clarksville Now",
@@ -141,22 +153,10 @@
           "publishedAt": "2026-10-15T18:25:00.000Z"
         },
         {
-          "title": "West Point’s only climate scientist fired after insisting on human causes of climate change - The Guardian",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWl9PaXBuYW1NcHN5R2N6NXdPUzJ2X2RXY2FMZENvN2UwLWlkOHlHdkpUdGlmdEo5M0tqWlU4ckRjd0J5ZTdXbW9XS2ZkampSQzBCdDlLRk93aUlQVGRRZWV2aHdCRjZaVEFEcFZ0VUw3YTN1ZGNwSUlweUJrdHlXRTViS21TRU5jdXc?oc=5",
-          "publishedAt": "2026-08-27T07:00:00.000Z"
-        },
-        {
-          "title": "West Point professor fired after pushing back on limitations to teaching climate change, lawsuit says - Stars and Stripes",
-          "source": "Stars and Stripes",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFpZVjJzTUhuaFdHVmN4cXlhRGE3NVFISURLeXFHQmFnTTIxOVdhR2RUeElmMU01bFU2TUpZeU1LWm44RVo1QlF3NHlsYk82akdVb0d0a2NLU1lzempFZktNTnU5dDEyNVNUaG1pcUVpNnVkUmNfbVBRdW54ZGg3SmtaZmZ0VzVTV3BBT1l3d0dBaWRqbEtNNzBKZHlpMEw3V2JNekprWk5xRUFTbWpBSmhn?oc=5",
-          "publishedAt": "2026-08-26T07:00:00.000Z"
-        },
-        {
-          "title": "West Point Climate Professor Says He Was Fired for Refusing to ‘Defy Science’ - The New York Times",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFVsZTVOTU1oTXpSUGMtbkxaUjRFbWhSZlQ5R1dXbjRwWlNpX3RfVkRrS01aRVhsQm91c280QXhQOVhuVG0tU25rTFhvY3N1S19DeWdURDg2a0NlYk03cF9SeGQ4QUJjOEllVzFtU29ySXBSbXRxYkFYMy1oaF9TYmdOWEZUTGxicW5NWUR5Rm5wZw?oc=5",
-          "publishedAt": "2026-08-26T07:00:00.000Z"
+          "title": "West Point track and field athlete goes to court with NCAA for fifth year of eligibility - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN0lRTGRvS1JhbVE0aDJPaXBlTGN5OWhDajRjUmZSOVpaRTdHSHlrcHVBaUs4em1EelB6MjdORXZBTzNiZWdid0hFU0NySkp3MjIwNGxjZ3piWEZ5bFpqNXk4Sjg4akRaNWNGbHNmMWtWNEJKLUs2S2liQTl6UWd5WTctbllldw?oc=5",
+          "publishedAt": "2026-10-14T11:00:00.000Z"
         }
       ]
     },
@@ -166,6 +166,12 @@
       "kicker": "Black Knights",
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "Florida Atlantic Owls vs. Army West Point Black Knights Live Score and Stats - October 17, 2026 Gametracker - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0dGTlRwNEQyZjNUSzdvTGJabHl3eVppUjYyRlVSMFBPeUpDbGxDNjNubmJpSko4b3RaT0ttTlU4U0JBUWw2VE82dU1XUkpsT1BFR1FicUhmQm9KRGlCSjRaRkRvUVo1WXJMazNoMXViZGoxM0FkaXQ3UWN4eGRFVVF2cGVpX2lrejlTSg?oc=5",
+          "publishedAt": "2026-10-18T00:39:17.000Z"
+        },
         {
           "title": "Army Hockey earns 16th consecutive victory over RMC at Tate Rink - United States Military Academy West Point",
           "source": "United States Military Academy West Point",
@@ -185,12 +191,6 @@
           "publishedAt": "2026-08-17T07:00:00.000Z"
         },
         {
-          "title": "Army Golf Claims Commander-In-Chief's Cup at Oakmont - United States Military Academy West Point",
-          "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQVhVbElsOGNyenlacEdZaEl4d216dE4yYzNUSHBBVWRoUDFER2JFX284eTk5QTlZQk1iWFU0ZHNWdEctRndaMzF6X2FoZHR3aVByWDZPbTFYRVo0cEhTanZBZVJwZHFPeGVFSDFCQlhBLVVfWkx4allNS3hFalpxXzNoWUxOR3NTdU9kSFVKTHpBNHNTeVNJdDVxaDdJdkt6TW5taWJIWkJJb2tCMVE?oc=5",
-          "publishedAt": "2026-10-15T21:17:52.000Z"
-        },
-        {
           "title": "Army football seeks bounce back in return to home action vs. Tulane - Times Herald-Record",
           "source": "Times Herald-Record",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUk3QUhQVWdnMkk2a1NqeTk2NmJiaVNDemh0bFNvMnBRT3NIN0NMY2MwNU9Sa2llNlZfNnhHNmdjbFd2RUJVbU16QUV1TXFoOUNlNXBfc011b3kxQmtEdU02b21rMnlQTTJMM0pYUjFKT2V0VUVkQW5LWU16UDA4VXprYWFteUFaVkk0MWFLRFIwRmVWeEpVdmxLZDdOX0t4dFJkWmFGNlFXVmxtWmRHdmd0Rk5RYlR3eklYaXlYdlE5Rzg?oc=5",
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Steelers coach is already on the hot seat (and the writing is on the wall) - Still Curtain",
-          "source": "Still Curtain",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVzBaTWtQbnV5MlN3cloxdWhnTHlKbWFlckRDY0lNU3ZfWFFWVEMtRngtNHdTcDBNbmRudlRPZ1d6TmJockNkWlY4WGxXS1dyMEpiWVZETnlkZGQwelhtR0d5ME5hLWVTbjE4WVdZYVhLZE5CV2hidHhoOHZId0JibGhydXE2NlJGNUI1RXdndmlfWmsyTFB2T2Y4cTZodXpZckdUS1hBQlFndWFNaU1CaGYweF9sOWRFbFl4OHBn?oc=5",
-          "publishedAt": "2026-10-16T10:00:00.000Z"
+          "title": "Ex-Steelers WR Gets Cut as Pittsburgh’s Need at Wideout Grows - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51c0RUUGhSSmNGYW5XQU0yN0xGcUZRM1R5WnZjUWV0Q0hfU3cxTGp4LURBSmFDRFFVdUZjV0lNb2FxUjBCTUtXWk5tU3Nzd0d0QTg3cUFLc0ctU2picG92S01obDdZaDVQTDdXNmhCcHpRX3BhWU5MRDJqXy0?oc=5",
+          "publishedAt": "2026-10-18T12:25:51.000Z"
         },
         {
-          "title": "Steelers Detail Important Truth About Danny Smith's Departure - Steeler Nation",
-          "source": "Steeler Nation",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUFORy1oVzZMUkxIUzZONmxhUlN2M2V4RVRLRS1kajRhT2ZXTi1mWU5SWGNHZk8temp4eDNFZ0QwOGpxTTkzNWlmSkJtTDdXc0ItM2psaDV5VHVZaUlqeVNBQlkwdVRNRzdVZUtRaDFtdFc5YUo5UEhPbFpoZ0NOMmZ0eGdJLU5u?oc=5",
-          "publishedAt": "2026-10-16T22:34:06.000Z"
+          "title": "How to watch today's Pittsburgh Steelers vs. Tampa Bay Buccaneers game in Week 6 of the NFL schedule - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY0tTbENNLXV1VWVIVTlQbnRWa09oa0gyVmxHaUZwejlSaURIRnMzS0FmczNwLUdiLW9DcUpyWVlTazlGLWtIWXRkME9kLXdCU3ZvVTZuUGV2YTBSaWFYbzZmNGRhUjJnNVd3V1h5WDExNW9qVnJ6QUhMRzRXTllJS1Y5U2VPdVBxR196SUhpdzVLNUdhWFdVM3dlbWpJTXM1UVNFV0FXdzc1TzZpcW1mT1FGTkVZYTl3SW9rMA?oc=5",
+          "publishedAt": "2026-10-18T11:00:12.000Z"
         },
         {
-          "title": "The Pittsburgh Steelers’ ‘diva whisperer’ secretly earned a doctorate while coaching NFL stars - The New York Times",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYk5McXJXdWRCN3ZTQlhqX1pXUGpUZnUydzBFZ1ZmbXcxcTBvcWpTOXhYWmg4ZmUxVVAzTk1rT2NRT0VPQVpKYUhGWTl2eEI0ajI0UnozNC1INjhjZEV4V0V2M3piOTNXY0pWT0FNVVBqb2M0YnR1MVhhaHZIanl0SlJuNkFzUDBySFJGeTRFR2VQUTZPV0NBLWRfZkw3ZW8y?oc=5",
-          "publishedAt": "2026-10-16T12:19:23.000Z"
+          "title": "How to Watch Steelers vs. Buccaneers: TV Channel, Live Stream, Time - FOX Sports",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0JUU1pDNWx5MEl2WGMtQ3BmQUZia2Rucnh0ZDJFUHFiSFZzNjgwUUp1LUVOTE1YVTh0Tk10QjhqYjZXMldqSGVXbF9Pb05RS3RVR29NU1NIRVpDaW9EMlMwUm1FczhsaWVvS21DamNLN1dTM19qbUdYeXNWaUQ4SzNjX3k2Q3o1RFpXRWlxem5jRkcxQzJQTWxia0VDUG9ZZnRuUHFUdEVqY2dYOHFWMGNxNA?oc=5",
+          "publishedAt": "2026-10-18T12:34:52.000Z"
         },
         {
-          "title": "Pop quizzes from Aaron Rodgers?! How Steelers QB preps his pass catchers - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZkdsZV81T1hHZzF4ODlCQzhjZWRWa3B0X2dkYXM5OFYyOEt2cHVZSHBMcHZ1WlBhTGRFQklJQ3FhMndWa3EtdnpIS1FTNkxJMnhoMDUxRFlMTlg5d05GZ25jcGZUUEFXTlpkRmNVUjVyWVUtQzVUcTdrWkRHRkFMdXVkWG52cEhvZVNDS3hscXk0Zlp4dWc?oc=5",
-          "publishedAt": "2026-10-16T10:00:00.000Z"
+          "title": "Pittsburgh Steelers vs. Tampa Bay Buccaneers: How to watch, start time, where to stream and more - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORVhuZE1lbGhwc2xqMks5ZnppM1lrWjlJVUppOElIS3Z6UDlyUjFXV0FwMFZpdXdFZkJ2UGhncHpTWUc5eElLeFNGd2FsRV9lS1FhN0RJNTFNY2VTRnAxNU5TZUdCYTF5MmZGZmZGSXBmMkJWS3k1Z0tRNVAzTldNV1pIYzAzSWp4Q1cxTmxyMW5nUjhMSUhabTNNc3RVRjMteTJNZzlHSHN3RXJiZHlYMWFEazNDcGxyNVZyand1YXdocEt4ZHlyUm1kaU50bWk0S3J5QzQ4ZVpndUIt?oc=5",
+          "publishedAt": "2026-10-18T11:35:00.000Z"
         },
         {
-          "title": "Week 6 Injury Report (Buccaneers) - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSVgwTElyY1VZNG5PamZOTWJpR0FaVk53c2tfNnJJS1dvcjN6Y05JeVJ3eTI4OE5wQkxjX0FBc1hTQVdXVW9pRnc4QUNydnA4bEpXaWZ1RlZGRFJOaVdwN0NVSUdJMXVRMjJLMU1xZm9oWloxU3c?oc=5",
-          "publishedAt": "2026-10-16T20:02:55.000Z"
+          "title": "Steelers Get Good News on Pat Freiermuth for Bucs Game - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUVNhbzZCOWJMdExXN2ltb1djMElVZG9OVzMwcFBTWXV3VWJMWnFxM0ZwQmExZTdxTW04NFpYNTRsUUNfUVdaU3ZHcmxRUXFKY3RwZ3RUOC16NnZNT3prZTVlcFlLbVNJZUFQSG9IY09QTE9ERnRtUk9uZ2pEMTdob2J0RkxvU3dwZmJURF81c3ZmMEEybEE?oc=5",
+          "publishedAt": "2026-10-18T12:01:54.000Z"
         }
       ]
     },
@@ -242,24 +242,6 @@
       "kicker": "Music",
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
-        {
-          "title": "October 16, 2026 Is a HUGE Release Day. Here’s Your Guide - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMU01ZEJBTjNudjc3TW90V0lWekw2ZDN1T3JlLTkxWFVyYWs1ckFnSUowdm1aYWtVWnVSOVlLTU9VVVA2bnUyZ2tqb0F0YnVSN240YmgyaExxdHFycWdpUUprZmVZNV92X0xteVlDM0oydHJSMC1wdmFsNDNCN0JXWkhsY1ZsZ2VSTTJJNno5MA?oc=5",
-          "publishedAt": "2026-10-15T19:37:24.000Z"
-        },
-        {
-          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
-          "source": "Holler Country",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
-          "publishedAt": "2026-10-12T08:16:00.000Z"
-        },
-        {
-          "title": "Homegrown country singer has a new album — and it’s all about SLO County - San Luis Obispo Tribune",
-          "source": "San Luis Obispo Tribune",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vV3Z4c0VGVUpNYTRRMUJkeWR6eEpDXzRtUHRQc1FVR0xlV3o5RUgwaTZfeG5UT3NYNGxBN3BTZjR4bWhSVTNILW5LWWVlYzRXT0JMM3FwWjRqM0pSMXBJREFEN0RTdGJxelhQandvONIBb0FVX3lxTE1oaFY3WnplU1I3anVWajZWbUVUa2x5WWFWTkNGTkRQRlRwSldMUlFid3JPYUk1YWlZOHdzaE82VWhnSjJzZmdwVHpnNlk1Nk1DU1duOFNtd0FHRTJLdE50d1B0QUlkX0QxUGNYOXN0aw?oc=5",
-          "publishedAt": "2026-10-14T19:34:58.000Z"
-        },
         {
           "title": "What’s Playing in Country - Madison's Country Q106",
           "source": "Madison's Country Q106",
@@ -271,6 +253,24 @@
           "source": "Fox News",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckZUUGlGdDM1aWFvS18yZTF6T1hwNVFxM1V6X1ozNGFXbW9GOUpQR2stMV9wZzhJVlF2bDNuaEZGcXFtd1R5a0ZTdm1pSzAtckVOQzRvT25XUVBjOHRicm1SMDYxWTlUSi1PYlhacWQ2VjZYWjY4LXh3VDVPMS1NeGE3SXFTREdpSW5TYVdYNDJ3dnExbzRXMkxWckFWU1BhZHJRMTdMUVktb3hYNnI4Vk9jVU1WQUxIU1E?oc=5",
           "publishedAt": "2026-10-05T07:00:00.000Z"
+        },
+        {
+          "title": "August 21st, 2026 is a Busy Day for New Albums. Here’s Your Guide - - Saving Country Music",
+          "source": "- Saving Country Music",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmtUNURvYmpOZk5uSTA3SlNPc3VTR0kwOTh0OGEwcDBUOUxXVGVqSnEwN2RFbVBvMWhhVmRoeWJqV1hxNEczUVRRRXJyYk1qenB6cEc2cWZXU3JIamlXZjA0LTE3ZmM5YWtkbUZBQWMzRFNaRFNodzFXRnJYZE5GLWg3eVZJQ1hxeWFyemJzV3NHM2xxWlV6aVdB?oc=5",
+          "publishedAt": "2026-08-20T07:00:00.000Z"
+        },
+        {
+          "title": "Three Big Country Headlines - Madison's Country Q106",
+          "source": "Madison's Country Q106",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhbXplMWoweXVNYm5kOW9ZbVEzUmtQaE0waFc5dHM1a3hzaWtpclUwZnZVbXdlaDZTNVRLSVRfSGNOU1F3VG0zWDVnNjEzOHNCdHRLZDdDTno0ejJ4Wi1qMG9tQmpNclVlVGFDNnh4VQ?oc=5",
+          "publishedAt": "2026-10-09T14:12:25.000Z"
+        },
+        {
+          "title": "Jelly Roll Surprise-Releases ‘Hands Up,’ His First Song Since Filing for Divorce from Bunnie Xo - Billboard",
+          "source": "Billboard",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbHpRbEJTY1BfTXQ2UXZRdnNjZENtNURfLW9rcVItalZDV0tGaXBLQVZWNVVNT3h4QTF3dF9XM0o4MnlXYkNubF9YeTFvWUcwc2xxT1RsckFKUVcxdzhKTGMtck9jOHlpamtVdjBYNmdTTFlNdzhxU3VhWjh4clBhWVY5UXlLRXVqM1M2UnVyZFE2Y0k5aUtsem5Oc3drTkRnNmhiaGJRRXVvQkE?oc=5",
+          "publishedAt": "2026-06-24T07:00:00.000Z"
         }
       ]
     }
