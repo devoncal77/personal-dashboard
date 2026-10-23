@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-22T15:18:04.555Z",
+  "generatedAt": "2026-10-23T15:06:08.817Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$763.57",
-      "change": "-9.52 (-1.23%)",
+      "price": "$762.38",
+      "change": "-1.59 (-0.21%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$526.25",
-      "change": "-1.45 (-0.27%)",
+      "price": "$522.46",
+      "change": "-5.43 (-1.03%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$708.37",
-      "change": "-16.83 (-2.32%)",
+      "price": "$707.65",
+      "change": "+3.18 (+0.45%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$344.60",
-      "change": "+0.61 (+0.18%)",
+      "price": "$347.84",
+      "change": "-0.38 (-0.11%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$526.37",
-      "change": "-6.58 (-1.23%)",
+      "price": "$525.18",
+      "change": "+4.10 (+0.79%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$383.87",
-      "change": "-2.60 (-0.67%)",
+      "price": "$374.87",
+      "change": "+0.29 (+0.08%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+          "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
-          "publishedAt": "2026-10-22T13:50:55.000Z"
+          "url": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+          "publishedAt": "2026-10-23T14:16:10.000Z"
         },
         {
-          "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+          "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-          "publishedAt": "2026-10-22T11:28:24.000Z"
+          "url": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+          "publishedAt": "2026-10-23T12:41:39.000Z"
         },
         {
-          "title": "5 simple ways to relieve the aches and pains of sitting at a desk all day",
+          "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/22/nx-s1-6010506/5-simple-ways-to-relieve-the-aches-and-pains-of-sitting-at-a-desk-all-day",
-          "publishedAt": "2026-10-22T09:01:00.000Z"
+          "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+          "publishedAt": "2026-10-23T11:22:25.000Z"
         },
         {
-          "title": "Trump merchandise stores are closing: &apos;He has peaked&apos;",
+          "title": "Why Meta is charging to post more hyperlinks",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-          "publishedAt": "2026-10-22T09:00:00.000Z"
+          "url": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
+          "publishedAt": "2026-10-23T11:00:00.000Z"
         },
         {
-          "title": "A GOP congressman voted to cut Medicaid. It covers 62% of his district. Can he win?",
+          "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/22/nx-s1-6002928/republican-congress-midterms-medicaid-cuts-david-valadao-california",
-          "publishedAt": "2026-10-22T09:00:00.000Z"
+          "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+          "publishedAt": "2026-10-23T09:40:32.000Z"
         }
       ]
     },
@@ -97,22 +97,22 @@
           "publishedAt": "2026-10-22T14:55:35.000Z"
         },
         {
-          "title": "Gov. Spanberger issues flag order in memory of Maj. Bianca C. Wilkerson - WAVY.com",
-          "source": "WAVY.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGFlRnE1V1Z6RkJGLUpzVnhmR0tsR1lDMzRqeVN5czRUY1RBVzZVZlp3X1lhNk5ENjBkMjN2Q25SMDcyZjZOUUxmTTZEN0I0NnF4TjdCTWo2bmtJdlUtcXJDSVZENzNwcXJXa2lfUE83ajFvTGF2S3lHNWhFdWNLOXlGQ0NFUlV3WE1maFROenYwS3dVM2lpZ2psVFM3Y1pNWTZxMWNnONIBrAFBVV95cUxPOU1qVnBHTTBnZE5RUTdwWTJGZHh3djZFSnA0WW5nWUVzQ3V5OWxqY21lRC1ZUDB6N3RzRGlMRTVFeHZIQi00QXM2TmVyU3VFVElnZkxBc2VjdW8xbU9YTmZXN0dXUzZ1X2RhTW96VG5SVW5Dd3owRld2UUxMQ1B6dHdwSTI4WVhQdWlCbDBTaVl6Z0xpZE5HZkJiMjlsWTdFZGt0Ni15THNTdjll?oc=5",
-          "publishedAt": "2026-10-22T02:09:03.000Z"
-        },
-        {
-          "title": "U.S. Army, Colombian senior military leaders converge at Fort Bragg for bi-annual exchange - U.S. Southern Command (.mil)",
-          "source": "U.S. Southern Command (.mil)",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDU5UDI1UFZXd0l4TVNmTVZPNEdhdWUwRjU1Z2hSTTlIY2lvMmpUaTJRU0FFQW5vQ2h2WnFib1lYdXRzSmZkLTdDLVJ1X2Q3dG9UUzEtTENpNnFMTlZWYXBFZWZkYmVhbGQ4cTlMTmlxQXBYQ2Iwc0o5NVRDdnJfajVNaW9iNXFvVmtxb1U5NEtONmYzT3hUNFFQU0lKbm0zekl1TGZqbHk3SjVGYi15cWYzQ09xSjJtMmpRMTNRZWFZaHVNVm9kMDdpcHE4alBMbXRyNEZjcw?oc=5",
-          "publishedAt": "2026-10-21T15:30:58.000Z"
+          "title": "Hegseth bans DoD personnel from using nonpublic info to bet on U.S. military operations - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpb0hRRm8wR0pmcFdoS3VXUUtjc2hDUTltNm1oM3NjTEJRZ0JxNHJ6TzVMX0RwdFM3R3VXWEl1Y2plZjJ1Rk9SdkIyTndoTVdBN21KR2pCMFhWcDB2c2xoUE54eDBKbGJXazdLRWdSNnVmSVN2WXV3dQ?oc=5",
+          "publishedAt": "2026-10-22T19:21:00.000Z"
         },
         {
           "title": "US Army competition explores military uses for humanoid robots - Defense News",
           "source": "Defense News",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVElIZF9CWk95YUR6U1VLdGUtS1RiSnd6Rm5PeUpRREhGNWJZMFQyMjI4Z05EamctZlpOQThudWt4LWlIcUEydGJheEpYWmhYWnp5dTFqZlpTUmVZd0NkMmI2QXl5R1YzQ2IyQjF3aGFPdFUtUDZjUUlXTVkyOHFCNW5FNzFXTTNBUER1Zm82OUpBZUhjSllJQmhNak1kN2FpN0pUbVIwWmRIQlFXTlJmVTFVMDdaaENseHZlb0N3?oc=5",
           "publishedAt": "2026-10-19T16:00:00.000Z"
+        },
+        {
+          "title": "The Future of Military Tech: Army Links With College Professor to Test High-Grade Materials - Military.com",
+          "source": "Military.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRnBoSmxKMm5SNVc1a2NBdHZYNHpqWG8wR3ZTcU1PRXQzYnJhYkJKNmRVclh2TFZ4WEYtNC1mcmlld2VJcTkzUHJuc0plS3dzcTdnUG5uaXNoQ2lWemppel9OazVkX212OUVleE9kWl81WWszVTJoal9sczdjN0N1NC1QdjdLdmc3OXRqdnVlX05VakxFR3VrSjBPb2NyUERxTFNvMjNlUTlWZmV5RlZMYm8xemtpRUlFc1RKeFNR?oc=5",
+          "publishedAt": "2026-10-22T16:24:19.000Z"
         },
         {
           "title": "Timing to roll out US Army’s NGC2 depends on funds, commander says - Army Times",
@@ -129,10 +129,10 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Podcast: The Spear – Foreign Area Officer in Iraq and Southeast Asia - Modern War Institute -",
-          "source": "Modern War Institute -",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFlQbXItN1FLU0cxT19NRzE3aXlLa2Z3VWJYNVNHd1dXMTlHSnlrdjZyNk1ERnZqU2c3M1VCTWthQ004ZF9vSUVXY3JReFlZYkhuTXQxdjFrU0tBamFNSkc4RVpMRlNUYzVycTNMV2p0X3JySHFrSURuY0NFYlh6S3Y3MERyNkdDMFVISldfaGFHODRzbmpV?oc=5",
-          "publishedAt": "2026-10-22T09:33:33.000Z"
+          "title": "West Point named New York's top liberal arts college in latest U.S. News rankings - Democrat and Chronicle",
+          "source": "Democrat and Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbXVraVdmbnM0VTdINE92RjZwR2xGVWdVdlc3R25TcjNqZ0J0R0hfSVJCU0FOUTVUS1QtbHNLX29PVUxsVVVpUUE1TUxGdlFHRzVkOF9wR29QcWpUdHFKT2drVmRUYXFZeURudXhDVHItVnZzOWMtQzFrX2JGTjlsejZkdGpBLUE2cGFsLXRubEltOTIwMDd3VS1rczdpTi1KQVlseW1LNUt2SnozS3h5QVAtaHl6LXFfR0pGRFR2N19qdWhyQl9XcnhRdVlJdw?oc=5",
+          "publishedAt": "2026-10-23T09:19:00.000Z"
         },
         {
           "title": "Know about the academic program of the U.S. Military Academy at West Point - Britannica",
@@ -147,16 +147,16 @@
           "publishedAt": "2026-10-21T06:30:00.000Z"
         },
         {
+          "title": "Army Identifies Soldier Death Off Post - October 2026 - United States Military Academy West Point",
+          "source": "United States Military Academy West Point",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdmJVb0huWHFHT3N3MTZURUtBazNGYjR0emJKUWg5NVNkVHJoZ0hSTU83WnVkdXFQWXczUlhaNW1qZHJYTDBJSTlLMGxXQXRJQnVmNFJ5cGJPSzhTN1JYTFFtX0N1YUZJRXRGd1h4c1ZjYUFmemVLaUladElRV0ItUWhNUkFITmtmMjVJdFNmQktIcFBCUmw1ekMyck01Zw?oc=5",
+          "publishedAt": "2026-10-01T20:24:35.000Z"
+        },
+        {
           "title": "NIRA Divisional Championships return to US Military Academy at West Point for 2026 - USA Rugby",
           "source": "USA Rugby",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXY2WjB4S0liTEJfTXZVdi04dlF6TGVNdWl0dk5ReWFHdEFqVThQMG9xTHpaejJTNVg4T3AtN0pFTDVMTHp2R1E2bC1UM0RDQm5SZHh4Q3JHLUJVSlM0LU90dUo0cldrcEQ2bl9WZTFYd01Bd3dCWVBlWlhKMExWT2tTR0xZZ0ZidmI4aDhnd2pYQktKbHlhQzdXRW9DTTF6UGdpVHQySFkwR3FVVGtiR1V3RQ?oc=5",
-          "publishedAt": "2026-10-09T18:10:10.000Z"
-        },
-        {
-          "title": "Military academies won’t give tenure to civilian faculty, Hegseth says - AP News",
-          "source": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzU5RFB6VEpVX2VfUDRIQnprZ3M3aVRudU9NbXVYVDZhVVUtT2MwbEgzLXMxZ0pqVGVGMERyemRkVHpIdW1rYkhSNkdGdi1YWS0xQ2RYOUx1QlEwc0h3NFhCeE1nWHA1Rk1FTDV5TnlXamV6eDZaRVVsZGVpQlk1cW4wVURkcnUwc01rN1pGUXhkSGdmMVhxd2tOYkM0cTZZTEdNRQ?oc=5",
-          "publishedAt": "2026-09-29T07:00:00.000Z"
+          "publishedAt": "2026-10-09T07:00:00.000Z"
         }
       ]
     },
@@ -173,10 +173,10 @@
           "publishedAt": "2026-10-21T13:00:00.000Z"
         },
         {
-          "title": "Florida Atlantic Owls vs. Army West Point Black Knights Live Score and Stats - October 17, 2026 Gametracker - CBS Sports",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0dGTlRwNEQyZjNUSzdvTGJabHl3eVppUjYyRlVSMFBPeUpDbGxDNjNubmJpSko4b3RaT0ttTlU4U0JBUWw2VE82dU1XUkpsT1BFR1FicUhmQm9KRGlCSjRaRkRvUVo1WXJMazNoMXViZGoxM0FkaXQ3UWN4eGRFVVF2cGVpX2lrejlTSg?oc=5",
-          "publishedAt": "2026-10-17T07:00:00.000Z"
+          "title": "West Point track and field athlete goes to court with NCAA for fifth year of eligibility - Times Union",
+          "source": "Times Union",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtaNVZTeERLRm45MUl3N3RjT3VvYUFHdjVQMVJPWDRLLUp6RUF5bkJUNGFzMnl3NXJFXzd3X0N1YkIwUVdXc2N2SFV2eDBndWtDVms3VmZCeVdYTXlJaEZXRUpfaWMtSFpabWdVdFpBMnAwZ1JLNGh3eEdwTFhKY0dLdGRCajduTzBxekw2U0ZaMDJuUGRPcTJxZGwyekVN?oc=5",
+          "publishedAt": "2026-10-14T07:00:00.000Z"
         },
         {
           "title": "Army Hockey earns 16th consecutive victory over RMC at Tate Rink - United States Military Academy West Point",
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Goodell comfortable with security for NFL's Paris game - ESPN",
+          "title": "Steelers fan event in Paris canceled following recent civil unrest in capital - ESPN",
           "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2VVRW1xU2puWGFxSFJSU05maXB1RTVzbnA3eWFyYTg3Q3ItSlpTaE1vU1ZxS1VlSjdpMmFFem83VkRxY0FybVhmdVNNeWZZM29aanluNTRxbzFiQVdZNFNqMGcxWjh0U1lxenZfSEhtMXI4Wi1Hc3BVXzJQU19IOWxsaWtlMGlfemtIQ1BUUTNGdw?oc=5",
-          "publishedAt": "2026-10-21T17:50:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcXU2Y2JtbTdMa1p1MUM1Z1JwUk1PakpUOVdlTWhhX3FuYkdIbVR5TTFaNnRIOWNxLUx5QmN6RmkybXhaWHRZWFRhdktrTVRsZ3daM2xEZi1ZUUtMa1JKSWhvejUxZW1pWVR6bGRVU0EwNFo4MjEtdDU2QUNnM2ZOeVVXMzR1eWpzSXVBN2h0a1RtZ3RSRHNuaThBa1A?oc=5",
+          "publishedAt": "2026-10-22T17:13:00.000Z"
         },
         {
-          "title": "Mike Tomlin explains why 'business was over' for Joey Porter Jr., Steelers after Week 1 - Dallas News",
-          "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVM2TUt2YU02ZWcxbEZ6X1NpbnU3NXFsWTZGa3NHSEJ0SV9mdFMwdHFBS3JuMHJaM2xJbmZqdWMwRF9aTWk2b3EwcHA5T1BOeHpEdmdZOGNEUjUtNkk1bDFfczBfQ0Iyd1lKMGM3MjgxNUFfU1N4bVM3Q0o2NEo4ZjAxTEJYWTRZVi01RHVQblZreG9iREtPQmZvVXQ4N2FzRUgwaW5BY0lVQkNIQ0VMS2JB?oc=5",
-          "publishedAt": "2026-10-22T01:43:56.000Z"
+          "title": "Steelers Set To Land Bargain Trade Deal With Former Patrick Graham Defender - Steeler Nation",
+          "source": "Steeler Nation",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUpfZ1BCRzdpZFJsR1pwOUo0TnZzbnJoVEVGRjdqMS05Vndha3ducHVCRjZ6ZHlveHJfZmlTUndkT1I2OU9HYzdtbzlhUDFGSU1lOFZwTk1MeU4yYmxZNmhjWEJ2R0x4SHFTMEdIYmJjQTdSQnJBUVc1Vk85Ml9CVG5FUDQ?oc=5",
+          "publishedAt": "2026-10-22T17:54:22.000Z"
         },
         {
-          "title": "Steelers make roster move - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wanF1WGpTSGdrZHlKS3RiYVVHei1QZ2VIb0R6LTh2cE00aDRFSV9XVThmLVA3Y3BnMGg0ZnZra2dNSkhUYlI5dHZuUFRUa2I1eEZhODZmRmtIdG53aXkzb3hEWHE2T3Y4R0FIaW93?oc=5",
-          "publishedAt": "2026-10-21T19:10:56.000Z"
+          "title": "Steelers’ Aaron Rodgers just said what he’s thinking about the shocking Jalen Hurts blood clot controversy - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUW93UFRLMGxnUUpfbzVtQVhVV041bGplS3hJYng4MmFqLVVDUUU2eFZqV2hIVXU0cnF3S3NyRUlTV2lMWjF4aTgxWDdYU2tkdFBtbE93THR5VW9MRUdXRlV0M3E1bkQyVDNyUW9FS0xJbXBfbkpsNFZ0QUtMYl9Hd0k0aEpQVmZfSGtUVFExU0tmMnRkZjZWZUZkSGtGc1BibUI3Y1o3U3c2M3hkOWtzMEtmMENSUWhDTWl4U2o1TTg5cU9MdzM5Um9NT1YwYk1pWDVhZUdwRjl4TllHTFBwRFVheHRfZw?oc=5",
+          "publishedAt": "2026-10-23T10:10:00.000Z"
         },
         {
-          "title": "Steelers officially release veteran safety - WKBN.com",
-          "source": "WKBN.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEpSSlRzaHM4X29GNzYzdHJhamJRSVZSOFlNeDdSbDZqaUw3SmhXNlVET0lOSGcxNkZSNU5kQ05EcXluY0NUdmJsc3ludjVvMWlFSm1nMTlHTXlfdlk5YWxQVE9SaDlkZFdTTVE4NkFwV2VDbzF2elRVdWQ2bmJYWHVLOEVFdTA0bnVBWGlJYUJidnRLUzZnTNIBngFBVV95cUxQcjZPemZ2NGhJVThPdHNYS2t5d0tRQm0xU3pHR3pXeTNvakFBSElEdzN6S3VNcFNaTFRZTFVvMmZqX3BkenByOVpKSlp4NlFkSWNoUlpLSEJpUXRCWXdyVWhGMUY0SFp5UHVSUXVHRHd1ek1ldHREZTVBLXVaMFFtQVRCS08yVno3UVdpR2pEZ3dJdkpwbWdEOHhHOWwyUQ?oc=5",
-          "publishedAt": "2026-10-21T20:11:51.000Z"
+          "title": "Former Browns HC Slams Steelers' Mike McCarthy, Aaron Rodgers - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZm5BcXp1TUJpeFdULVEzMThBbThZVzdaaXZKa2dWc1RoX08wU0theVB5TDZiVmVGVlk5RDVtb1FYYzB4aXZSMWpWb3pRNXVuZ2RIaWRtLW0wYnR1OGVVUE5WbzVmazdtYVZUM0JraU1xczFHNnFLa0NxUFVMS19Ra0p2MUs5eFJmandPeXJkcm83eHBsNlU0SVlHNnVyUDAzSmNXYTI4a1hQejZxUi1mY2pfUWx1X3JG?oc=5",
+          "publishedAt": "2026-10-22T13:13:35.000Z"
         },
         {
-          "title": "Saints Wednesday Injury Report: 2026 Week 7 vs. Pittsburgh Steelers - New Orleans Saints | NewOrleansSaints.com",
-          "source": "New Orleans Saints | NewOrleansSaints.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWJjQWZuNnFjWlFxYkRfd2ttM1lsU0VpWDlybTlkVUx3czVrNTlRckRON0U3UDY5U1RSdzF5ZnVDYzdfc2JQSHZWT3B4WlNVSndPSUxkSkFvc2pXd04xbU5CajhyaWhaQUhxcU5IZktFMGYtVDFUbFEtVVhnQlhuRVFfMkxLTzF5SE5wM2JCZksyVXNOX0p0a3U1UFBkNVpaQnJsa0ZULXpvbXZoZ0ZISWVhTUIzZWwtR3ZN?oc=5",
-          "publishedAt": "2026-10-21T21:40:40.000Z"
+          "title": "Pittsburgh Steelers keep finding ways to way despite below-par performances with Aaron Rodgers being the man to get them over the line - Sky Sports",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPN1gyNEZlWE10d241Si11SGp1bUxya1ZyM3VfbkdNU3NCOTQ0cDl5aWlva3Zqd2tJMG52RWZvMWh0QnhXN25RbXE2dVY1Ym1FRzZKZzdqd2FmcXo5NHlCUUg2OWFYUjRXZXFCNjBJVmozVFlreWl0T25pc2FJNTNzUEk4RVM3UTJ5NUVBX2R3OXZRcFJiZVBRN1BUYnhRUm8wX25wZEJ6YmxvbG1veFpUVGIxTDRtWFZ3ZlBvZ1hWZXF1NUQxeW1fdDZJM3pvV2VUMS0xeTBhcmxrWnlEbzBwQnNIcElTSFo3bnZQMDhHZGJaX3RZNDFGUlRSaE9kdkJEQWJoRVhiRjZDbWc?oc=5",
+          "publishedAt": "2026-10-23T13:00:44.000Z"
         }
       ]
     },
@@ -243,34 +243,34 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Ella Langley Keeps Rolling - Madison's Country Q106",
+          "source": "Madison's Country Q106",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fMVIwQ0NzOGoxZ0tLX0FfOHc0TnQ5R0szZ0FLajdwZm1FMUVHemJjR1VYdmx0dlRubTRpUUx1LXNyeHZwZnZBV1hLN3JTM2NPSGQwZGJ2TGkyYnR3MXJjQ2dyYUVIaUp3TGIw?oc=5",
+          "publishedAt": "2026-10-23T14:03:11.000Z"
+        },
+        {
           "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
           "source": "Holler Country",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
           "publishedAt": "2026-10-17T20:54:00.000Z"
         },
         {
-          "title": "Zach Top releases the tracks ‘Good Girls & Cowgirls’ and ‘Other Side Of Hurtin’’ - Big Country News |",
-          "source": "Big Country News |",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWVmYW5sYnBULUxkQnhQMl9DcE0yTUs5VnVvUTdKRWgtOUY5NmtkYnhDOEExMk1QMFp2U2hrc1BUcXdTQzZ6THI5amZtbnFqX0c1OFc5UGRoZGQwUDNuM0RLd2JGWThiU09QcnQ1X0hEUHNENkNIQVZNd2VnNzdnNV81aEJsRHlJTkpvLTJPT3dLaTFmQWI1cFVuTkxkS1hmMVRBbU42dGlBT05NckFycllRLUE2Zw?oc=5",
-          "publishedAt": "2026-10-19T12:37:36.000Z"
+          "title": "September 25th, 2026 is a Super Busy Release Day. Here’s Your Guide - - Saving Country Music",
+          "source": "- Saving Country Music",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2tNX0pFRDBZRnQ3QVNWSGZ5bVhoVXY1RTBsYW94MF9sQ2N2U0xSZHpYODJiaUZQVzd5NUZ5akdPZEpBRmc4REVIaEZJTHVQYmw5aUlkbDVDX0dYY1JmYXhjRDVBRG1KeWF0SXBabDYzd21FV096bVlvVUF5RTFDeUg4NS1XSXdkRVViSnRMRHhUNlZwUUJra2FfQmw?oc=5",
+          "publishedAt": "2026-09-24T07:00:00.000Z"
         },
         {
-          "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
-          "source": "Billboard",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUE3QVdmSzJFX2JTc3JDdmJNdFVQMEg5UU1ubXBMNmNRZVNMWjJ1OHY1SGo5eGRVajh4bk03cWlaU0Zlc1VNTTY4U1VOcV9rQmNxaE9pVExZX0ZGaWJKMEJtV01sZWVVcTU2Z2ZuUDFWT2ZUMU5fNF9TMVZDcHZGUVhEd0F2S01LdjU0bENISQ?oc=5",
-          "publishedAt": "2026-10-12T07:00:00.000Z"
+          "title": "Country music star Riley Green keeps momentum going with new single ahead of September album release - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3NwZTl5clRMNXZpT2xQcDlrd1BKY3REUS1xTmRBRE5YcDZJdVVfRUFnMUtEdnJHZm93aUxUZ0FMRXZ0aVFZNU4xZ2FoTG1mOFYyVnVSWk50UzBpSUpjcGpjUnhUaXE1ZXlUd1MzTXg2ZDExTVZlTnNpcEtZVklBWFMyQTBZd2NDMUZlOTlxTFV2UWdMSXMtQWk5WW5KdzNMRVh6ZndTRmNZU3cwN25Tc3FWamdySE1KYjFBN3FydU9QNkFD?oc=5",
+          "publishedAt": "2026-07-31T07:00:00.000Z"
         },
         {
           "title": "What’s Playing in Country - Madison's Country Q106",
           "source": "Madison's Country Q106",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DUjQ2WFFYTjllSzAtZTV2NHJfdnpJaXA2OThDUmg1SzEyR25MNl81cXAzbERiYzQtNXhrWl9OMGh1Tno3WDEzaXdrQjYtTEtxZHNYdDlWeWFtd3hnd0FmT0dHeWIyaHdB?oc=5",
           "publishedAt": "2026-10-16T17:46:17.000Z"
-        },
-        {
-          "title": "September 25th, 2026 is a Super Busy Release Day. Here’s Your Guide - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2tNX0pFRDBZRnQ3QVNWSGZ5bVhoVXY1RTBsYW94MF9sQ2N2U0xSZHpYODJiaUZQVzd5NUZ5akdPZEpBRmc4REVIaEZJTHVQYmw5aUlkbDVDX0dYY1JmYXhjRDVBRG1KeWF0SXBabDYzd21FV096bVlvVUF5RTFDeUg4NS1XSXdkRVViSnRMRHhUNlZwUUJra2FfQmw?oc=5",
-          "publishedAt": "2026-09-24T07:00:00.000Z"
         }
       ]
     }
