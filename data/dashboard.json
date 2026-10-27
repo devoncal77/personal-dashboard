@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-10-26T16:48:01.024Z",
+  "generatedAt": "2026-10-27T15:53:15.377Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$764.35",
-      "change": "+4.38 (+0.58%)",
+      "price": "$770.27",
+      "change": "+4.90 (+0.64%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$522.34",
-      "change": "+0.97 (+0.19%)",
+      "price": "$523.55",
+      "change": "+0.57 (+0.11%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$711.30",
-      "change": "+6.90 (+0.98%)",
+      "price": "$721.56",
+      "change": "+9.36 (+1.31%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$343.81",
-      "change": "-3.92 (-1.13%)",
+      "price": "$347.08",
+      "change": "+3.17 (+0.92%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$529.28",
-      "change": "+4.77 (+0.91%)",
+      "price": "$534.08",
+      "change": "+1.48 (+0.28%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$394.56",
-      "change": "+22.33 (+6.00%)",
+      "price": "$406.72",
+      "change": "+15.09 (+3.85%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "AI giant Anthropic files for an IPO that could break records",
+          "title": "Bolsonaro&apos;s Party accepts Brazil election defeat, but he refuses to concede",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
-          "publishedAt": "2026-10-26T14:16:23.000Z"
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+          "publishedAt": "2026-10-27T14:41:17.000Z"
         },
         {
-          "title": "Australian judge rejects prisoner&apos;s human rights challenge to Vegemite ban",
+          "title": "Discursive Verses: Jay-Z, the Super Bowl and playing with house money",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/26/g-s1-149923/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
-          "publishedAt": "2026-10-26T13:25:33.000Z"
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6019093/the-week-in-hip-hop-jay-z-super-bowl",
+          "publishedAt": "2026-10-27T14:15:21.000Z"
         },
         {
-          "title": "What to know about China&apos;s plenum as Xi seeks stronger party discipline",
+          "title": "A &apos;Green Army&apos; is out to thwart El Niño flooding",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline",
-          "publishedAt": "2026-10-26T13:20:38.000Z"
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6010370/el-nino-floods-nairobi-green-army",
+          "publishedAt": "2026-10-27T14:12:35.000Z"
         },
         {
-          "title": "Redistricting isn&apos;t playing out how the GOP hoped. And, Brazil&apos;s Lula wins 4th term",
+          "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
-          "publishedAt": "2026-10-26T11:11:00.000Z"
+          "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+          "publishedAt": "2026-10-27T11:39:52.000Z"
         },
         {
-          "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+          "title": "How Aldi is pushing down grocery prices",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
-          "publishedAt": "2026-10-26T09:22:36.000Z"
+          "url": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
+          "publishedAt": "2026-10-27T10:30:00.000Z"
         }
       ]
     },
@@ -94,7 +94,13 @@
           "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
-          "publishedAt": "2026-10-24T23:57:55.000Z"
+          "publishedAt": "2026-10-27T00:53:33.000Z"
+        },
+        {
+          "title": "Iran Says it Hits US Military Targets in Gulf, Prepares to Bury Slain Leader - EnergyNow.com",
+          "source": "EnergyNow.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUwzTWVzU19SZ3ViOWJoYzEwZkJ2bllUVHVwMnFMWUlSalcyRmRncFhCYktHXzhBbWlBZXRYaWhSOFFDdWNwa1NSVnhhMHBYWTdNM25rQjU3MWp1em1sUVJMSkR6MnhyQkFOTFczRFVMTkh0Zzc2SURLR0MyYkhtZ3hMNDU3UXRXUjhTRDFJNTRDUGlTU2FqNHNjUVdrR1ZTZndBaFVrSzRXQQ?oc=5",
+          "publishedAt": "2026-10-26T21:29:41.000Z"
         },
         {
           "title": "News - U.S. Army and NATO Partners Rehearse War Strategies - DVIDS",
@@ -103,16 +109,10 @@
           "publishedAt": "2026-10-25T23:08:00.000Z"
         },
         {
-          "title": "US Army long-range fires make a splash on the frontline with China - Military Times",
-          "source": "Military Times",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcElnWEpWdnlaaGxhM0dXdDdKbDNnamtpd2JadjJ6WkU1Wlp3eHhsVUJjekgtVERyaFlMNUhzbEEyUDM5M1I3OHZsN2dYeFd2el8tWUpBdHlFSEhOVTdEVFYwRHpCSElmclhxcldqVTVEYlVDQXFMa1gtaUVDM3VhMWU3U05Qckh5Vi1oTnM4U2lFQlBNSnYybkxnTVhUeEVUb21NNjBVOVJFcmFpRHJUSjlubDAxaUNrV0l5Zzg5QVVndi1uVmc?oc=5",
-          "publishedAt": "2026-10-22T14:55:35.000Z"
-        },
-        {
-          "title": "Iran Says it Hits US Military Targets in Gulf, Prepares to Bury Slain Leader - EnergyNow.com",
-          "source": "EnergyNow.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUwzTWVzU19SZ3ViOWJoYzEwZkJ2bllUVHVwMnFMWUlSalcyRmRncFhCYktHXzhBbWlBZXRYaWhSOFFDdWNwa1NSVnhhMHBYWTdNM25rQjU3MWp1em1sUVJMSkR6MnhyQkFOTFczRFVMTkh0Zzc2SURLR0MyYkhtZ3hMNDU3UXRXUjhTRDFJNTRDUGlTU2FqNHNjUVdrR1ZTZndBaFVrSzRXQQ?oc=5",
-          "publishedAt": "2026-10-25T08:05:12.000Z"
+          "title": "Retired Retired U.S. Army Col. Steve Bond of Melbourne Elected to Military Officers Association of America National Board of Directors - Space Coast Daily",
+          "source": "Space Coast Daily",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZGpPNVV3Z0hMRWI0WDFCVHY1cXFrYnNLRXdtV0FUUGJWQW9GR3h3ZkstVnZqN2xHYzZoRDM2bEZpbDNDS2UyYmY0OVhwbVA4c0dtUFN4YnA5bkR2UFpCZ29ERVl3V3dEVkIwZ3A2bm9zdU92clVSSTh1NzlBUEo2elJYTWtWeFhLeEZyc0xtRW84MmlXS0RyRUdtY1h2QmdrMzVybTNQYm9vYk1zT1EzMDRxbFozcFozZDlZdHhnT1h6Y1RWWUQ5MHhzaFBaRlVoRkdXdDZJWTdpOEpGWWNJYWJ4TmlsSDZ4WElxbmltN29yZEF2WVM5bnVPeGtKZw?oc=5",
+          "publishedAt": "2026-10-27T04:11:57.000Z"
         },
         {
           "title": "Inside the Pentagon's doomsday plan to keep America fighting if global war erupts - Fox News",
@@ -129,28 +129,28 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Fox Sports To Honor U.S. Military and Veterans During Special Broadcasts at the U.S. Naval Academy AND West Point - navy.mil",
-          "source": "navy.mil",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaE53RU42MlF1Wm5EVERVR0o4aS1GWmtlaE5oSENkdGdOMHRJaFVXQkw0SFhPUWdsbEhsSEhVeURVYU9SVGh2dW0wQVRidFlLZmhRVmVkV01WZVRoSnI4dkQ1Uk9DTC1YOGxDYXJ6Tm1nRTl6bVhEbi1yZ2NMV3BzT2Iyd1dkcFZVYUg2OXZTT0RVbHdYQy1DZ3BCMHYwRXhlenNkX29SNVVYNUM4OVB4LW43YlNaOGsyWXJiY2dPa2dvTVhpaE11cm1HcTUzQkVXUjZNeDRoM2pBUm5MZGdraUhod2lOUzFveGZocg?oc=5",
-          "publishedAt": "2026-10-26T13:43:08.000Z"
-        },
-        {
           "title": "FOX Sports to Broadcast BIG NOON KICKOFF and FOX NFL SUNDAY From West Point and Annapolis for Veterans Day Weekend - Sports Video Group",
           "source": "Sports Video Group",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcFRGYXk4T3RjUm96NFRnVTBTUnNtOVRGbVZKeW9wV1N6NFNHVlE4VzR6Z1F5SFUyaUFRbGszT2xvcFQxc0RGRFRjS3RJN0NGdktWaTJxeUdsWFpBbjhBeWZNZDNhcU1fV1JKTTZfeXhKNUdWLUxQdkNFbkF6MFIzZ19FUTlqQW5udTFxcGtSMDZ2eE9fbkJseEJFdzdfNlhZUHlHelRtdTVidWlYZnMzTkRldWxqMm85Z2RBV1U1dldvOTFCLVJlb1VDdlBLcW91QkRmd2x6UC1UV01VUmRYajRlT3I5VXM4VXc?oc=5",
           "publishedAt": "2026-10-26T15:05:26.000Z"
         },
         {
-          "title": "Strength vs. Confrontation: Do American Forces in the First Island Chain Deter or Invite War? - Modern War Institute -",
-          "source": "Modern War Institute -",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSENJcFpOakh5SHdzejFZMlNwSTdBX0I0WngzaVU4dDFFWDhJLTFVOWJ0NHY4UXFRTlczWXhhemJYUDZzTElFN2o1c0dGWkhpck1ONXY3VDFSTTJVZUtoZFJhZG1Fb3o4bmVfQl9NNHB0eUVGOHBDSGdyWXI5cFJOQ2tTSjdrNUJ2ck9iWUllbnlzTEhlcmMtb2c5QXRXeHVZTEFmUXpMSmJoSzFpRkdvWV9hcE5SVGtF?oc=5",
-          "publishedAt": "2026-10-26T11:02:37.000Z"
+          "title": "Trump’s West Point gives judge the 'middle finger' after ruling: legal expert - AlterNet",
+          "source": "AlterNet",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85Mk1EVWdCYmVPWm5LbWg4bXZ1ZFFITzdJS0x1QVBrOV9hdzI1QlVNSlZxTFgzWDNOSEhnTEpuQVpJakRtS1lrLURLYk9YdWJLcVF6QldFb1lHenA3OWt5eA?oc=5",
+          "publishedAt": "2026-10-26T15:43:00.000Z"
         },
         {
-          "title": "Best liberal arts colleges in New York: See the top 10 - The Journal News | lohud.com",
-          "source": "The Journal News | lohud.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlBuV1A3M3liNXpSeWpVUWtJMGN0dzlQMVNVMGxodDI5dlUtdS1iVDgzMTVKbm9TZWIyMjZYNHVHd2txZ2dvdHZrckRNLVpHdFBHbW1CR1JVSVZkNkYxN05FdG1SYWVjYmpUTTJGTlk4ZC1ncHBjanpXUm5TRmdqcnA1dTk1QWNncjk5S3lCRDV3bHR6ejBBRlA0Y01tYmJiLURV?oc=5",
-          "publishedAt": "2026-10-26T10:13:00.000Z"
+          "title": "Fox Sports To Honor U.S. Military and Veterans During Special Broadcasts at the U.S. Naval Academy AND West Point - navy.mil",
+          "source": "navy.mil",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaE53RU42MlF1Wm5EVERVR0o4aS1GWmtlaE5oSENkdGdOMHRJaFVXQkw0SFhPUWdsbEhsSEhVeURVYU9SVGh2dW0wQVRidFlLZmhRVmVkV01WZVRoSnI4dkQ1Uk9DTC1YOGxDYXJ6Tm1nRTl6bVhEbi1yZ2NMV3BzT2Iyd1dkcFZVYUg2OXZTT0RVbHdYQy1DZ3BCMHYwRXhlenNkX29SNVVYNUM4OVB4LW43YlNaOGsyWXJiY2dPa2dvTVhpaE11cm1HcTUzQkVXUjZNeDRoM2pBUm5MZGdraUhod2lOUzFveGZocg?oc=5",
+          "publishedAt": "2026-10-26T13:43:08.000Z"
+        },
+        {
+          "title": "I Saw Ukraine’s Rapid Adaptation Cycle in Action, and This is What the US Military Should Learn from It - Modern War Institute -",
+          "source": "Modern War Institute -",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR1c1Y0p0Mjc1U3ExRDktemRrVzZWcW9RUVYzdFFha0dMQi1ZTlI2NTZMTW4yejVWUjFHV2NDWTZRQzltNEE3MkxnSURTRWN0cWFIYnh3cjgxU05HcGZjTDVUMC1kVUVFX1VodzkyREJBNjhnTzN5X0s3VUlzdHlXMGxNdjhpa3U1blpLZXpRRXFfeWxFamZVZmZWYmRzSVgzLVA3ZlR5NDRGbzlMWnJNS3l1bFYwek1Ra0lUVl9RMUVxMkxOT0JZ?oc=5",
+          "publishedAt": "2026-10-27T10:40:28.000Z"
         },
         {
           "title": "FOX Sports To Broadcast Special Veterans Day Weekend From Military Academies - FOX Sports",
@@ -166,6 +166,12 @@
       "kicker": "Black Knights",
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
+        {
+          "title": "Fox Sports To Honor U.S. Military and Veterans During Special Broadcasts at the U.S. Naval Academy AND West Point - navy.mil",
+          "source": "navy.mil",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaE53RU42MlF1Wm5EVERVR0o4aS1GWmtlaE5oSENkdGdOMHRJaFVXQkw0SFhPUWdsbEhsSEhVeURVYU9SVGh2dW0wQVRidFlLZmhRVmVkV01WZVRoSnI4dkQ1Uk9DTC1YOGxDYXJ6Tm1nRTl6bVhEbi1yZ2NMV3BzT2Iyd1dkcFZVYUg2OXZTT0RVbHdYQy1DZ3BCMHYwRXhlenNkX29SNVVYNUM4OVB4LW43YlNaOGsyWXJiY2dPa2dvTVhpaE11cm1HcTUzQkVXUjZNeDRoM2pBUm5MZGdraUhod2lOUzFveGZocg?oc=5",
+          "publishedAt": "2026-10-26T13:43:08.000Z"
+        },
         {
           "title": "Army West Point stuns Quinnipiac with a 4-3 overtime win - The Quinnipiac Chronicle",
           "source": "The Quinnipiac Chronicle",
@@ -185,16 +191,10 @@
           "publishedAt": "2026-10-15T21:18:05.000Z"
         },
         {
-          "title": "West Point track and field athlete goes to court with NCAA for fifth year of eligibility - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN0lRTGRvS1JhbVE0aDJPaXBlTGN5OWhDajRjUmZSOVpaRTdHSHlrcHVBaUs4em1EelB6MjdORXZBTzNiZWdid0hFU0NySkp3MjIwNGxjZ3piWEZ5bFpqNXk4Sjg4akRaNWNGbHNmMWtWNEJKLUs2S2liQTl6UWd5WTctbllldw?oc=5",
-          "publishedAt": "2026-10-14T07:00:00.000Z"
-        },
-        {
-          "title": "Former Siena coach Carmen Maciariello joins Army as assistant - Times Union",
-          "source": "Times Union",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUtKUHdaUGZRemFack9NTXNrb1ZXejQzQmJlbl9OV2RYTXU2XzJOZHdoT2drZjJaRFdfMUdmQzczbGVZQThqQVhpaUQyaEhZazJLNWdjQzB1QXdsaXJ2NFVXWGxvOF9YeThjNTREeWVFMmdwMnFNbmxMSlkwZ1hMLVBhVE1QMTJsV1hjVGVOa2FSV1p1ZFlJTFNTdw?oc=5",
-          "publishedAt": "2026-10-23T18:59:28.000Z"
+          "title": "Volleyball Rallies to Post Star Match Victory at West Point - Naval Academy Athletics",
+          "source": "Naval Academy Athletics",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYm1nT3RTSldXSDRMc3JBLTBNMkduaFRHQy1xcnB4NllUUzQ2OVNFYjhLa182SHpWTk1VSHhkTjdDcHJhZHFVTEptSFlQTkkyNmJFWDlGb0gxSzhZdFU3aThpeC1MbXUwcG9VNTlwZjJXeDhETVQySl9Ud1VEbFJ0R2lxVGtMc2VRbUpGd0U1SFRQTVNDal83aThMNGctOFhxLVMyZnJhVW9IajR5VWZocXhqUGVSUW5uOENCbw?oc=5",
+          "publishedAt": "2026-10-09T07:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "NFL fans throw flag on Steelers for fashion faux pas as team takes on Saints in Paris | OutKick - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUt0bWh0Y0o3YnljeW1GRk1hcUN2ckstTzZWTFVuTjFvQVFORUd1M2RsR1BYTmEwVE1Qc2xvRnRoNTdmc29wb1lyTXVQenpWM1lqVm1SRTdvQjdfeWNkVHNwc1U1M1otdmpTQkFpME0tR0lwdi1CdUF4ZGo1eEF4WUlMeEdQOWEtQmdiNmtsM2gzWWdTVi02UVMxMzJPUVlZZ3VLS3VoUWZkSHJ1?oc=5",
-          "publishedAt": "2026-10-25T15:54:14.000Z"
-        },
-        {
           "title": "Aaron Rodgers suggests full week of international games, jabs at NFL owners - ESPN",
           "source": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFZhcXAxRldnbnA2bzdsRDgtVl9UdHFtc3U4SndVcnQ1UEtKVUN4T3VsWnhYM3pSRFRlbmxSa1FTMjkzMnROZDQxWFZyZFJLTDlJaXJfSVdyN3BPZXJqNW1qUE1lUF9BRGtZajdBS2ZfaGRoVXBFSjJpa3hNc1lrNV9kZDdFRVp0eHl4aXZMZmZBYzg2d2I1NmxMREdqMEh5dlBr?oc=5",
           "publishedAt": "2026-10-26T15:37:00.000Z"
         },
         {
-          "title": "Pittsburgh Steelers Named as Landing Spot for Speedy Receiver in Intriguing Move - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLVBkLXBidDhrMng5RkhoLUFIejRWOXV2Vk95SmNwZk5RNDBBZVdYR01ndUhJYTRaTGdJTEtuTjVMbmZGZ2xoMTUxSzhLQ0xSa0ZKb2NESWliSDZDLWRnVVVJZnlfNWlqQ0drMzZJMWQ5bGVTa3k0bHNpQXJSX3VQcDFtVDRBYjNzbVkta0xralA?oc=5",
-          "publishedAt": "2026-10-26T15:55:39.000Z"
+          "title": "New NFL Trade Rumors as Chiefs, Steelers Target Key Position Before Deadline - Bleacher Report",
+          "source": "Bleacher Report",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUlxQ202eFlIdmE4dGphV25ob3VDUV93RUEyMXl1NHgzbHlYd3Y2Q1ZnRW5IYWN0TTB3TjJlVmtBdk5nSEpKMkc0eDhvY08ySEIyMHM2aFhVYzdCUU5lcUpsWkd5VFRIMkdybGZST0I1UXIwWFBUS1pqdUNHcGRBXzZoa3BpMHZUcXpEaW0taHZyVFhobFczWWREZFdDenhVWVdRT0g2c29CVHVnYlMw?oc=5",
+          "publishedAt": "2026-10-26T20:42:16.000Z"
         },
         {
-          "title": "Steelers are far from perfect, but after beating Saints, they’re exactly where they need to be - The Athletic - The New York Times",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWUyd1U0VFNLSEFTWW91SGVhTHdsaWxFN0pPY1JXb2lvZzhsTjFzc25QeE9kS05FbjZGaVotOExtZFdYTDdac3J0QlFid0FadnZYT3RJU0NOM21fZWkxQWlwa2VPcHdvcW1mNEI3SFY4YnZwWFNuVHNvbDlsQWpiSm1OUUdTc3d3SFhOSFo3VWkxREtPUFNVTnoySjlRdjQ?oc=5",
-          "publishedAt": "2026-10-25T22:55:21.000Z"
+          "title": "2026 NFL season, Week 7: What We Learned from Sunday's games - NFL.com",
+          "source": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjlkMy05Mm8wRVhpMmlVdjBablkwUG1IUVlESnZpS1RfS2p4ODk3dnV0Wi1iRy1SZC1maHNzeDdVUC1tbm5ZTnhNSlhhUGFVMGphVFFqZ21vMEtIQ1AzdlFpbUg5VW5CUVJabHRYc0xUS1FmS2ZlR3lDMGVsQjZkSVdYMmNNVjQtajlZ?oc=5",
+          "publishedAt": "2026-10-25T17:25:47.000Z"
         },
         {
-          "title": "Game Recap: Pittsburgh Steelers 16, New Orleans Saints 10 | 2026 NFL Week 7 - New Orleans Saints | NewOrleansSaints.com",
-          "source": "New Orleans Saints | NewOrleansSaints.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVkyWm55Z0NHRGp1c1I4NnhFVTZnNVhNZE80eDhYLThzQzVTc0o5ZC1WZ1dpNDJlUkFha3Rhd2N2Z19ObWNVdG9OR3dWMHZxRHZGcXVjT2F5QnFpOGFZUkpTVjNoLXZMV25tZVVZN2tDNkJFN19HSWJBSzVvODFucUtMRUxOSkdIbE04TVpjOUVwcnBUY1BLVVZ5bVRNdXNac0U1eE1KUThVUQ?oc=5",
-          "publishedAt": "2026-10-25T16:36:17.000Z"
+          "title": "How to watch the Cleveland Browns vs. Pittsburgh Steelers - WTOL",
+          "source": "WTOL",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeTR4ZGEzaXJURVdsWlZySG9nbzVqcWdoUmNGcWRvbU94aExwRS15eTA4a1BwbnJGUGlwZ1pZMjY0MjE2b1UyczlldktFN1FpOTN3cUYzMEtVV3I5eElHb05sRXhCWENkS0U5QVIzaWFYcXZkWGd3aUVoemtuQnYxRFZxU3B0c3Q4MXkzclMwSzlXd0IyQTFnNUFUR0dzbDNLaExHMmthbEpHSDRVVE5PU3FpazRYaHBGbVFDSlRWcjdZSExPeDk0YzZmc2tzNkkwX3c?oc=5",
+          "publishedAt": "2026-10-26T20:02:00.000Z"
+        },
+        {
+          "title": "Labriola on the win over the Saints - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rOGZYT1hYa2dGSW4yUG9OODhXRDFYc2xtZlRhREUtWWlhbDRkdTI3cUx3dEw3anZ4WWhxcTJCRmZJUzJhbi1nVnNwY1B0alpJZkVqZEFJTXJNeU10bktpZXhUQmhiTmIzUUY2ZnBudzNicDZEY2ROaWVWcw?oc=5",
+          "publishedAt": "2026-10-26T00:44:46.000Z"
         }
       ]
     },
@@ -249,10 +249,10 @@
           "publishedAt": "2026-10-23T15:08:00.000Z"
         },
         {
-          "title": "Finally: Brooks & Dunn is Working On New Music - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSE1jc2lnejJMMXVRTXN6T1laaTJZOU10cWY4SzBrRlRORjVxR0hJeWZNVjJwS2dqMUpEYU9uRVlva3pxM29kc1h1SWlaYmt5UUNnYU9ydC1IWE9NdjZ1aXBfc1ZrYVZ1eU40cHFKWndGSUJGZk1HQzdTNGN0ejhjXw?oc=5",
-          "publishedAt": "2026-10-25T19:47:47.000Z"
+          "title": "Boyz II Men to release their first country music album | Exclusive - The Tennessean",
+          "source": "The Tennessean",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnlia3lkNTcxakZPM0lucGNJMXZpQnNPVzZYOEVmLUFfaUlZaldhc3RXYk9neTI0R1duV2gySWtGMnFNN1JhdTk3Ny1tNV9hSEJXUk5IY244ZzNLck5SZll0S2lwZTNRN01KWWwxM0FSbzZsUlZDTzdtVUdXMzEwdGV1UnpXdXBBR0RtZUMtblZWTEtpMHFkMTRRWUpDUXVOcjE5cGtzbUtTS20wMHJOSkxB?oc=5",
+          "publishedAt": "2026-10-26T11:03:00.000Z"
         },
         {
           "title": "Ella Langley Keeps Rolling - Madison's Country Q106",
@@ -261,16 +261,16 @@
           "publishedAt": "2026-10-23T18:04:04.000Z"
         },
         {
-          "title": "Megan Moroney Releases New Song “Say When” For Netflix Series ‘Nobody Wants This’ - Whiskey Riff",
-          "source": "Whiskey Riff",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMEVINGg4S3JlMnVjRW5FaEVHQnFWaFRPT2FEWUZXS3NCRm85RkFjdUFTN0U5NExVdkE3UlFZalViaTB6Nkwwc3VZZU02MWNURUVZZzZvT0dYVTZjMnJkaVZFTGJidjRJT3l4LUNMd3lHbW1Zeml4SWlON00xX1lzeGYwS1F3MlEwMk51WDJQOURrSHVzcUhMOHNNa2diV3pBbFBiLTZZQU9DVmJYNGdHNEdkUGxndGp5?oc=5",
-          "publishedAt": "2026-10-24T14:18:11.000Z"
+          "title": "HARDY's new single 'Man In The Box' blends country music and rock into one roller coaster track - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckZUUGlGdDM1aWFvS18yZTF6T1hwNVFxM1V6X1ozNGFXbW9GOUpQR2stMV9wZzhJVlF2bDNuaEZGcXFtd1R5a0ZTdm1pSzAtckVOQzRvT25XUVBjOHRicm1SMDYxWTlUSi1PYlhacWQ2VjZYWjY4LXh3VDVPMS1NeGE3SXFTREdpSW5TYVdYNDJ3dnExbzRXMkxWckFWU1BhZHJRMTdMUVktb3hYNnI4Vk9jVU1WQUxIU1E?oc=5",
+          "publishedAt": "2026-10-05T07:00:00.000Z"
         },
         {
-          "title": "Post Malone Says The ‘Eternal Buzz’ Is Almost Done, Hints at 2027 Release - Backstage Country",
-          "source": "Backstage Country",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSlhzc3Z6T3U5ZGJXRV9ZMTVOVC1kSHVDNVptRW93Y2cxUG5GM0RVTHNjSnNiVzBBc2hZZkJpM0FKMG1WSkVQOUZqV1YzQ2VjUDd5cGVFSFgyUTZvbDk0cjNKSHB3NTNHbVYxZG5WTEYzSEZKT2IwV25HN21NSWhpUnRqREtuUmp0NFMwc18xSVNFcUdhMk1XNlo1U2lTVlRRck9iV2llY3lkQjZJWUdEdg?oc=5",
-          "publishedAt": "2026-10-16T07:00:00.000Z"
+          "title": "August 21st, 2026 is a Busy Day for New Albums. Here’s Your Guide - - Saving Country Music",
+          "source": "- Saving Country Music",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmtUNURvYmpOZk5uSTA3SlNPc3VTR0kwOTh0OGEwcDBUOUxXVGVqSnEwN2RFbVBvMWhhVmRoeWJqV1hxNEczUVRRRXJyYk1qenB6cEc2cWZXU3JIamlXZjA0LTE3ZmM5YWtkbUZBQWMzRFNaRFNodzFXRnJYZE5GLWg3eVZJQ1hxeWFyemJzV3NHM2xxWlV6aVdB?oc=5",
+          "publishedAt": "2026-08-20T07:00:00.000Z"
         }
       ]
     }
