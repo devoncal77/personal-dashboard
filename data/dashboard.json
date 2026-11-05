@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-11-04T17:59:17.986Z",
+  "generatedAt": "2026-11-05T18:01:40.837Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$768.80",
-      "change": "+14.45 (+1.92%)",
+      "price": "$735.18",
+      "change": "-31.63 (-4.13%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$532.28",
-      "change": "+15.22 (+2.94%)",
+      "price": "$515.91",
+      "change": "-17.20 (-3.23%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$696.60",
-      "change": "+11.32 (+1.65%)",
+      "price": "$650.34",
+      "change": "-41.61 (-6.01%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$353.90",
-      "change": "+22.00 (+6.63%)",
+      "price": "$342.94",
+      "change": "-6.57 (-1.88%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$552.58",
-      "change": "+31.59 (+6.06%)",
+      "price": "$538.12",
+      "change": "-17.68 (-3.18%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$391.27",
-      "change": "-7.24 (-1.82%)",
+      "price": "$338.95",
+      "change": "-46.24 (-12.00%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
+          "title": "Discursive Verses: Is &apos;Spend Dat&apos; the best financial indicator of America&apos;s grift economy?",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
-          "publishedAt": "2026-11-04T17:38:36.000Z"
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat",
+          "publishedAt": "2026-11-05T16:30:00.000Z"
         },
         {
-          "title": "Abdul El-Sayed welcomes Trump&apos;s plan to cut Israel aid, calls for end to arms sales",
+          "title": "Russell Brand is convicted of rape, and judge says he&apos;ll get a prison term",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
-          "publishedAt": "2026-11-04T13:38:09.000Z"
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+          "publishedAt": "2026-11-05T16:15:02.000Z"
         },
         {
-          "title": "The world is reacting to the Democrats&apos; sweeping midterm elections victory",
+          "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
-          "publishedAt": "2026-11-04T12:34:35.000Z"
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+          "publishedAt": "2026-11-05T15:00:00.000Z"
         },
         {
-          "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+          "title": "Teens worldwide aren&apos;t getting enough exercise -- especially girls",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
-          "publishedAt": "2026-11-04T12:18:39.000Z"
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
+          "publishedAt": "2026-11-05T12:24:14.000Z"
         },
         {
-          "title": "6 takeaways from Democrats&apos; big wave on election night",
+          "title": "What&apos;s next for Democrats after the midterms. And, a look at the outstanding races",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
-          "publishedAt": "2026-11-04T12:02:38.000Z"
+          "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
+          "publishedAt": "2026-11-05T12:02:24.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Army cuts training as service is short billions of dollars - ABC News - Breaking News, Latest News and Videos",
+          "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
           "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQam1CQnl5Mmt1ZlRVNDJINHgzRlI1cm1Jc1J4WGJNblNoVVVGT2gwWEpKLXJ3M2R1RnhBZ3dFQVU2aFRrV0UzR1lMNGltYVc1ZGl6cF91SGdVR1h5WmRXQzBaR3Jwb3RyUmxLZXluUkhxLVVwb2ZoMnE5QmVoZW1rLXZGdExBeXJnenlLaXdtOV9MWE94cUNuRUlSS3JFZ9IBowFBVV95cUxOTjVTRHFkWFpPZHVmeW15b1pPM0J6RXdyN0tCVHJ2N2lzd1NzX2dyaF90aWZ1TXFwTkZkNU40b3pXQXQ2X1QwYjA3dzdfbHJpTjRTWElNM0ZBY1JKX01VbFFnRl9qdnBramtBNllkNkF2NUR6SUJLX2VhWGVCYlNmbFo2S2IwYXR3eW94Rmp0dzRZSExRelhXWm9WVGpmb3pueXlJ?oc=5",
-          "publishedAt": "2026-11-04T06:21:36.000Z"
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
+          "publishedAt": "2026-11-05T03:00:34.000Z"
         },
         {
-          "title": "News - Beyond the Arena: The Military Mounted Battalion Returns to WIHS - DVIDS",
-          "source": "DVIDS",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFBBR1VxS0ppZFBkUmdWU0FoYTFiTUdNdl8yV09GWGVpYVRzVjVFVXRtdU5vazdLLTV5T1hCd0FicjU0Z2ZoOXZMVzRFMktoTFJfZklscVNMZWJ0bldfQkFSeWVlX3VOV0xCQWJBVkMyUUNHekMxOVhYSFd4M2w4ekVoSkVPY2U5M2ZZb29YR19rVmM?oc=5",
-          "publishedAt": "2026-11-03T21:23:00.000Z"
-        },
-        {
-          "title": "US Army reportedly practiced digging mass graves at military base in North Carolina - WBTV",
-          "source": "WBTV",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVldISFJFa2RKOVJKbkM3d1N1T3o2YUd1WjNYRWJKZGwtQ0F5Nm9lblZ5aXp0VzdkQjNSUWpydjZSdlBncm5zOEJ6UW1pQ0VnOWhTLUR3VnVDaDYydERYSDhORlczS1UxNG9GcGc1ZndJTmFNVkRfcjNibHBUZ3NuM0N6OTU4VDhORjNudS1ianF1ZVNxY0VtbmM0UFZrV0d2YVJZTGNUTURja0xnaVdF?oc=5",
-          "publishedAt": "2026-11-02T14:03:00.000Z"
-        },
-        {
-          "title": "US Starts at ‘Basically Zero’ in Building Cheap Military Drones - Military.com",
+          "title": "Army Wants 14,944 New M8 Carbines. SIG Sauer Says It Built the Shorter Rifle Before the Army Asked for It - Military.com",
           "source": "Military.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMVhRZmZDdmNWVGNYdW8yNG90Z3Q2R2FacXNLN1JCeWRITVY0Mmg1eEsxQTZHNzl0ZGRkWFZLWlAwTmdHTkNPLXBPZVV1VnVBSTlzN0wxLVRLVm40RXl4eG80UEE1MFdrX1VhaTdxSENyaHNPUHRMb1htRC03NlpDcHEySUR3ZThTZDlRdDhrSQ?oc=5",
-          "publishedAt": "2026-11-02T18:12:40.000Z"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamRFcmlhenBPNkFObUl4eGNheWFqeEZVQXJ0VnFlc25pM1d6azZ1NHBFWDJuNG1QUjdjVjFHcWR0czl6d083Q1UzakJuT0g5bm16VVNmREthd2xzZDZ4TV9KWmZBaUZPdk4tbGdFQ3VnUDZpQ05XNmdSd3phM0MyeHN3bGVvdW5TTE9UeUM5dUw4VkRpQ2hDSVln?oc=5",
+          "publishedAt": "2026-11-05T08:00:16.000Z"
         },
         {
           "title": "US Army long-range fires make a splash on the frontline with China - Military Times",
           "source": "Military Times",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcElnWEpWdnlaaGxhM0dXdDdKbDNnamtpd2JadjJ6WkU1Wlp3eHhsVUJjekgtVERyaFlMNUhzbEEyUDM5M1I3OHZsN2dYeFd2el8tWUpBdHlFSEhOVTdEVFYwRHpCSElmclhxcldqVTVEYlVDQXFMa1gtaUVDM3VhMWU3U05Qckh5Vi1oTnM4U2lFQlBNSnYybkxnTVhUeEVUb21NNjBVOVJFcmFpRHJUSjlubDAxaUNrV0l5Zzg5QVVndi1uVmc?oc=5",
           "publishedAt": "2026-10-22T07:00:00.000Z"
+        },
+        {
+          "title": "Pentagon fires general it says leaked classified information to media - Al Jazeera",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3loNGM5eUV1eU5abHowRDZ3WkZxeWZCLUl0Si1LMTZMaG1qaG1pQVgydW9ldHJ2cUZMNkR0LXFSTmZnMVlJRWwtQ1VMNGRTQUxxSFlHOTBlT0dXVzlseDd6YmNmZXB5OU1VSmdlWHMwMG1ZNjhxZF9FdFljbzF5WDl1R0I1R2ZlNi1kR2dONHJZWDJrLS1aaEdPb2V6SFdVZjFpbzBDMEMxM2NvclJkNtIBtgFBVV95cUxPeERhamduY3pqR20xN3ptM0loanMxcUlUd2xCWUR5MmZKclJnZXJYTXc3SzVESUdjZnF4cVZ5Zm1QWFFHQUt4WW5FaVh1Z2RrUnVBRWx0VF9PdGhINlVraTNLSTB3czNhWnhQeXNHWm5DTEhSUWJwc2JDYU51TmdlRDBLYzNzOFVEc2hwQ1puTUd6Vk9YT3h2LWRrRk96RmNnTkhXZ1BfZmxuYVJXdGpiUGhvcWZVZw?oc=5",
+          "publishedAt": "2026-10-29T19:04:02.000Z"
+        },
+        {
+          "title": "America's next war could reach US soil, top Army general warns - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWk1EOC1aZHYyZGswNjZxaUxoQUdsY3o4elBOTXBnbXNRbWc2SFA4czBjVFVVYzRUX29pNVpDOUZMY291bXNnZUFTdXhVc1ZCU1IySmdoZDd0bnM2UnQyYzlTMzFKWGt6Zkd6Q2x2eTNLSmtLcEZYRnA0V0tTSy0wRTc4eWxrT3B4alZLRWlDNWZzQUxKYmdVZtIBngFBVV95cUxPeGs3alYxWEJLR0VyLUFKVjB1OV9GUFl2S1MxdjNfb1VDS0ZGekdxdEVuUkJBTjktNGxHS0Y5NmFycDJTdjUzSVgxSmw1VmNCXzNCa1haeE0xX052VXpKM3lWdVBSQUFZcUFKblpUUUh6eWthdHlPby1ROURjczE3RU9CMXVhcGhaR1BnNzg1RldaZ0ZvMUhDOWk1WFR3UQ?oc=5",
+          "publishedAt": "2026-10-15T07:00:00.000Z"
         }
       ]
     },
@@ -147,16 +147,16 @@
           "publishedAt": "2026-11-03T01:48:23.000Z"
         },
         {
+          "title": "Ex-West Point Cadet Who Pleaded Guilty to Drugging Fellow Cadet at Cornell Enrolled at Columbia Before Sentencing - Military.com",
+          "source": "Military.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONzJZdkk4amVnNTAtM3h1THlPdzRuU0U0dlJDZnZGNTNES3ZNQm9ENkxoX2dma0x3TjVlMVU1aHZEeDdZTGMyVGlCYXZoMHdzS2hGaXZvWWdvOU5vMEwyMEdxSGVpSHF3UnJ3TWpnSmlXaHZySm5YeDhRUWNVNm9kZkU1WXpRNWdZdGx0Qi1lbWVXTzV6bDVxRDd5Qm5oSHlDWk9ZcWdNa2diQ3UzR2hOY3hWaFdfcjVZUUI0WWRGQQ?oc=5",
+          "publishedAt": "2026-11-03T19:52:31.000Z"
+        },
+        {
           "title": "West Point cadet drugged pregnant girlfriend with spiked shake, then forced abortion - New York Post",
           "source": "New York Post",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdlBlRHJqYmhMWnp5UlZMUWtrOXJ6V2JyTHBZM1VCSUZFNjV1N2J5OG5udHFiNUVEUGFLa0FpWWo5cjg1UlVlTDdxd1BQOThOUzl0Q1RVamZpbkJfVDJWcEhqZGl1RGwxb3ZrbDJIbm9sMDJfV2hMbVhiR1RPOERTNHJuaFZWQ3duaElHV0hkWjEzYmZ0MDVwcnZaRU5Qak1lNDVtbl9vaVdnLXZiOEp2VUxBektjYU50emRiLUM1Zw?oc=5",
           "publishedAt": "2026-11-02T22:10:00.000Z"
-        },
-        {
-          "title": "Former West Point Cadet Sued Over Secret Abortion Pill Plot - Newser",
-          "source": "Newser",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDNFa3Y0UjhoSVhic0VZTzlqdDZZSlR0b3hvZm5DY3lCeThEQzhidHBqUUVxNjJLWXhJNV9ZcmUwQnhaMW5uSGI1c1V2R3hJV2hMdDVtajdjZEs4a1UxWlBjWnpFWEdscU5pMHJoUUswMzB2SHRLaFoydFNpM0tVNDd4OXMxWWU3WWRzRUNKdnRUWEd3YUpScWdQS2lfWTV2?oc=5",
-          "publishedAt": "2026-11-03T07:00:00.000Z"
         }
       ]
     },
@@ -167,22 +167,16 @@
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Army West Point Rolls Past St. Thomas Aquinas - Hudson Valley Press",
-          "source": "Hudson Valley Press",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGZqVzhIMjJ2Y0RLTzJDdzEyX1UwYk0tMFZld2VrU1d5Y2VEMjhFRjdHQ3NqaWdaX3pobXNOTlp2MGh4Rk1adEpxa2l2T0NVOXFjU09CVkdTUzZTc1h6a3RoWVVZOVNxRnRrcEt5ZDg4d3A3blZyZ0hwWEk2SzFVdDh3SjBra0JFWFMxN0NwTQ?oc=5",
-          "publishedAt": "2026-11-04T05:03:43.000Z"
+          "title": "Army West Point Black Knights vs. Duke Blue Devils Live Score and Stats - November 2, 2026 Gametracker - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVFvaEVDZVVWMjE2ZHM3cmZMLVY4b09zTVd4b1pJTmNfMThYNXAyOGlfQVVnc19QNzBIc29XSzNSeDJTWFpIMFQta0otMG5BMzVxSmNSOElHYVNJck9FN1dMM0FHZnY5UUtjb2p3NEVGaFNvS3VBajNSWmhDOEhnb2lCaWFxR09NY1NTRTljZWs?oc=5",
+          "publishedAt": "2026-11-03T02:16:06.000Z"
         },
         {
           "title": "Next Up: Army In Cameron - Yahoo Sports",
           "source": "Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDa1BRWHE0WFprNVJNVi1sOWJtcU1ydHI0NjhZOGlwekpndTcwNEhCbHJzZUV4U2pueG9PY25HS0wzbW12YjFzNHlXSGVuVmR4S1NlbDc2aDk4M1JiRDRWWkZ1azI4RUs5N1dJa1Y3ajlPNlY3?oc=5",
           "publishedAt": "2026-11-02T13:24:00.000Z"
-        },
-        {
-          "title": "Army West Point Black Knights vs. Duke Blue Devils Live Score and Stats - November 2, 2026 Gametracker - CBS Sports",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczZtMjRWNGg2M0FFUVJURms5S2plZG9VY08xQ3Vod3oxdVp5bVo0ODN6V25XdE1OQm9LeEt0YjJ5ZlBGQndFR0ViT1F2N1JmbHZHUnJET1JkRWl6WHhmNWF5cHdlY0dBU1FSTlNiTFJhd2J0eUp0TktTUk5ndjVrODlWU3BtRDZ3NXYzeEdFQ20zZw?oc=5",
-          "publishedAt": "2026-11-03T03:16:18.000Z"
         },
         {
           "title": "Army West Point Black Knights at Duke Blue Devils - NCAAB Game Summary - Nov 02, 2026 - USA Today",
@@ -195,6 +189,12 @@
           "source": "The Duke Chronicle",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNekpzaXVoVDVleWZzX1RZRkt5Y2Q3eTdGM2piUXB6aTB4Vm55Q2tXOE1pZjlBMnRETTRoNVNLbEdSRHVxNExQYUVuSlEzT3hmejF6SFBQU3oxVUVNell6TGFxMXI4U0QxVHJyZnplcTdGTVU0ckZpVUgtRFFZTEJmdzduNU9oSXhrUFFuR3dSXzZQVGRPVWw1NmdrSHpmRm90QWdlNTB1cnlYZnd0S1hrOXF2SDFJajR4VlBKN0dR?oc=5",
           "publishedAt": "2026-11-01T19:25:17.000Z"
+        },
+        {
+          "title": "How to watch Army vs. Duke men’s basketball: TV channel and streaming options for November 2 - The Athletic - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMWdPNUduSG5MV3ZCM0JhLTYtQm5NRnRfci0xWUlqQVNIeGVLNUw3UzVLa1pZbFNWUXFBYXZVVG5BbTlWaVM2cDVyeTRTMEFWUXZJYlp5N2xJNnJtYndhZnZzSmlWb0F2Mjd0bE5zc0pTalpfOFBoa2Nrb29zUFlHVHduR0UteklwSG11SGdubXFfVG9va1E?oc=5",
+          "publishedAt": "2026-11-02T16:47:15.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Jack Sawyer Shares Worrying News on Steelers' Sebastian Joseph-Day - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclZTLUlWTFhSYm0tRTBtUm5QR3pXSWc4cXlVLUd0V3NST3Z4Y2o0OXJ3akdVc0NkdzlHUWdWZ2xhU1ZMMF9EY1pFVUpLTFg2MWh3M24yQWE0Q0ljT1l0T1luZk1kLXJHT2xSVEFIbWJmbnFhTDVtamdQUThyYUhkcmhjNkJIZG54ck51T0E0YmswT3Y4X1BubEVUa1dUSGZNQWd1Ug?oc=5",
-          "publishedAt": "2026-11-04T16:00:01.000Z"
+          "title": "Bombshell Report Reveals What Mike Tomlin Told The Steelers About Returning To The NFL - Steeler Nation",
+          "source": "Steeler Nation",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0lGYURnS3ZRSEhlM2hkeFlpTVhFZHdsZkhFRlBuck1HQ0RJR1NrODNkOGhXN0tibXNyWDlSUXQ3Mk16LWREVUxSYk5UNTZ3ejhRckItLUZkSkw3cUp6dmhYNEhBVEtsUEs4UU5NanJMaHJ4SERFaVRlb2xCZERUZFZqVWg?oc=5",
+          "publishedAt": "2026-11-04T17:39:51.000Z"
         },
         {
-          "title": "How Patrick Graham turned the Steelers defense into one of the NFL’s best - The New York Times",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlJrR05NSks0UVJmR25rd2p2V0RIRUY4ZUFsd3JodGVzM0RlUHF0N1VUM3JNTDNnSXRwVVAzdE9WQWYzTUlYQkwwNF9PMEhtYUdPamhhWFpvMUhsbHZYbVozU1BzenFhWXQ1aEdYcTRma0Q5bjVrUmxGM05CSHRGRWt5QjQ0VmVSNEZwaWNxdXMtalYzR1BqbVZVMA?oc=5",
-          "publishedAt": "2026-11-04T16:08:23.000Z"
+          "title": "What has gone right -- and wrong -- for 10 new NFL head coaches in 2026 season - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVpxUHFiTExZRWxXQmlMcV9MLW5VTjBORlNWTmRBMUNrMnZjTTRKTC1POXcwMnVCMDVTbVhoR3VOVndGMmlTR1VvczNQV1hmZnZDNWxvNkx3RFNZU1FZSzRSSHhPOTVrQy1FdTgtV2M0LXBGbGZQT05GSXlQejVVUHVQam53NUVHbnoxdjctbUI1THNnNG1sR3RB?oc=5",
+          "publishedAt": "2026-11-05T11:30:00.000Z"
         },
         {
-          "title": "Former Steelers QB Russell Wilson interviews for head coach job - Behind the Steel Curtain",
+          "title": "Asked and Answered: Nov. 5 - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MSG1zWmRNdFdnNjBxQ1hLRDhOOENROWd3R3dxaEx5WFo4UE41RG1EQ2NUYlBkeUlUZVpCVWZkZlJtbVlEQ09HaU1Yb0tCUXJsT1NHV2tJbGg1RHNFeGNQRlJXQThJaHRYTkduVQ?oc=5",
+          "publishedAt": "2026-11-05T11:09:01.000Z"
+        },
+        {
+          "title": "Just how hard is the rest of the Steelers’ schedule? - Behind the Steel Curtain",
           "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPV29xZVRGVEdVS1JTYmd5VkVMYVpVa00tWkw3eDNZbFlZUXFjNGFJb2J4SV80YWRRX3hQR3FvYUxPdEhXUWxiYnYwREdYM2VMQzgxcTI2Vk92VGxUVGV6dDJoNmFSMW1yVTZhYmpRNHJnX21wZFF1eFJXTnU0S2tTaC03ZTZwSnVKdkdwZ18tQjQ5czF6TktySm0xbDVMQWZINW5UOXVkUktHM0NKWWllVkZLOUdaamt5YTNZWktic0JHLW1rQlBFY3UxM01DNnhmX04wRFkzQkhhN2tNekNiZXVSMkl0VVI4anc?oc=5",
-          "publishedAt": "2026-11-04T02:44:42.000Z"
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNenFUem9DZ0ZhdzhXZWttY3BGSUM3d3FvYkRxbnE4UUJXLUw3ZjZaNl9rcmdIeWdJbU5nUUlVank2bVRocGM1YUpjWGUyb19BN3U5NnJKTl9QdVBHbjhTQWpIVmpSbWt6cFRVeGE2S3hOQTZEb1YtOG80amYxQVRpRkRNRGJ0bzM5VFBpWFhjLUNNMTZKOFFBamJxT1V1OVZIUWt6a0NUbENGVXR5andNbXRjXzdranRjRWlsQTFhd2N2RkNzbmVsb2dGanBKTEh1b28xVzFmZThqQ2VGOFk3MW1QX05SdE5saC1Vd25vaTFteVN0V3VCbjQyRmdfQWc1N3NkLUQ4ZXVuSUNNX281N1pTdU5ISjBFak9lR3VB?oc=5",
+          "publishedAt": "2026-11-05T11:00:00.000Z"
         },
         {
-          "title": "Kordell Stewart opens up about the rumor that haunted his Steelers career for 28 years in new documentary - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUJSYXNwQXhCZ05jdGxTZU5Bb0tIV1ZLSFhEZlZZMkJ1UmkyQVBjbS1wclFtX1dhTUtwRnZGNUJvdi1hdzFTOTRYa2lTcjZUOGhSMjhrN0VqTl8wLUdHVU1ZZl9kaTZ6X0RPdnBRNXpBd19COEpldHUzcjd4d0t1SDRpQTdxSVFVblBoYnN1NEMxd1JLaFoyLVVCLVcyRXd2WFBtRlFpekE4bEFKOS11azZYTE5BZw?oc=5",
-          "publishedAt": "2026-11-03T11:43:20.000Z"
-        },
-        {
-          "title": "Steelers Could Upgrade With Garrett Wilson's WR Teammate - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2xFX1pUNGVoMkNnaS1CVHdRQUZ5VUpfNlFyVlM2bklVclJIcHFPS3lsMUlYS05XMk1XMFc1VzZKNFBtelZab1dtOTJGVE5QZ2J2OFlkSTluSEtsZW96V29YQW1Ma1ZGTU9SX3ZtX20yV1JXYnRScmt3NVBoeUhTY3dGVjlCQy1pbzU2dlFGREkyY1IybExCaHQydmRESi1qd3ROdy0wOUJXMlAzd2JpWnBwRQ?oc=5",
-          "publishedAt": "2026-11-03T13:00:00.000Z"
+          "title": "Steelers get bad news ahead of NFL trade deadline - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlM4cHR6dm5VQUVGOFUxQXlUcWE3Z29FMnd3TF80bWljS2ROM2F0dTcwbXF2TzV1UG9hdUdPYXZYUWRzY0RnaDZfTkdIOTdOb01kOFJxeWNyRHI4bEhtWmNLaHFoUW42TUxsNGVUbzNkbk9NLUpBMFlZVFBOYkt3Y1hB?oc=5",
+          "publishedAt": "2026-11-04T20:45:18.000Z"
         }
       ]
     },
@@ -243,34 +243,34 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Brandi Carlile to release ‘Returning To Myself (Sad Gay Version)’ deluxe reimagining - Big Country News |",
-          "source": "Big Country News |",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbV83Q0pxcjlxWFJnYUxFaW54dm5ndUQwTkc2NDZPZXJIY2NsREdVbG5YN0M2QW1UV1BjSTZFRkhZX3lSanVuZ3VoT0hqUGRwZVVTTkJvNkloWFF0R01hX3BoSXFZODVUWFNxSDQ0QmQ2SGdPeTV0WDBmVHg2RjVaa1RVQVEyQmdBMGpORnA0MTlmbWJBUHFvMzNONF9nNG1BZVlzUERfWlYxNlU1Z0NRME5TQk1zb2JCYnprbm0tZw?oc=5",
-          "publishedAt": "2026-11-04T11:06:08.000Z"
-        },
-        {
-          "title": "Country Christmas Songs, Albums + Tours Coming in 2026 - Taste of Country",
-          "source": "Taste of Country",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGk0cU5iY1FKZUxfazltTE1LdjhNLW93T1lDVWxVMWFXQUwzQnBqck9va2NvS3pTSUlpWElCb1BMSEJiZ1BXUkFUbmd0enZYYkk5RlNJWFFGZHFUaTFLdUNzdWMzb0llWmstYW1IRnBBZlhjdWtLNHBwNk1sTHd0dg?oc=5",
-          "publishedAt": "2026-10-12T07:00:00.000Z"
-        },
-        {
-          "title": "September 25th, 2026 is a Super Busy Release Day. Here’s Your Guide - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2tNX0pFRDBZRnQ3QVNWSGZ5bVhoVXY1RTBsYW94MF9sQ2N2U0xSZHpYODJiaUZQVzd5NUZ5akdPZEpBRmc4REVIaEZJTHVQYmw5aUlkbDVDX0dYY1JmYXhjRDVBRG1KeWF0SXBabDYzd21FV096bVlvVUF5RTFDeUg4NS1XSXdkRVViSnRMRHhUNlZwUUJra2FfQmw?oc=5",
-          "publishedAt": "2026-09-24T07:00:00.000Z"
-        },
-        {
-          "title": "Country music star Riley Green keeps momentum going with new single ahead of September album release - Fox News",
+          "title": "Kaitlin Butts drops 34-minute mini-movie to spotlight her new country music album 'Hello, Honky Tonk' | OutKick - Fox News",
           "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3NwZTl5clRMNXZpT2xQcDlrd1BKY3REUS1xTmRBRE5YcDZJdVVfRUFnMUtEdnJHZm93aUxUZ0FMRXZ0aVFZNU4xZ2FoTG1mOFYyVnVSWk50UzBpSUpjcGpjUnhUaXE1ZXlUd1MzTXg2ZDExTVZlTnNpcEtZVklBWFMyQTBZd2NDMUZlOTlxTFV2UWdMSXMtQWk5WW5KdzNMRVh6ZndTRmNZU3cwN25Tc3FWamdySE1KYjFBN3FydU9QNkFD?oc=5",
-          "publishedAt": "2026-07-31T07:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQODhVT1FvMnRPbDFGS0U2aWJ6ZzdUbktMZ05VZkNIcGlUUkFCWWZ1Qk00bER5a05KQ3BFWU5xczJXQlFoVmpvZHhnc210TkV5VzB0eXl5N25TWnF6RVQ0dXdCTEtJZXpvSnpPcUp3YlNGcEFVbUhCZU1VTVZ6ZUt2cTdPUlhfQ0ktTGtsVk5Oc2p4YnlTelBLekhZRDlKZG8wWlpfTWpzT3NVdk9XZVFNS3A4QjBkcVlXUmdWeGFJRjl3OUhXY0NudlBVdw?oc=5",
+          "publishedAt": "2026-11-05T15:16:41.000Z"
         },
         {
-          "title": "‘That’s Just’ His Best: Riley Green Hits New High on Top Country Albums Chart - Billboard",
-          "source": "Billboard",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQndJU0JrQ3VGOGxKVmJiVGw5d2lWbnI0c2VyWFg1ZXJSeTZyYWZvVGlUZnlMOHRsOE1LY21MNXJabV9UQWFBYXJkaVNOY3RLbU82WEUwbXNQWlphSVpObWEwazk1WWR4RWJTTjJOY2laN2tnUmtwenhhZlVuNk83NFRJa3YzNEFpN2lERk0xNnJCcjBzZEpxSDBDNU9CUno0NEsyQ2VOdm5hdmF1bndkYjdKZVM?oc=5",
-          "publishedAt": "2026-10-01T07:00:00.000Z"
+          "title": "‘This Had Better Work’: Why This Folk-Country Band Sold Their House to Go on Tour - Rolling Stone",
+          "source": "Rolling Stone",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbEkyQmIzSV9HQzRjVG44ZVg3TktNU1U5dGpzcV83dHdWN1FESWxybC1NcG5OZlR5Rk5zY2p6bHh0NDdZM3BUcmo4UDJZS3I5WG9wY1B3UUpBM211OVV1NWd2UlRNQk1FcEVFQnF1S0QzcVhmS3d1dVBnMDJhN2MtR3hJay13UTh2Qmo0VHBnbHNraERLQnQyeVdoUkZLTnM?oc=5",
+          "publishedAt": "2026-11-04T19:28:48.000Z"
+        },
+        {
+          "title": "Album Review – Jesse Daniel’s “Looks Like Rain” - - Saving Country Music",
+          "source": "- Saving Country Music",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iSDBhckZQd19uTWtJSlBWR1ZmcUFtT0dvbDJuSldhN0RLaWgta3dTODRYVW5SS2M3bVhJYWtibGpNREFlOGdrbGVXbEF5OTRiX0tpMlEzekZlaUZ3aTd0Z01UamYwNnhBX0xXcnpFdUJaUnhId2Vvc2Juc3lFRUU?oc=5",
+          "publishedAt": "2026-11-03T19:37:25.000Z"
+        },
+        {
+          "title": "Morgan Wallen Plays the Bad Boy In New Song, \"Last Thing You Need\" [LISTEN] - Taste of Country",
+          "source": "Taste of Country",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qeFFIdGo3S25fSWR1Q3A3aUU2SVYwWHVLRVR6NnYzT04xY3NoS0R0YzI0ZUJXVnNGUUZWcm5zYmJNckV0eFVtT2JBUUdINV9uMmh1TzlIUUpNTkJNSmhLaVZaSUYzYmdlZEVyRm9nVTRZdTl6Z3M4?oc=5",
+          "publishedAt": "2026-11-04T17:29:31.000Z"
+        },
+        {
+          "title": "What We Know About Randy Travis’ New Album, ‘Same Old Way’ (No, It’s Not AI) - Country Now",
+          "source": "Country Now",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRzdrd3FtVEMtU0xwX1BwVTJWRmFiRGpwY3VkaFJPV0JEMTM5akRvSW1keXpUR0RsRjZsdUcxMjJheW9VN2FVZndqdTBZZkxuYlRqZnQ0VUlSNE9LUEkwdmdZNFV3Nk1sWTA0V2hvX2ZaUlBDRVNDbTF5YWxVd09IZFR1Q1RHVkxCckJsaGtpczRfUUd3SGNj?oc=5",
+          "publishedAt": "2026-11-04T20:07:15.000Z"
         }
       ]
     }
