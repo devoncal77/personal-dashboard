@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-11-06T17:30:35.646Z",
+  "generatedAt": "2026-11-07T16:28:00.867Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$739.50",
-      "change": "+6.50 (+0.89%)",
+      "price": "$735.29",
+      "change": "+2.29 (+0.31%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$514.91",
-      "change": "+0.64 (+0.12%)",
+      "price": "$512.22",
+      "change": "-2.05 (-0.40%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$659.65",
-      "change": "+12.60 (+1.95%)",
+      "price": "$656.10",
+      "change": "+9.05 (+1.40%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$344.09",
-      "change": "-0.09 (-0.02%)",
+      "price": "$342.37",
+      "change": "-1.80 (-0.52%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$535.06",
-      "change": "-0.88 (-0.16%)",
+      "price": "$530.61",
+      "change": "-5.32 (-0.99%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$359.43",
-      "change": "+15.74 (+4.58%)",
+      "price": "$358.22",
+      "change": "+14.53 (+4.23%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "European air traffic is targeted by new threats after a week of hoaxes",
+          "title": "A promising new medicine against heart disease fails unexpectedly",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
-          "publishedAt": "2026-11-06T15:21:31.000Z"
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+          "publishedAt": "2026-11-07T14:50:00.000Z"
         },
         {
-          "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+          "title": "Democrats plan to widen their probes of fatal ICE shootings",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-          "publishedAt": "2026-11-06T14:53:46.000Z"
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
+          "publishedAt": "2026-11-07T13:19:09.000Z"
         },
         {
-          "title": "Ex-lawmaker gets 12.5 years in Macao&apos;s first national security case",
+          "title": "Perspective: Simon Winchester was here to tell a story",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
-          "publishedAt": "2026-11-06T13:56:43.000Z"
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
+          "publishedAt": "2026-11-07T13:00:00.000Z"
         },
         {
-          "title": "Hiring jumps: The economy added 165,000 jobs last month",
+          "title": "This teen boy set out to get people talking about periods. He&apos;s now a Diana honoree",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
-          "publishedAt": "2026-11-06T13:49:21.000Z"
+          "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+          "publishedAt": "2026-11-07T11:50:21.000Z"
         },
         {
-          "title": "Judge halts construction of Trump&apos;s arch. And, Labor Department to release jobs report",
+          "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-          "publishedAt": "2026-11-06T12:24:52.000Z"
+          "url": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+          "publishedAt": "2026-11-07T10:00:00.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Army's Secret Cold War Plan: Hide 600 Nuclear Missiles in 2,500 Miles of Tunnels Under Greenland's Ice - Military.com",
+          "title": "US Army feeds culinary soldiers new job title - Army Times",
+          "source": "Army Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUHVna2pmNFREdHk2cXFuSUlJd2thTUhBbUgtdGV5aTZzN0kxa3NFMkF2UVduQldjSGE5Zmswal9sOEpVdDE5T3VyeWZwT0dUTllGekxPN2VJR1AtZzIyNzNUemI0amVLTzF3c1dERGZXZmxTQUU0aDF4R09rbWUtTEhMZDNjc3FHUW5PVlpNV2dZWlAwQzNTa2VZRmhZLXc?oc=5",
+          "publishedAt": "2026-11-06T20:43:37.000Z"
+        },
+        {
+          "title": "Iran’s army warns of possible renewed US attack despite reported naval withdrawal - Anadolu Ajansı",
+          "source": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0JiWS0yemJ1WmMtNUVjQ0RKTGQ1bGtWRDJiWGhWSGllT0s3XzM4NGd5NG5SZzdnbUVMWmNKVGVDT1lzMnlGZlhHbW9VVlNqWEJRemxVYWtrb3lrOEhqc3JIWmw4el9BX01PcWlTREZGdTR1RE0tYm5aYW42RWQ3RUZaNDNKR3pOUUJ2RmV6ZGlmUFBUUVh5dVZfNmVMSUtVN1dUSUpHdG5HaXFlNlJkWkV2RjdpZVFvNUxsQy1nVVdtQ1M2?oc=5",
+          "publishedAt": "2026-11-06T21:45:06.000Z"
+        },
+        {
+          "title": "Army Wants 14,944 New M8 Carbines. SIG Sauer Says It Built the Shorter Rifle Before the Army Asked for It - Military.com",
           "source": "Military.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHo5WDBHVENBLVFpLTMwMlk5cXNFNDdOUUhqVkNvR01aV3ZIdzhaLWtFc2dwSnlLUEF6SHJZTkVMMlVPWlZ1d25Ma0xYTzlqLWVuOXdvR3Z0NHFvWFpiLW5CRncxNHNOdWlTRnNEeUd4b09OQ2YyNGkwTkJ3b2J1emN3eUJKbmxVS2UycVE4OUpPd2FRSG9ZWlYza1BWZFNRbDJ4LUd6WWt0dUJDRGlIbWFuMlZNeDUtVVpJUw?oc=5",
-          "publishedAt": "2026-11-06T08:00:15.000Z"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamRFcmlhenBPNkFObUl4eGNheWFqeEZVQXJ0VnFlc25pM1d6azZ1NHBFWDJuNG1QUjdjVjFHcWR0czl6d083Q1UzakJuT0g5bm16VVNmREthd2xzZDZ4TV9KWmZBaUZPdk4tbGdFQ3VnUDZpQ05XNmdSd3phM0MyeHN3bGVvdW5TTE9UeUM5dUw4VkRpQ2hDSVln?oc=5",
+          "publishedAt": "2026-11-05T08:00:16.000Z"
+        },
+        {
+          "title": "US Army long-range fires make a splash on the frontline with China - Military Times",
+          "source": "Military Times",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcElnWEpWdnlaaGxhM0dXdDdKbDNnamtpd2JadjJ6WkU1Wlp3eHhsVUJjekgtVERyaFlMNUhzbEEyUDM5M1I3OHZsN2dYeFd2el8tWUpBdHlFSEhOVTdEVFYwRHpCSElmclhxcldqVTVEYlVDQXFMa1gtaUVDM3VhMWU3U05Qckh5Vi1oTnM4U2lFQlBNSnYybkxnTVhUeEVUb21NNjBVOVJFcmFpRHJUSjlubDAxaUNrV0l5Zzg5QVVndi1uVmc?oc=5",
+          "publishedAt": "2026-10-22T07:00:00.000Z"
         },
         {
           "title": "US Army successfully drops standard mortar from moving drones with new kit - Interesting Engineering",
           "source": "Interesting Engineering",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2pVaU40LUxvZ2k1NEZnM1pZQnYyY3JMeG52SkdKYldXLVV0RTRjUGFjS0ZYUGlFOHloQjJCRlNEcjRYcFkwcVJiN2lGVjd3TUs2VURieVV0ZHV5Y2p0cTRxclRQWm5KMndreUVVcHNnMHRfMTZKWDdQaDFhS3ZDZi1QZ2xGZ3NqbFVZ?oc=5",
           "publishedAt": "2026-11-06T10:01:00.000Z"
-        },
-        {
-          "title": "From journalism to the Army and back, Knox News reporter finds his mission | Opinion - Knoxville News Sentinel",
-          "source": "Knoxville News Sentinel",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLWlTZVNMQ056V2t4UHNVYlhjNmZ6T2ZudGFDVlhCVWRLdzUyX2RHM0k3MWw3aXZESE85aWd5aXhCWk16STdOVk51ZkNGSFBoVlRLUG9ERklEWFZDRUlieUZJVDZta1NZZ3Z0SGdjd3dWdGdMTzNFX1FFYjJIb1IwdGJKUU5Ma1p6bDA2WXN0M0JiTmlTWTZPLTQxSzE2bjQ3SWpIa01ETDVsTlJfYTN3X1N5aG9EMmlicWdXdkZzcFgwa2VraEQ4czZQcWtpYXd3N3c?oc=5",
-          "publishedAt": "2026-11-06T10:02:00.000Z"
-        },
-        {
-          "title": "South Korean police suspect 2 US soldiers of smuggling drugs through military mail - Stars and Stripes",
-          "source": "Stars and Stripes",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbl83NHV3TU8zaVhPTU9nVFoxVXpRNmRpWTUyWHUzbnBlaENhaElGaDNRdVd1UGgwQm1MSEZxV1dwYnQ5WGRMakJoMi1NblFGWE5KcFU4eUEwVklEelhHb1FwMlpoaG9GcVA2TEZBWFVfTXF6X0JqMjU0VnhmNUY1dGpNRjZqWDhRdk9BeUZnc1hTdXY1M0tIbmppeUdOV1dwY3pPRnVZZ2FYZDR2clE?oc=5",
-          "publishedAt": "2026-11-06T03:41:48.000Z"
-        },
-        {
-          "title": "Rep. Mannion Presents Military Honors to Utica Army Veteran - WKTV",
-          "source": "WKTV",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeXp3UmdaaU1kd29VSlEyQkYwVVRmRjRRaEpGdEFJN2hMY2I4bnptZW95WmNyS2ZrdmhwWDNCeUVhUkJPVWxKaFVlZnhMRVl6LXhNNWRjaDB3cC14SVNmTmhUYXl4aDVvdlJjSnhIdVB0UTFXU01Fc1loUXUxSk1JOHZVYU5VWkd1Uzg0UmpseEYzVXNxaVZteXpfeGlIX3Ayd1hydWV5UWV3eV9JWkwtbmJyNUNnZFMzWlNYXzE3aWlSZlRKdm1rd3NMSDR3UlE2LXEyNmw4VQ?oc=5",
-          "publishedAt": "2026-11-05T23:21:00.000Z"
         }
       ]
     },
@@ -129,34 +129,34 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "A West Point cadet drugged his girlfriend to force an unwanted abortion. Then he graduated from Cornell - CNN",
-          "source": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Zem5fZGhPcDN5cVZTMDJxUVhkWHI1ZFkwbnZnUFZhcWZOeU1BTzB3YzktOWVDQkNLb3Jfc1U5aUNyOHc1S19XM3cwRXBJdEU2X3lnd2oxbHhHdi1GTnNCODRJM3I5ejd6QnBKU09vZk50RnRvTktUTnB6VTdEZw?oc=5",
-          "publishedAt": "2026-11-03T11:58:26.000Z"
+          "title": "Former West Point cadet sued for drugging girlfriend, forcing abortion - The Korea Herald",
+          "source": "The Korea Herald",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56blBhek5PSTNhcWVCamxRSG1LcE1hXy10b2RBTFlXMjh6OThaTng0blV0OGpBY0VfaGZJcU5YQkx4ZF95RXo2Q1JHMmJYV1JSX0tNUThhMA?oc=5",
+          "publishedAt": "2026-11-06T07:53:13.000Z"
         },
         {
-          "title": "Former West Point cadet sued for drugging pregnant girlfriend, forcing abortion pills into her body - NBC News",
-          "source": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3I1akVQVVFjeHJDdUZ3Q0FSZE9fZDBLRV9JMGx1amZpQUh3SFA4R29XMnI4aU1TQkhvMWl2WGtvRjQ4SVUzM2FISkVzQkxsbUpoSXZvNVQxM2hKazM5SzgxaXhwY0s1ZW82Y0Q5QVFkWUhnNGpRelE4Ry1oOW5zY0d6bHk0T1RYSGFhSTVmd09YQ1JHODRYeE01Q29MeE1jOUhyZ2d2VkZsSEdRbDdsNElzZnpMc3RZX2c?oc=5",
-          "publishedAt": "2026-11-03T18:00:03.000Z"
+          "title": "Army West Point Lands Futures Runner-Up Robbie Doolittle (2027) - SwimSwam",
+          "source": "SwimSwam",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmJiOW1KZFJPWm5WYjAxSFQ2Z1VtQmdRZEdHSWEzVkpya21nUEY1SjgxRTRNd3NLMDlvUExXaWZGNEFLc09pVnRkaVRfSVlzLVVXVnE1Vy1OeWZ5QW51ZEIxZHJWQ3liM1VEakFHeFR4LTVPODEzQWNoS2h1Mm5jSDNPTVNMNTdjNHJN?oc=5",
+          "publishedAt": "2026-11-05T12:23:35.000Z"
         },
         {
-          "title": "Former West Point Cadet Sued Over Secret Abortion Pill Plot - Newser",
-          "source": "Newser",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDNFa3Y0UjhoSVhic0VZTzlqdDZZSlR0b3hvZm5DY3lCeThEQzhidHBqUUVxNjJLWXhJNV9ZcmUwQnhaMW5uSGI1c1V2R3hJV2hMdDVtajdjZEs4a1UxWlBjWnpFWEdscU5pMHJoUUswMzB2SHRLaFoydFNpM0tVNDd4OXMxWWU3WWRzRUNKdnRUWEd3YUpScWdQS2lfWTV2?oc=5",
-          "publishedAt": "2026-11-03T07:00:00.000Z"
+          "title": "A West Point cadet drugged his girlfriend to force an unwanted abortion, lawsuit says - ABC7 New York",
+          "source": "ABC7 New York",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWx5Nk5hLWF6T2dhWWFSOFdXU3paMEdQV3ZkaThvUGVhT2M5blQ5MWZ6Vkp4SUJYWDNMNWpWaXRGZmxHMmViTlRDcmtxTEdfUzZXSFkwYjl5Zk5HN0d4a1pPb2NkZ000bXZ1aW44VnQ5c25HZFpOWjFmLUNYYlVyNFlMMlQyZE01cElhME1LRzlfOFJ3Q283SE8tUXJWUkd5WW1Sb0VHN2tkOTRQcF80RDY1ZlBTdm11Z2RVTE01QVgwdHVsekE?oc=5",
+          "publishedAt": "2026-11-04T23:52:18.000Z"
         },
         {
-          "title": "Ex-West Point Cadet Sued for Forcing Abortion on Girlfriend at Academy - The New York Times",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFBBM3VUWTAxVGtwbV9xWWQ4SzF4Z2lRLURYRUNZRzJyZXdKM1FMQ0NKaWo4a1FRbDVlbUhJQkI0Vm9NQlA0UU5hdkRFRWloaXdVYlNmVk80c2t4RTRVT2djaTNwVnN3RVBBNHdTNzdsWXhVWG1nMzBJYzQzSUNUdlNJV2sxbHMtb1NVcXlJemU?oc=5",
-          "publishedAt": "2026-11-04T08:00:00.000Z"
+          "title": "McCormick Names 35 Advisers to Military Academy Selection Boards - MyChesCo",
+          "source": "MyChesCo",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONGpQY3psY2JiXzNqYTQ4cTlCbTZ1MUFIUUJRMF82Tk8xWGVaWDRXTm5WYTdGX2JLSVVwVTZGTDlfTGxMdUE2V3J1R1Fzdlpnd19QUUhlNGMtSktIaVpCTlBDalIyOV9UaEJESzVfWnZETjNYcUVlSjA2Mm90YXYwMjhTZ0dGTTkwTllMakhuZGF3Rjk5RjI0QkpEbm14aW5oNEtjTkdRV2NPQQ?oc=5",
+          "publishedAt": "2026-11-07T16:24:16.000Z"
         },
         {
-          "title": "Fox Sports to honor America's veterans with NFL, college football coverage live from West Point, Annapolis ahead of Veterans Day - NFL.com",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdHd5ZjFGWjF1WERGRW9OekN1aUNtSGlmUnZrWE1TTy1rbFlVZ29PZzI3dGpzb2RRYWdZUnE3dXpCWTJ2WWxmVFVSaXNnWVo4V29lUHROY013NjdYVmJIZzR3N1R6ZVpINlI5SE9GN0pEbktvSzNTSFJTcEktSXFxN1E4dXJyVDBheHpCLTJSU1N1TkdJckpFeFd6N3c4U1pmUzBtaUh6dw?oc=5",
-          "publishedAt": "2026-11-05T17:11:44.000Z"
+          "title": "Fox Sports to air 'Big Noon Kickoff' and 'Fox NFL Sunday' from West Point and Annapolis - Indiana Gazette Online",
+          "source": "Indiana Gazette Online",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYnZTeWpFdWd6aDJ3VHFzQ0pocV90enZTclk1TGdQTHZRT2VSakFKd1NXdzFhLU9ZMUdkSTQ0Zkg5NTh3NzhkTUY3MzQ3Zl8wV1BIb3p1Ti0wV1ZraGRpb2FqTUx0eHlLR3VqekhiWE45UGdoaHdXcy1xN2JnS3RhaTVUVmplUk55aDdBUkE4LWhweXc0STdmelluSmdINzZCU0drWXI1S3lZUW1GUVFNdDhXVndrY2dITWd0SHVJV2NQOFlfRVZ0WWdnQVpneTE3R2hNcVFYOHF3NmgyNS1DaXhUTFR2OWZxWHBMLWh3OFhSUTQ?oc=5",
+          "publishedAt": "2026-11-06T18:39:00.000Z"
         }
       ]
     },
@@ -167,34 +167,34 @@
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Fox Sports to air 'Big Noon Kickoff' and 'Fox NFL Sunday' from West Point and Annapolis - FOX Sports",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXZhNlhNdWwyZDhocExRdWxqVnVfZEtpbm5tZGZSMGFYcm02N2ZPTEFsZjVIX1J2bU9VSXR2X3F0Rm90ZUwxZ3hLUkszb3dDOElXdjRGU0JNcTAzSWp2elNiMjN0cThJYk9tV1hIb29BLXhYeXY4UVlYQWJ3ZEhhQnhGbFZ5N19Nc0FucDZaWnFkMGpueEZRVHUzU3VRZlMzbDl4dFhvRnFkMGtnVkl6SkVMbVphSV8yZUIwQWxEMA?oc=5",
+          "publishedAt": "2026-11-06T18:39:25.000Z"
+        },
+        {
           "title": "2026 Week 10 Preview: Air Force Falcons @ Army Black Knights - Yahoo Sports",
           "source": "Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SVHpCbWhZRy1ibUF1TURZcllwV0dZQ3FBbW84NEZfS0x6T1M2Nk5wQ0tUWnJwWlQzSTAzTnFwSlBnYnFIQnEzRXZZSmoyUFo3ZkxMS0ZPS0tuOTgxQ0UtVmtEeXcxREQ1a0tPclFvUzcwTWVaRVI1ajE1YjhuZw?oc=5",
           "publishedAt": "2026-11-06T14:00:00.000Z"
         },
         {
-          "title": "Experienced Army men's basketball team may make move - Times Herald-Record",
-          "source": "Times Herald-Record",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGJfTlF6NWdSY3AzVnpwM09JVWh0a1o3X2xlVExjbVZOek1acm80aGUxV0pTenlTMGVLRTVkMVpVN2haazlCdGpCSXE1Y0xwb290NkFZSVZ0Q3FWaG1uVEdGN19UeWoyZEpzZzZ1T1NHd3JDUFlXZ043cHBVclZLaVptX2tpY0t3NFp3ZEJBUEszaGQwSEVEOFRjVDRsd0xKYVFHQURFcEU2Z0ZrZFVEclhYVTB2RXFa?oc=5",
-          "publishedAt": "2026-11-06T04:48:00.000Z"
-        },
-        {
-          "title": "Army sets the program's single-game points record in 118-41 win over Mount St. Mary - FOX Sports",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWVEMzhiZ3JXajdjVnk5QTYzN2hUbTBkRi1MQWRnWkFpNENrZ0FLNEswcnlCYW9rN2xDdURHV0EweG5tUXhSNFJDQ3kwajJTSVd4b284R09NZEhqOExzMjZnZkJQR1RrUUFMUmk1YTBqWHMwNjBROHlMTFo1YXNSUjVoeVlpaElKYzZrTnFUMExpbE5xbWxyaFlKa3h0emY2X0Y2dWdsbmZzNGQ2MzdyVjdyRmg0OVlUQVE?oc=5",
-          "publishedAt": "2026-11-06T03:14:57.000Z"
-        },
-        {
-          "title": "Army West Point Rolls Past St. Thomas Aquinas - Hudson Valley Press",
-          "source": "Hudson Valley Press",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGZqVzhIMjJ2Y0RLTzJDdzEyX1UwYk0tMFZld2VrU1d5Y2VEMjhFRjdHQ3NqaWdaX3pobXNOTlp2MGh4Rk1adEpxa2l2T0NVOXFjU09CVkdTUzZTc1h6a3RoWVVZOVNxRnRrcEt5ZDg4d3A3blZyZ0hwWEk2SzFVdDh3SjBra0JFWFMxN0NwTQ?oc=5",
-          "publishedAt": "2026-11-04T05:03:43.000Z"
-        },
-        {
           "title": "Army West Point Black Knights vs. Duke Blue Devils Live Score and Stats - November 2, 2026 Gametracker - CBS Sports",
           "source": "CBS Sports",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNVFvaEVDZVVWMjE2ZHM3cmZMLVY4b09zTVd4b1pJTmNfMThYNXAyOGlfQVVnc19QNzBIc29XSzNSeDJTWFpIMFQta0otMG5BMzVxSmNSOElHYVNJck9FN1dMM0FHZnY5UUtjb2p3NEVGaFNvS3VBajNSWmhDOEhnb2lCaWFxR09NY1NTRTljZWs?oc=5",
           "publishedAt": "2026-11-03T02:16:06.000Z"
+        },
+        {
+          "title": "West Point center pumped for upcoming season as co-captain - Spectrum News",
+          "source": "Spectrum News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWJ2MHE2cEJqZkRMY3AtWmlXT1BqZnhhY0tsbXhTWE52ZTJ4SnRNX0gzZHl3YXNUMUVORmV0VW5ZSEpNTy0tSTluOEVuY3RPeHNfOGdSb2VPM3hLQ0xrdTBDbnJnTHk0NVNTeDM2M0RyQWVpRlJpaEh4T2djMnZMZnZYbzc2Q280T0xHNVY5V2R0ZnN4SG9pMlN2WHZnclZIRzktRVpwQlBEUVNJMDZubU1pYVRNNUJkVkJn?oc=5",
+          "publishedAt": "2026-08-17T07:00:00.000Z"
+        },
+        {
+          "title": "Men's Soccer Opens Patriot League Play Against Army West Point - Boston University Athletics",
+          "source": "Boston University Athletics",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1JmcHV0VGtZVnJKLWk5MmJaTTNxMVVrSno1OUhfcDFpSUdVRlE0UGVpNGxEZzQ4bzhkNG9JZjVmWm1jQTdtZFZidUhMdHJXdkpMUlFKQmJzYUhwUkNES2FjS2JoR3BjcVQ5QVFvZU90bjdlU0pBb0ZCNktxOW9nZ2lvamZocHYyVzUxb0wweUlMM0t2aU4tbnNxdERXdkxp?oc=5",
+          "publishedAt": "2026-09-11T07:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Steelers Slide in AFC Standings After Thursday Night Football - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVdvMmtMeUZiZzdRb203MWhySDBtbXBDNExCRnRWX2hLNzNTN2RoT2JCTjlLQUROVjE5dkd1VHlSSjBlQTd1eFVGR0RibHBJYjRkZ28xR2VzNXE0aXk4bUR1Qm5jWDZNZXEteUN0WGlqZ2pGa28yUGsxWGlSNGlRTTdsSllSV1JqeXdaaWRrVQ?oc=5",
-          "publishedAt": "2026-11-06T16:54:32.000Z"
-        },
-        {
-          "title": "Ex-Steelers WR Antonio Brown Coming to Pittsburgh for Fan Event - Sports Illustrated",
+          "title": "Steelers Trade Rumor Gives Cowboys Potential Target for Addition on Defense - Sports Illustrated",
           "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkI1ZzJPRk9FVmlPM2lMUmhabHF6MGthZUo0WlpFN2szWWZIR2dlN2hsbzBHV1BReFZXNWhzZURHajZRUmpDWjdrZ0tIS2x0emo0Ym94WUFlaXktSzk4R1RWTnpnQ0NTeGVSTVR0VXJvdG9jeHAzMnM1YzhkemZyWW5VNnBISlFhT0NSYWNaMlA2RDVn?oc=5",
-          "publishedAt": "2026-11-06T16:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWjQ2SVExaUVTUFJjNEJ4TE9IZi1LZWxLbmR6dzNVOHhvZjYxUGZzcVU3RHhwOC1EVjk3b2M1eHVHOUZ4NnVIQ282TTlxME02NGRSSFJ4TEFPazJJWlpvbzlzNXdWanRmLVItWGEyRVdSX3JmRHJadU85OHJMSzhrcGRtMDlfTGpkU01tY3p2SVh2bW5Ec2FneXVvcmRUWm16NkhKZ2pSSXAzNkE?oc=5",
+          "publishedAt": "2026-11-06T21:30:00.000Z"
         },
         {
-          "title": "What has gone right -- and wrong -- for 10 new NFL head coaches in 2026 season - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVpxUHFiTExZRWxXQmlMcV9MLW5VTjBORlNWTmRBMUNrMnZjTTRKTC1POXcwMnVCMDVTbVhoR3VOVndGMmlTR1VvczNQV1hmZnZDNWxvNkx3RFNZU1FZSzRSSHhPOTVrQy1FdTgtV2M0LXBGbGZQT05GSXlQejVVUHVQam53NUVHbnoxdjctbUI1THNnNG1sR3RB?oc=5",
-          "publishedAt": "2026-11-05T11:30:00.000Z"
+          "title": "Steelers get trade update from ESPN insider - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFNiUEdvb3dUYXBidjB4QUdYODVmVm1jT20yWkdFVEg4X0czblVnNXc2ZXlQenpDVDFhZ0lTV3YwMWRpQTJaS05mYW0yNldFTnF1RWtzNGdTcWdYNXY3QXZBTHlPUDcwWEo3UjBzaGYxd3lGMXE2bFVKUEs5X0wxNnN3?oc=5",
+          "publishedAt": "2026-11-07T10:05:43.000Z"
         },
         {
-          "title": "Temperament and personality - Steelers.com",
+          "title": "The price isn't right: 3 WRs the Steelers must avoid at the trade deadline - Still Curtain",
+          "source": "Still Curtain",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbUZhcVNZOUdqR0Z2Y2VEQXZ4dHZwYzZLR081OEVwZUQ4bHoyaENPVG03WHkwSjF0dlNKZ2hxSENBbkkwY3ZyTlh2dnF4RkFDeW9KSzlPVVF1Q3BjR3R0bnNWUGJ5X1dOR2ZhbkNkX05iRGhIZnlCMVoxd3B3NF90cFoyNjg1djhhMTdUQ0NBSkVMR3hMWGtyVzI3MkZhMGhTVk5DV1ROMTlzd0R5RXJRWHBLSEw5RXFEdkpNZUlmdw?oc=5",
+          "publishedAt": "2026-11-06T17:01:28.000Z"
+        },
+        {
+          "title": "Heidenreich to wear Marine Corps helmet decal - Steelers.com",
           "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fZVFFQS1xblRLanh4VTY0eGw4dE5IUGNWR3hLNDNVYUpiMUdYZGFyT2J6Y1MzMXRua0QtRTNyT3BQN2FWSTJBSFVVUmRxODVuQzJaNFNnVVZFTllXa0xaV3VBbW1ZX0Np?oc=5",
-          "publishedAt": "2026-11-06T13:04:29.000Z"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQkZRZmozN2JraW1jYzJQeGlPUFJ4NkpCMkxtcTRBS0hSaW5yWFBUWjdkTklJdEFlX2l3NDRtdmw3cHBERVRrMFF1dXRUN05UZmRzUkJTdmVqTGNlU2VIZFF6TDlvRlE2Qndna1lxbFBOYVIwdUxSLUhpSDBRV2xsbQ?oc=5",
+          "publishedAt": "2026-11-05T18:28:50.000Z"
         },
         {
-          "title": "Jared Verse unleashes stunning criticism of his own Browns teammates after brutal Steelers body slam - PennLive.com",
-          "source": "PennLive.com",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ29hNUdXbC1McW1MVzVvTWFsLVJ5SnhYeUpoQjBSYmRnNlhvYU1veWFfQThic0Y2djhCclpFNGpRV1FRU2tGZ25GcC1peFhGU0tiT2t0S0F0NE5qTEcwRjUzTm5CMEVxRDN2ZkRUdTkyUmwwZ0NmSUNlMXFpY2FRZUp0Y3hBM2RSSGtFd1laeElPa0IySmpjTnJGSU9ZTVdYOWIybHNING1OYUZiR2UyenpOdnRFUlpkN211TWNURW8zVURwczBWT2hyeVBBcEdMOEUxQndiQmZ5N3dESVQwTg?oc=5",
-          "publishedAt": "2026-11-05T22:29:00.000Z"
+          "title": "Judge accepts former Pittsburgh Steelers star wideout Antonio Brown's plea deal, sentenced to probation - Fox News",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcEE2ZDV2WHpGSjl0aTZVaTNLTnJkQkVoaXVDbmhRMkExZFJ3aVRhVWU0QUxtVjhmN2djRzUwaHBjVHB5aDZCbktrTjJhaTVmdFlxbGg3REZUaVBfb2pZZmp3VklWZEx1UXhWYld5SlVESDFKM1phMWl1MXVxcHN3TXM0ZE9uT1ZrYlVwUV9pMzNFVm5hSFpuS3ZseTdfZjYzTmZhaC11N3p4WWx3WXN2cnNZZXB6TWJQXzNwa3NyY0FYV3JxcGNtQW1ub3Rtc0dZRUE?oc=5",
+          "publishedAt": "2026-11-06T18:01:42.000Z"
         }
       ]
     },
@@ -247,6 +247,12 @@
           "source": "Big Country News |",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd3VFNkFxTWVobS1CSUJVYVN5c3Z6VHFwNjJ6V21WazFwOGoxTXdWZ1AwZ1NLVm5qVTdOYkZ5Nl9RVlRtZFdoRm5mMERQNEZ2TGVhMEl0OEJ0V2dZZkhELVppSG1tVzFDbDNxU1JoQjc5elkwdW04aFFISkNWN05vWk1iTmxaVHpyOWtMMGVWZHd3SE9qOVE?oc=5",
           "publishedAt": "2026-11-06T11:21:23.000Z"
+        },
+        {
+          "title": "Vitabeats Explore South Coast Belonging With New Single Your Country - Noise11",
+          "source": "Noise11",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWDV1emRMRC1hLVRNekpTcnBuekNTcU1uRl90LURCa2J5blBDYTEyN3NvNlZobUJzTGxmUmdkZlRpR0RLRjF3bWJXXzNsS2tHUWJiR25BUV9QLXpVNG5TUGExbE55TkJUX1A4VHpRei1yajliZnB6eEJ0TEJqQU9PWkdxeU0zZGFoVi1Nbi16SkJjZjlrSWh3WTZRSE8wQXhGX1FZNzRqZ1ZqQQ?oc=5",
+          "publishedAt": "2026-11-07T03:39:38.000Z"
         },
         {
           "title": "Miranda Lambert to release Amazon Music ‘Songline’ album and film - Big Country News |",
@@ -265,12 +271,6 @@
           "source": "- Saving Country Music",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2tNX0pFRDBZRnQ3QVNWSGZ5bVhoVXY1RTBsYW94MF9sQ2N2U0xSZHpYODJiaUZQVzd5NUZ5akdPZEpBRmc4REVIaEZJTHVQYmw5aUlkbDVDX0dYY1JmYXhjRDVBRG1KeWF0SXBabDYzd21FV096bVlvVUF5RTFDeUg4NS1XSXdkRVViSnRMRHhUNlZwUUJra2FfQmw?oc=5",
           "publishedAt": "2026-09-24T07:00:00.000Z"
-        },
-        {
-          "title": "Country music star Riley Green keeps momentum going with new single ahead of September album release - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3NwZTl5clRMNXZpT2xQcDlrd1BKY3REUS1xTmRBRE5YcDZJdVVfRUFnMUtEdnJHZm93aUxUZ0FMRXZ0aVFZNU4xZ2FoTG1mOFYyVnVSWk50UzBpSUpjcGpjUnhUaXE1ZXlUd1MzTXg2ZDExTVZlTnNpcEtZVklBWFMyQTBZd2NDMUZlOTlxTFV2UWdMSXMtQWk5WW5KdzNMRVh6ZndTRmNZU3cwN25Tc3FWamdySE1KYjFBN3FydU9QNkFD?oc=5",
-          "publishedAt": "2026-07-31T07:00:00.000Z"
         }
       ]
     }
