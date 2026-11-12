@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-11-11T17:54:12.531Z",
+  "generatedAt": "2026-11-12T18:20:16.474Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$761.20",
-      "change": "+11.28 (+1.50%)",
+      "price": "$760.39",
+      "change": "+0.58 (+0.08%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$523.42",
-      "change": "+1.68 (+0.32%)",
+      "price": "$525.41",
+      "change": "+0.97 (+0.18%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$694.14",
-      "change": "+19.38 (+2.87%)",
+      "price": "$690.52",
+      "change": "+0.14 (+0.02%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$354.58",
-      "change": "+6.07 (+1.74%)",
+      "price": "$355.34",
+      "change": "-0.02 (-0.01%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$521.28",
-      "change": "-11.88 (-2.23%)",
+      "price": "$526.93",
+      "change": "+5.80 (+1.11%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$392.51",
-      "change": "+12.73 (+3.35%)",
+      "price": "$391.37",
+      "change": "+0.55 (+0.14%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+          "title": "Democrats want to stop Trump&apos;s arch, golf course and more. What are their options?",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
-          "publishedAt": "2026-11-11T17:23:10.000Z"
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+          "publishedAt": "2026-11-12T17:13:54.000Z"
         },
         {
-          "title": "Kennedy relatives join the fight against Trump&apos;s arch, alleging harm to JFK&apos;s grave",
+          "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-          "publishedAt": "2026-11-11T16:59:32.000Z"
+          "url": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
+          "publishedAt": "2026-11-12T16:20:04.000Z"
         },
         {
-          "title": "What&apos;s behind Democratic Socialists&apos; historic victories in the midterms?",
+          "title": "D.C. shooting leaves 1 person killed, 4 injured. Gunman dead",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
-          "publishedAt": "2026-11-11T16:41:48.000Z"
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+          "publishedAt": "2026-11-12T16:12:53.000Z"
         },
         {
-          "title": "Following big Democratic wins, these swing voters are looking for results",
+          "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
-          "publishedAt": "2026-11-11T14:19:42.000Z"
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+          "publishedAt": "2026-11-12T15:26:34.000Z"
         },
         {
-          "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+          "title": "Indonesia&apos;s VP resigns as his eligibility and academic credentials are questioned",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-          "publishedAt": "2026-11-11T13:30:00.000Z"
+          "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+          "publishedAt": "2026-11-12T14:22:50.000Z"
         }
       ]
     },
@@ -91,16 +91,16 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "American soldier arrested on suspicion of spying for Russia - CNBC",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb282MTNtOGV3Q0hfeW9ZcWFodDgtMFdGQkRGUmtlOVdLVzVUQ013TGl3UlRDOEJOQXlnNWgzeFZkU3doU3psekwtSUw5aGVSWjUtazlmR3B3bVdGS0t2SVBIRDIxT21YM0dubzZhczVoTl9yRUV3QzRJb010NFU4MGtB?oc=5",
-          "publishedAt": "2026-11-11T08:30:43.000Z"
+          "title": "US military - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92aEIwVEN4UGx3M24wdGFnTkJDV3dySGVYc2RKcThyTnVEWC16d0UyRzFIcUhSdER1THVyMGhUdTR1YW1SWDJ5QmhmaFFZY1lvWlp1VFh0LWM1S2s?oc=5",
+          "publishedAt": "2026-11-12T16:08:58.000Z"
         },
         {
-          "title": "U.S. Army officer arrested in U.K. on suspicion of trying to steal secrets for Russia - The Washington Post",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV0ZuSmdENDlES0Z4TXdvbHMwdk5IUE5jbF9IalBrbFllVEJtbWRINVFyNzBUZVZ2YjdZdk5HaUJ4dHk4eHhxRnhVREUwdkhld2hDYl9DbWlWQUhxZWQ5R2xxUFJsOHh6dDRkOHFQUWpLSnlPLUZEZXljMGdTWExQWVZKT3dtN3BYMmc2Y0JPV19BdVBtYlhlLS1henREZUViWFBEZ0ZIZ0VsTHRacTU4MzlYbDE?oc=5",
-          "publishedAt": "2026-11-11T16:49:33.000Z"
+          "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group - BBC",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xS1l3eVdMTDdpeVFYejJObnEzZ1JHYjRVckdPbXdSRjJLdGV2SHlQZzRpcklOWlZSZS14dFlHRUp0aW91VDNsOU9iNWpKRGYxQkJ0a1lWam5SZ28?oc=5",
+          "publishedAt": "2026-11-12T16:52:53.000Z"
         },
         {
           "title": "Senior U.S. Army soldier arrested in U.K. on suspicion of assisting Russian intelligence - NBC News",
@@ -109,16 +109,16 @@
           "publishedAt": "2026-11-10T22:45:45.000Z"
         },
         {
+          "title": "Court-Martialed Ex-Soldier Accused of Faking Purple Hearts, Stealing $81,000 From American Legion - Military.com",
+          "source": "Military.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMElxWUlwRnNZU0hfYl9rQUIwYXBvSzE0dEx2elBTcUlqX1JoLXA2TXA2VzVGWlJadnFRWmVDX3AxeWR3Sk1Ed0dWeXFtcThjRFdRNGRQeUpmbEFZN1V5MWk0TF9TNDhsd240VWxzV01LQkc5aHZ5UC1oZEVoY1JnVG00TWI3aDVxNERvUVhuRFRBVEpvZnZ5SGZrNzk2SGp0Y2dfaUlCNmxucWtBU3ZfX3lsVQ?oc=5",
+          "publishedAt": "2026-11-12T10:00:16.000Z"
+        },
+        {
           "title": "US Army member arrested in UK for suspected 'espionage' for Russia - Reuters",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT0hNNGY0T0RDZVBLMGZlOW5iREJOMXN2VEt6VGV4aEo4Y2JoejZOa3VJMXJicWRvaUtnNE9pTG5iMzNfbGlpQjZPRVc0SW9zV0xiYjJJLU4wTW9OY25oUE5uMkkwRkxtd2NlOUZrVnJlVUVPX1ozcDdmVlNwbEh2WWxqSmNvRWZvTDF4X25jWURpUzFHUFAxWkNvUUtYbnhuLWdKZFIxMWxLS2tfWUY4?oc=5",
           "publishedAt": "2026-11-10T20:04:39.000Z"
-        },
-        {
-          "title": "US Army soldier arrested in UK on suspicion of espionage related to Russia - CNN",
-          "source": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUlBQaE11cnl4a0VjOVp6cHJyRGNLbUxNTHg5dXNlakpXRTJuWjdjVF8wTUFBY0xUS1dHQXhiYjdWcFh3WnM3Yjh4bUJFaERJQV8xUjRUVFhEVmxISWxYaEVSOEVGQ0Fac2hMZU9QVDFyc0RaWjExc2ZGNTBDaEY1T3VYVnNLRWwtSG8zQmYtVQ?oc=5",
-          "publishedAt": "2026-11-10T19:20:39.000Z"
         }
       ]
     },
@@ -129,16 +129,16 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "What's it like ferrygating with Army football's newest fans - ESPN",
+          "title": "What's it like ferrygating with Army football's newest fans? - ESPN",
           "source": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTm5mVU9zWHltSmxLcTQ4clcxcmZIcW5vRlhjaVlOZ0U0UTlQbUVQMWhTUHdhWVVGNDVqMzR5d3AxUndvVFdVS1FnNHhsTzB1MHRSanV5WHQtalNDbWE3aTNIRTZzVXBiVDdzbGY0cWZBQTEtVkhWel83XzhGWENYUzhkYUxOeVFHVDlxNHFFWQ?oc=5",
           "publishedAt": "2026-11-11T12:00:00.000Z"
         },
         {
-          "title": "Army to Honor 4th Infantry Division with Ivy Soldier Uniforms - Army Navy Game",
-          "source": "Army Navy Game",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWW5vSkV4d0VBUGZNN2ZWQk1acHFOb29yWld6a0JUWDQwNGcwYnpsZFpBU3JwWkxzMGItOEw0ZVJWVHcyM0FZSzB1OXBQYXFRUHJMV2ZFc19JcTFLZllfQ2lIelJLQmVmNXdRS1pNdUZ3bU9URjdjOHJmSGtQQ2Q5cDA2c3IzSDVJUTRtdzJYVVBKUzJjV2M3bXU1YWN0dU85X1ZB?oc=5",
-          "publishedAt": "2026-11-08T20:20:47.000Z"
+          "title": "Ferris High grad Kathy Ann Funk went to West Point 50 years ago. Here's how she remembers the first class of women - The Spokesman-Review",
+          "source": "The Spokesman-Review",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3Y3ck5xRS1XYWpIanY2M1B1RXdmOUtjUTRMTHh4MmU4UUE5RTNCSEczbTBsU193ZTlSSnVOWTY3NnRqTVRNVDN6amd1WDN3ZzlTMVNwQzdSd3NXVm5WN1RqaUFJZmJ0dzhKbHZzSHd4NGxUeGcyWDVvLWhkaS1nc3JWU2RvZlBHcHVJazZCQnltVnZkUmktUDlBZGRKUQ?oc=5",
+          "publishedAt": "2026-11-10T22:25:00.000Z"
         },
         {
           "title": "Former West Point cadet sued over alleged drugging, forced abortion of ex-girlfriend: 'Horrifying' - Fox News",
@@ -147,16 +147,16 @@
           "publishedAt": "2026-11-11T03:32:40.000Z"
         },
         {
-          "title": "A generation of veterans is ready to lead. America needs us. - Orange County Register",
-          "source": "Orange County Register",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEpybkliTVhQNE1OaEl1ZVN6OVprVzRmSjJWWTlSX0tHNWc3V01neGptb1F4d1hFQVRnd0dvYU1sRi1RWFl5d183NUxwSXk4TFRCdGpTOHlVaHBmaUo3bnJFbHRoOXV1b2o3Nnk2T3plS1RrZzZXblRHQlFhTGNqeGZpeVJiX1BmTlg2QkhfaUpDZndvWmhDcVI0UW5yUQ?oc=5",
-          "publishedAt": "2026-11-11T14:00:42.000Z"
+          "title": "West Point Class of 2027 Cadets Named Goldwater Scholars - United States Military Academy West Point",
+          "source": "United States Military Academy West Point",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc0hEcVVhSkR4RDBCU01BU1d5RnJXQmw4NWJ2RHlOVjBsQ1FZVkpJR3NiRVBBeF90UGtBM2V1S0pFY1h4LXJnWFRGQ2NJOFJVUlhIbFNibzVKSTU2QnljR1RpWEY0bFYzZElOcUtzcFV6d2lRaFVaSFJ5dHVHT3dhemd0VUdSOFlaRHpQUklBbU96Um9Cd3pfTXhmLXNNYzRCVlAtbg?oc=5",
+          "publishedAt": "2026-11-10T14:19:58.000Z"
         },
         {
-          "title": "Ex-West Point Cadet Sued for Forcing Abortion on Girlfriend at Academy - The New York Times",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFBBM3VUWTAxVGtwbV9xWWQ4SzF4Z2lRLURYRUNZRzJyZXdKM1FMQ0NKaWo4a1FRbDVlbUhJQkI0Vm9NQlA0UU5hdkRFRWloaXdVYlNmVk80c2t4RTRVT2djaTNwVnN3RVBBNHdTNzdsWXhVWG1nMzBJYzQzSUNUdlNJV2sxbHMtb1NVcXlJemU?oc=5",
-          "publishedAt": "2026-11-04T08:00:00.000Z"
+          "title": "The Long Gray Line Remembers 9/11 - West Point Association of Graduates",
+          "source": "West Point Association of Graduates",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53SEZEdkplSWhsNndLX29uYlVJbkVWUnQyNUxzNHp2U1VWbGxLdUtCV3htU1VJanBkSUlSQmlwSUFzXzBWM1F6M0NYbW5OT3phWmt2bi1ua1RkUEJ6M0xTZ1U4clhYVUZIU2RxcE9ZallXQklaSzlv?oc=5",
+          "publishedAt": "2026-11-11T13:00:00.000Z"
         }
       ]
     },
@@ -175,14 +175,8 @@
         {
           "title": "George Mason Patriots at Army West Point Black Knights - WNCAAB Game Summary - Nov 11, 2026 - USA Today",
           "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSUE0S2RrWXNNdEFpcVl3VTBIYmVDX3ltQTYtd0NHWDI1MXpmQXRWRXBtdk1GcTdtUlhFSi1DOXV0eTVQUkJsbjBsaHJHdlZLcEs4MXhSNF9EMnJrdjRVbDdrOEFhMFZUemFoeFY1ZmVHeWNBVDdVZlQ0a294SkllSm1WeDRZamRkS2ExUnpKWk5UejJsSVBOQmxYZ1VzREtrNGlxZzZLVTdDR1BhSXo2UXNfa2VPbGtBRWY5Tl9rLXFMN0dncG9wV19meHN3X0V2Y3BaS3lBQ2RfWUM1R0RVY09LbkxqTDY0UVVnZHFGWWd5d2R2Wmc?oc=5",
-          "publishedAt": "2026-11-11T16:04:49.000Z"
-        },
-        {
-          "title": "'We Know Who We Are': Army Builds Strength Through Brotherhood - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUVpYUZDcWc1bDZKVHNCVHJhZTJZQnRkTHo1YlkwQmJ3LUltQ0xlVHZoZ2VhQ0ZqQUdfR2NPeXNfU3A3RXZiZEd2emhOLUh0bWdpcjljZzlzRGZmQ2Q0dGFoMFphYkRhUkdyQkcxWXZOTXpGNGVMNWF3cUV5LWVYcHg0RjFvUEtvTVRHRVZsTQ?oc=5",
-          "publishedAt": "2026-11-11T07:12:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeWM3Q09GbEk1SGJSQXZKek9aTklBbHYxMzRPbXdmVVpLQTlGUE15RUk3NklWdktyWTk4UjFfMjdUYWNwQkIzeDR3M2xsT1VrWkhjb0puMUttbFpmV3ZBOWJfQWtLZm9ESWs3MUZ0c1JsVlVGOWNQZ3FjRzg0czdxUk9TV29vTnJNZ3pMSEdQMFcySHRpUTgxNXFyMnpkZ0ZvVng5TGFoSEdVeEVobXJNR1ExaEEwczFNaDNPNS1VQ25uWWxHbXo2LVozV0ZSOEdWZkdXMjBhVHJwelQxenQxMll0bGxmY0NBM3BUbGlnNk1IODVsS0E?oc=5",
+          "publishedAt": "2026-11-12T00:03:24.000Z"
         },
         {
           "title": "Patriots Face Army on Wednesday Evening in New York - George Mason University Athletics",
@@ -191,10 +185,16 @@
           "publishedAt": "2026-11-11T00:25:16.000Z"
         },
         {
-          "title": "Danny Young scores 18 to lead New Haven to 63-55 victory over Army - FOX Sports",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVBZUGt1S00yTU9jbl8ycU14RFBOQVRUeG9kamVwYUJ1Q1JrMkNmdWRCQUJsUDBwREdUdDZaY0pzSzEwdTNZZ1lBZUpFeEw1bkZYNl9NQzlES3UtVmZjT3BZWUpRWnp0XzhSU1ZIVXFmSnFSOURmYklhYVlwSWlVbjlnSF9kQjlYUzc4cl9FNkdMb3VkdTZBRGJ3ZVhidldVYnVmN3EtRQ?oc=5",
-          "publishedAt": "2026-11-11T03:47:15.000Z"
+          "title": "2026 Week 10 Preview: Air Force Falcons @ Army Black Knights - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SVHpCbWhZRy1ibUF1TURZcllwV0dZQ3FBbW84NEZfS0x6T1M2Nk5wQ0tUWnJwWlQzSTAzTnFwSlBnYnFIQnEzRXZZSmoyUFo3ZkxMS0ZPS0tuOTgxQ0UtVmtEeXcxREQ1a0tPclFvUzcwTWVaRVI1ajE1YjhuZw?oc=5",
+          "publishedAt": "2026-11-06T14:00:00.000Z"
+        },
+        {
+          "title": "Hodges and Medders score, Air Force clinches Commander-in-Chief’s Trophy in 24-21 win over Army - The Denver Post",
+          "source": "The Denver Post",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRTNXUWhkSlpXckJmelpTZ19PNjU3T0pWaHo0TlM0UDZkcEtqWWpqMUptLU5JOUxfc2gtNXZuUWpHdEpnR05XUl9EQXJqeTVWeWRIclRXczJ3bTRHNlZwekFoX0FKeU1TT1h0ODVQaEQtcm5RUlRENXhka3d1SXBBMmRB?oc=5",
+          "publishedAt": "2026-11-08T03:54:14.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Former Steelers running back and running backs coach Dick Hoak dies at 86 - CBS News",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tTGdSZF9seDkyU2JIcmVnaXMtQ2dzTEd1Y2hMaXlrYlctWER0SmlXbjRGMUduNFhZRnBZTGQtTFZmQU1rcFlveS0tdHVIeTNObmN6UXliMXAwNGQ2TnMyVXN2dnBXc0NuRHRGQjhtem45STVCaTNiZHN3?oc=5",
-          "publishedAt": "2026-11-11T16:44:06.000Z"
+          "title": "Pittsburgh Steelers safety goes down with ankle injury - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTlFVTR0MVhCX0d5YWViYzVzMWp3WjJSUFJlOWRHbTllTUdfMnFlY2lMX21VdUR3MERaZnpKR2piZlJ2MkFReGdJOFlvM1FEZmIzTDVldmdMUW1DSVIwZzhBMk9BM3IxXy1xQW5uR01YUjZVeUt6NTFWb0xGd1pZRDhVT0RfTFdVVWpZSDhmRHkwaVNxRjB4a2xRbVN1MnlJbWdJ?oc=5",
+          "publishedAt": "2026-11-11T22:56:00.000Z"
         },
         {
-          "title": "Ex-Steelers HC Mike Tomlin Leaves Door Open for Coaching Return - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFFjNXMwdHFCYU1nam90MDRTUTd3SzlocnBha3AyeENZckJqakNHZ3U1RGhQWWU0cllrbmd0Y1JfbW1TZ0NIa0FZcmNqRG1YSlk1UnJrdHh1cGxxVXBTejNNLWtXZmIyU0tWZ3dTT0tTemV2YXE2VFlyMGJHbWpYVVAyUWcyeVA0d2swLXR3cml4b1RlVTVwT2xLTldkUTVBMEZNYjBqeHFzUFU?oc=5",
-          "publishedAt": "2026-11-11T17:46:30.000Z"
+          "title": "2026 NFL midseason award rankings: MVP picks, top rookies, OPOY, DPOY, coaches - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWJMSGdHVFllZ0JVdFZTMHRDVmZLX2QxVWFpd3MyNU95QXUyQU1EdUFtRkRkcXZoR21XWGs0U3ozZ2VzU0RLbF9rdWw1RW1sSm9tU3U5bnkzTkdwZWpPUnZCbTFDT0o5NDg5ZUJsYkRFR1pXUGZzZkZMOG5tTGxOdl9YeTFpbTZQblQySXRoRjh1MGZRZlRsbEk2MWpFVHpTQm5mOGVn?oc=5",
+          "publishedAt": "2026-11-12T11:20:00.000Z"
         },
         {
-          "title": "Statement from Rooney on Hoak - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCN1V0enA5WjFlcHYxbzRTSGZkR3ZjQ0diZ0VzMTlpdnVMY0txYldwU19XWmdyWW55RkU4SVBWSERlT0phREVwaUlXRU9yVkE0bFQtc19xTDdJTFdxYmpWb2xheTZFb3JmNFIw?oc=5",
-          "publishedAt": "2026-11-11T16:39:06.000Z"
-        },
-        {
-          "title": "Scouting Report Week 10: White Bengal Returns For Sunday Night Football Against Steelers - Cincinnati Bengals",
+          "title": "Week 10 Injury Report | Steelers vs Bengals - Cincinnati Bengals",
           "source": "Cincinnati Bengals",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWa0xCb0ZqbG81ZFVGS3RJQXJhcVNVSHRaQ3M2a3gybGp5M2Zxdm9nb3BNc0t4MXZ5eVlBUVVQN3pZRzUtcXBUZmVWMGQ5cnc1XzVWdGlWSjNKaldYeUtqaXctS1dYLU9Pa2xfaldrandyenVacGZnNms5SWdTczQ?oc=5",
-          "publishedAt": "2026-11-10T21:04:02.000Z"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KWkhSTnNjbXdZem1KTFFmWGxOREtIeXNYQVdzTVE2NkdMZzNjUzVXdElhTS1nS0tvaU9QLXRSaWpCMVhGQ0JaV3N5OFdJVzVhVHM3WFJNeWJoRGcwT2hDOGZGbVhGTDgtd0NWeWpINHZtY2JwR2ZjR1o4bmU?oc=5",
+          "publishedAt": "2026-11-11T23:30:14.000Z"
         },
         {
-          "title": "Big takeaways from the Steelers lack of trades - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0wtbDdPYXVpRXMzdUI2cWRXd2ZCU3pacVJoSE5aSTZ5U1ZhZ0c0alZXcEtBaThTYjJnZk52Y3p1VWNxX1ZZaENPdEJKMEZIVThEYVpWYU4tejZna1AzdFpOX0FuMGtWUURuM0tEZ0FSZmdRME9qLU96NVVsUExmNVpEdXhVdDV2U3Y4?oc=5",
-          "publishedAt": "2026-11-11T11:07:01.000Z"
+          "title": "Asked and Answered: Nov. 12 - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TY3Z0T1d3VGQ0Q0ZzOEh1NUVodVQySUtuNXJOMHktZDc3d2t1eXJiV3JjdHBGdEpubUwxRjAyZEllZUJ6VFlXWlVZVElZNWk2TUFpUWxqOG9VT0REVXh5d3RSTFFqeEFzQmJHYmV3?oc=5",
+          "publishedAt": "2026-11-12T11:09:40.000Z"
+        },
+        {
+          "title": "Steelers legend, five-time Super Bowl champion dies at 86 - Cleveland.com",
+          "source": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaWg2UkNkTDN2SkQxNnlQdkJ6UEhPdTExSG80OGRqZ0UtbEZUazVYLWxoblpiTlZ1QkgtWUFreC0xRHdvMlhuXzVoTThxRVBNYy05REQ1RTk4QWcyNFVOU1FZOTlZcGpoRWpLY2lJb3NCcWppQjdtNEw4Z3FmSkZKWTFBZDdTOFYxSmFQc2x0SmlfWmQ2Zi05dkhjQ2lseVVvT1VYdg?oc=5",
+          "publishedAt": "2026-11-11T17:21:00.000Z"
         }
       ]
     },
@@ -243,34 +243,34 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Release Radar, Most Anticipated New Albums for Final Portion of 2026 - - Saving Country Music",
+          "title": "Dolly Parton and U2 to release country version of ‘Torn’ - Big Country News |",
+          "source": "Big Country News |",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEUxSE1MVlpibXlIWWZyN2lJaEFfZ2FUUjJlTmdiTGQ5NFp0NmdXa2hKa2RlZmp4dzVFVGRqQU9GeWRBakQ2c3FEclpyLW9hZ2VubzFFNnFDaDV1QUZlQ0Z5a0xmNE5Qa25wbEFqbmhXZzhzdFpFNm5fSjNSQ09XYmRjVDNTMXhYNzRMRjUxWDBZWXpoSi15REtqWVFUSTQ?oc=5",
+          "publishedAt": "2026-11-11T11:32:28.000Z"
+        },
+        {
+          "title": "18 Years After Its Release, This Country Radio Classic Just Joined an Exclusive Club With Only 22 Other Country Songs - American Songwriter",
+          "source": "American Songwriter",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNnJsREd1WEVnRWRCYnVZcUZhY0VjWnNZbUxCcEJnQi03RE5SME92SWQzSFFwaDFvZ0pnVjdFYTlXRXhIMHdFLWUta0ZDV3Y4cEduQWRPaVhyWnZlRzMxZ1hMLThwQ2NnNVFrT29UNWNWUzAydExHc3RiOG5nX0hWUndUcDRjc1lvNEdTT0JMakVHcFBwQW5oeE9VTFVDUy1ncjlGZ19jZ0xfNXlNNXRyeWxTWDh0Nkt6UktBWDdBQmRBeVdlRDFScDVQWEdwUVBFOEphUndrVTZZanQ3eUZocG93?oc=5",
+          "publishedAt": "2026-11-11T18:34:14.000Z"
+        },
+        {
+          "title": "Happy 20th Birthday, ‘Debut’! A Revealing Look Back at Taylor Swift’s First Album, Via a Previously Unpublished Q&A: ‘I Want to Be Here for the Next 20 Years’ - Variety",
+          "source": "Variety",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamZ6Rm94ZWtyRllCOHVudnVTS1dfQnlvdnhuM1RjYTNhWm1LOGJIbm45LXNlbG9yeFc4LWpvTUZNVHFrTWJMOG1UY3g1Qk92NEgyRWNnNWNweWV5RC02NkwtQXNyQXJuVXIyS1VCX2d1LXNwSk5KdnV0ZlJmUWJucXBwRlptMDA2MW1BVEMybXVVSUJEQzN5OW9ZRFp1eHMt?oc=5",
+          "publishedAt": "2026-10-24T07:00:00.000Z"
+        },
+        {
+          "title": "August 21st, 2026 is a Busy Day for New Albums. Here’s Your Guide - - Saving Country Music",
           "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaE9jclpUaVpJWVVVSlp3bUVJQzhBR0VtVnJ0ZHRyZzh4SkhrN1d0Mm9DcHNidnRJS2NhV2xiX0RDMEw5RU1HT0xqRUY4R0hvRlNzcGJBTEMwaWpyRFB4Q0ozZWhYd3BOZkNyOFA2dHpoUDAtcFZ6X0JTaU8tWlM5dnRYaWVzcGlQLWdyMnQwbkk1RGRQX25ILTBsVDh2aWdh?oc=5",
-          "publishedAt": "2026-09-09T07:00:00.000Z"
-        },
-        {
-          "title": "Country Christmas Songs, Albums + Tours Coming in 2026 - Taste of Country",
-          "source": "Taste of Country",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGk0cU5iY1FKZUxfazltTE1LdjhNLW93T1lDVWxVMWFXQUwzQnBqck9va2NvS3pTSUlpWElCb1BMSEJiZ1BXUkFUbmd0enZYYkk5RlNJWFFGZHFUaTFLdUNzdWMzb0llWmstYW1IRnBBZlhjdWtLNHBwNk1sTHd0dg?oc=5",
-          "publishedAt": "2026-10-12T07:00:00.000Z"
-        },
-        {
-          "title": "Gavin Adcock's new song 'One Hell Of A Steal' has country music fans fired up with excitement - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVBJczVYWm1sbXR4TS03RWgzeUtfakctTlRXWHFtQ3JVSXo5N1h5bUs2RnljMFJkak82X21xaVBubzBtVDV3Y05SX0pVdVJzZ2tFU0tYdjROMDRuQ1lCN3ZfeUp3aFNNa1VSWjF4dGFLc3ZWUXdDX25wa29ValVzbHpXZ1kybHU2UnR3MmUxdFlsR2NKbGUwVU1TT1l6Rk90Mlpocnowd1RvdUZnck10UmczQTRsR2c?oc=5",
-          "publishedAt": "2026-09-04T07:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmtUNURvYmpOZk5uSTA3SlNPc3VTR0kwOTh0OGEwcDBUOUxXVGVqSnEwN2RFbVBvMWhhVmRoeWJqV1hxNEczUVRRRXJyYk1qenB6cEc2cWZXU3JIamlXZjA0LTE3ZmM5YWtkbUZBQWMzRFNaRFNodzFXRnJYZE5GLWg3eVZJQ1hxeWFyemJzV3NHM2xxWlV6aVdB?oc=5",
+          "publishedAt": "2026-08-20T07:00:00.000Z"
         },
         {
           "title": "Randy Travis Announces First Album of Original Music in 18 Years: ‘It Feels Like a Home Run’ - Billboard",
           "source": "Billboard",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNempwYmx3UjJLTzR5YUd3ZkhIazBDSG1zb0ZWN2tENVIzdVJMcmJWall3R3ZiX2pocl9STXRhd2VId3RvNk91OERyQmFlNXduY2w4ZzUwY0ttOHRXdjZXcXJORmk0QXNpVVRIR3luZXdvS202Wnd6RUFnWldjZEtSYzAzUmhzU1FQbVBYcHFaYlpSSHI4djlhcHNzVF9JcHZRZHc?oc=5",
           "publishedAt": "2026-09-04T07:00:00.000Z"
-        },
-        {
-          "title": "Dolly Parton, Queen of Country Music, Dies at 80 - Variety",
-          "source": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNXzNSUW1PekVyNlcxRUxkb3ZJN04wVGVQRzROQUwzaGJVRjNRSGNIel9MRUJ0YkpWVWpfOVNpUVY5MzYzcDZYUDFvQ3lrai14SUlGVndPMW1iYVA5WFBGdEZ6Ni1kSzBNT3Q5ejROMlhidVVVMWtuMlUzZmpKSTVINEpZVE9HenoyQzIyZQ?oc=5",
-          "publishedAt": "2026-08-25T07:00:00.000Z"
         }
       ]
     }
