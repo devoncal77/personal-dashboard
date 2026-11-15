@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:36:52.714Z",
+  "generatedAt": "2026-11-15T17:12:55.460Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Fuel crisis and protests pressure Chile&apos;s far-right president",
+          "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-          "publishedAt": "2026-11-14T16:05:12.000Z"
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+          "publishedAt": "2026-11-15T10:00:00.000Z"
         },
         {
-          "title": "Alaska voters aren&apos;t ditching ranked choice voting, top-four primaries",
+          "title": "A new generation of disability rights activists carry on Judy Heumann&apos;s legacy",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-          "publishedAt": "2026-11-14T13:08:05.000Z"
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+          "publishedAt": "2026-11-15T10:00:00.000Z"
         },
         {
-          "title": "Perspective: A new kind of White House press secretary",
+          "title": "New Mexico wanted free childcare for all. This is what&apos;s worked — and what hasn&apos;t",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
-          "publishedAt": "2026-11-14T13:00:00.000Z"
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+          "publishedAt": "2026-11-15T10:00:00.000Z"
         },
         {
-          "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
+          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-          "publishedAt": "2026-11-14T10:00:00.000Z"
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+          "publishedAt": "2026-11-15T04:28:45.000Z"
         },
         {
-          "title": "Hegseth&apos;s failed impeachment was a warning to Democrats. Where will they go from here?",
+          "title": "FAA ground stop disrupts college football",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-          "publishedAt": "2026-11-14T10:00:00.000Z"
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+          "publishedAt": "2026-11-15T01:13:59.000Z"
         }
       ]
     },
@@ -91,22 +91,22 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Army whistleblower alleges senior military officials ignored warnings ahead of deadly attack in Kuwait - CBS News",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFpnTThkaW9tUTlFVXE5am9UdUFKdTYwSGlESzFXRXZoWE95UGZ0M1UyTDVjMHlhN213T0w1aEd3NjNpd0hac0FYQ0k2a0FqV25LN21ZQ2FzMkc3XzJvRUJqaEw2YnhRakZwVktYX2dpWjVqTW1Vb3ZPSElKMGtVYUNoSkRzTzVTSlk1eUd2MldLcUND?oc=5",
+          "publishedAt": "2026-11-15T16:07:00.000Z"
+        },
+        {
           "title": "Army, Allies Prepare for Long-Range Air Assault in Hawaii - U.S. Department of War (.gov)",
           "source": "U.S. Department of War (.gov)",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1h2X3FTN3YzRG1xcHZKMkMtRFJvbjVrQ2V5M0EwTkZGTFlKZkcxaXhmVm0zTlVWR1pDdGNoeG1zSHEyTDU2ejJqMTNrTjlHVkx5dEljbmtod0ZCR0d0cnZkZGhuMGlqUU5pOHhkcXBMNTN5LUk3QkxxMkEzdVFNdVRpMWpqUmVPcmFTdjl4MnV2YUc1Y2xpRVo2amZlUEpZWTk5ZURYMVdFWUtMTFA2US00UjVQcUt2T1NF?oc=5",
           "publishedAt": "2026-11-12T20:38:45.000Z"
         },
         {
-          "title": "Drone activity over U.S. base in Britain prompts security response, U.S. military says - NBC News",
-          "source": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeUM1UlhsVkYxb1lORzJ4d0w2OTUwdDQ1eUJPMGdtSXpJREY4aVgzWGZmMkxGS1VEZmdUMllGZHctNEZmVFRMTkVObzRBdV95Z25KVkRydzdKT29hc09qRnc3ZXhNMGZ5QkpnNUc5REp5enk3cldrSFc4a1dSRWxmVkFKd1RuUGF3NGtMU0RoUmdVTEp0TG1BcWltdVloc1RuMXlvbGNhRUwyZzVJQVJ6ekFoVDVDUG1KcVN0NzBHSjF2MEpt?oc=5",
-          "publishedAt": "2026-11-13T21:51:07.000Z"
-        },
-        {
-          "title": "Former Fort Bragg 82nd Airborne member Brandon Tyner accused of spying for Russia, arrested in U.K. - ABC7 New York",
-          "source": "ABC7 New York",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdjR1V2VieVFleTJpZXZmOWNvdk5aTmYxZVBnWFFQNElZVndxMmpEbFg1T1pjTFppOHBGeDIzUDhvZnd2RnYxaEIwSkNlc2FPUzhvMGRzSnoxeklJeGVHRmZaVlE1bGhLcERqOUNzdEhOUDlGLTQ3LVNJdEVSNkJWZ0NjUkQwQVVCLTNUR00tUENQZlNFbDlITnM2YTd2YzRXTkpiNUVCclc5eDZGMkFFQXhOM3R6eWdTcHVFSTRvRFlOR2M5TTZXOFVpUEQ?oc=5",
-          "publishedAt": "2026-11-14T00:42:57.000Z"
+          "title": "Pentagon Eyes Smaller Troop Cuts Across Europe in Reversal - Bloomberg.com",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZnFzQTNDVjczaDJOUFZMUHphSnA0SzFiZmJ4a0dlb3pPLTBPU0YwMERpbExqVjlXN2pnUFhodXVKbUM1WnRHM1VlOFIyMkNxdVB5clRUdmdlakp5VVBhWUVKUzlOcDVvSTRSTU5NbzZBY19sUExkSTd1X21SekcxYXRObE53NUluMzRDMHJMeU9FTXRGbzJXcFBUR1AtTUZmUTNzTnFIRkJiQ0NHbUE?oc=5",
+          "publishedAt": "2026-11-14T18:05:55.000Z"
         },
         {
           "title": "US Army names officer held on ‘allegations of espionage’ - Defense News",
@@ -115,10 +115,10 @@
           "publishedAt": "2026-11-13T16:32:38.000Z"
         },
         {
-          "title": "Exclusive | U.S. Army Officer Identified After U.K. Sting for Alleged Russian Spying - WSJ",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU9Pd1dFTERfRkhPblVEb2lpMF9xMnNjVzBhbW9GVzhYdkp0bFlKbnQxaGkwN0UxbFk1Z0V1cTE1VU9MT2k1M2tWMEt5bXZpcERtSjZKRllDVm5Ec3J0ODJXb2d3M3d6aEhpQ01HU01jR2NsWWNsMldwQWF3NFlRLU1ZWkxaV3J6MENkRXB0Mk1QTVk0ZVVpSi1FYkU4QjlDTTlMdlY4MUxwb2x0TlJxdEpZX0FBVEJjRFcteHdYNW55MUVKV3dB?oc=5",
-          "publishedAt": "2026-11-12T20:38:00.000Z"
+          "title": "US Army names officer held in UK over suspected Russian espionage at Nato base - The Times of India",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdDZfMy1fdlAtU0FnUXUxeThDZ1Q1NFZBRjZPbE1sTnhEaXlDLUxoWXRwN2duN09DMTZSOUNuZ2w0SGthTzJuV2ExMDVTSkNQYzJXOXZvWl9yelJSc3UwUW5FSXFLUUtPXzhZTjlUdDk1VUhQb1pRODEzbW1ZTC1Yb3VFLWNjM0I3dXk5UXUtbTBmRzUxNXo1Sk1ETmhPYlVGX2MzSThzWUtXYkJfWUpqX25tTXJsV3g1SDc1MlhCOEVGLXVSQWhqUC1yc0M0T2Jzcnl5X00wdGF3WGJXWU5hSHVja9IB6AFBVV95cUxPdXliMnYxeWZ2WFVsclJkOFVmTXV1ZlpNQi1zM1lFN2pOUVRXMlJ1SmlxaWhCMDlBZ3ZCVGFqek5MWDVOUEFnb1FkSVp6anktcG9ObTdMTXk0YXFFQlFoTXpkUFFlS0dOU0dXc0tQdmFmUS1IQ0JsUm9tMEJVSmNpbG1zd3hhNlllMkw4YXpBZlBzUWFmUnpCOElnNzdOSG84cnpueU9zZUVkb2dtNm5sa291dC1QQUkxaS1LcEZTT3NEaUtDTHlWNm5JdFV4UlBTZjhuSkczZ012SW8zWkJ0SG84Y0Nob1gy?oc=5",
+          "publishedAt": "2026-11-15T12:56:00.000Z"
         }
       ]
     },
@@ -129,10 +129,10 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "What's it like ferrygating with Army football's newest fans? - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTm5mVU9zWHltSmxLcTQ4clcxcmZIcW5vRlhjaVlOZ0U0UTlQbUVQMWhTUHdhWVVGNDVqMzR5d3AxUndvVFdVS1FnNHhsTzB1MHRSanV5WHQtalNDbWE3aTNIRTZzVXBiVDdzbGY0cWZBQTEtVkhWel83XzhGWENYUzhkYUxOeVFHVDlxNHFFWQ?oc=5",
-          "publishedAt": "2026-11-11T12:00:00.000Z"
+          "title": "West Point Class of 2027 Cadets Named Rhodes Scholars – Nov. 15, 2026 - United States Military Academy West Point",
+          "source": "United States Military Academy West Point",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnpvb3FjRmxOaTBOSEtyR3l5d3hlNWZEcDBfMjZCVXdscl85RDJWZm5DX3BySm15VjlYejI4X3NaOWVYLVV3WXUzM0p4eWg2ZWo0em54Q3o2QXdjTEl0UkFKeDFjeDA5SThVNENJVTBuTUtsZUZFS2xhV1FYbDZnTHZRNVpGQkJJVVhwa3U0cGxHaS1QMjkxUkR5SXBlVVVHam1YazVUVUg4UWJXUjBzdA?oc=5",
+          "publishedAt": "2026-11-15T13:13:02.000Z"
         },
         {
           "title": "FOX hosts “FOX Sports Salutes” Veterans Day two-day event with college and NFL pregame broadcasts at West Point - DVIDS",
@@ -147,16 +147,16 @@
           "publishedAt": "2026-11-04T08:00:00.000Z"
         },
         {
-          "title": "A West Point cadet drugged his girlfriend to force an unwanted abortion. Then he went to grad school - AP News",
-          "source": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcW1YekRsTGJuY3pvNUlQQ3pUeE1QdWZELTZVTWRDdTdyVVFNbXluOG9uQVhaaVBZRzlYMXJyMXlzdjVlanZFNXZIMnBoQXFWTnJSNG1Jd2M2eGI4dGRXNjV6ZExIREFUQjJXT0hyWlV4a3VRandKNEVDTXhhVU1hTXpNV0gwODBodmU4cDVuTU5aSHN2Y1lmbFdoNEdBeHhlaVgyRWhfWU4wVEk?oc=5",
-          "publishedAt": "2026-11-02T08:00:00.000Z"
+          "title": "What's it like ferrygating with Army football's newest fans? - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTm5mVU9zWHltSmxLcTQ4clcxcmZIcW5vRlhjaVlOZ0U0UTlQbUVQMWhTUHdhWVVGNDVqMzR5d3AxUndvVFdVS1FnNHhsTzB1MHRSanV5WHQtalNDbWE3aTNIRTZzVXBiVDdzbGY0cWZBQTEtVkhWel83XzhGWENYUzhkYUxOeVFHVDlxNHFFWQ?oc=5",
+          "publishedAt": "2026-11-11T12:00:00.000Z"
         },
         {
-          "title": "Weddington graduate bound for West Point nearly missed diploma after course credit dispute - Queen City News",
-          "source": "Queen City News",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQd182dEN4aUx5d1QtTW1VSUVyZ3hmZlBxb1A3ekV6ZmtUaUhpR2tiU3dxTkNTd1JHMG15U1BQaFRqMnQxM2pLMXA1ajJ0VE1TUV9USkhJNklJd3BDM25qazlKc1A3TG9sTUZWSEktMUdHT2t4cF9TVGoyVTV6dDhwZVJwT1R1UmJYdXpDWTRJOHNOeFhqZC1QTThGMkZMY003UnQyTmhnTVl2UmtUd1RmbV9UNERsNkxFdW1QRDdtVVRXckFUOGhKT0JFakN5UjJneFVWY0swdzk0c3VydVNZNU9DYmVqdw?oc=5",
-          "publishedAt": "2026-11-12T01:17:19.000Z"
+          "title": "From West Point to Pro Rugby: Collin Grosse's Remarkable Journey - Major League Rugby",
+          "source": "Major League Rugby",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUwzek5HQTUtcHZrNGdrWnZkVHJibWRiRXdjNzlfUTlfeVUxeFFKbjhIbG9rZDBXOHlVNVY2V3R5R2IwaHBWRjFDUm9CbjMzX1dDMzljWVpYY3MzdzBQNWtKcTl6bXh0UDdhQ05iemN2WmhBN3ZMRkVyMktvaWEtMXJUajBnRVZCOGNNQnhWd0hicl9uWTJ2bVlYVDU1QQ?oc=5",
+          "publishedAt": "2026-11-10T19:57:20.000Z"
         }
       ]
     },
@@ -179,22 +179,22 @@
           "publishedAt": "2026-11-13T09:43:14.000Z"
         },
         {
-          "title": "Army Basketball Hosts St. Thomas in Christl Arena Rematch - BVM Sports",
+          "title": "Tibbits sets career high 21 points in loss at Army - BVM Sports",
           "source": "BVM Sports",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc3cyWUEtemlCMGs4ZGtpS0l3LXNYdWs0d0FGSU1NYTdiSkpONDdpM1NVd1B2eTM0US1xakJtX2N6c2kwcVJ2VXlKRzRQVkpQSmN2R25DcG5DeUJPR2N2R2V1QUVaMkRfWGt3d2JTRmlkNlNGZkxVT0Fvckc0b3BNQzhlWkxrelRJbHE1X0pFYkZrVllZ?oc=5",
-          "publishedAt": "2026-11-13T20:10:19.000Z"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0FUc09XUjNraWV5eHVieDA5MXluMVh3RW5nMEhKVzZUUHFvVk5qVElWcS1iQV9BQWx0ZF9ZQnRRV3lnc2V4VlhQeTFYUXBfVVJ4aDRfZFkyaWpfcVJRZ0JGb1VvR21VSXFOY3k2ZUJNRzFxOUF5SnJFS1l2WURBSzlvNnlhV1hJX0ZqOA?oc=5",
+          "publishedAt": "2026-11-14T22:32:18.000Z"
+        },
+        {
+          "title": "Kevin McCarthy, Dillon Watt lead Army past St. Thomas 79-77 - CBS Sports",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnZQZWo0aVpQcTdXVUtKSzIyNWFXZUEwQ2RlT3NlNVp3Vmt3b2ZMYm9FX2tia2FSMkFFZ21ZTTlRc2dZelhXdVRUZGRkM1prc1dnWGVhXzhHQi1WUXM2TTMzRGhNRUNvaC0yV2F1YWt0QVdEaERlaDY0OTFSSXE0SzdKOERxNGZ2bDlDOWNiOFRSbVIyaWhDblYxYzNGbzdPd29wT1dKS0ZLc0ZP?oc=5",
+          "publishedAt": "2026-11-14T22:27:00.000Z"
         },
         {
           "title": "George Mason Patriots at Army West Point Black Knights - WNCAAB Game Summary - Nov 11, 2026 - USA Today",
           "source": "USA Today",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPeWM3Q09GbEk1SGJSQXZKek9aTklBbHYxMzRPbXdmVVpLQTlGUE15RUk3NklWdktyWTk4UjFfMjdUYWNwQkIzeDR3M2xsT1VrWkhjb0puMUttbFpmV3ZBOWJfQWtLZm9ESWs3MUZ0c1JsVlVGOWNQZ3FjRzg0czdxUk9TV29vTnJNZ3pMSEdQMFcySHRpUTgxNXFyMnpkZ0ZvVng5TGFoSEdVeEVobXJNR1ExaEEwczFNaDNPNS1VQ25uWWxHbXo2LVozV0ZSOEdWZkdXMjBhVHJwelQxenQxMll0bGxmY0NBM3BUbGlnNk1IODVsS0E?oc=5",
           "publishedAt": "2026-11-12T00:03:24.000Z"
-        },
-        {
-          "title": "Honored Division Week #4: Black Knights face Louisiana Tech, honor 101st Airborne Division with gameday patch - United States Military Academy West Point",
-          "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY0MyM0tHOEpzQ2ZDdDc3VF9QQ3Jya2lyYjFHc1V4VmpBQ3YzOFQycFp2UmNkeWFvSTBEcWpobVdjR0gweDNGNDZUODRXNjJzd05HUHNfNXlzbm5TZHN2azNaVnMtMDhCNjM4MFZ4S3g0YTVTeVRGWlhFaVlFdVlwYkF1MVlWOS1wSUQzbmxydjZpdEhDY3FfU0s4VW9OY3U1TVdidzEya3ktNTg1aTJHVzdZdzNfYk5WSlpDT1BPeVdYdlNoVFR3cmZOaTBNd0dldzhnUVc0dVZmd1dIVEs2NEdMUzJqMXR6WjZOLUl0SW9oS3FC?oc=5",
-          "publishedAt": "2026-10-02T07:00:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Steelers Have a New WR to Watch For - Sports Illustrated",
+          "title": "Joey Porter Jr. Trade Continues to Look Better for Steelers - Sports Illustrated",
           "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3JHTDdNWlZlMkc3OXg3MHN5bmZac0dWenROZ0FkWWd3bXJPQ2dZcXhaM0ZDbWZLdS0wRVNuS1h6TUF4eVBxVWR5cHVJcjAtX3NncXptSDZSNkpMUGEzdjhXcDVDVXREeTQzdHhTMlkydWkzTlZkZzRIZVhlaE9FLTRRcEtRUFJGSWJTR1gxOEhDbUJjRkljQnRLNGQ1dw?oc=5",
-          "publishedAt": "2026-11-12T20:07:19.000Z"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRlpRN0dCcmtJRzViM3dYeUtlSzh2QnJ2QjdCY3plel9qUk5peUZIb0ZIbWVCX1QyZXRiU2M0U0NzT3JqN2REb2RkWjBfOW1DRmhlZGNGU2ctdDBXTGNwTm5nLTEwSTVaUHBmd2loRnlkVkpadWVuYmJDMXZpalhxLUlRcEgxQjNIMElGZExMSGdibjZXNU9BWXpHUklYSGwx?oc=5",
+          "publishedAt": "2026-11-14T13:00:01.000Z"
         },
         {
-          "title": "It's a battle for the AFC North: Steelers at Bengals Week 10 primer - ESPN",
+          "title": "Steelers-Bengals odds, analysis, betting tips and recommended props - ESPN",
           "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObUFkak5NSmlobERDWTRXZnd6Nl9MdFlaeGIzOGhjZU5FNGZ6ZzNpWlNVeXJzNHVscWR5clRyc19BTkZGSDg1Z29jTjB0aHNleWxaZUUtcGgwVS1vbUNaSUpzel9GbFUwLU5vLUxoUkNnSzRLQzNTdS1yczlZYXRDWDJPS2I5N09xZTFxSDY0QzNwOEZqRE9naEVn?oc=5",
-          "publishedAt": "2026-11-13T11:00:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFdNblczMEctVms3NDUxUUF5NTRpVEFGUkpycmUxcGpidkxfTEkzWkRGbEtUR0JFVHdJeTZ4aHFhY3BpZUJ1Tzh1YkFELW0tbFNHVmpYSmZYZUZxbEFQNUJSY3diWHh1cTdIbmRaRG1KaG9UZEFfT1N5bXVBZHVKREJrZEVWWlZDSGt3S3UzaHdYNEVpV2FPemdaTmZYWVlvQ1NNWlNOc2MtTWRIZGc?oc=5",
+          "publishedAt": "2026-11-15T11:45:18.000Z"
         },
         {
-          "title": "Where Steelers Stand in AFC After Trade Deadline - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjFzNTM5R2llZHJ1UEMtWjAxMHFVVUVTc1hxMTFDWU9OZUd0eEFlTC1KWnFVWE1GVXRHZzlhOW9qRG9fb3FNZlBERHZvazRDajc3LWpSekJJakpuQm40WlcwNng0RUZUQ1dlSGdBVkVjcEdIUFRfTGJZVTU0cXhoT0VRRGEtZw?oc=5",
-          "publishedAt": "2026-11-14T11:00:06.000Z"
+          "title": "NFL Week 10 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVZXb3RtMVJYa1hlWC1NemRvUmVRbHdiaXM0T0dUa0hqc3FpaXBxS2ItTkgzWFMwcjI2N3phRER4cjRDbF9LaXp0ejB0ZE1Fdy1TcFJPbHNxbkZMOWVLUHVXNDZqcHVLcFpYbElUSGR2YlNrNDlKRlNYaUdudzUzUmNFcXExX0paR2gtSzY2ZUFTTWhMLXZJSGtIZm00QzdZ?oc=5",
+          "publishedAt": "2026-11-13T08:00:00.000Z"
         },
         {
-          "title": "Freiermuth, Washington a 'selfless' TE tandem - Steelers.com",
+          "title": "Steelers activate Harmon ahead of Bengals game - Steelers.com",
           "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtRnFXZVIyVGhrelhDLXAwMzVGSU1BZmZTZkZWSXNNTHFFMkNaZDZDOXJ6cERxM3ZlVEtmaWRJczUzWFFfMm1UeTVZZWsyOFdiZ08ycjJRWVJyaGdieG0xSGFZMmJaM2x1emg2VFZmRkNRNDJRVTU5dVcyVVo?oc=5",
-          "publishedAt": "2026-11-13T19:59:57.000Z"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUV80THNNWHR2RE45T0pTWlB2Q2hLVzR5SE1JcGxNSVlacUpTRXcwcTlxR2V1Z1NEaFFxUXB1ekdidzNwU3JzREFEaHlzbjFrdFlsMnhpUy1wanktQ1lCTjgwNUFTV0I5MVhMb2UxUkx6Zm00OURqZzNNU2dza0xkeTV3?oc=5",
+          "publishedAt": "2026-11-14T20:04:42.000Z"
         },
         {
-          "title": "Steelers Get Reinforcements at WR, CB for Bengals Game - Sports Illustrated",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbExzUTlJUmx0cEdwYWRzYk1fcHVUb3ZwTmg2MnIxRDhoMjdTbDBPYVpleEYzOGMyRXBtUVNqRjlEa2JOYU02NFFGZ3J4RXN2LU10WVl4Zl85cnB0XzBNelJLTzVIYnBDU2UteFR0NFozeW1ncmZHVUFCbW9YYjViaXd6bm91cW8wRWNBeWdObzYyMkhPY1Facld6MkY1aExWYlVqV3BsNWZQOERVR1E?oc=5",
-          "publishedAt": "2026-11-13T20:08:19.000Z"
+          "title": "Pittsburgh Steelers, ex-Penn State star tight end pops up with illness before Bengals game - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdjA0bC0wZVBuOVIzUGtrTy1hblk2cmNZR0xqTDVSS0dRZDlUNU5JNERubjJaU0N5WFgyYkMwbDBXS1BPVnNKTGNRYVpzNHlGNk12LW1rcGx1bmw5WmRtLTU1LVAzTVZUUmtmbGJTREU5VldFUDI4RG1WNGFraXhjYkhPb01ncldQd2JoMnlPZ3I5Q0Y5S0tfVVpEblVZRDlrdGxLaVNNTkw2V0N3YjVfRlNHTk5JZ2Vta2tCdGVGUHFCb1RFN1Bjd2pPdGhLc1RrWUE?oc=5",
+          "publishedAt": "2026-11-15T07:36:00.000Z"
         }
       ]
     },
@@ -243,28 +243,28 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Dolly Parton's final recorded song, 'Torn,' with Bono, has been released. Listen here. - 13newsnow.com",
-          "source": "13newsnow.com",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORkNTRXkzS2U1ekppUngtbUhHNllMX2xCa1pSNnBzUEdzUHdqSEV1cmdWWW8wMVRMSUFqYzNSNjd4SmIyMXptTzJzclFYUGV3YzRiMEpkc1ZrSzM3Vk5iY1BqVEhzdXlha2EzNEVVMjNESmpJU1ZwTVE5YWUyNE10WlMzZ0tiRjNTcmN4cHpkWlQwS0pBT21hYTRBcmJlaGRFOEJMbFEwV283dGpBUnJyNUdVeElrbVNOY1hveTZXV0xBWHV0VW1aUC1jWjlvNjh0eGNybkV0RE9vOWI1c2FxVTBWaGY?oc=5",
-          "publishedAt": "2026-11-13T16:06:00.000Z"
+          "title": "Dolly Parton's final recorded song, 'Torn,' with Bono, has been released. Listen here. - kare11.com",
+          "source": "kare11.com",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQlVZSncyWFhVLVlEYWc2aVlOLTdGWi1iNXFMeDNsczRMd0xnMHdhelFLclBhOTdudjBGMUNnTm03cmV1N1U2cG1WRV9aOWVHQkVIOWkxN3RuRDZlcnRWWVZFWWVnc2hsU29MUENHTndPbDBfR0g5eU1HOEt0Z3dWWWp6TDRYS1dDOXVKYVRaSnJtTmNieHZicjlPREdJdnZZcGlMa2ZuQkNIWld1SHQ4MWROWGFwWGVoTDJmSmRSd0VQUFV5YUlnOE4zdExMSUhQd1JidktIb3RvdklpZXI2Ug?oc=5",
+          "publishedAt": "2026-11-13T16:09:05.000Z"
         },
         {
-          "title": "‘The Hunger Games’ Soundtrack, ATEEZ, U2 Feat. Dolly Parton & More: New Music Friday Guide - Billboard",
+          "title": "Dolly Parton Sings ‘Her Heart Out’ on Posthumous U2 Collaboration ‘Torn’: Stream It Now - Billboard",
           "source": "Billboard",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDA5R0VsVzc1VkFMV3BzalVuakZrQjVnRU9obkNFMlBaVnl3aFZ3LUM1cHNJMnJkQlZLS0gtSXhjSFgxaDhhWTJ6VlN3Nk94eHBrRGJITjMzQV9kMnpOTzJQOTdrVFAxNFVWOFlmWWNveWxvX041emxUY0J4eWg0R3RaMk05U2wxOXlJTU5pTkFXNmRET0htZldjMVptNGRZ?oc=5",
-          "publishedAt": "2026-11-13T20:45:45.000Z"
-        },
-        {
-          "title": "'Heartland' brings Jessica Chastain back to country music - USA Today",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTd0YlFuU0JVdmtzNUtFbVZqRUdnTWxJSW9MS2RrVWVTUXpUZ0s3M2I3TzU1MWVoT250RXZiY3ZheHhneUxEYXpZbUN6ckt5cVh0dlY0QmtTVmFzR2VFVlNuRll4anNRWk5UQUJ0S014UkgtdHlPZWIwM2VZSkMwdWFyNVJlUGNiYnVZM3JHTTJtVlJERndZdkUyOEdRbkZpdXk1TFpZNXRYR2Jndkl3?oc=5",
-          "publishedAt": "2026-11-13T18:02:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1lDMVhMeG53NzE2SU1IR3FYTGNtWmRtTGNwNHg5LWppbkx2aEJWRDY1ajZTOWt6NGNTQ294M0tpb0REZkpFTjNwSFl0X1ZXX1VrSV96cXZCYklJVF9KbkUyOGFubzNfX1g2aTlCd3hMN2ZMNkMtWmtUSml2RWlBWjRFUmx5N0FpbmhGYnVMa3E5Sk4ybXNJRFhob0lXdkZUdVFtc0Zsc1RNYXBkdEpsWDlrSEw?oc=5",
+          "publishedAt": "2026-11-13T05:01:14.000Z"
         },
         {
           "title": "Dolly Parton 'Torn' Duet With Bono Released In Rock And Country Versions - Deadline",
           "source": "Deadline",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaZExWYVkyQ056M0s5VFdxcEZZRFRUMU41dHAwMWRLcEtxeU9KMVBGUnZqWno5UUNfVlpMZDdtcGRBOG9TbkotbEJkX1lsOVh1c1FDcTRPOWhzcFJVTU5Yd1luN3VHTEFSZG9PUFJ4TEkwM1pR?oc=5",
           "publishedAt": "2026-11-13T17:18:00.000Z"
+        },
+        {
+          "title": "Randy Travis’ First New Album in More Than 18 Years Is Both a ‘Blessing’ and a ‘Gift to Us,’ Says Wife Mary (Exclusive) - People.com",
+          "source": "People.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMUNhTDg1TWxXb3MwcG41RGZTVFB1ZGE2bUJENG1MOFc3NnBUeGkxZzJncVZYN2VpVndVRTlfWUN5bVNkUGM5cjROQkFyMGlPUndoUXdteVhPdFlrd29ITmVqUDFTWTJqQmM0b3RQWDlMV3Y2dFRYMEJkS0ZwV3JTSzBSRWNVdVNhc3k1UzdLWHc4X3NYUVcxUGlSQ3QzNDVrbF90UXZvWXZ3dFZUQ01oSUZvTXdSdzhXakJGV2QxbGxQdU0?oc=5",
+          "publishedAt": "2026-11-13T15:00:00.000Z"
         },
         {
           "title": "Hear Ella Langley’s Reflective ‘Hunger Games’ Single ‘Here Then We’re Gone’ - Rolling Stone",
