@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-11-18T18:51:43.105Z",
+  "generatedAt": "2026-11-19T18:59:33.663Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$732.90",
-      "change": "+0.46 (+0.06%)",
+      "price": "$720.16",
+      "change": "-10.04 (-1.37%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$503.38",
-      "change": "-3.93 (-0.77%)",
+      "price": "$493.67",
+      "change": "-8.06 (-1.61%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$661.08",
-      "change": "+4.13 (+0.63%)",
+      "price": "$649.58",
+      "change": "-9.93 (-1.51%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$353.84",
-      "change": "+1.92 (+0.55%)",
+      "price": "$349.32",
+      "change": "-3.13 (-0.89%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$509.39",
-      "change": "+3.15 (+0.62%)",
+      "price": "$503.25",
+      "change": "-4.06 (-0.80%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$386.32",
-      "change": "+6.20 (+1.63%)",
+      "price": "$377.28",
+      "change": "-6.44 (-1.68%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+          "title": "The &apos;Magic Six&apos;: How to strengthen your marriage in midlife",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
-          "publishedAt": "2026-11-18T18:18:16.000Z"
+          "url": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
+          "publishedAt": "2026-11-19T18:28:23.000Z"
         },
         {
-          "title": "Karl Kani dressed hip-hop royalty for decades. Now he&apos;s telling his own story",
+          "title": "&apos;Bigger than Barack Obama&apos;s election&apos;: Scholars reflect on Mississippi Senate race",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-          "publishedAt": "2026-11-18T18:15:59.000Z"
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
+          "publishedAt": "2026-11-19T17:03:11.000Z"
         },
         {
-          "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
+          "title": "The midterms were the largest win for either party in 50 years",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
-          "publishedAt": "2026-11-18T17:10:44.000Z"
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
+          "publishedAt": "2026-11-19T15:55:05.000Z"
         },
         {
-          "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+          "title": "The U.N.&apos;s top court rules Myanmar committed genocide against the Rohingya",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
-          "publishedAt": "2026-11-18T15:56:30.000Z"
+          "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+          "publishedAt": "2026-11-19T12:29:41.000Z"
         },
         {
-          "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+          "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
-          "publishedAt": "2026-11-18T15:01:32.000Z"
+          "url": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
+          "publishedAt": "2026-11-19T12:26:31.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "U.S. Army Whistleblower Alleges Warnings Dismissed Before Deadly Attack - Time Magazine",
-          "source": "Time Magazine",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbU1sTzZ5QnFPQWlpWVUxY2dGUGlCazdGZnlPblI1ZlNCZUtUZElBNkRrdWxzeU1oVjQ1Q1g2MWVMUU51enpzcGxwN2l2ZHlWRzZELVRYNFgzcjRBdVFfMndIVUdjU3lvczNPdjFQYVJ0a2l6SXdMMjRzNTAyNlduczFxMFZKYjhraUZPU0RDUGFxTGI1bkVGZzAwOHlzZEx5UHJ0LU1vMjBiSVB6Nklidk9IU1ZaZw?oc=5",
-          "publishedAt": "2026-11-16T09:30:00.000Z"
+          "title": "43 soldiers said yes to more Army if they could play ‘GTA VI’ - Task & Purpose",
+          "source": "Task & Purpose",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ocGkzSXh5dEpsLUlwd2pkMkh3ckhobmF3alJBYjM0cmZfYmpuV0dsZE1tcVdMTUlKeWlSTVd1TUwxbWx4SnlqMVV4emc5bHhHYWFTQ1d1bEVTYmFhZ2VBejdtcnpoRGVJMFRTNg?oc=5",
+          "publishedAt": "2026-11-18T17:12:54.000Z"
         },
         {
-          "title": "Army whistleblower alleges senior military officials ignored warnings ahead of deadly attack in Kuwait - CBS News",
+          "title": "U.S. Army to detonate unstable explosives in Iowa Friday, potentially sending toxic lead dust into NW Illinois - CBS News",
           "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFpnTThkaW9tUTlFVXE5am9UdUFKdTYwSGlESzFXRXZoWE95UGZ0M1UyTDVjMHlhN213T0w1aEd3NjNpd0hac0FYQ0k2a0FqV25LN21ZQ2FzMkc3XzJvRUJqaEw2YnhRakZwVktYX2dpWjVqTW1Vb3ZPSElKMGtVYUNoSkRzTzVTSlk1eUd2MldLcUND?oc=5",
-          "publishedAt": "2026-11-15T16:07:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnlMQTh6M05BT3I4UnZmZms1MFRCc3NSaHBSSklkbksyUEl2akJILTZvLURnV3ZudGVuQ2dyQlp2bTJQd2Z3TEZQOVN4LTlCNE5CdkFWaW1Zc1VCLTdtOHoydm92WEU1YXJfZHdQTkQ1YzJNQ3NJZ3ZGcy1pYi1PTGdHYWJ5eXdhWUhOVzZTYw?oc=5",
+          "publishedAt": "2026-11-19T16:13:45.000Z"
         },
         {
-          "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
+          "title": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East - Army Times",
+          "source": "Army Times",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUERnRmNDQ3I1RW9oRkZ0ckp4SkRjYVg4YTlZcmZhd0cyV1V6WTd4SUtBdWtYa3VYY3JtUXZxX1B3c3NJemxld05FQUdldGtQZlA4bkxuUG5VdV9QdzFISG42WkhHY1pVTVRTUm9VcjBneEFoX1NnRU1NRVd5QWhPdmNwYTY0QjV0MGhpVVpQSHlnVG03d0dVdjI5ZVBIajlzcC1GT0UtT2lNc0daWnFDWS16U0hnZ2d4WmhRa0tiNnZ4eUloWFdlUg?oc=5",
+          "publishedAt": "2026-11-16T20:43:10.000Z"
+        },
+        {
+          "title": "Christopher LaNeve Tapped by Trump to be New Army Chief, Months After Hegseth Fired Predecessor - Military.com",
+          "source": "Military.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWWhTRGo5Um1uYTRwY0Qyblg3TS1EXzZ2aE5Ka2RqNWEwNFdxTFB6cWIySi0yN3Q1OWR5NXVfNTkyZ1M1VzlSU0hZOFBBUWhNOGcwY1NURTdJaEI3bmlXLWFkUjB3aE1fcDZEV3FtNDFFVUNwVklyRm1faTBNYXJYOXVDdkIwVnNkNmQ2NjI1eUdIMEtmNnNDNEZvTDhiSE5taWZQQ18ydjdvaDVBaUgwYWFJNlQ2bUxxOTVZ?oc=5",
+          "publishedAt": "2026-11-19T14:51:01.000Z"
+        },
+        {
+          "title": "43 soldiers agree to stay in the Army, partly for a long weekend with Grand Theft Auto VI - ABC News - Breaking News, Latest News and Videos",
           "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
-          "publishedAt": "2026-11-17T06:54:35.000Z"
-        },
-        {
-          "title": "Army’s push to bring private tech onto military ranges gains momentum - Federal News Network",
-          "source": "Federal News Network",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQajVIWFp2TmIzQUpYN1hYbVhVWXcyd0hSODJmQzNmcjdHN3ZOUFlpWkw3RGtpaGZBSXFrbGg3T0FFNlBNWVZRLVMyZFY5cGJTUFBFMmRzNjE5R0hTMEFCMUgzdUtfSEtaVWMyZDFYaXFSNGMxbExhT2FjbTIxZGs4T2hjR1Q5NFM5MkIxbGctbnJYb1VRdWpsUFozemIzcVFPbmY0anp1NXJVUHAzOVVSa2tyTl9TUlBEUkxLRWdn?oc=5",
-          "publishedAt": "2026-11-17T23:40:17.000Z"
-        },
-        {
-          "title": "Pentagon detains senior US Army officer accused of spying for Russians after UK arrest - Fox News",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ25TNkVsNm9vajJHdHAxLVZaN25xWmJNSGlDVUNZUHdpdWI2aWZPOU9ISG5XMWJ5SDF0U1otZlJwTWlkbHEzQ19qa0NsVG1wLXlzeHRMNXRlcFg5YTdEcmZuLUlpWXdPX21qd1VFSFpCZzdYZnhjb1AzQ2oxUTBKMFJ2d05KU0c1eU9LYzlWSE96Uy1xZ1RNamp5S1M5T2wyemVIdURNM2xRQdIBrwFBVV95cUxNMVJVQUJCZkJEU3ZHQVVKN3dYR0dUQVB2RTRVaHN5R1BMbW5vWkpaNk9JaDVzRW5HancwQnFyNmhmdFgyOXZhal9udlgzd1hvNW9aS1FBcklBYVBqd3lXS2IxWUYyS2tkal9TdVNEWFF3WnJ1eHZhdkRxdk9HdFB5RUZEX0otYzBKbE5tSS1zMUFLVXAtMXFNalZnelJlaGJtc1NXV042OEl4RGE0OGxn?oc=5",
-          "publishedAt": "2026-11-18T00:26:16.000Z"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWHhBZ0djQ2twcWhtazlhdjQtdVBobWtzTVMzWXZQQlRCekMzTy1qZ05ZNmdPN0tqYl9ZVzQ0LVRfajAwdVBhQU8wN1poX01BWDJ6aEF3OU9LX1MzMXZPTTY0RVp6YlBmelpaQ3JIazVMVEtxQUZobzdEb0ZRaFBKUFJnQlV4Vzl2WG8wcFpTRUpkamJ5S3lhQmFaRQ?oc=5",
+          "publishedAt": "2026-11-18T23:24:59.000Z"
         }
       ]
     },
@@ -141,22 +141,22 @@
           "publishedAt": "2026-11-04T08:00:00.000Z"
         },
         {
+          "title": "Majestic West Point Hosted AOH/LAOH Annual Meeting - Irish Echo Newspaper",
+          "source": "Irish Echo Newspaper",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nRWdwN2F6eEo4eHo2a1ZWNWNUbVJQcTlvRGRyc2xEUEFDejJDdXpEbEZubHlORUJiQnV3cEZfMzdfTm1Bcmd1ajN5Y01wc1dqYTNnOTFRUnNkeDZfcFRZdDhB?oc=5",
+          "publishedAt": "2026-11-19T13:44:08.000Z"
+        },
+        {
           "title": "West Point Class of 2027 Cadets Named Rhodes Scholars – Nov. 15, 2026 - United States Military Academy West Point",
           "source": "United States Military Academy West Point",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnpvb3FjRmxOaTBOSEtyR3l5d3hlNWZEcDBfMjZCVXdscl85RDJWZm5DX3BySm15VjlYejI4X3NaOWVYLVV3WXUzM0p4eWg2ZWo0em54Q3o2QXdjTEl0UkFKeDFjeDA5SThVNENJVTBuTUtsZUZFS2xhV1FYbDZnTHZRNVpGQkJJVVhwa3U0cGxHaS1QMjkxUkR5SXBlVVVHam1YazVUVUg4UWJXUjBzdA?oc=5",
           "publishedAt": "2026-11-15T13:13:02.000Z"
         },
         {
-          "title": "GC IV Commentary Series – Lost at Sea: Naval NIACs - Lieber Institute West Point",
-          "source": "Lieber Institute West Point",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90RGpJSGktS3Azd2d3MUw4c3dRNl9YZlJoWm56eUpGM1hOY01qVGw3bGZTRU5uNlBkdDlzMTNISGxaN0FoZFVuTEhTM1pxZnFlQUdKSXdLX0ExN2RYYl93?oc=5",
-          "publishedAt": "2026-11-18T16:07:51.000Z"
-        },
-        {
-          "title": "The Weapon Passed Legal Review, Then the Software Changed - Lieber Institute West Point",
-          "source": "Lieber Institute West Point",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUducHJZaVdIMzdaaC05cnNtSjB4R1N2U3NySjBVTHRVMGlrVkUyMFRMNjlkUU1zbTNzS2JrWlhheXJwdGdLTU45bDdZdGRQYUotVkpzS1ZiS3Y3MWFnQ2Z3ZGlyeVowQk9ocjN2Z1k3NTg1OXYwQ005QTgwXzIzYldkbl8?oc=5",
-          "publishedAt": "2026-11-16T17:46:16.000Z"
+          "title": "Justice announces West Virginia nominees for U.S. service academies - WV News",
+          "source": "WV News",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcUF4T0dCUWx5NzNfSUlNNWJoUVk1dS1xVUw0M3k4UWVpaHpKb1hWNnlUQkFJNW9Jdzl4RnZKUURPNElvSkU3MW1qbkhSMGFiSmhXU0g5QWNOeW9FNkNkaDNXRnVjVVBfZF9VTWNCOG9zdW5rQlVyclAwVEtKZ2NtSEVoek9adDFYTDhJY0pwUnZVbkRsRWxZdzhQbGZiNWtWUzFxWUtSU2tZa013X3Jad0FHR0RGZVRWbDZsSmZ3dERxN1ZMRDl2aWEzWnBQTUU3ajFXR3ZDc0t6bzBqWnJJQWx1SVVLZw?oc=5",
+          "publishedAt": "2026-11-19T01:02:00.000Z"
         }
       ]
     },
@@ -167,16 +167,22 @@
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Men’s Basketball Prevails at Army - Marist University Athletics",
-          "source": "Marist University Athletics",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPek5FT3ZqWUdMTTRuaTdjNk0tUlh3OHIweFBEdHlNdHd4UVFiZEVBbnJ4MVY0RjczTm9vQWJiTFJYSDgyLTF1V1cxLU9aTW5CS19udjFCa0h6SW5zdC0zWUVHSlZRN0JEUkFBbGUwV0hldWtvOENLMElUMjl2OGN5dlpVSzFUSEFnbWMyRnVNR2txWE0wa3ZZ?oc=5",
-          "publishedAt": "2026-11-18T01:34:31.000Z"
+          "title": "2026 Week 12 Preview: East Carolina Pirates @ Army Black Knights - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBneTA4aS1YdnhyS1hjcklxb1ZoY2lQeVRRRmNVTlR5RmJjSDVERkN5dlZSSTRGYmpxa1R4ZHVCcXZha21lZld4VDMyTGJkMTQxQmZVT1luZlRNZnYwLWNkLTM4N2U5TkR2UG1waWNYaGRDR3VDWk9ab19GUGRuTW8?oc=5",
+          "publishedAt": "2026-11-19T12:30:00.000Z"
         },
         {
-          "title": "Ryan Curry Scores Season-High 27 as Army Falls to Marist - BVM Sports",
-          "source": "BVM Sports",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPem42VkZXTDJjWVNocGRWWVR5VTVHNlc2bUdPdjVyd05IM1B1VnZ3bm8wcm83RWY4bkV6TzRJTm8tMHlxNmpnM1FKMXZGcjc0Zk12NVJ1YlhkclNrM01fRTJHQUg2RDMtRlhGVU95bG9OMVpOdnNHWGNFMklXZFlBZXM0MkVIT3RXa3gxX3RwNS1JWGRB?oc=5",
-          "publishedAt": "2026-11-18T05:32:36.000Z"
+          "title": "Men’s Basketball Heads to Army - Marist University Athletics",
+          "source": "Marist University Athletics",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVVJIWUdiREdqRWp2NjZZdk1uSlJPeUR0Smw5MzlyRUNxS3JuR2VpdXFvcnJjLUxPeV9zSTNCVG5fNGFJbE5ZMjJweGRiWGh3RkNWZHFDRnJkZy0yTEdzT1ZkSllKNFZmZ2JQSGZpSmp4LXlZVGlTWnlRSjRkbmxXSXQzczRmYVVmMFdaN2p0b05yMWM?oc=5",
+          "publishedAt": "2026-11-17T00:45:48.000Z"
+        },
+        {
+          "title": "Honored Division Week #7: Black Knights head to Tulsa, honor 1st Infantry Division with gameday patch - United States Military Academy West Point",
+          "source": "United States Military Academy West Point",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYkZ3ME5tZy01TFh4UVQ3T2wwYkVLWS15TEdaVko4ZHFWNjdRV3l1N1B2YXhrYWUzVks5NXRPSW5tT1JpbUoxUVNPLVJlSkFfR2U4ekkzUlJ4OS13XzNubWNhc0dOOF9jZGVnUlVuOFdyYmV3RUpHQlFpS3U1aXJtNEEtM1ladGM3SmExeXFEVmhBWVhPX2gtbW1DZUVWX3cwVkNRLWJ2eWpVNW1KQzh1WWJiMi13d1Fnb3BleFlZSmJpeHFTS1JYTzVDS0tWUTdram9XVDZwZF9fTEFfWXNNZVFtYldkdDlTb1E?oc=5",
+          "publishedAt": "2026-10-23T07:00:00.000Z"
         },
         {
           "title": "Volleyball Routs Army in Four Sets for First Patriot League Tournament Win in 20 Years - Bucknell University Athletics",
@@ -185,16 +191,10 @@
           "publishedAt": "2026-11-18T03:44:43.000Z"
         },
         {
-          "title": "Dywane Chess scores 19 as Marist rallies past Army 73-68 - CBS Sports",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSmtRWHZxOGlfRXdVT2UxUGk2WVFNOU5YUzdpZ0lRRDhpQ0szandOTkQyaUxjWl9RbGZXd3E5WElRRUZxcU4taDVacGZnRWw3VEdlOHltNU1ueEFqNGNuZXA5Y2ZDT1UzLUluclpRRlhmazhDVTdTSHcyb2hjc2p1LXl5V1RoMU52QUFBblowcUY1cTlGbjd1T2huNGw5S1lodkQxeVVDZW9uX2s?oc=5",
-          "publishedAt": "2026-11-18T01:50:00.000Z"
-        },
-        {
-          "title": "Men’s Basketball Heads to Army - Marist University Athletics",
-          "source": "Marist University Athletics",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVVJIWUdiREdqRWp2NjZZdk1uSlJPeUR0Smw5MzlyRUNxS3JuR2VpdXFvcnJjLUxPeV9zSTNCVG5fNGFJbE5ZMjJweGRiWGh3RkNWZHFDRnJkZy0yTEdzT1ZkSllKNFZmZ2JQSGZpSmp4LXlZVGlTWnlRSjRkbmxXSXQzczRmYVVmMFdaN2p0b05yMWM?oc=5",
-          "publishedAt": "2026-11-17T00:45:48.000Z"
+          "title": "Ryan Curry Scores Season-High 27 as Army Falls to Marist - BVM Sports",
+          "source": "BVM Sports",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPem42VkZXTDJjWVNocGRWWVR5VTVHNlc2bUdPdjVyd05IM1B1VnZ3bm8wcm83RWY4bkV6TzRJTm8tMHlxNmpnM1FKMXZGcjc0Zk12NVJ1YlhkclNrM01fRTJHQUg2RDMtRlhGVU95bG9OMVpOdnNHWGNFMklXZFlBZXM0MkVIT3RXa3gxX3RwNS1JWGRB?oc=5",
+          "publishedAt": "2026-11-18T05:32:36.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Week 11 Injury Report (Eagles) - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTHhCSW9kQnhwdXNLMWNGWERLVDhaN3U3Q3dlZkZ2RVlzVEN1MUFUamZxRUlMZ0xxekJ5M0tMdGJDNjdQOXgzbnB4VEhhR1Zxdk5rWExKR1d0SkVjUDVKU2trUDF3MkZzM0E?oc=5",
+          "publishedAt": "2026-11-18T23:29:35.000Z"
+        },
+        {
           "title": "Arrest warrants issued for robbery of Steelers' Max Iheanachor - ESPN",
           "source": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUtUb1F3eVVFc0dvY1N6eTRtZWFtM3VPdldLdlAwbE9fTHZsNFFuYXllb2t5dVBoUnRkOFVpd05uaXpFTkIzTjBKRmxOS19tVjFwc3ZVeWdsV2hOc2s5V0l6akUxVU94RWNOTmYzSGVUT0Q0NEhtZ0I2eDFXRVc4bFBRYV9zU1NsUlYxMGYydkdWd1JsRFlNaTBuOTNBZl9S?oc=5",
           "publishedAt": "2026-11-17T22:20:00.000Z"
         },
         {
-          "title": "Steelers sign Finley to practice squad - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hY0E3OG5ZUUlxZk56N0RKd1Z2S2FUTlU5NHd4T1R6ampwN0JfaWg1YnlhUG5Rb1laRmpDX2RXVFBPQjJkOTlZTkNBVVNObEtFdF8zVGNVRXM3ODlIM2Nvalhabjdpc2QxeTdzZENna1VKZGFsMWtn?oc=5",
-          "publishedAt": "2026-11-17T21:06:44.000Z"
-        },
-        {
-          "title": "Steelers just got surprisingly good news on Mason McCormick injury - Yahoo Sports",
+          "title": "Former Steelers Starting Cornerback Finds New Pro Home - Yahoo Sports",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVVpdE42aDA2b2IzRXVnQTBCZ1NaZ0pnX2c1a1UwSUhnUFJIVzR1RDAwMWxRcDhZTUFyYTJWTVdQSWl4bWk0R3hfM25ZSC0zTlJFRFV5MHh5OFBOU1hZQVEwTzlyX2lTMnhVYy1aQUNzSWdNSGRFWEd5bGlUdS1RRktudlNQTFRCa2puMA?oc=5",
-          "publishedAt": "2026-11-18T14:00:07.000Z"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM0I4b055aS03Y1p1eE9oeHdIdmo5SS1DUlFDNzBKVXpmSzNCTS1jNHBOZlV6VHpZcVZJX2xLSmJfeVBqbm01NEJzQVBlUVoydzduRTlmNnpqOVRYeklXOGMyX3YzOGNDYmJmRmFOdEdrTzIxb0xCX0hqWXQwRWZUcW85TTI2X1lwQm1oaGtwaFFmTzFD?oc=5",
+          "publishedAt": "2026-11-19T14:20:43.000Z"
         },
         {
-          "title": "D.K. Metcalf completes the octopus feat by snagging two-point conversion after scoring TD - NFL.com",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUV9jT20xeUVwYjkySURHeWRnbXhkOUtjSnNjSWd0UW81ZWtUR1NnNjlmNDBuT3V3eVRvNzZSaXpSV2VGbkVUUVFDWkRjb21NVE1DZ2NfOXQ3bjkxMkw0OUc4aEFZWl9YUWhSZUNZWmtuM1ltTGJweFNUR2tQQVpnaTBpRElFQ2p1N1drSTF5RkZ3c3FhZF9RZk5UZkR2d2dueDFZSW4yalFXb19KUU52eW8wRWlUQQ?oc=5",
-          "publishedAt": "2026-11-16T04:01:52.000Z"
+          "title": "Steelers release veteran wide receiver - Behind the Steel Curtain",
+          "source": "Behind the Steel Curtain",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRmltTHZTbzUxT3pEX1dHRzNHRU1hVXFpeko2S05RdWRHR2FhZk02RWU1ZWpJTHRXVXNOQXpOUlpOanQ2eXFfY0htZUVUMVpMM25CczZsZURqY0oxQkc4ZDFSODJJSEFjVi0tZGVMbEtXY1FjeXdhZkxGQjE0R2dIZmNQZFVsZE9UMGdOUVFmbG0xTW95OV8xM1N0MS0zckRUSndtRWlxd1hpMnVGMkpZVXZUVmpGam5xa2tTV0JkN1Q?oc=5",
+          "publishedAt": "2026-11-18T23:31:34.000Z"
         },
         {
-          "title": "Bengals 38-18 Steelers (Nov 15, 2026) Game Recap - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GS1Y3Q042NUtra2w3cFVWUVhaUEtiVFNza2lqbHFDSkJ2Y1VUdmJaQzNQbldYREp4R0FubWVQb3VqMHpreEZMbUhFUDZSV2lkeEY1WDZfUFlCaEE?oc=5",
-          "publishedAt": "2026-11-16T06:51:41.000Z"
+          "title": "Pittsburgh Steelers get huge injury update on standout guard, could return for playoffs - PennLive.com",
+          "source": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcmxpSnBXYzFvczhxa181VXh2QlRhR3F3aXJMZFJjaERndHZqRnFQOF9OaTA3eGlkckI4bThGRFNmcTRmYjRETzd5SjlwUWZ6VW01NlFSTlgzRkJCcDkxZW5WMjRKU0ZQUzgyQWlDMnVfVzI2akZPZmdxUHE2Y2xQcXVLeloxcWtMMG5wY2UzS2piOWZRck1rcXhKWk1PbEJKdUdGLVd0eWRzYXhyWDRpbU9sTGJERk1BU01tTDR4Rk16cEd2ZFU2Q2JycERPdw?oc=5",
+          "publishedAt": "2026-11-18T18:27:00.000Z"
         }
       ]
     },
@@ -243,10 +243,10 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "‘The Comeback King’ Trailer: Glen Powell Is a Washed-Up Country Star in Judd Apatow’s New Comedy - Variety",
-          "source": "Variety",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkNpcnQyNkF2UjNSUEpwdWFLeXFGdGVVcURVUzR3cUtOUEFVeXFpdUlFWmE0VGJnWkhTNHg0V1JLY1JXclgzUzkwTlc4cEZjZG5Yakc0aGtuM0JTRkZvYk1kMEVjN0ItTFlsQk1HeDVhY3AwZzcyOWhYUEsteHppMGlDVVU0RFR4Q2toLTdKdmh2NzVoODdN?oc=5",
-          "publishedAt": "2026-11-18T16:21:00.000Z"
+          "title": "Lainey Wilson Takes Brief Break From Hosting CMA Awards To Live Debut New Song ‘Just a Woman’ - Billboard",
+          "source": "Billboard",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmJkaGhZX1oyMjhMcWt3WjJQbWdZV0s4X3NQVlRVbEhxUG9fclZWTndOQ3FJNE16Y2FOTGQ0VnBqMFk2N1FiUmhvbWNxUkJCQnRSQmg3enR0cF9hamdwcjJiMWNfbUZDck9rTEVCdnJTcXIyWFhra29RU2dtUENVbDY3bVBHYnMyTlhpMzlMZXU2b2FSUF9vOGZVcVRjWDVXelRnM2VtT0s?oc=5",
+          "publishedAt": "2026-11-19T02:56:47.000Z"
         },
         {
           "title": "Glen Powell Is a Has-Been Country Singer in Judd Apatow’s ‘Comeback King’ Trailer - The Hollywood Reporter",
@@ -261,16 +261,16 @@
           "publishedAt": "2026-11-18T15:35:52.000Z"
         },
         {
-          "title": "Stephen Wilson Jr. Announces Double Album and Unveils Stunning 'I'm a Song' With Chris Stapleton - Rolling Stone",
-          "source": "Rolling Stone",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLUs4Zm9CMEdwMzFLOUoyeHZHd2c4ZE5xY0VFZXBNYks0dUdrX0hjVGsxSVRyRmV5dUhyVnNrOVhQMXFwa0NERGpnbDJoRU5rNm01bDhOSWt4dTh5d1BtLXFGMkxzUktGRzg2MUFXeW9PV0NMN0Y3bkMybENoU2xXdXRVNWZBSVp0cG8wTmw3d1NBNjBmRkJRMXQyclVrUHR3N0JVQ1I1R3BTcmhabHc?oc=5",
-          "publishedAt": "2026-11-17T02:18:31.000Z"
+          "title": "Kacey Musgraves shouts out Lana Del Rey in new song - Paste Magazine",
+          "source": "Paste Magazine",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVZrRnNBRHVDMzBrMEE0R00zeVpvWlpKYVJaSzdCU25Wa3hicVZQVEZCbUQ0SVNkc2E5SktwQVoyYUlpZTF6cU5RcW0tWHQ3M1RHMERvZVBsNjBBMU9rWXRyVzZUS1pGenFCeHZzaFpDYTBIR0h5ZllaMjhwcVFHd1JVLWdjSDdQYkpWVVRyQ0FsaGFjV0lXT1dlUzRaUmVzMW43TXBB?oc=5",
+          "publishedAt": "2026-11-18T22:21:45.000Z"
         },
         {
-          "title": "Charley Crockett, Kaitlin Butts Announce New Tour Dates - - Saving Country Music",
-          "source": "- Saving Country Music",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONzJlQ3ZJcnhDd2cwemM5N1NsaTc2SmxDMVpYNER4SWlwdFFCcjVZMTNiOGU3RnVONGVrbjkzSGpWdXY0UGRCVTQ1dkpVY0oxMVlnNHhja0pxd1RPNUs0MFIwUFpaOVc5S1pNeFBjZ1hGRGpXcWVwNnhvdnNEYXhDbVJoMUdIejRMR0JnbW95QQ?oc=5",
-          "publishedAt": "2026-11-18T07:37:30.000Z"
+          "title": "Tim McGraw Reveals a Major Career Change: 'I'm So Grateful' - Taste of Country",
+          "source": "Taste of Country",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wbUhQWXVTOEl4U2MzRnkyMmJBVzBlc2hjZ1hWTHdkVk5HampXSTg2VTFodU9TbWFpdEl1QjYwcDZRLXNFMVVQZXFCdTA5TjZJdzA2SGs2RGlaN0RQN2JPV1htcnU2SDVCampr?oc=5",
+          "publishedAt": "2026-11-18T16:48:40.000Z"
         }
       ]
     }
