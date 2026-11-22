@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:34:29.935Z",
+  "generatedAt": "2026-11-22T17:50:38.955Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+          "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-          "publishedAt": "2026-11-21T14:18:17.000Z"
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+          "publishedAt": "2026-11-22T17:44:52.000Z"
         },
         {
-          "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+          "title": "Meet the young authors! A literacy program inspires kids in South Africa",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-          "publishedAt": "2026-11-21T13:58:33.000Z"
+          "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+          "publishedAt": "2026-11-22T17:34:20.000Z"
         },
         {
-          "title": "Perspective: Defining &apos;human&apos;",
+          "title": "Climate change talks fall apart in final hours over fossil fuels",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
-          "publishedAt": "2026-11-21T13:00:00.000Z"
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+          "publishedAt": "2026-11-22T16:33:22.000Z"
         },
         {
-          "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+          "title": "Medicare looks a bit different in 2027, so don&apos;t miss open enrollment",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
-          "publishedAt": "2026-11-21T12:40:17.000Z"
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+          "publishedAt": "2026-11-22T13:11:04.000Z"
         },
         {
-          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+          "title": "NPR&apos;s Senior Podcast Challenge: Early entries we love",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-          "publishedAt": "2026-11-21T12:30:16.000Z"
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+          "publishedAt": "2026-11-22T10:00:00.000Z"
         }
       ]
     },
@@ -91,34 +91,34 @@
       "sourceUrl": "https://news.google.com/search?q=U.S.%20Army%20military%20news&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "US Army delays detonation of bomb-making chemicals in Iowa after public safety concerns raised - CNN",
-          "source": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pZVcxZjlEaTNOWWlMZnVNU19ab2VfeGVld3pOR0oxV0MyQndSMGdQZXV5NkVoVV9LSnZIQ3pVLTNDbG5zalduWF9CeUQ0alpfSlBPcGl6UWNleGVhRWZiSVFYSHpvYzdKTlFVeXQ1OHpXZw?oc=5",
-          "publishedAt": "2026-11-19T12:48:38.000Z"
+          "title": "A US Army officer went inside Ukraine’s ‘Killhouse.’ Here’s what he brought home to his drone course. - Business Insider",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTm91dnBsSExpdWNmeUZYenZxdEdwMmhWa193c2ZWX0VOUTdON2tVdEpJby1ta3NtZFVKWEF5ZjBVUmtGbWNxNjlnUGtEZl9MU3N3UWgxdjgybG9ROTZTUnIzSXhXOWJ3MDBZOTduaWEydmQwU0NoNlNyRURnS3ppWnJSeVpmTklrLWZzU3JYNExhRjg0d05RekNTcWpxZmdMVVU2eQ?oc=5",
+          "publishedAt": "2026-11-22T13:27:00.000Z"
         },
         {
-          "title": "Court grants request to prevent military from detonating bomb-making chemicals in Iowa - PBS",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclhlSTQ1TEdVVFZPcG9RdlJQN3VMak9sQ2hocTdGbmgzRU9rR2JEQ1Utczh0aGFqZ3ZXRFpjSEJZM3FHLWhocHpTTU1oS0VVN0xTQ0JEWllTajZQNnVjbGhQN3l5am5idXQ3RlV3NXhwOXU0bFlWQUxaWnRpWWxrM05vcGhuMU1ndFh3blZ2YmFlUVJIWDdLNDVnTGwyTHJEUzBBcGtHQ0pTYzhZcUNiNlo1YWEtdkcxTzdkbzV6OA?oc=5",
-          "publishedAt": "2026-11-20T19:27:47.000Z"
-        },
-        {
-          "title": "The Army Is Detonating a Toxic “Lead Bomb” in Iowa. It Forgot to Warn People. - Mother Jones",
-          "source": "Mother Jones",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcGIzd2FsdGxzMHNfS0d5Z1RvQ0taZFg2Z1pJSjU2eGMyMjNIV1c2cktFR2R4cGJjTGViMzZ6bEY5elpXNUFtaHhrOE1QSS1WLXZMMktxQ2drNUhfcUs0VkJnT3U5T2dqc3k0QXpGeUg1b0t4ZERRamVkR0RvLUE3UFUycGVfdkZoTjh2RzI3RExUblNTcjJhMzdwSG1IOFh0Zm5lVU1VSQ?oc=5",
-          "publishedAt": "2026-11-20T00:40:56.000Z"
-        },
-        {
-          "title": "Amid Outcry, Army Delays its Plan to Blow Up Toxic Ammunition in Iowa - The New York Times",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVVZTQnVIUUdUUUJxU1E0VVc2cUt2c0NCbnhIY29aYVJHZ2tvQXI2OHkwSXowQUE3dWRQZEZVRmJ1TTJGQ1loVUxoRTlhTEpiLWpIeXdqemFjRHBlbG1vVVpyLURvM0RDaldXLVNlbHJWbjFJMTlXbXhrU0tIajlrQUlSNUV2SUdZOFJ3?oc=5",
-          "publishedAt": "2026-11-20T03:40:48.000Z"
-        },
-        {
-          "title": "U.S. Army delays planned detonation of unstable explosives in Iowa that could send toxic dust into Illinois - CBS News",
+          "title": "U.S. Army plans to carry out detonation at Iowa plant despite indefinite pause, court records say - CBS News",
           "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZnlMQTh6M05BT3I4UnZmZms1MFRCc3NSaHBSSklkbksyUEl2akJILTZvLURnV3ZudGVuQ2dyQlp2bTJQd2Z3TEZQOVN4LTlCNE5CdkFWaW1Zc1VCLTdtOHoydm92WEU1YXJfZHdQTkQ1YzJNQ3NJZ3ZGcy1pYi1PTGdHYWJ5eXdhWUhOVzZTYw?oc=5",
-          "publishedAt": "2026-11-18T21:39:00.000Z"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14RXRhQ3NQZl96X0toc0VkUm5jYTBZSkxndXRkbHhINWc3Y1JPcjV5Qi1QMEpqRmMyZ3hVZVhRaTZZMjlSRjJocVJoUXMyb1BWemIwOXRoUXJMWXZlanBueGFZU1JNNmhfcElrcUdlYjdaRW91Q3FfUy1jV2VhQQ?oc=5",
+          "publishedAt": "2026-11-22T13:13:02.000Z"
+        },
+        {
+          "title": "US Army plans to detonate nearly 5 tons of lead azide in Iowa no later than Tuesday - KGW",
+          "source": "KGW",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWGF5alp5QkgxTjh0T1RkYjFHU3VfU3hjMGIxZ01nalhfNDZIQlVJdmFJTWFDZnFqNjRabHRVM1hyM2xyVTY0TUlrZFVIM1lzZlZVcmJsLWdFcU52TXNDRzRpTi0ya0VCNWF2WDVPT05iSHNSLXNBb3ZNdnFaSGRTVU9ES2RvVHdzZjRxQTI0aGJudE9ORFNwSkltUlNNSWVJM1E1Wk00Zm1ON211dEk4Z01IX1RDb29YcXhCTWwyaEJRSEMzb3l1Rkl6dThvczVwdkE?oc=5",
+          "publishedAt": "2026-11-22T14:56:00.000Z"
+        },
+        {
+          "title": "Why is the US Army detonating lead-rich explosives in Iowa? - Al Jazeera",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDUtYmp4eGRzYzBoYXRwc1ljZE0xTjFBSkR6dG4xVDFpb0VqelVvT2FSLWZoa0lOTXZGUjVaY29XUm01bVlZaXdyVkZKRnRtNkt1MGExQnU3ZDhVeE5KcFV6aE9Wd3ZzbHZxTVVJZmtmZDNvS3ZCM2VaeWwwbjBfczE3Y3RjZ21BT3MzX2F3WDc0WV9aMldIUzlYS29rLXFQanfSAacBQVVfeXFMTi00Q3dWWklVMzlGWnA5VF9RTHJZRWdVTXhZR05WUHhPMUlFUXZuQ20xcENUVkF4V0o4SFRMTElTNHBjQ29ZVHQ0cXN6QlR1Y21NZEtNNGhlOWxBVUc0dFlmeDZ4dktveTcySHVQMkdaM0xkNVhFeU1Mdk1mTjVqLUJXcFU5MzdlbW5hbkY0R0ZtbXh3YjhjcV9CQlY1T1RyVE5mc3NQeHc?oc=5",
+          "publishedAt": "2026-11-21T20:17:51.000Z"
+        },
+        {
+          "title": "Iowans brace for lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals - PBS",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcnVsUEZCcFltQWx2VW1UakN3SFI5cHRGSzFvb2ZkcFg5eFlUWHhNZ0llM1NjLXA1YlRQVGJ0MEtTa3QtbkVEeE80MmxFRm5WcFBmNTM2dGR4VFQtRkhUbkt0V3pIWjVZLWgwdHFzWjRPbmNQbnV5UVNQS3BueWVBMWIyZUlKUVlqR2cwY0lPMmJPR2dZT2hBVTNaUjBsUW0zbGRIcEJsWUZ3ckduWS01X1JFa2tqZVVxOERLbkZTMEh6RDVZ?oc=5",
+          "publishedAt": "2026-11-19T19:41:20.000Z"
         }
       ]
     },
@@ -129,16 +129,16 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Army West Point lacrosse player goes pro before reporting to first duty station - militaryfamilies.com",
-          "source": "militaryfamilies.com",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0YzTWJwWjFZVGdkSFVMcGYyUDMwRHBkZWRodGVtSk5ncVQ3SVFXaVdvcWwyVmM4ejRscTdSSWZHLUduNHQwVkJIYkJVVi1aajBZTmNkaTlISzItWWdnN1dxdVpGd0RHenNYQmt1UnNNcUtoYkJJWnFKTElDVUJNREZCUlRReHRCbUotWTExQ2ExNnVCc0FhdUhvazlOaWd4NVFXU0V6dE5kdHNPNTBGTTRJUmNJbDg?oc=5",
-          "publishedAt": "2026-11-20T09:33:04.000Z"
-        },
-        {
           "title": "West Point Has a Glee Club - The Highlands Current",
           "source": "The Highlands Current",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hT1hfdUlNWFFzX1dwd3hyLW5GaFM5Vm1ZMmlGN3dfenZpWXVnUEwxcmMzYjV4Y1VtLWRxM0ZiNF8za05kSkRoR3pTNXBZM2NMZ2E5WThuR2NHOWxDRFpCdHFST0s0ajlwMXdjUXNSNklnQnhhcnc?oc=5",
           "publishedAt": "2026-11-20T13:48:32.000Z"
+        },
+        {
+          "title": "Pieper High School student attended leadership program at West Point - Herald-Zeitung",
+          "source": "Herald-Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNmxsQXAxRjNwQmlaaTd4cGtLYU82endORWtVZVdzYXBOdFctVkphRmF4WWQ0OFpjSkRzZ0tTQVA0RUpRNHNvV1QtaWZtSTJwZ1JMTURvR2NmMmJDUklDU1BHWndwZDVEV2hzS2JOR0hSTURleE5JSERsV2hPN21MQ3duQlM5NTJhMC1Jc2VNRXhBZVFnOGotNEpUT2Z5TTVaZld4aW53cXJoX2c2bHp3RGNQZ2pLdlh1aFJfVFdtRUdzZVBqV3BxaDR1QVNlMTA1M0o5UmJydEVNRDRJb2JhLTJFZjc?oc=5",
+          "publishedAt": "2026-11-19T20:00:00.000Z"
         },
         {
           "title": "Ex-West Point Cadet Sued for Forcing Abortion on Girlfriend at Academy - The New York Times",
@@ -147,16 +147,16 @@
           "publishedAt": "2026-11-04T08:00:00.000Z"
         },
         {
-          "title": "West Point Class of 2027 Cadets Named Rhodes Scholars – Nov. 15, 2026 - United States Military Academy West Point",
-          "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnpvb3FjRmxOaTBOSEtyR3l5d3hlNWZEcDBfMjZCVXdscl85RDJWZm5DX3BySm15VjlYejI4X3NaOWVYLVV3WXUzM0p4eWg2ZWo0em54Q3o2QXdjTEl0UkFKeDFjeDA5SThVNENJVTBuTUtsZUZFS2xhV1FYbDZnTHZRNVpGQkJJVVhwa3U0cGxHaS1QMjkxUkR5SXBlVVVHam1YazVUVUg4UWJXUjBzdA?oc=5",
-          "publishedAt": "2026-11-15T13:13:02.000Z"
-        },
-        {
           "title": "Coding War: The Lieber Code as a Prototype of Modern Technological Governance - Lieber Institute West Point",
           "source": "Lieber Institute West Point",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUHd0NGtrVkw4S3h6T0Z6SmtxNU16OFVJSjdJWkJuTDZUczZwcEgyUkdBN0dZcW9UVmJyX3lJWHRibk9OUVBOYW9kN1FXdFQ4cWFtNGo1WDkxZlRQb29tT0pISDJKSjcxMFQwSENQYUlHNkVfLWtjZThlaGtDOGVtakhfWnBjQWwzakk0cmlUbEw2QUw5T2RnS25n?oc=5",
           "publishedAt": "2026-11-20T23:15:59.000Z"
+        },
+        {
+          "title": "Ferris High grad Kathy Ann Funk went to West Point 50 years ago. Here's how she remembers the first class of women - The Spokesman-Review",
+          "source": "The Spokesman-Review",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3Y3ck5xRS1XYWpIanY2M1B1RXdmOUtjUTRMTHh4MmU4UUE5RTNCSEczbTBsU193ZTlSSnVOWTY3NnRqTVRNVDN6amd1WDN3ZzlTMVNwQzdSd3NXVm5WN1RqaUFJZmJ0dzhKbHZzSHd4NGxUeGcyWDVvLWhkaS1nc3JWU2RvZlBHcHVJazZCQnltVnZkUmktUDlBZGRKUQ?oc=5",
+          "publishedAt": "2026-11-11T08:00:00.000Z"
         }
       ]
     },
@@ -173,28 +173,28 @@
           "publishedAt": "2026-11-20T01:40:45.000Z"
         },
         {
-          "title": "East Carolina vs Army Prediction, Pick, College Football Odds for Saturday, Nov. 21 - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUNxS1I4VWN6SjFZU0lKbXFTdDRFMF9Vd2xCQlozZVlnUUdqMUQ1VFkxUm9yWlYyY052c0dOeWp2MHBrZlRmMjhIVE5CUkpSU0VxX3JJeWF4WG5ZVnkyU2F4MjdKQTRRSm9xZnFUdXFCSWZrdGdOUS1KbklWb0puY25xTDRESHN2?oc=5",
-          "publishedAt": "2026-11-21T10:19:36.000Z"
-        },
-        {
-          "title": "Army cadets sneak into Navy stadium overnight, prank Midshipmen with ‘GO ARMY’ message - The New York Times",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMlZyQnV4RHNwY25hQndoNXhFdlRIT1d2V3BYSEUtLVVla0c0b0FycmV4M2xncEFNMFRlMEpnMU04REFQdjBBci1nMU5WY0k3WnhoVS1JaXA4dXJ2a0trS0NwbzVGRmZuaFFGU3V0V0tmZE9PMHFDLWFBVlBIRXBsMWJaMA?oc=5",
-          "publishedAt": "2026-11-21T17:14:17.000Z"
-        },
-        {
-          "title": "ECU Travels North To Army For Noon Kickoff - East Carolina University Athletics",
+          "title": "ECU Tops Army Saturday Afternoon, 10-6 - East Carolina University Athletics",
           "source": "East Carolina University Athletics",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWlQQXR2VzFidVZwWDEwRnBWVkt6aDF1SGlTZ25NNFNRLXlpb0NZazVxVE9GbjlWQnRoTEExZHlqX0dSVl92cEFpRUZ3ajE0NVBFa2hQWmtEQ1FiTEFHNmp2ekJRREhkclhnQkJ1RzkxSVlkLXdyVUhCVUZ1RmhHTElhdmRNd2VIX0cyYnFoWFc2TjdX?oc=5",
-          "publishedAt": "2026-11-21T03:05:13.000Z"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbG4zWEw3b19yMDh1N1N1TzhUWW9WUHRQcmNEMGk1dFdQVFRfczFmR1JWNXhvODd5d2xJTnEyT011MUs2M1pjRjRrZlYycHZoRlA3Tk1kSldiWWx0dWg4bHI3RVgxYjEwZ2xoWmNwc1RHdU41SlJZUlRhakYzS05LdWtOYU41SW1lTDZfVU5n?oc=5",
+          "publishedAt": "2026-11-22T09:06:58.000Z"
         },
         {
-          "title": "+LIVE! Army Knights vs East Carolina Pirates Live Free Collage Football Game On 2026 - Grice Connect",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEZQU3h3aVBmTzBmdEtHWHlMTUQ1ZlhlM3hES3BKRGMxSWxNV200UXpfdEhxTGZSWFU5Z3FLZ2FtUEZqaEVkRDhNNjUtZEp5LVVVbnB2bTZEejVwUThSb1hrbDNZRVNQT1JjemZEVXM0WWVLZ1ZhODJyaWpPa1Bpc191ZGJyX1d3NlVvZksxR0Q0bXRScEFZWE9aZi1aMXlr?oc=5",
-          "publishedAt": "2026-11-21T16:29:24.000Z"
+          "title": "Check out our Army football vs ECU photo gallery, best images - Times Herald-Record",
+          "source": "Times Herald-Record",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQXzNBVXVkRTZibUNIUzZmaTBnMEtsLUtFM2tpcVROM1AxS28zV25jUW9obFI0U3NmSjhWd0I0SGh4emFya2h6blZoLXNqRUJXaENTelNjeUphN2xZMVAyRFMyMnNYOVZuWW1uam1jX042eVUxQzZIREpGaWxpMEZTbWhGNDY5WExxT1ViRldzSkJROHoweW13TUloWU1TcUtaWU9yYmlnRlF5WWRVQ1cwdWdTUGxRYXFMZlZlclNWQWh1clI2eFdvTGU0RmtoeGFvS040Z2VLOEZIeEFJOW9oVHhrZTVCdGZkT0ZFc2VybE9GM0QwNE5faVhJdw?oc=5",
+          "publishedAt": "2026-11-21T19:58:00.000Z"
+        },
+        {
+          "title": "How to watch East Carolina vs Army: Live stream College Football, TV channel - Yahoo Sports",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEdfYTJzNi1kcDlfOFVKT1ctcXJMS0ZaTEYzR0lHUElaV1Bjc0h0b3BtMEprNzBRNVlPQllRTE1CX2c4OWJjNEJ0N0pvVDJXQVNvblVEREh4TlRHcmNVcXNXTE5femNpVklxcUxYMmgwWUYyUHdHejFHZk44WlZlRTFR?oc=5",
+          "publishedAt": "2026-11-21T15:20:00.000Z"
+        },
+        {
+          "title": "East Carolina Pirates at Army West Point Black Knights - NCAAF Game Summary - Nov 21, 2026 - USA Today",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZnFHM0toVDVUaXZGTXNxaENCQm5DaF8zdVUwMFoxQ3dSNVdwV3otOWd1bFRQYXN2LVZBSDJzVEU2cE9HNHBSTzdibGNTazJETHBTNW5nc1hRLVMwSDF3M2JaOXFvejZwT2FBTkU1bDVrRXkwXy1UQTVYejNlR01leE9TSVNsa2xtUE9sUk12cWpwanpja0I2RWRJUUNkTjBKMTFTb01Fa1J3TVZjT2MxQWJTWm15dUl3U1pqX1BDQzZ1Uk5GNTl6QUFfaWFFa0Zua2dtQkpucFVxQTREOUp3TUFUZzBZNlEtMVhUR05wMmVnVFI4?oc=5",
+          "publishedAt": "2026-11-21T23:26:15.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
+          "title": "Steelers activate WR Roman Wilson off IR for Eagles game - ESPN",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR1RtQl9hQUtseXVoWWJHLTJLN1pyZG9QazVJcFhsdVRtSFRsajdlQkppYUVzV3RwaUxvMWg0SFAyWVFiTVYxRTBlUGJldmxqeFMtVG1mWW44NkhzNmVRek05Mm1TSGdRSlNwYk5ma0F5X1BQODRsOFJ5Mkoxd0lQUnNYaGxqR3M5aVJHRUhGaUVPU0tETktXTDMtQl91TlFaYUVB?oc=5",
+          "publishedAt": "2026-11-21T19:56:00.000Z"
+        },
+        {
+          "title": "How to Watch Steelers vs. Eagles: TV Channel, Live Stream, Time - FOX Sports",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMVB0bVAtSXM4RGRNZkhSa0hCWUpkNktzWW5uTmVlVF9MMVBGaDBGaXF3UVY0dTROeFg0ekVBdnVaY2tuTUdpX0c3SUstSE9LVFQyRzBVcTJtbHFBZlpSVWN5d05nNkRHMmoxaG1pbENWNVFyejFhZldWZ25FQUxpaE1xdFozdHRDcU5WZkhKa1ZMVUt2amtHU1doU1Roc2Y3dUZVVXEtU241VGxZQ0E?oc=5",
+          "publishedAt": "2026-11-22T13:06:25.000Z"
+        },
+        {
+          "title": "Steelers make roster moves ahead of Eagles game - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaC1RREFkbGtyeWhWT1RpbHpuNWtxbjNUMzdBLWlCQVN1ZV92RmdhLWF3NDEzSVNKWjZaWWVfZHUtMjRHY0NucHhsRHRzbE90bDQ4bUtOTldzT0FxMmhELVV0SjRXaWVLaE45NXNDVERLVy1CSkZCOWhBUWhBUmVsajkyOA?oc=5",
+          "publishedAt": "2026-11-21T20:05:08.000Z"
+        },
+        {
+          "title": "It's Max Hurleman Time for Steelers - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mQlRuSWRtQnNwbkdpTWQ5SDlsQ0IyN1FlV3hEQzRaeE5uNjhkQjMzZmR2VTBRVkJRN2xWaGJTR0dYSks5QVJPTF9JZVNtUnVtR0w3ZnJtQWRjbE1SQ3JnNElOY25zcmdPUHVKYXJxb01JN3ByckM5R2ljbXoxVzA?oc=5",
+          "publishedAt": "2026-11-21T20:36:43.000Z"
+        },
+        {
           "title": "Pittsburgh Steelers release wide receiver with Aaron Rodgers ties - PennLive.com",
           "source": "PennLive.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFpBTFFTLXZMYlZDOWlQb1ZDWHo3QTJNQ0NxMWVfX1FxOHc0cUVHbWh3MmZfM3JpaGpMMjFFNUpDVFBxRE0tdkplQmZITkxyV0FlWDh6RmlEa2h6aGRHN3JIV3E3eXJXOHNSY3hQN3h5NDZpbjE0dWFObGRvQjZNTDBQTnBram1fMW04VlY5TndxNWo3Z3ppdS02TGs4MUN2dXV2QU5idEtLdlVscEgzd0FB?oc=5",
           "publishedAt": "2026-11-20T17:01:00.000Z"
-        },
-        {
-          "title": "How Steelers' wide receiver corps gets big boost in Week 11 - ESPN",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejN5akJFd2dhWjAwWmQzWWI5aXpqNlJMRHZOUzZtZ25qMkFlaGxuVHF1dXNTazVGeFRlMTBRTHo4ZTR2ZFppTEVXLVBUUk5ob3ZvbUk1ZVlwYnIzbzdvRHA4MkV1THhoaFA3SzlVcWdDZG50YlZkMFhtQ042bjUxbm9DU3FFZXJVdTNuWUxrRHFNMHBmUnZXdTV6RlJ6QQ?oc=5",
-          "publishedAt": "2026-11-21T11:00:00.000Z"
-        },
-        {
-          "title": "Three Rivers Report: The Steelers have a DK Metcalf problem - Behind the Steel Curtain",
-          "source": "Behind the Steel Curtain",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMklKaHdMSW5nY2g2b3J3YjFnczNTMHRjRGlYZXYwTDAxOWRCR0didW80dmgzMUducHEtcWg4U2ZwbkNLWkxGTi1uejhRX19KcGRBMFNJNFVvVkxWWHhZREVOczRXT0hjMWliOHlsVGExQmVjQ1d1cjZlWk9qVXFQTEFMWmtia28wUnlCS0hrSXJIa252QzU2S3hDQmFoblFlMVNSVGpzaWtBVF9UUEtpY1FOTlN0QTI4cnBMVG1Taw?oc=5",
-          "publishedAt": "2026-11-20T16:56:14.000Z"
-        },
-        {
-          "title": "Steelers make roster moves - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41NE1kTHR5LUR1TWw3bEkxdGpOWklmcFVMbVlJN0RZWF93LXhOaDVoUlBMa2RwY2pPOXZOOWJlc2dRTW9SUlR0ZEhtdjJSUW5PYlhNRHpnaUpWRnpUNnh4LW96X21QbWJpM1FIWVdQNA?oc=5",
-          "publishedAt": "2026-11-19T22:07:41.000Z"
-        },
-        {
-          "title": "The Pittsburgh Steelers Are Worth $8.7 Billion, 93 Years After a $2,500 Start - Yahoo Sports",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3VJa2dUNkh4dGgzWXhNMldmNWR5TUt4bkZ4MDRKNWdrX2hGUDdGTG12ZEUyQzdGYVloSlB5TTFycTg1VUdIQlJLd3NSMGVFZ29walRxYkdmeDVsSnJ2QUEtcVJqYjZzUjFRU0lwOWdFV3VwVGloWXdlV0RfMTNwY09MTmo?oc=5",
-          "publishedAt": "2026-11-21T13:00:00.000Z"
         }
       ]
     },
@@ -249,10 +249,10 @@
           "publishedAt": "2026-11-20T22:12:39.000Z"
         },
         {
-          "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026 - Billboard",
-          "source": "Billboard",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUE3QVdmSzJFX2JTc3JDdmJNdFVQMEg5UU1ubXBMNmNRZVNMWjJ1OHY1SGo5eGRVajh4bk03cWlaU0Zlc1VNTTY4U1VOcV9rQmNxaE9pVExZX0ZGaWJKMEJtV01sZWVVcTU2Z2ZuUDFWT2ZUMU5fNF9TMVZDcHZGUVhEd0F2S01LdjU0bENISQ?oc=5",
-          "publishedAt": "2026-11-10T08:00:00.000Z"
+          "title": "Ella Langley releases the song \"Here Then We're Gone\" from 'The Hunger Games: Sunrise on the Reaping' soundtrack - Big Country News |",
+          "source": "Big Country News |",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOUJQUWNoSFJEWWEzc1oyZ0JZNmpKNkdnaVAtb0JqaXA1ajFyalBjcnJjT0hVVDhmZERXQjhmbTJHVUtSNTF0SnZPLXJ3MnI4THg0U0hEMkVfZjRCN3F6dURYN3NEZ2VhLTVzc05ob0FTQ3k3ZkVGWjFMc2x5dlBXN3RILVRqWHgxVDl6UGtHdVRPSnJNeTdrLUtOSWp0dFM3Qzd1TUFIRVQwd1U2VjNJUGZhbWlCQXNoakM3bjJxZDFsX1ZhNkFKR2lkTTNfc1V0WkRWZ2g1bGM1STRLTzB1ZGVHTVM?oc=5",
+          "publishedAt": "2026-11-18T10:58:35.000Z"
         },
         {
           "title": "September 25th, 2026 is a Super Busy Release Day. Here’s Your Guide - - Saving Country Music",
