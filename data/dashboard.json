@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-11-25T19:57:02.162Z",
+  "generatedAt": "2026-11-26T19:37:42.503Z",
   "mode": "Scheduled refresh",
   "markets": [
     {
       "symbol": "SPY",
       "name": "State Street SPDR S&P 500 ETF T",
-      "price": "$716.16",
-      "change": "-2.62 (-0.36%)",
+      "price": "$716.70",
+      "change": "-2.08 (-0.29%)",
       "url": "https://finance.yahoo.com/quote/SPY"
     },
     {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Ind",
-      "price": "$501.83",
-      "change": "+2.09 (+0.42%)",
+      "price": "$501.27",
+      "change": "+1.53 (+0.31%)",
       "url": "https://finance.yahoo.com/quote/DIA"
     },
     {
       "symbol": "QQQ",
       "name": "Invesco QQQ Trust, Series 1",
-      "price": "$632.63",
-      "change": "-5.47 (-0.86%)",
+      "price": "$633.93",
+      "change": "-4.17 (-0.65%)",
       "url": "https://finance.yahoo.com/quote/QQQ"
     },
     {
       "symbol": "AAPL",
       "name": "Apple Inc.",
-      "price": "$354.63",
-      "change": "+0.56 (+0.16%)",
+      "price": "$355.58",
+      "change": "+1.51 (+0.43%)",
       "url": "https://finance.yahoo.com/quote/AAPL"
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "price": "$490.24",
-      "change": "-5.89 (-1.19%)",
+      "price": "$489.93",
+      "change": "-6.20 (-1.25%)",
       "url": "https://finance.yahoo.com/quote/MSFT"
     },
     {
       "symbol": "TSLA",
       "name": "Tesla, Inc.",
-      "price": "$382.29",
-      "change": "-2.39 (-0.62%)",
+      "price": "$380.14",
+      "change": "-4.54 (-1.18%)",
       "url": "https://finance.yahoo.com/quote/TSLA"
     }
   ],
@@ -53,34 +53,34 @@
       "sourceUrl": "https://www.npr.org/sections/news/",
       "items": [
         {
-          "title": "Group of Senate Democrats push to add freshman to leadership",
+          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
-          "publishedAt": "2026-11-25T17:30:47.000Z"
+          "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+          "publishedAt": "2026-11-26T13:47:09.000Z"
         },
         {
-          "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+          "title": "North Korea&apos;s Kim vows to build more nuclear weapons after ignoring Trump&apos;s overture",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
-          "publishedAt": "2026-11-25T14:14:34.000Z"
+          "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+          "publishedAt": "2026-11-26T13:31:28.000Z"
         },
         {
-          "title": "What to know before using AI agents for Black Friday shopping",
+          "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC&apos;s free speech, judge says",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-          "publishedAt": "2026-11-25T13:51:56.000Z"
+          "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+          "publishedAt": "2026-11-26T12:24:29.000Z"
         },
         {
-          "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+          "title": "At Albuquerque&apos;s Indian Pueblo Kitchen, Native American dishes are the main course",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
-          "publishedAt": "2026-11-25T12:18:09.000Z"
+          "url": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+          "publishedAt": "2026-11-26T10:00:00.000Z"
         },
         {
-          "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+          "title": "&apos;Memories of a Good Meal&apos;: How food made a difference during WWII",
           "source": "Top News",
-          "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-          "publishedAt": "2026-11-25T11:50:05.000Z"
+          "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
+          "publishedAt": "2026-11-26T10:00:00.000Z"
         }
       ]
     },
@@ -97,28 +97,28 @@
           "publishedAt": "2026-11-24T15:06:56.000Z"
         },
         {
-          "title": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
-          "publishedAt": "2026-11-25T09:57:41.000Z"
+          "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume - The Guardian",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1NocGh4eGhEZmtZdFRnQktXamlobm5UT2pDdUQ0OTNIQ3M4QTFDWTBNSjYtZWtKNEYtNE4zSlEyUlVuRmgtUWVoY05hZFVwYm9SY3MtUVVLUmF5RDROcjVEeWlTM2stZnZFcEZ5eVB6YmxETElGNGFPUjBmTnMxVXdRUV9UMkFyczYyU2VOSUtoYTdSRXVQYnNJMWFDM3Nu?oc=5",
+          "publishedAt": "2026-11-26T17:05:00.000Z"
+        },
+        {
+          "title": "The US Army tested whether it could still deploy forces to war if attacks knocked out comms at American ports - Business Insider",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXB6dlZjQzUtbktlSlBFc2d0eVowa1loc0g0MFdMNjlQSzNaNmRFNXpvYWlONzkyVWNFSnQ1UkphZkhBZnJIbHVfUGxwLVprRkNicVpHdnBOVkx2R0d6ZXdMZjJybTBGVWxqQ082VEFES3ZLU3RTUlZIOHFFVTlJZmRGbEhZSThkTnk2S041cXdIMnRMU3ltYXJjSzg?oc=5",
+          "publishedAt": "2026-11-26T12:57:00.000Z"
+        },
+        {
+          "title": "With Lead Tests Underway After Iowa Detonation, Army Seeks to Ease Fears - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WTdhRUhpRWxPb1V3LWV4X0htalpmRHNTN0RVNDc5cDNaQUNqWHp4YkE2OGNocVNLT0dxYU1IbTctUjdubUZzZ1luNklkUzVLOFVXcUNlcFJ1OFpWUl93X0NmSWFnb3BRemFTTExKcENESVlpMkF6LVNCSW0tYmc?oc=5",
+          "publishedAt": "2026-11-26T16:50:00.000Z"
         },
         {
           "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’ - Al Jazeera",
           "source": "Al Jazeera",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNEhxMExYRHl2VE50eW5LUkNPS00tR2ZzMDU5YWpFT0I1eXNWSERIZ2J0UFBfTzV3V0dKQjhRWDE0SHNDUGpwcnlpNzQxaVl3bWIyMG5kMTQxMThwakJjcGkyS0hYUU9UWWpEMHdMaUx6Q0E0aHhuWXE0UElySUlFMGQ5LXlvVV9JQ0pHNE1ZMHlHWVJnUXJtajJaR2x4b3dWQVNmb29leFdTb0tITVHSAbMBQVVfeXFMTk10SzdXRHEyanFSdlpjc2FDNXZiNXNGaFY3Y1h0UV9PRS11X2laVGtQbVN6TVd0cnZpQ2tfMW5ILUhscktrWUpsN3JrWVhRcXJncEZ4S3EzWnpySVdOWVBsaWJON052NTBoQm1BNUpzNUcwbHZhXzM3WE02YWdrXzF4WFdzY2NaYkg3dVF3eGpJZXJHZGdVcGVRR1I4RlNkRkRua3hFa1AwZWpQaVFIWjFNdTA?oc=5",
           "publishedAt": "2026-11-25T19:45:50.000Z"
-        },
-        {
-          "title": "WATCH: Army carries out controlled detonation of Iowa lead azide stockpile amid concerns - PBS",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjVDMk1pdGpzc01DWWRrZXJ3RzJzMG9kTjNVaFVsWElDRlJORTJLVGtDNDJGTi1Ybk9abGxCelc5Sl9fNFhjSGJ4UTJPeGR6QjB2X0FHN1dzNnNBc2t0VVRpQWZSbzBFaW9GVXhaUmVpb0FReXB5bmdxLUV1RE9iSXNlcDhnV0Z1UWxrUS1qekh1Vk5kUHRaTVNOSDFnME9GQ0JYbjd6VHktQ2o5ZVZQQkJPQThaaDg5eWhQTFN1UlBPdw?oc=5",
-          "publishedAt": "2026-11-25T14:38:54.000Z"
-        },
-        {
-          "title": "Washington Post. . The Army detonated nearly 10,000 pounds of degrading lead explosives in Iowa today, an operation that led to evacuations and sparked contamination fears. Television video crews captured the blast at approximately 9:03 a.m. local time. ht - Facebook",
-          "source": "Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZkxvVnBEdkxTSWphZ0N5RWJveDFCU1dGY0hrUkNRX19fd2hLN0w4U2x3R0FSWDJRNVM4RDY3OXVEZ2Z2ckg0X1FlcHhGXzdLZ0dxcUtHUmhkaE9yUWdOQ3cxXzBfaGpjWTJjeWFkd0ZaZUdsZTdSRW0tLUZrdEFVZHJ6c29JQnV5UDlvYmJobjFXbFRrd2xvUnl2clNvZC1zMFpFWGNyV1NoUjNzMmR2Q1pfdVJ3ZzZYeGFDUjBUZW9uQS16bHgtVFdZX09TYTROVGZ5R0JBempnOXNrNlE?oc=5",
-          "publishedAt": "2026-11-25T17:15:05.000Z"
         }
       ]
     },
@@ -129,34 +129,34 @@
       "sourceUrl": "https://news.google.com/search?q=United%20States%20Military%20Academy%20West%20Point&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "ECU Makes Ugly Look Beautiful at West Point - 247Sports",
-          "source": "247Sports",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNThiQ2tKMklYUlJ2NEZBZ01mc2gyOGVEc0tIa2pIUDdnZEp4a3FpVmtDN29lX2ZPcDVld2NxTW5qYkg4a20wT1JTN1M1Nm85TUs4VkVRRFQ2VDdTN3J0dll1bjVpNERfSXZuVFQ0VFkwRnVCZUkwc3E2X3RlYU5EVlV4ODNwRV9VTUxnSEJGaWl2U2xTeVg2UTN3blR1VFBMYVpFU2dxMWEyRU15QVhDcWZqanVlRVBfUjIyZjZTU0cxMkNUU1E?oc=5",
-          "publishedAt": "2026-11-22T16:06:00.000Z"
-        },
-        {
           "title": "West Point honors 1st Armored Division during East Carolina University game - Army.mil",
           "source": "Army.mil",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenJETUsxb1VWWXQtd0I3MnpRNERCY0FEX2dGTVdFbkR0dEJfMG56cHpTVzd5elZYYkg1aWZiNFRkQTBwcWVldDRVTGlTNnlTZ3B1VXhNQTA5RWRReXlFSjcwNjNRblFyN3VoMXZyVU1mZU8yYzI1QmdvS3dINU84bzBtUEQxd0JUZWowZEFfVGRHaHdyTklES0pCa1hObU16SEo2MVQ0SUlMTW1ZU2VNSdIBtgFBVV95cUxQSzY5U2NzRGNEWWhqZ2tSMElLbmdCZ0FMdmZCWjNhWnRxOVliUkxYbnhGQ0NpelBVdkpFd2dPS3J5SnI5YzZSM3FiVHRVR29SUTJyZjJfTEcwanlkMXVZTHM2RVV4aC1rUTRCMnU2Mmd4V0JxdVdJWU1UMFpRY29QNUc5S0U1MllwSDgzdTV6SF9KNE9yUGZCTFFUTVh0UkZxM0dRR1NIOHFkZllFbFVQbm9zOXFuUQ?oc=5",
           "publishedAt": "2026-11-24T22:15:06.000Z"
         },
         {
+          "title": "Ex-West Point Cadet Sued for Forcing Abortion on Girlfriend at Academy - The New York Times",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFBBM3VUWTAxVGtwbV9xWWQ4SzF4Z2lRLURYRUNZRzJyZXdKM1FMQ0NKaWo4a1FRbDVlbUhJQkI0Vm9NQlA0UU5hdkRFRWloaXdVYlNmVk80c2t4RTRVT2djaTNwVnN3RVBBNHdTNzdsWXhVWG1nMzBJYzQzSUNUdlNJV2sxbHMtb1NVcXlJemU?oc=5",
+          "publishedAt": "2026-11-04T08:00:00.000Z"
+        },
+        {
+          "title": "A judge barred West Point from reviewing faculty speech. The academy kept doing it. - The Washington Post",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbFl5TTVsTUphM1RiUVp6Ml9QWjhfRUM0MmRQbE9jM0JtLTBlbEJGU1c0WHZ3S1kwUUd0d0lBMi1CMjhYWGdGUS1IVUpjNk9WVFQ4Mkl1TjNXRUViejNuSmFrV1ZBenkwR3dmb0ZaUFFtanlaOEpnR2xQTV9ZS1l4QzExVDk2aE1mV0g1a0hzNnJtQWR0VjllOTJZbmc4QVNkUXZnM1M0N3Zpcl9hNkZFQTNndktPcW8zbDdnQW1B?oc=5",
+          "publishedAt": "2026-10-26T07:00:00.000Z"
+        },
+        {
           "title": "West Point Class of 2027 Cadets Named Rhodes Scholars – Nov. 15, 2026 - United States Military Academy West Point",
           "source": "United States Military Academy West Point",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnpvb3FjRmxOaTBOSEtyR3l5d3hlNWZEcDBfMjZCVXdscl85RDJWZm5DX3BySm15VjlYejI4X3NaOWVYLVV3WXUzM0p4eWg2ZWo0em54Q3o2QXdjTEl0UkFKeDFjeDA5SThVNENJVTBuTUtsZUZFS2xhV1FYbDZnTHZRNVpGQkJJVVhwa3U0cGxHaS1QMjkxUkR5SXBlVVVHam1YazVUVUg4UWJXUjBzdA?oc=5",
-          "publishedAt": "2026-11-15T13:13:02.000Z"
+          "publishedAt": "2026-11-15T08:00:00.000Z"
         },
         {
-          "title": "West Point AOG presents 2004 graduate with Nininger Award for heroic actions in Afghanistan - DVIDS",
-          "source": "DVIDS",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTy0tNXZtcy1VRWo4bWNzeGdqQmxEUl9DSXJJVXU2WnVjVGpYS05GdnlyaWZjcTNJenVqYnFnWl9HNnZTUVUxNkVQS1ltd1Rhb0NZSkRaTlZmcUphZ01PaWk4bjBvNjNRZUJlbXRtZ2Zpa0ZadUx4cW15ZG9ERHZkY0hPdHVSLWxnOWlWSDV4MkFrN1UwNVE0R0hPNVlFQXd6NkZUTXRZN2F2NkpjWjBFV0JFUWIzVkNnYUtvX0xn?oc=5",
-          "publishedAt": "2026-11-24T14:01:00.000Z"
-        },
-        {
-          "title": "Know about the academic program of the U.S. Military Academy at West Point - Britannica",
-          "source": "Britannica",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSDR4NExtbllscnpWLUlKaWFQckpDUnJNZkpseUdKZmliZ0F1R0ItU0puOFZReHB3MHY5YnRZaGppN2pRekQ2NkhUMmljZWc0Sy12RVFfZGl2U0FYeGIyLS1WWVFMRUlCYU1OOGhDbDFLcjl1dUJwakk4WXVtdFY3TFJlbFBtYnpDRTJN?oc=5",
-          "publishedAt": "2026-11-16T08:00:00.000Z"
+          "title": "Five Questions for a General: General Shawn Bratton - Modern War Institute -",
+          "source": "Modern War Institute -",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjhpTUpKNGdVdDdmbllBVGFIU0p2T21DZjVZZllqbzYzbHRoUV9LblBhOF9qd1ZsSUM3STlWdlg5LW9iZG9aS1VpRnViX282b0l4LS1IbXl1RnZjUmxmdTl4SGRhLU5zQ2JpblJ3ZG5XM3dROEtwT2xsRU5WV2dfY2NPbw?oc=5",
+          "publishedAt": "2026-11-26T08:52:50.000Z"
         }
       ]
     },
@@ -167,34 +167,34 @@
       "sourceUrl": "https://news.google.com/search?q=Army%20West%20Point%20Black%20Knights%20sports&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Honored Division Week #11: Black Knights play final road game at Rice before Army-Navy Game, honor 1st Cavalry Division with gameday patch - United States Military Academy West Point",
-          "source": "United States Military Academy West Point",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPQVNkV1VwcVBCaVlUZG5EVWFxNElQd29KaWRJMGVMQTB3UlpZZXNEZjZvUFBTYWlnWm1uYW92QzMzMFllQnhGUzJoeUhvSmRudEl0T0NSLUJZcmotT2NyOTlVRTNWaGZJSTJqZ2JtZmliNmFXd0lUdlRKdFZERnpuYVdDbEZpSEhwUHpBcmk0aTNPakVVT21EQTNWeVVwQTVfdDVqeExMUVJfMWIwU3N1Wm1LdkRVcWRNZE5obVdxelFzNFRuWlpFVGFuTXR0RTlMSzRydnFSMFNBREFpNVBSdGFtaGJPaTRNRnZWeFloclpteHhyWURCRThlQlpPemNLQUh0UlBhOWxPVVdhRWZFTnZB?oc=5",
-          "publishedAt": "2026-11-25T04:07:01.000Z"
-        },
-        {
-          "title": "Anger, disappointment must fuel critical fixes for Army football - Times Herald-Record",
-          "source": "Times Herald-Record",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVFLU2ZSeC1EQ1FhQzg5TFJSQUVfMjZsck9uR1FBeGFKdERBVkZQUmpHMjhEdDBvY3cyQ1N1ZkUxVWhEak5LZ3JyeTBmQ0NtYlpwY1JRQ0RPVTlnbEZKMWY2M0NBa0hPWm5pa3Q2RlpmYkxweVZWWl9lTy1Pa0s5OEFrV2hIX29KNmdKQ01LNF8xcWtsTUtqaEsyM1M4bm1Uck5nRXlwTWhXdzFGa1RWN1VFYlEyTzQwdWFLa1MyRWJKMjRpTE1UU3lialhWZkFYNlM4?oc=5",
-          "publishedAt": "2026-11-25T15:26:00.000Z"
-        },
-        {
           "title": "Army Bowl Scenarios Complicated by Navy Game - Yahoo Sports",
           "source": "Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZEVmWldYNmZGSE96aXdqcko1SS10bGVPOHNYdkJHQkxQSVZhOUkxWEJET3JKVklnUlJ4ZFV3elZXRXhlcDExQ0F1S3VlOGNaSXNtMmNPczd1TUJzb1FlRHJwTkFXUXY1My1tQnFZc0J3cVRDUlZ0MnVhejBUbkRPQ3I3ZHhDcGNLVF9nRkNB?oc=5",
           "publishedAt": "2026-11-22T16:33:19.000Z"
         },
         {
-          "title": "ECU Tops Army Saturday Afternoon, 10-6 - East Carolina University Athletics",
-          "source": "East Carolina University Athletics",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbG4zWEw3b19yMDh1N1N1TzhUWW9WUHRQcmNEMGk1dFdQVFRfczFmR1JWNXhvODd5d2xJTnEyT011MUs2M1pjRjRrZlYycHZoRlA3Tk1kSldiWWx0dWg4bHI3RVgxYjEwZ2xoWmNwc1RHdU41SlJZUlRhakYzS05LdWtOYU41SW1lTDZfVU5n?oc=5",
-          "publishedAt": "2026-11-22T09:06:58.000Z"
+          "title": "Army West Point Pulls Away Late in 54-41 Win Over Siena - Siena University Athletics",
+          "source": "Siena University Athletics",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3hWenlVOGxYMjJTTTdMS09nbmxkTXR2TV90dkFGT1dlV1QyMWJQZUVxaHNUd2U4MmdRS1BrR19LaWx3cFFQX3FORW1tRTIyZXB4MTZaTmZZekhZU2FnVGNjUVdDQkt1MS1VYXBRcFJaMTVoX2JVejdTSS1aRkRZQkVjeG5kcWVWOWhjaDFONmwyYkxCSDJqdkZNbV9VdF95OXpXTktPMjFlRVFBSnZRa25zMDN2dVl5bXc?oc=5",
+          "publishedAt": "2026-11-20T01:40:45.000Z"
         },
         {
           "title": "Army Basketball Faces Air Force, UTSA at Military City Classic - BVM Sports",
           "source": "BVM Sports",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdnB4NkE0eDNSMklXdmFfNW9CNnd2N09NMEhMaURMdlR6TUs5UXpzQm90QmtXOGhjaU5ZelpqOEo0WkxPYUQ3UjBvVkdzaktWQU4tZ05zVXcza3l5WVdEcUQwZ0RJanRXUnZjSm56cS1lM3ZXZ0NkdHF0VllBeEFMcUJZUG5iYTQ0WnY1QlYxdWlMOGx2MEhydl9CQQ?oc=5",
           "publishedAt": "2026-11-24T15:36:22.000Z"
+        },
+        {
+          "title": "McWhinney's two-goal game secures 3-2 victory for Army Women's Soccer in home opener - United States Military Academy West Point",
+          "source": "United States Military Academy West Point",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkY4bjhVOWI2MExmVS14M2tVWWdkUVpCdERpaXJidnBhWVlKNnVXZnp0QWlIbmxTRmdGc21mV3EyaEFIby1WM241bUxob0FKSTM2SXQwTV9fUUhPLTlpa1VWSldwTTloR3dXSndVbWVpVzBaa1Zha3c4akVmZlJPMjNYUVI4UmpjRlNIWkl4X0JwRHNFLVJUaFFmUlNwWVB1WXRsOFdRZzlGd2RwS3V0eHlwUjRCcHJ3eFQ1MVItaUhFZ2NRa0tySllZajZwZjF1YjRRTTllQQ?oc=5",
+          "publishedAt": "2026-11-19T04:05:04.000Z"
+        },
+        {
+          "title": "Army Falls to Binghamton, 67-46 on the Road - Hudson Valley Press",
+          "source": "Hudson Valley Press",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRFV4ZFdwQjlxR2ZSU3hYSG9CR3FlMVRhajdkMmtUSzliR20zejcyY3ZIVmtTVXRqOEJMd1ZkQXZhRUk1YS1jSHExbW83Qzh1YkxjSm16aHBwZGNNZVdhUDFjN0t4T2x5Qnc1dW9SNldxVWNfWUtNMTJqaUNkWTE4cUlDME5GZmdqMlB5eA?oc=5",
+          "publishedAt": "2026-11-25T05:03:00.000Z"
         }
       ]
     },
@@ -205,34 +205,34 @@
       "sourceUrl": "https://news.google.com/search?q=Pittsburgh%20Steelers&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "Is Aaron Rodgers about to torch Steelers on Pat McAfee Show after benching? - Yahoo Sports",
+          "title": "Steelers release quarterback Aaron Rodgers - WTAE",
+          "source": "WTAE",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50b3FOUkEwZ1luMzJPT0dfT2xUeHQtaEgtT1JVOVFaR05zUHRHT3J5M3drU3BVazNHUGxURXZPdHJEal95VHNJU3F2dVUtblpxdGxycUlNSU03ZktldWdpdnN6UXN2elAxakg2cUpiTFJBM1pWcTlrVg?oc=5",
+          "publishedAt": "2026-11-26T04:49:00.000Z"
+        },
+        {
+          "title": "Rooney supports McCarthy, Rudolph, players with '100% confidence' - Steelers.com",
+          "source": "Steelers.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0ZCcVdoUC1TX1U0RF9BdlRsZE51bFJtMUo0YWJqZ0VWTUJzQjZsOVM1cUh6S2laUUIyN2VkdGpiamdTWTJMWGhacWUwbGUtVGVmMUhmYmdWZUtPeUYtWkpMYlFSOHl4eG42R1Z2WUJ2SkdhNGZNR3ZyS2hOc2duWk1nM0dZN2JiZi00dUU1T05nMWZv?oc=5",
+          "publishedAt": "2026-11-26T18:06:13.000Z"
+        },
+        {
+          "title": "Art Rooney II backs Mike McCarthy as the Steelers’ coach, says ‘a change had to be made’ with Aaron Rodgers - Pittsburgh Post-Gazette",
+          "source": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOU1ValJVcHd1SDJuR2FEMnZxdS03M0RTeXcyTXc5UHJKUGNYMnk3UnVidWliMWt2NTNiZTZQZUNPd3RSSTNYYngwWVM1RUNrOEttb3I4Z2I2X0JOdE51WmVmbEJGWG1kN1lrRjVQb1VUZjNoeXh0cmJsRFNTS0M4U0xBZkZWSUdDNXZyUTY0SXZZM0VmeDJTVjB4STNkMFZXRC1MMWhkWlZfd2k5SktmZQ?oc=5",
+          "publishedAt": "2026-11-26T17:17:00.000Z"
+        },
+        {
+          "title": "Steelers' Mike McCarthy Situation Seemingly Ends One of Two Ways - Sports Illustrated",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbXF2TUVwLXlUTzY4aHVWdjk0TW5yaXpKLXRrQ2ZtalZNakNGbVMxWE9aQXMta0hSWXNBaHhDNEtvUUNBZ25rQW43UXgtQ2UwN25lVUctZTdxUlA4d0U2TnIwcVJ6c2taRzB4a0YxQ1FqM0tHMGFRYXRRMU9mRVcxV1BzTlV2bFVfRC1XMTJKLTY5UElieUJTQUd2MUszRENpb3BIN1RJay1uZFhO?oc=5",
+          "publishedAt": "2026-11-26T14:00:01.000Z"
+        },
+        {
+          "title": "Rodgers’ Steelers Exit Was A Mess, Three Teams Still Want Him - Yahoo Sports",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2JwUkY3UXR0OWVaYWRDc3N1Rkg1UTlURi1KYkd1QlljTWd4VFFkWC1aeFc5TFpFUXVyazJnSVM2c0NYRF9QN2dPTDdCXzhqRGdMXzRfWkxRYkJCV2VOYmg1bndnTWlkQWJ4SUhGM1FNOHI2RkJpVFZpbml1Rzd6SDk2Mk5BX244T0lqdWZ3?oc=5",
-          "publishedAt": "2026-11-25T19:13:34.000Z"
-        },
-        {
-          "title": "Steelers to wear Color Rush uniforms on Black Friday - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMGpPU3U5Vk81VVNmc1RHdlgxNXE5bmZrOVFQQ05MeE5XYjRJLXpkOHo5TGpEUWxJbXI4aWdhRzdFZGJjVFdPc0N5SFZJYkJabkp6ZTdLc1FoSTJFaG5VUFVMdi1ZZURGUk1TSURHN2I2dHBSdW5oaTEtblpyXzlCcmxmVkxmX1VoY2c?oc=5",
-          "publishedAt": "2026-11-24T17:03:07.000Z"
-        },
-        {
-          "title": "Statement from Steelers spokesman - Steelers.com",
-          "source": "Steelers.com",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjZHNtUzJ6Umt0aGhZcURJNHJReUpiODhRbllULUw1MlhWRkN2WUZQYzNpMjB3dlIwOGdTbFhLNXU0Rk80RzFFUm5pUDEtdnBGbkNheWtNekZFVzZIenFmS2t0SWV2QS1jTTAyLVRVbk5iQm9YLV9MdQ?oc=5",
-          "publishedAt": "2026-11-25T11:28:57.000Z"
-        },
-        {
-          "title": "Garafolo summarizes timeline of Steelers' decision to bench Aaron Rodgers | 'GMFB' - NFL.com",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGhuV0p3WHc2cTVMWWp2YVBUajB5NzY1Q3c0MW5FdzUzUWo3NUNzaVdVV0JTUTd2c216ZFBJeWJ2RE5tYnFaZnJ2enV2TUw2NVdQU1J1bWFqdGhFV1VaNnAyR1AyNW5Ublpkamp4X1pLcW16MUZ3QjdTeXdXX1NtdUxHX1hiS21NTDNDV0Mxb3R2OHdRUmlNYnZnaklxSmY4UkJoS0ZRdw?oc=5",
-          "publishedAt": "2026-11-25T17:46:55.000Z"
-        },
-        {
-          "title": "On Aaron Rodgers, Mike McCarthy and a Pittsburgh Steelers team with no plan - Go Long | Tyler Dunne",
-          "source": "Go Long | Tyler Dunne",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RcWJaNmdwX3VpNmQyc2E4Zm5SdTRfV1c0ZnhtLVFvdjZ5akctZHU3ck5mSFhkMmJvUk5RUmwzRjl2a0JSVGxKbE9aNFJoN2pTaDNfNXJ3SHVMLUlrZzlRcU4tenlrUnYzT3Z6T1hn?oc=5",
-          "publishedAt": "2026-11-25T18:20:53.000Z"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMlNnNEVybm9UcG9Qd0I2aTlhNEVzcFY4ekxpOEpzdkdFRXAzRnFhSlRaTFJQZGRTNVVnOWlmODYwLUhnZUVnMVhFLUJJWDQ4cnZzTHNzV0dIbjh4RXhuRFFVcEV0YVBVdFktVUhJRlh0MndHOW5odUZTTms1bkMyVXl4VHVjLXhISTNfX3BB?oc=5",
+          "publishedAt": "2026-11-26T15:18:01.000Z"
         }
       ]
     },
@@ -243,34 +243,34 @@
       "sourceUrl": "https://news.google.com/search?q=country%20music%20news%20new%20releases&hl=en-US&gl=US&ceid=US:en",
       "items": [
         {
-          "title": "The Best Country Music on Bandcamp, November 2026 - Bandcamp Daily",
-          "source": "Bandcamp Daily",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQTBUX001cTJMZVdTZTNsT2xYWEQxM05lQmVVLTl1RTR0TF9YTk1SZ0dUd2xXMEFCblNvejd2bmhIZjhadjBzN1pINzZ6Nk1jQWV6RHotYjROamVKOTFSd1pQUmpldllSSTAzM1RwQ09ISk1ZSmhZN1pkV0dSX2RfVGZMQ0dzbl9fbVFYcHV1cjZSQQ?oc=5",
-          "publishedAt": "2026-11-24T19:36:17.000Z"
+          "title": "New & Upcoming Country Albums In 2026: Release Dates - Holler Country",
+          "source": "Holler Country",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTGIySE1JWUZYM2U1cE1yT3R4TkpzZ2ZYNGVqZTFLZzhQMXR6elEzUWFNbnZkNl9IQTZzcXo5QXhxMjNGOEw5NGpTVk8ybVNReFpfU2trM09HWXJfc21QZjVCUzJVaXpaNHlVdjdPbGQwaElGNEtLUA?oc=5",
+          "publishedAt": "2026-11-24T11:26:00.000Z"
         },
         {
-          "title": "Country Americana Artist Caryn Dixon Announces New EP 'Where I’ve Been' Out November 27 - The Detroit News",
-          "source": "The Detroit News",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaDZldEZkU01wdWVLN2x3dHp4TklMZ2E3YTBTZGxaX0czTENfTlZkcnkxT3dXSmdaTWVkMGFJSVpXUVRkZW1rTzYwNHVqclZ1SWRfQ1B0dGZFU3ROR1JBZlZoVmVIMlYza1V3VWluLWppR3JGTTdha0tjSjBOX2ZnbURKTVFyRWtyOFRldlhTZm43eDJmS09ZaVZaRjlmOWFZV1ItaWpMdlY5MGFaMThjWHBxWmNPZUR6MTAwdEFIWE1zUExvNkFnd3pveG9JcjZqclpfLUh3UQ?oc=5",
-          "publishedAt": "2026-11-25T16:43:02.000Z"
+          "title": "Dolly and Ella keep the country airwaves humming - Madison's Country Q106",
+          "source": "Madison's Country Q106",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWVNU1Zjay1wUTdwSG9wc3kyVkdxMTRURTRVVTc2MVJZVHBlWjl1NTVzYWg0WUFBeTlVVjBfZmx4UU1rU1ZqQ1B1R29RNFBFb3ZxQXY2aFpKRTVmckgxZ25RUE15RXdQNUFRblNONWVjdXZSRGFYbWJHUmZ6QWtaVFJWeElzRnZh?oc=5",
+          "publishedAt": "2026-11-23T08:00:00.000Z"
         },
         {
-          "title": "Legendary country music icon’s sister reflects on her loss with album soon releasing - AL.com",
-          "source": "AL.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2diMHZXUDBRREwyWk1Wc3NfOWJsNlVjUXdPWV9JblBoMWZzT3l0VFVZWGlLRTM4RFNvQWFqZG93T1piUVhJTXhON01scmNZMWRnWUE2dFVodGIxTlQzTGd1TDNZSzVXUE10OHozclJvMWhwZlN5b2RyZHVaX3RGa19wWVBzbkFjeFZuYVQyVmFCYUlmRTJpcUlpbjdRUDd2d09mSkU2WGpUa0dzU21TNldKSkxENGZadVpMctIB0AFBVV95cUxNVU9aOHQ5Z0VKSmJjQkp4QjVYSDRkbndRVWhHQ0luMG13dWZ6Ti1oREJZdEJaOUJlSlJBbFBVMEpScklmNmZPTEd4Zy1MSjMxcDZuaHVDWTNsOVBQYnNMNERmbU9BSDRST1djZ3l4TWFNOXp5MHp4MnJGRnMzLVREWXRXcG9IX2NJeXc5MTIwZF9yMVkzbm5UN1FMdTRXTGtKWldGNm4tNGxjZGFZNkQ4MllnMVRkcUtmR0FNWTN3d2RNc254NW5SczVndmZqZnFh?oc=5",
-          "publishedAt": "2026-11-24T22:39:00.000Z"
+          "title": "Marty Stuart's Congress of Country Music Names Kim Vickers Executive Director - PR Newswire",
+          "source": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR09pb2tNZzk1MkswSE5NN1RhdnRmLW90LXB1WWJWTEZKWEtURGFUMWZBRk9XeU05dUhrWUxUUjNsSzZEcnVYUno3Ql9ZMGR2aFBSbGc1dS0tanZWbDBqSkpxVWhzSVVGOTRpQUJLMTdXZWl2M1VRemlCZ3B6clltT040R2JPcml2MjlUOU9kVlZaVmpNU2E4SFNoUGswRzk5YWhGWWk1Um1pN2ZsVjJXQXBFdFB3NjE1TkVfYzhVdDdpNnZYSzdTS0lmYnM?oc=5",
+          "publishedAt": "2026-11-23T20:35:00.000Z"
         },
         {
-          "title": "Alan Jackson Shares One Final Live Rendition of the 2002 No. 1 Country Hit He Wrote in Honor of His Late Father - American Songwriter",
-          "source": "American Songwriter",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0lWUnd0RFoxUzVJc2c0Nm9Xb012NUZ4QldLd2FZZk1MNFBxVXJkRURaQWRscTJmQVVGOHlaOGtDR0dTSmRQTkhXQ003LTVSOUw5Y19ITXR0UWdRMUpYTEdBVThJcmtUaGNrUHNpM1FEQlBTV1EzT2p6S0lRZnRySmJZRnJRUnNnV1RUZkZDdU9zUjI0ak5nOHBSWC1tOFJZSmtXRUdGX2VRV0RIakhhZHhfRHZ2RThSNHdxM2xvTkR3LUFnMEZRd0ZIdDJqeEFOcVR0OXBTVGZqZw?oc=5",
-          "publishedAt": "2026-11-24T18:10:31.000Z"
+          "title": "Wyatt Lowe Celebrates Deserts Album Release With Headlining Show In Los Angeles - All Country News",
+          "source": "All Country News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzdqRGEtRmZZcFBqenpLTWhvOURLT2szU3JYTkNHQm5RMGQ5QTV4dlZkWXl3bUdVYWhRT21KOUpISlBCQTBsWW5tVkQ5TGdmYUlKZFRKLXRRdDg5TXVSQ05VWG9XdmFlNHpFQzVZVjVIalMwWjRpWlMxaU11WUxCTFpSOGlIMGVqTkFUQjdZZG9iRHZHRExqWllqaUJneFQzZTIwdVdqTkNoZDJfWEZheVF2NDR5dw?oc=5",
+          "publishedAt": "2026-11-06T08:00:00.000Z"
         },
         {
-          "title": "Ella Langley Calls Her New Song “Live, Real, and Raw” - Country Living Magazine",
-          "source": "Country Living Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWtnZlRlWVE2bzJjNW9zaDNUX2hiQW85VnVaYTZNZXhHWW5sLWl3dmNCdzdsM0RYUmc0N1hpZm5rTzRnd1hrTm9CMElUUjQ3RmI3VGctSlZ1N3VEZkFtaURZblBJYVVFa09iZktWWkNsVnhFejd6OC14bms2bkExNUQzclBLNkZ0OUtYUGoyeHIwS05ma2JtYUdxSUs1d1JFa0JpYVYzakM?oc=5",
-          "publishedAt": "2026-11-25T15:58:00.000Z"
+          "title": "Reba McEntire releases ‘Could Have Been Raining’ EP - Big Country News |",
+          "source": "Big Country News |",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd3VFNkFxTWVobS1CSUJVYVN5c3Z6VHFwNjJ6V21WazFwOGoxTXdWZ1AwZ1NLVm5qVTdOYkZ5Nl9RVlRtZFdoRm5mMERQNEZ2TGVhMEl0OEJ0V2dZZkhELVppSG1tVzFDbDNxU1JoQjc5elkwdW04aFFISkNWN05vWk1iTmxaVHpyOWtMMGVWZHd3SE9qOVE?oc=5",
+          "publishedAt": "2026-11-06T11:21:23.000Z"
         }
       ]
     }
